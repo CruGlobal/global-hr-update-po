@@ -445,6 +445,7 @@ msgid "secondLastName"
 msgstr "นามสกุลที่สอง"
 
 # Not used
+#, fuzzy
 msgid "secondLastNamePlaceholder"
 msgstr "นามสกุลที่สองของคุณ"
 
