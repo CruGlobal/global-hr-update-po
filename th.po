@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-05-03 08:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Azat Kooman <azat.kooman@silkmail.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
 "Language: th\n"
@@ -445,6 +445,7 @@ msgid "secondLastName"
 msgstr "นามสกุลที่สอง"
 
 # Not used
+#, fuzzy
 msgid "secondLastNamePlaceholder"
 msgstr "นามสกุลที่สองของคุณ"
 
