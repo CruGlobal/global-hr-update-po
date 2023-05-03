@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-04-21 08:32+0000\n"
-"Last-Translator: Joshua Chan <joshua.chan@p2c.com>\n"
+"PO-Revision-Date: 2023-05-03 08:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
 "Language: th\n"
@@ -14,3 +14,450 @@ msgstr ""
 # Main page title
 msgid "hrUpdate"
 msgstr "อัพเดทฝ่ายบุคคล"
+
+msgid "birthDatePlaceholder"
+msgstr "วันเกิดของคุณ"
+
+msgid "supervisor"
+msgstr "หัวหน้างาน"
+
+msgid "supervisorDescription"
+msgstr "ใครเป็นผู้อนุมัติรายงานค่าใช้จ่ายของคุณ"
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "เรายังได้รับรหัส Netsuite ของคุณ โปรดรอสักครู่"
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "พิมพ์อักขระอย่างน้อย 5 ตัวเพื่อเริ่มการค้นหา"
+
+msgid "delete"
+msgstr "ลบ"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "ที่อยู่เต็มของผู้ติดต่อ"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "หมายเลขโทรศัพท์ของผู้ติดต่อ"
+
+# Not used
+msgid "educationInformation"
+msgstr "ข้อมูลการศึกษา"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "ระดับการศึกษา"
+
+# Not used
+msgid "degree"
+msgstr "ระดับ"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "ชื่อปริญญาของคุณ"
+
+# Not used
+msgid "dateConferred"
+msgstr "วันที่พระราชทาน"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "วันที่ประชุมของคุณ"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "คุณจบการศึกษาเมื่อคุณอายุ"
+
+# Not used
+msgid "email"
+msgstr "อีเมล"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "ที่อยู่อีเมลของคุณ"
+
+msgid "submit"
+msgstr "ส่ง"
+
+msgid "help"
+msgstr "ช่วย"
+
+msgid "logout"
+msgstr "ออกจากระบบ"
+
+msgid "chooseAnOption"
+msgstr "เลือกตัวเลือก"
+
+msgid "currentValue"
+msgstr "มูลค่าปัจจุบัน"
+
+msgid "requestValue"
+msgstr "ค่าที่ร้องขอ"
+
+msgid "sorry"
+msgstr "ขอโทษ"
+
+msgid "error"
+msgstr "ข้อผิดพลาด"
+
+msgid "verify"
+msgstr "ฉันขอยืนยันว่าช่องด้านบนทั้งหมดถูกต้อง"
+
+msgid "buttonHelpDescription"
+msgstr ""
+"ต้องการความช่วยเหลือในการกรอกข้อมูลในฟิลด์นี้หรือไม่? คลิกเพื่อดูคำแนะนำ"
+
+msgid "verifyBeforeSubmit"
+msgstr "โปรดตรวจสอบทุกส่วนก่อนส่ง"
+
+msgid "sending"
+msgstr "การส่ง"
+
+msgid "sent"
+msgstr "ส่งแล้ว"
+
+msgid "thankYou"
+msgstr "ขอบคุณ"
+
+msgid "thankYouDescription"
+msgstr "ส่งข้อมูลของคุณแล้ว"
+
+msgid "ok"
+msgstr "ตกลง"
+
+msgid "personalDetails"
+msgstr "ข้อมูลส่วนตัว"
+
+msgid "gender"
+msgstr "เพศ"
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "ค้นหา..."
+
+# Cancel the search
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "ปิด"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "กำลังค้นหา"
+
+msgid "supervisorPopupAlertSorry"
+msgstr "เซสชั่นเว็บหมดเวลาแล้ว โปรดโหลดหน้าซ้ำเพื่อตรวจสอบสิทธิ์อีกครั้ง"
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "หมายเหตุผู้บังคับบัญชา"
+
+msgid "hireDate"
+msgstr "วันที่จ้าง"
+
+msgid "approveChange"
+msgstr "อนุมัติการเปลี่ยนแปลง"
+
+msgid "approve"
+msgstr "อนุมัติ"
+
+msgid "deleting"
+msgstr "กำลังลบ"
+
+msgid "deleted"
+msgstr "ลบแล้ว"
+
+msgid "type"
+msgstr "พิมพ์"
+
+msgid "number"
+msgstr "ตัวเลข"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "เทียบเท่าเต็มเวลา (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "เหตุผลในการเลิกจ้าง"
+
+msgid "inactive"
+msgstr "ไม่ใช้งาน"
+
+# Not used
+msgid "terminationDate"
+msgstr "วันสิ้นสุด"
+
+# Not used
+msgid "governmentID"
+msgstr "รหัสราชการ"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "หมายเลขประจำตัวประชาชนของคุณ"
+
+# Not used
+msgid "issueDate"
+msgstr "วันที่ออก"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "วันที่ออก ID ของคุณ"
+
+# Not used
+msgid "expirationDate"
+msgstr "วันหมดอายุ"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "วันหมดอายุ ID ของคุณ"
+
+# Not used
+msgid "expirationDateText"
+msgstr "ID ของคุณหมดอายุแล้ว"
+
+# Not used
+msgid "emergencyContact"
+msgstr "ติดต่อในกรณีฉุกเฉิน"
+
+# Not used
+msgid "name"
+msgstr "ชื่อ"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "ชื่อเต็มของผู้ติดต่อ"
+
+# Not used
+msgid "relationship"
+msgstr "ความสัมพันธ์"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "ความสัมพันธ์ของบุคคลนี้กับคุณ"
+
+# Not used
+msgid "mobilePhone"
+msgstr "โทรศัพท์มือถือ"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "หมายเลขโทรศัพท์มือถือของคุณ"
+
+# Not used
+msgid "homePhone"
+msgstr "โทรศัพท์บ้าน"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "หมายเลขโทรศัพท์บ้านของคุณ"
+
+# Not used
+msgid "officePhone"
+msgstr "โทรศัพท์สำนักงาน"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "หมายเลขโทรศัพท์สำนักงานของคุณ"
+
+# Not used
+msgid "contactInformation"
+msgstr "ข้อมูลติดต่อ"
+
+# Not used
+msgid "permanentAddress"
+msgstr "ที่อยู่ถาวร"
+
+# Not used
+msgid "label"
+msgstr "ฉลาก"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "เช่น ที่อยู่บ้าน"
+
+# Not used
+msgid "attention"
+msgstr "ความสนใจ"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "ขณะนี้คุณอายุ <strong>%d</strong> ปี"
+
+msgid "familyInformation"
+msgstr "ข้อมูลครอบครัว"
+
+msgid "staffUnit"
+msgstr "หน่วยเจ้าหน้าที่"
+
+msgid "staffUnitPlaceholder"
+msgstr "นามสกุล GivenName หรือนามสกุล HisGivenName และ HerGivenName"
+
+msgid "maritalStatus"
+msgstr "สถานภาพการสมรส"
+
+msgid "maritalStatusPlaceholder"
+msgstr "เลือกสถานะการต่อสู้ของคุณ"
+
+msgid "staffSpouse"
+msgstr "คู่สมรสพนักงาน"
+
+msgid "staffSpousePlaceholder"
+msgstr "ชื่อคู่สมรสของคุณ"
+
+msgid "workforceInformation"
+msgstr "ข้อมูลแรงงาน"
+
+msgid "geographicAreaOfService"
+msgstr "พื้นที่ทางภูมิศาสตร์ที่ให้บริการ"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "ภูมิภาคที่คุณให้บริการ"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "จ่ายโดยกระทรวง/หน่วยงานท้องถิ่น"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "ฝ่ายทรัพยากรมนุษย์"
+
+msgid "status"
+msgstr "สถานะ"
+
+msgid "positionRole"
+msgstr "ตำแหน่ง/บทบาท"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "ขอบเขต"
+
+msgid "fundingSource"
+msgstr "แหล่งทุน"
+
+msgid "jobInformation"
+msgstr "ข้อมูลงาน"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ตัวอย่าง: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "ที่อยู่"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "ที่อยู่ของคุณ (สามารถเป็นได้หลายบรรทัด)"
+
+# Not used
+msgid "city"
+msgstr "เมือง"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "เมืองของคุณ"
+
+# Not used
+msgid "stateProvince"
+msgstr "รัฐ / จังหวัด"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "รัฐ/จังหวัดของคุณ"
+
+# Not used
+msgid "zip"
+msgstr "ซิป"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "รหัสไปรษณีย์ของคุณ"
+
+# Not used
+msgid "country"
+msgstr "ประเทศ"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "ประเทศของคุณ"
+
+# Not used
+msgid "shippingAddress"
+msgstr "ที่อยู่จัดส่ง"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "เช่นเดียวกับถาวร"
+
+# Not used
+msgid "jobTitle"
+msgstr "ชื่องาน"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "ตำแหน่งงานของคุณ"
+
+# Not used
+msgid "jobDescription"
+msgstr "รายละเอียดงาน"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "รายละเอียดงานของคุณ"
+
+msgid "firstName"
+msgstr "ชื่อจริง"
+
+msgid "firstNamePlaceholder"
+msgstr "ชื่อจริงของคุณ"
+
+# Not used
+msgid "preferredName"
+msgstr "ชื่อที่ต้องการ"
+
+# Not used
+msgid "preferredNamePlaceholder"
+msgstr "ชื่อที่คุณต้องการ"
+
+# Not used
+msgid "middleName"
+msgstr "ชื่อกลาง"
+
+# Not used
+msgid "middleNamePlaceholder"
+msgstr "ชื่อกลางของคุณ"
+
+msgid "lastName"
+msgstr "นามสกุล"
+
+msgid "lastNamePlaceholder"
+msgstr "นามสกุลของคุณ"
+
+# Not used
+msgid "secondLastName"
+msgstr "นามสกุลที่สอง"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "นามสกุลที่สองของคุณ"
+
+# Not used
+msgid "title"
+msgstr "ชื่อ"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "เช่น นาย นาง นางสาว เป็นต้น"
+
+msgid "birthDate"
+msgstr "วันที่เกิด"
+
+# Not used
+msgid "phone"
+msgstr "โทรศัพท์"
