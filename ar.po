@@ -1,2 +1,468 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-05-03 08:16+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Arabic <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/ar/>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 4.16.4\n"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "تحديث الموارد البشرية"
+
+msgid "help"
+msgstr "يساعد"
+
+msgid "logout"
+msgstr "تسجيل خروج"
+
+msgid "chooseAnOption"
+msgstr "إختر خيار"
+
+msgid "currentValue"
+msgstr "القيمة الحالية"
+
+msgid "requestValue"
+msgstr "القيمة المطلوبة"
+
+msgid "sorry"
+msgstr "آسف"
+
+msgid "error"
+msgstr "خطأ"
+
+msgid "jobInformation"
+msgstr "معلومات مهمة"
+
+msgid "supervisor"
+msgstr "مشرف"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "عنوان بريدك  الإلكتروني"
+
+# Not used
+msgid "mobilePhone"
+msgstr "تليفون محمول"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "رقم الهاتف المحمول"
+
+# Not used
+msgid "homePhone"
+msgstr "هاتف المنزل"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "رقم هاتف منزلك"
+
+# Not used
+msgid "officePhone"
+msgstr "هاتف المكتب"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "رقم هاتف مكتبك"
+
+# Not used
+msgid "contactInformation"
+msgstr "معلومات الاتصال"
+
+# Not used
+msgid "permanentAddress"
+msgstr "العنوان الثابت"
+
+# Not used
+msgid "label"
+msgstr "ملصق"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "مثال: عنوان المنزل"
+
+# Not used
+msgid "attention"
+msgstr "انتباه"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "مثال: عناية John Doe"
+
+# Not used
+msgid "address"
+msgstr "عنوان"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "رقم هويتك الحكومية"
+
+msgid "verify"
+msgstr "أنا أتحقق من أن جميع الحقول المذكورة أعلاه دقيقة."
+
+msgid "buttonHelpDescription"
+msgstr "بحاجة الى مساعدة في ملء هذا الحقل؟ انقر للحصول على التعليمات."
+
+msgid "verifyBeforeSubmit"
+msgstr "يرجى التحقق من جميع الأقسام قبل التقديم"
+
+msgid "submit"
+msgstr "يُقدِّم"
+
+msgid "sending"
+msgstr "إرسال"
+
+msgid "sent"
+msgstr "مرسل"
+
+msgid "thankYou"
+msgstr "شكرًا لك"
+
+msgid "thankYouDescription"
+msgstr "تم تقديم المعلومات الخاصة بك"
+
+msgid "ok"
+msgstr "نعم"
+
+msgid "personalDetails"
+msgstr "تفاصيل شخصية"
+
+msgid "firstName"
+msgstr "الاسم الأول"
+
+msgid "firstNamePlaceholder"
+msgstr "اسمك الأول"
+
+# Not used
+msgid "preferredName"
+msgstr "الاسم المفضل"
+
+# Not used
+msgid "preferredNamePlaceholder"
+msgstr "اسمك المفضل"
+
+# Not used
+msgid "middleName"
+msgstr "الاسم الأوسط"
+
+# Not used
+msgid "middleNamePlaceholder"
+msgstr "اسمك الأوسط"
+
+msgid "lastName"
+msgstr "اسم العائلة"
+
+msgid "lastNamePlaceholder"
+msgstr "اسمك الاخير"
+
+# Not used
+msgid "secondLastName"
+msgstr "الثاني الاسم الأخير"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "اسمك الأخير الثاني"
+
+# Not used
+msgid "title"
+msgstr "عنوان"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "على سبيل المثال: السيد. السيدة. الخ."
+
+msgid "gender"
+msgstr "جنس"
+
+msgid "birthDate"
+msgstr "تاريخ الميلاد"
+
+msgid "birthDatePlaceholder"
+msgstr "تاريخ ميلادك"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "عمرك حاليًا <strong>٪ d </strong> سنة"
+msgstr[1] "أنت الآن تبلغ من العمر <strong> عام واحد </strong>"
+msgstr[2] "عمرك حاليًا <strong>٪ d </strong> سنة"
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "عمرك حاليًا <strong>٪ d </strong> سنة"
+
+msgid "familyInformation"
+msgstr "معلومات العائلة"
+
+msgid "staffUnit"
+msgstr "وحدة الموظفين"
+
+msgid "staffUnitPlaceholder"
+msgstr "اللقب ، المعطى الاسم أو اللقب ، HisGivenName و HerGivenName."
+
+msgid "maritalStatus"
+msgstr "الحالة الاجتماعية"
+
+msgid "maritalStatusPlaceholder"
+msgstr "حدد حالتك العسكرية"
+
+msgid "staffSpouse"
+msgstr "زوج الموظف"
+
+msgid "staffSpousePlaceholder"
+msgstr "اسم زوجتك"
+
+msgid "workforceInformation"
+msgstr "معلومات القوى العاملة"
+
+msgid "geographicAreaOfService"
+msgstr "المنطقة الجغرافية للخدمة"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "المنطقة التي تخدم فيها"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "تدفع من قبل الوزارة المحلية / الجهة"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "قسم الموارد البشرية"
+
+msgid "status"
+msgstr "حالة"
+
+msgid "positionRole"
+msgstr "المنصب / الدور"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "نِطَاق"
+
+msgid "fundingSource"
+msgstr "مصدر التمويل"
+
+msgid "supervisorDescription"
+msgstr "من الذي يوافق على تقارير النفقات الخاصة بك؟"
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "ما زلنا نحصل على معرف Netsuite الخاص بك ، يرجى الانتظار"
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "اكتب 5 أحرف على الأقل لبدء البحث"
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "يبحث..."
+
+# Cancel the search
+msgid "Cancel"
+msgstr "يلغي"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "يغلق"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "يبحث"
+
+msgid "supervisorPopupAlertSorry"
+msgstr "انتهت مهلة جلسة الويب. يرجى إعادة تحميل الصفحة لإعادة المصادقة."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "ملاحظة المشرف"
+
+msgid "hireDate"
+msgstr "موعد التوظيف"
+
+msgid "approveChange"
+msgstr "الموافقة على التغيير"
+
+msgid "approve"
+msgstr "يعتمد"
+
+msgid "delete"
+msgstr "يمسح"
+
+msgid "deleting"
+msgstr "حذف"
+
+msgid "deleted"
+msgstr "تم الحذف"
+
+msgid "type"
+msgstr "يكتب"
+
+msgid "number"
+msgstr "رقم"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "ما يعادل الدوام الكامل (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "سبب الإنهاء"
+
+msgid "inactive"
+msgstr "غير نشط"
+
+# Not used
+msgid "terminationDate"
+msgstr "تاريخ الإنهاء"
+
+# Not used
+msgid "governmentID"
+msgstr "معرف الحكومة"
+
+# Not used
+msgid "issueDate"
+msgstr "تاريخ الإصدار"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "تاريخ إصدار المعرف الخاص بك"
+
+# Not used
+msgid "expirationDate"
+msgstr "تاريخ انتهاء الصلاحية"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "تاريخ انتهاء هويتك"
+
+# Not used
+msgid "expirationDateText"
+msgstr "انتهت صلاحية هويتك"
+
+# Not used
+msgid "emergencyContact"
+msgstr "الاتصال بالطوارىء"
+
+# Not used
+msgid "name"
+msgstr "اسم"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "الاسم الكامل لجهة الاتصال"
+
+# Not used
+msgid "relationship"
+msgstr "علاقة"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "علاقة هذا الشخص بك"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "العنوان الكامل لجهة الاتصال"
+
+# Not used
+msgid "phone"
+msgstr "هاتف"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "رقم هاتف جهة الاتصال"
+
+# Not used
+msgid "educationInformation"
+msgstr "معلومات التعليم"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "مستوى التعليم"
+
+# Not used
+msgid "degree"
+msgstr "درجة"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "اسم شهادتك"
+
+# Not used
+msgid "dateConferred"
+msgstr "تاريخ الممنوحة"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "التاريخ الممنوح لك"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "لقد تخرجت عندما كنت"
+
+# Not used
+msgid "email"
+msgstr "بريد إلكتروني"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "عنوانك (يمكن أن يكون متعدد الأسطر)"
+
+# Not used
+msgid "city"
+msgstr "مدينة"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "مدينتك"
+
+# Not used
+msgid "stateProvince"
+msgstr "الولاية / المقاطعة"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "ولايتك / مقاطعتك"
+
+# Not used
+msgid "zip"
+msgstr "أَزِيز"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "رمزك البريدي"
+
+# Not used
+msgid "country"
+msgstr "دولة"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "بلدك"
+
+# Not used
+msgid "shippingAddress"
+msgstr "عنوان الشحن"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "مثل دائم"
+
+# Not used
+msgid "jobTitle"
+msgstr "مسمى وظيفي"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "المسمى الوظيفي"
+
+# Not used
+msgid "jobDescription"
+msgstr "المسمى الوظيفي"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "وصف وظيفتك"
