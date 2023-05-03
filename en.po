@@ -1,7 +1,16 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2023-05-03 17:09+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: English <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/en/>\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 "language: en\n"
 "plural-forms: nplurals = 2; plural = (n !== 1)\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 # Main page title
 msgid "hrUpdate"
@@ -187,7 +196,7 @@ msgstr "Type at least 5 characters to start searching"
 
 # Placeholder text in the search box
 msgid "Search..."
-msgstr "Search..."
+msgstr "Search…"
 
 # Cancel the search
 msgid "Cancel"
