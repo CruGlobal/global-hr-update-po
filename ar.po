@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-03 08:20+0000\n"
+"PO-Revision-Date: 2023-05-03 08:23+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Arabic <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ar/>\n"
