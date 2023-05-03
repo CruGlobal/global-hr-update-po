@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-03 17:09+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-05-04 04:32+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Arabic <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ar/>\n"
 "Language: ar\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 4.17\n"
 
 # Main page title
 msgid "hrUpdate"
@@ -260,7 +260,7 @@ msgstr "اكتب 5 أحرف على الأقل لبدء البحث"
 
 # Placeholder text in the search box
 msgid "Search..."
-msgstr "يبحث..."
+msgstr "يبحث…"
 
 # Cancel the search
 msgid "Cancel"
