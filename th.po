@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-04 04:32+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-05-05 04:33+0000\n"
+"Last-Translator: Azat Kooman <azat.kooman@silkmail.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
 "Language: th\n"
@@ -134,9 +134,8 @@ msgid "gender"
 msgstr "เพศ"
 
 # Placeholder text in the search box
-#, fuzzy
 msgid "Search..."
-msgstr "ค้นหา..."
+msgstr "ค้นหา…"
 
 # Cancel the search
 msgid "Cancel"
