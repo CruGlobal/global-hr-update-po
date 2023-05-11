@@ -22,21 +22,21 @@ msgid "supervisor"
 msgstr "หัวหน้างาน"
 
 msgid "supervisorDescription"
-msgstr "ใครเป็นผู้อนุมัติรายงานค่าใช้จ่ายของคุณ"
+msgstr "ใครคือผู้อนุมัติรายงานค่าใช้จ่ายของคุณ"
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
-msgstr "เรายังได้รับรหัส Netsuite ของคุณ โปรดรอสักครู่"
+msgstr "เรากำลังรับ Netsuite Id ของคุณ โปรดรอสักครู่"
 
 msgid "supervisorPopupRenderMin5chars"
-msgstr "พิมพ์อักขระอย่างน้อย 5 ตัวเพื่อเริ่มการค้นหา"
+msgstr "พิมพ์อย่างน้อย 5 ตัวอักษรเพื่อเริ่มค้นหา"
 
 msgid "delete"
 msgstr "ลบ"
 
 # Not used
 msgid "contactAddressPlaceholder"
-msgstr "ที่อยู่เต็มของผู้ติดต่อ"
+msgstr "ที่อยู่แบบระเอียดของผู้ติดต่อ"
 
 # Not used
 msgid "contactPhonePlaceholder"
@@ -52,19 +52,19 @@ msgstr "ระดับการศึกษา"
 
 # Not used
 msgid "degree"
-msgstr "ระดับ"
+msgstr "ระดับการศึกษา"
 
 # Not used
 msgid "degreePlaceholder"
-msgstr "ชื่อปริญญาของคุณ"
+msgstr "ชื่อระดับการศึกษาหรือปริญญาของคุณ"
 
 # Not used
 msgid "dateConferred"
-msgstr "วันที่พระราชทาน"
+msgstr "วันที่ใบปริญญาถูกอนุมัติ"
 
 # Not used
 msgid "dateConferredPlaceholder"
-msgstr "วันที่ประชุมของคุณ"
+msgstr "วันที่ใบปริญญาถูกอนุมัติอย่างเป็นทางการของคุณ"
 
 # Not used
 msgid "graduatedAgeCalculator"
@@ -76,13 +76,13 @@ msgstr "อีเมล"
 
 # Not used
 msgid "emailPlaceholder"
-msgstr "ที่อยู่อีเมลของคุณ"
+msgstr "อีเมลของคุณ"
 
 msgid "submit"
 msgstr "ส่ง"
 
 msgid "help"
-msgstr "ช่วย"
+msgstr "ช่วยเหลือ"
 
 msgid "logout"
 msgstr "ออกจากระบบ"
@@ -91,29 +91,29 @@ msgid "chooseAnOption"
 msgstr "เลือกตัวเลือก"
 
 msgid "currentValue"
-msgstr "มูลค่าปัจจุบัน"
+msgstr "ข้อมูลปัจจุบัน"
 
 msgid "requestValue"
-msgstr "ค่าที่ร้องขอ"
+msgstr "ข้อมูลที่ร้องขอ"
 
 msgid "sorry"
-msgstr "ขอโทษ"
+msgstr "ขออภัย"
 
 msgid "error"
 msgstr "ข้อผิดพลาด"
 
 msgid "verify"
-msgstr "ฉันขอยืนยันว่าช่องด้านบนทั้งหมดถูกต้อง"
+msgstr "ฉันขอยืนยันว่าข้อมูลด้านบนทั้งหมดนั้นถูกต้อง"
 
 msgid "buttonHelpDescription"
 msgstr ""
 "ต้องการความช่วยเหลือในการกรอกข้อมูลในฟิลด์นี้หรือไม่? คลิกเพื่อดูคำแนะนำ"
 
 msgid "verifyBeforeSubmit"
-msgstr "โปรดตรวจสอบทุกส่วนก่อนส่ง"
+msgstr "โปรดยืนยันข้อมูลทั้งหมดก่อนทำการส่ง"
 
 msgid "sending"
-msgstr "การส่ง"
+msgstr "กำลังส่ง"
 
 msgid "sent"
 msgstr "ส่งแล้ว"
@@ -122,7 +122,7 @@ msgid "thankYou"
 msgstr "ขอบคุณ"
 
 msgid "thankYouDescription"
-msgstr "ส่งข้อมูลของคุณแล้ว"
+msgstr "ข้อมูลของคุณถูกส่งแล้ว"
 
 msgid "ok"
 msgstr "ตกลง"
@@ -149,11 +149,11 @@ msgid "supervisorPopupRenderSearching"
 msgstr "กำลังค้นหา"
 
 msgid "supervisorPopupAlertSorry"
-msgstr "เซสชั่นเว็บหมดเวลาแล้ว โปรดโหลดหน้าซ้ำเพื่อตรวจสอบสิทธิ์อีกครั้ง"
+msgstr "เซสชั่นเว็บหมดเวลาแล้ว โปรดโหลดหน้านี้อีกครังเพื่อตรวจสอบสิทธิ์อีกครั้ง"
 
 # The title of the supervisor search box. It is only shown if there is no supervisor selected.
 msgid "supervisorNote"
-msgstr "หมายเหตุผู้บังคับบัญชา"
+msgstr "หมายเหตุหัวหน้างาน"
 
 msgid "hireDate"
 msgstr "วันที่จ้าง"
@@ -178,22 +178,22 @@ msgstr "ตัวเลข"
 
 # Not used
 msgid "fullTimeEquivalent"
-msgstr "เทียบเท่าเต็มเวลา (FTE)"
+msgstr "ค่าเทียบเท่าพนักงานเต็มเวลา (FTE)"
 
 # Not used
 msgid "terminationReason"
 msgstr "เหตุผลในการเลิกจ้าง"
 
 msgid "inactive"
-msgstr "ไม่ใช้งาน"
+msgstr "ปิดการใช้งาน"
 
 # Not used
 msgid "terminationDate"
-msgstr "วันสิ้นสุด"
+msgstr "วันที่เลิกจ้าง"
 
 # Not used
 msgid "governmentID"
-msgstr "รหัสราชการ"
+msgstr "เลขประจำตัวประชาชน"
 
 # Not used
 msgid "numberPlaceholder"
@@ -221,7 +221,7 @@ msgstr "ID ของคุณหมดอายุแล้ว"
 
 # Not used
 msgid "emergencyContact"
-msgstr "ติดต่อในกรณีฉุกเฉิน"
+msgstr "ผู้ติดต่อในกรณีฉุกเฉิน"
 
 # Not used
 msgid "name"
@@ -229,7 +229,7 @@ msgstr "ชื่อ"
 
 # Not used
 msgid "contactNamePlaceholder"
-msgstr "ชื่อเต็มของผู้ติดต่อ"
+msgstr "ชื่อและนามสกุลของผู้ติดต่อ"
 
 # Not used
 msgid "relationship"
@@ -265,15 +265,15 @@ msgstr "หมายเลขโทรศัพท์สำนักงานข
 
 # Not used
 msgid "contactInformation"
-msgstr "ข้อมูลติดต่อ"
+msgstr "ข้อมูลการติดต่อ"
 
 # Not used
 msgid "permanentAddress"
-msgstr "ที่อยู่ถาวร"
+msgstr "ที่อยู่หลัก"
 
 # Not used
 msgid "label"
-msgstr "ฉลาก"
+msgstr "ป้ายชื่อ"
 
 # Not used
 msgid "labelPlaceholder"
@@ -293,19 +293,19 @@ msgid "familyInformation"
 msgstr "ข้อมูลครอบครัว"
 
 msgid "staffUnit"
-msgstr "หน่วยเจ้าหน้าที่"
+msgstr "หน่วยของเจ้าหน้าที่"
 
 msgid "staffUnitPlaceholder"
-msgstr "นามสกุล GivenName หรือนามสกุล HisGivenName และ HerGivenName"
+msgstr "นามสกุล ชื่อหรือนามสกุล ชื่อของเขา"
 
 msgid "maritalStatus"
 msgstr "สถานภาพการสมรส"
 
 msgid "maritalStatusPlaceholder"
-msgstr "เลือกสถานะการต่อสู้ของคุณ"
+msgstr "เลือกสถานภาพการสมรสของคุณ"
 
 msgid "staffSpouse"
-msgstr "คู่สมรสพนักงาน"
+msgstr "คู่สมรสของพนักงาน"
 
 msgid "staffSpousePlaceholder"
 msgstr "ชื่อคู่สมรสของคุณ"
@@ -331,7 +331,7 @@ msgid "status"
 msgstr "สถานะ"
 
 msgid "positionRole"
-msgstr "ตำแหน่ง/บทบาท"
+msgstr "ตำแหน่ง/หน้าที่"
 
 # https://netsuite.helpscoutdocs.com/article/1075-scope
 msgid "scope"
@@ -345,7 +345,7 @@ msgstr "ข้อมูลงาน"
 
 # Not used
 msgid "attentionPlaceholder"
-msgstr "ตัวอย่าง: Attn John Doe"
+msgstr "เช่น: Attn John Doe"
 
 # Not used
 msgid "address"
@@ -353,7 +353,7 @@ msgstr "ที่อยู่"
 
 # Not used
 msgid "addressPlaceholder"
-msgstr "ที่อยู่ของคุณ (สามารถเป็นได้หลายบรรทัด)"
+msgstr "ที่อยู่ของคุณ (คุณสามารถพิมพ์ได้หลายบรรทัด)"
 
 # Not used
 msgid "city"
@@ -373,7 +373,7 @@ msgstr "รัฐ/จังหวัดของคุณ"
 
 # Not used
 msgid "zip"
-msgstr "ซิป"
+msgstr "รหัสไปรษณีย์"
 
 # Not used
 msgid "zipPlaceholder"
@@ -393,11 +393,11 @@ msgstr "ที่อยู่จัดส่ง"
 
 # Not used
 msgid "sameAsPermanent"
-msgstr "เช่นเดียวกับถาวร"
+msgstr "เช่นเดียวกับที่อยู่หลัก"
 
 # Not used
 msgid "jobTitle"
-msgstr "ชื่องาน"
+msgstr "ชื่อตำแหน่งงาน"
 
 # Not used
 msgid "jobTitlePlaceholder"
@@ -405,11 +405,11 @@ msgstr "ตำแหน่งงานของคุณ"
 
 # Not used
 msgid "jobDescription"
-msgstr "รายละเอียดงาน"
+msgstr "รายละเอียดตำแหน่งงาน"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "รายละเอียดงานของคุณ"
+msgstr "รายละเอียดตำแหน่งงานของคุณ"
 
 msgid "firstName"
 msgstr "ชื่อจริง"
@@ -419,11 +419,11 @@ msgstr "ชื่อจริงของคุณ"
 
 # Not used
 msgid "preferredName"
-msgstr "ชื่อที่ต้องการ"
+msgstr "ชื่อเล่น"
 
 # Not used
 msgid "preferredNamePlaceholder"
-msgstr "ชื่อที่คุณต้องการ"
+msgstr "ชื่อเล่นของคุณ"
 
 # Not used
 msgid "middleName"
@@ -449,7 +449,7 @@ msgstr "นามสกุลที่สองของคุณ"
 
 # Not used
 msgid "title"
-msgstr "ชื่อ"
+msgstr "คำนำหน้าชื่อ"
 
 # Not used
 msgid "titlePlaceholder"
