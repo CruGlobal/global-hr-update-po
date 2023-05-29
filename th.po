@@ -22,7 +22,7 @@ msgid "supervisor"
 msgstr "หัวหน้างาน"
 
 msgid "supervisorDescription"
-msgstr "ใครคือผู้อนุมัติรายงานค่าใช้จ่ายของคุณ"
+msgstr "ใครใน [บุคคลปัจจุบัน] ที่อนุมัติรายงานค่าใช้จ่ายของคุณ หากคุณไม่แน่ใจหรือเป็นชาวต่างชาติ ให้เลือก National Operations Leader หรือปรึกษากับ National Finance Team"
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
