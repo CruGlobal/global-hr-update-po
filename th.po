@@ -15,6 +15,9 @@ msgstr ""
 msgid "hrUpdate"
 msgstr "อัพเดทฝ่ายบุคคล"
 
+msgid "entityNotice"
+msgstr "ข้อมูลด้านล่างแสดงถึงสถานะปัจจุบันของข้อมูลใน Netsuite การส่งก่อนหน้านี้ที่ยังไม่ได้รับการอนุมัติจาก National HR Generalists จะไม่แสดงให้เห็นด้านล่าง"
+
 msgid "birthDatePlaceholder"
 msgstr "วันเกิดของคุณ"
 
