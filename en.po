@@ -185,7 +185,7 @@ msgid "supervisor"
 msgstr "Supervisor"
 
 msgid "supervisorDescription"
-msgstr "Who in [Current entity] approves your Expense Reports?  If you're not sure or a foreigner, pick the National Operations Leader or consult with National Finance Team."
+msgstr "Who in %s approves your Expense Reports?  If you're not sure or a foreigner, pick the National Operations Leader or consult with National Finance Team."
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
