@@ -16,6 +16,9 @@ msgstr ""
 msgid "hrUpdate"
 msgstr "HR Update"
 
+msgid "entityNotice"
+msgstr "Data below reflects the current state of data in Netsuite. Previous submissions that have not yet been approved by National HR Generalists will not be reflected below."
+
 msgid "help"
 msgstr "Help"
 
@@ -185,7 +188,7 @@ msgid "supervisor"
 msgstr "Supervisor"
 
 msgid "supervisorDescription"
-msgstr "Who approves your Expense Reports?"
+msgstr "Who in %s approves your Expense Reports?  If you're not sure or a foreigner, pick the National Operations Leader or consult with National Finance Team."
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
