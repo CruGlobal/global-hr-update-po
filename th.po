@@ -159,7 +159,7 @@ msgid "supervisorNote"
 msgstr "หมายเหตุหัวหน้างาน"
 
 msgid "hireDate"
-msgstr "วันที่จ้าง"
+msgstr "วันที่คุณได้รับการว่าจ้าง"
 
 msgid "approveChange"
 msgstr "อนุมัติการเปลี่ยนแปลง"

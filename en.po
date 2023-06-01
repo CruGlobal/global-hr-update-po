@@ -220,7 +220,7 @@ msgid "supervisorNote"
 msgstr "Supervisor note"
 
 msgid "hireDate"
-msgstr "Hire Date"
+msgstr "Date you were hired"
 
 msgid "approveChange"
 msgstr "Approve Change"
