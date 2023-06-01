@@ -168,8 +168,8 @@ msgstr "Paid by Local Ministry/Entity"
 msgid "hrDepartment"
 msgstr "HR Department"
 
-msgid "status"
-msgstr "Status"
+msgid "organizationalStatus"
+msgstr "Organizational Status"
 
 msgid "positionRole"
 msgstr "Position/Role"
