@@ -195,7 +195,7 @@ msgid "supervisorPopupRenderPreventSearch"
 msgstr "We're still getting your Netsuite Id, please wait"
 
 msgid "supervisorPopupRenderMin5chars"
-msgstr "Type at least 5 characters to start searching"
+msgstr "5 letters are enough to begin the search."
 
 # Placeholder text in the search box
 msgid "Search..."

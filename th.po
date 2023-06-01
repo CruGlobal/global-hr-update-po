@@ -32,7 +32,7 @@ msgid "supervisorPopupRenderPreventSearch"
 msgstr "เรากำลังรับ Netsuite Id ของคุณ โปรดรอสักครู่"
 
 msgid "supervisorPopupRenderMin5chars"
-msgstr "พิมพ์อย่างน้อย 5 ตัวอักษรเพื่อเริ่มค้นหา"
+msgstr "5 ตัวอักษรก็เพียงพอที่จะเริ่มการค้นหา"
 
 msgid "delete"
 msgstr "ลบ"
