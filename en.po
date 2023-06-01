@@ -166,7 +166,7 @@ msgstr "Paid by Local Ministry/Entity"
 
 # https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
 msgid "hrDepartment"
-msgstr "HR Department"
+msgstr "Strategy / Capacity (HR Department in Netsuite)"
 
 msgid "organizationalStatus"
 msgstr "Organizational Status"
