@@ -251,6 +251,9 @@ msgstr "مصدر التمويل"
 msgid "supervisorDescription"
 msgstr "من الذي يوافق على تقارير النفقات الخاصة بك؟"
 
+msgid "supervisorPopupOpenSearchNote"
+msgstr ""
+
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
 msgstr "ما زلنا نحصل على معرف Netsuite الخاص بك ، يرجى الانتظار"

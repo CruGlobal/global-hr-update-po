@@ -27,6 +27,9 @@ msgstr "หัวหน้างาน"
 msgid "supervisorDescription"
 msgstr "ใครใน %s ที่อนุมัติรายงานค่าใช้จ่ายของคุณ หากคุณไม่แน่ใจหรือเป็นชาวต่างชาติ ให้เลือก National Operations Leader หรือปรึกษากับ National Finance Team"
 
+msgid "supervisorPopupOpenSearchNote"
+msgstr "พิมพ์ชื่อหัวหน้างานของคุณในหน้าต่างค้นหา"
+
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
 msgstr "เรากำลังรับ Netsuite Id ของคุณ โปรดรอสักครู่"

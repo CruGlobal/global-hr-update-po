@@ -190,6 +190,9 @@ msgstr "Supervisor"
 msgid "supervisorDescription"
 msgstr "Who in %s approves your Expense Reports?  If you're not sure or a foreigner, pick the National Operations Leader or consult with National Finance Team."
 
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Type the name of your supervisor in the Search window."
+
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
 msgstr "We're still getting your Netsuite Id, please wait"
