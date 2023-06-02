@@ -235,7 +235,7 @@ msgstr "تدفع من قبل الوزارة المحلية / الجهة"
 msgid "hrDepartment"
 msgstr "قسم الموارد البشرية"
 
-msgid "status"
+msgid "organizationalStatus"
 msgstr "حالة"
 
 msgid "positionRole"
