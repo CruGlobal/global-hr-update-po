@@ -76,21 +76,17 @@ msgstr "First Name"
 msgid "firstNamePlaceholder"
 msgstr "Your first name"
 
-# Not used
 msgid "preferredName"
 msgstr "Preferred Name"
 
-# Not used
 msgid "preferredNamePlaceholder"
-msgstr "Your preferred name"
+msgstr "Your preferred name (optional)"
 
-# Not used
 msgid "middleName"
 msgstr "Middle Name"
 
-# Not used
 msgid "middleNamePlaceholder"
-msgstr "Your middle name"
+msgstr "Your middle name (optional)"
 
 msgid "lastName"
 msgstr "Last Name"
