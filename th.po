@@ -467,3 +467,9 @@ msgstr "วันที่เกิด"
 # Not used
 msgid "phone"
 msgstr "โทรศัพท์"
+
+msgid "Select Entity"
+msgstr "เลือกเอนทิตี"
+
+msgid "selectEntityInstructions"
+msgstr "มีหลายระเบียนที่ตรงกับที่อยู่อีเมลของคุณ โปรดเลือกรายการที่คุณต้องการอัปเดต"

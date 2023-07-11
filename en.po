@@ -464,3 +464,9 @@ msgstr "Job Description"
 # Not used
 msgid "jobDescriptionPlaceholder"
 msgstr "Your job description"
+
+msgid "Select Entity"
+msgstr "Select Entity"
+
+msgid "selectEntityInstructions"
+msgstr "There are multiple records matching your email address. Please choose the one you wish to update."
