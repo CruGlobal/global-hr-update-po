@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-07-12 09:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Joshua Chan <joshua.chan@p2c.com>\n"
 "Language-Team: Spanish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/es/>\n"
 "Language: es\n"
@@ -478,3 +478,6 @@ msgstr "Teléfono de casa"
 # Not used
 msgid "homePhonePlaceholder"
 msgstr "Su número de teléfono particular"
+
+msgid "thankYou"
+msgstr "Gracias"
