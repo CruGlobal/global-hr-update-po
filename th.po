@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-05 04:33+0000\n"
-"Last-Translator: Azat Kooman <azat.kooman@silkmail.org>\n"
+"PO-Revision-Date: 2023-07-12 08:47+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
 "Language: th\n"
@@ -429,7 +429,7 @@ msgstr "ชื่อเล่น"
 
 # Not used
 msgid "preferredNamePlaceholder"
-msgstr "ชื่อเล่นของคุณ"
+msgstr "ชื่อที่คุณต้องการ (ไม่บังคับ)"
 
 # Not used
 msgid "middleName"
@@ -437,7 +437,7 @@ msgstr "ชื่อกลาง"
 
 # Not used
 msgid "middleNamePlaceholder"
-msgstr "ชื่อกลางของคุณ"
+msgstr "ชื่อกลางของคุณ (ไม่บังคับ)"
 
 msgid "lastName"
 msgstr "นามสกุล"
