@@ -1,2 +1,478 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-18 23:52+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Vietnamese <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/vi/>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
+
+msgid "Select Entity"
+msgstr "Chọn thực thể"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Có nhiều hồ sơ phù hợp với địa chỉ email của bạn. Vui lòng chọn một trong "
+"những bạn muốn cập nhật."
+
+# Main page title
+msgid "hrUpdate"
+msgstr "Cập nhật nhân sự"
+
+# Not used
+msgid "officePhone"
+msgstr "Điện thoại văn phòng"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Số điện thoại văn phòng của bạn"
+
+# Not used
+msgid "contactInformation"
+msgstr "Thông tin liên lạc"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Địa chỉ thường trú"
+
+# Not used
+msgid "label"
+msgstr "Nhãn"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ví dụ: Địa chỉ nhà riêng"
+
+# Not used
+msgid "attention"
+msgstr "Chú ý"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ví dụ: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "Địa chỉ"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Địa chỉ của bạn (có thể là nhiều dòng)"
+
+# Not used
+msgid "city"
+msgstr "Thành phố"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Thành phố của Ban"
+
+# Not used
+msgid "stateProvince"
+msgstr "Bang/Tỉnh"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Tiểu bang/tỉnh của bạn"
+
+# Not used
+msgid "zip"
+msgstr "khóa kéo"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Mã bưu điện của bạn"
+
+# Not used
+msgid "country"
+msgstr "Quốc gia"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Quốc gia của bạn"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Địa chỉ giao hàng"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "giống như vĩnh viễn"
+
+# Not used
+msgid "jobTitle"
+msgstr "Chức vụ"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "chức danh công việc của bạn"
+
+# Not used
+msgid "jobDescription"
+msgstr "Mô tả công việc"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "mô tả công việc của bạn"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "Mối quan hệ của người này với bạn"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Địa chỉ đầy đủ của liên hệ"
+
+# Not used
+msgid "phone"
+msgstr "Điện thoại"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Số điện thoại của người liên hệ"
+
+# Not used
+msgid "educationInformation"
+msgstr "Thông tin giáo dục"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Cấp độ giáo dục"
+
+# Not used
+msgid "degree"
+msgstr "Bằng cấp"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Tên bằng cấp của bạn"
+
+# Not used
+msgid "dateConferred"
+msgstr "Ngày trao"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Ngày trao của bạn"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Bạn tốt nghiệp khi bạn đang"
+
+# Not used
+msgid "email"
+msgstr "E-mail"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "Địa chỉ email của bạn"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Điện thoại di động"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Số điện thoại di động của bạn"
+
+# Not used
+msgid "homePhone"
+msgstr "Điện thoại nhà"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Số điện thoại nhà của bạn"
+
+msgid "entityNotice"
+msgstr ""
+"Dữ liệu bên dưới phản ánh trạng thái hiện tại của dữ liệu trong Netsuite. "
+"Các bản đệ trình trước đây chưa được phê duyệt bởi National HR Generalists "
+"sẽ không được phản ánh bên dưới."
+
+msgid "help"
+msgstr "Giúp đỡ"
+
+msgid "logout"
+msgstr "Đăng xuất"
+
+msgid "chooseAnOption"
+msgstr "Chọn một sự lựa chọn"
+
+msgid "currentValue"
+msgstr "Giá trị hiện tại"
+
+msgid "requestValue"
+msgstr "Giá trị được yêu cầu"
+
+msgid "sorry"
+msgstr "Lấy làm tiếc"
+
+msgid "error"
+msgstr "Lỗi"
+
+msgid "verify"
+msgstr "Tôi xác minh rằng tất cả các trường trên là chính xác."
+
+msgid "buttonHelpDescription"
+msgstr "Cần trợ giúp điền vào trường này? Bấm để được hướng dẫn."
+
+msgid "verifyBeforeSubmit"
+msgstr "Vui lòng xác minh tất cả các phần trước khi gửi"
+
+msgid "submit"
+msgstr "Nộp"
+
+msgid "sending"
+msgstr "Gửi"
+
+msgid "sent"
+msgstr "Đã gửi"
+
+msgid "thankYou"
+msgstr "Cảm ơn"
+
+msgid "thankYouDescription"
+msgstr "Thông tin của bạn đã được gửi"
+
+msgid "ok"
+msgstr "ĐƯỢC RỒI"
+
+msgid "personalDetails"
+msgstr "Thông tin cá nhân"
+
+msgid "firstName"
+msgstr "Tên đầu tiên"
+
+msgid "firstNamePlaceholder"
+msgstr "Tên của bạn"
+
+msgid "preferredName"
+msgstr "Tên ưa thích"
+
+msgid "preferredNamePlaceholder"
+msgstr "Tên ưa thích của bạn (tùy chọn)"
+
+msgid "middleName"
+msgstr "Tên đệm"
+
+msgid "middleNamePlaceholder"
+msgstr "Tên đệm của bạn (không bắt buộc)"
+
+msgid "lastName"
+msgstr "Họ"
+
+msgid "lastNamePlaceholder"
+msgstr "Tên của bạn"
+
+# Not used
+msgid "secondLastName"
+msgstr "Tên thứ hai"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Họ thứ hai của bạn"
+
+# Not used
+msgid "title"
+msgstr "Tiêu đề"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ví dụ: Ông bà, bà, v.v."
+
+msgid "gender"
+msgstr "Giới tính"
+
+msgid "birthDate"
+msgstr "Ngày sinh"
+
+msgid "birthDatePlaceholder"
+msgstr "ngày sinh của bạn"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Bạn hiện <strong>%d</strong> tuổi"
+
+msgid "familyInformation"
+msgstr "Thông tin gia đình"
+
+msgid "staffUnit"
+msgstr "đơn vị nhân viên"
+
+msgid "staffUnitPlaceholder"
+msgstr "Họ, GivenName hoặc Họ, HisGivenName và HerGivenName."
+
+msgid "maritalStatus"
+msgstr "Tình trạng hôn nhân"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Chọn trạng thái võ của bạn"
+
+msgid "staffSpouse"
+msgstr "vợ chồng nhân viên"
+
+msgid "staffSpousePlaceholder"
+msgstr "Tên vợ/chồng của bạn"
+
+msgid "workforceInformation"
+msgstr "Thông tin lực lượng lao động"
+
+msgid "geographicAreaOfService"
+msgstr "Khu vực địa lý của dịch vụ"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Khu vực nơi bạn phục vụ"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Do Bộ/Đơn vị địa phương chi trả"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Chiến lược/Năng lực (Phòng Nhân sự tại Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "Tình trạng tổ chức"
+
+msgid "positionRole"
+msgstr "Vị trí/Vai trò"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Phạm vi"
+
+msgid "fundingSource"
+msgstr "Nguồn tài trợ"
+
+msgid "jobInformation"
+msgstr "Thông tin việc làm"
+
+msgid "supervisor"
+msgstr "Người giám sát"
+
+msgid "supervisorDescription"
+msgstr ""
+"Ai trong %s phê duyệt Báo cáo Chi phí của bạn? Nếu bạn không chắc chắn hoặc "
+"là người nước ngoài, hãy chọn Trưởng nhóm Điều hành Quốc gia hoặc tham khảo "
+"ý kiến của Nhóm Tài chính Quốc gia."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Nhập tên của người giám sát của bạn trong cửa sổ Tìm kiếm."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Chúng tôi vẫn đang nhận được Netsuite Id của bạn, vui lòng đợi"
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 chữ cái là đủ để bắt đầu tìm kiếm."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Tìm kiếm…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Đóng"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "đang tìm kiếm"
+
+msgid "supervisorPopupAlertSorry"
+msgstr "Phiên web đã hết thời gian. Vui lòng tải lại trang để xác thực lại."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "lưu ý giám sát"
+
+msgid "hireDate"
+msgstr "Ngày bạn được tuyển dụng"
+
+msgid "approveChange"
+msgstr "Phê duyệt Thay đổi"
+
+msgid "approve"
+msgstr "Chấp thuận"
+
+msgid "delete"
+msgstr "Xóa bỏ"
+
+msgid "deleting"
+msgstr "Đang xóa"
+
+msgid "deleted"
+msgstr "Đã xóa"
+
+msgid "type"
+msgstr "Kiểu"
+
+msgid "number"
+msgstr "Con số"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Toàn thời gian tương đương (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Lý do chấm dứt"
+
+msgid "inactive"
+msgstr "Không hoạt động"
+
+# Not used
+msgid "terminationDate"
+msgstr "Ngày kết thúc"
+
+# Not used
+msgid "governmentID"
+msgstr "ID chính phủ"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Số ID chính phủ của bạn"
+
+# Not used
+msgid "issueDate"
+msgstr "Ngày phát hành"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Ngày phát hành ID của bạn"
+
+# Not used
+msgid "expirationDate"
+msgstr "Ngày hết hạn"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Ngày hết hạn ID của bạn"
+
+# Not used
+msgid "expirationDateText"
+msgstr "ID của bạn đã hết hạn"
+
+# Not used
+msgid "emergencyContact"
+msgstr "Liên lạc khẩn cấp"
+
+# Not used
+msgid "name"
+msgstr "Tên"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Tên đầy đủ của người liên hệ"
+
+# Not used
+msgid "relationship"
+msgstr "Mối quan hệ"
