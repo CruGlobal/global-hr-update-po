@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-12 09:37+0000\n"
-"Last-Translator: Joshua Chan <joshua.chan@p2c.com>\n"
+"PO-Revision-Date: 2023-07-19 22:42+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Spanish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/es/>\n"
 "Language: es\n"
@@ -213,7 +213,7 @@ msgstr "Título"
 
 # Not used
 msgid "titlePlaceholder"
-msgstr "ex: Sr. Sra. Sra. etc."
+msgstr "Ej: Sr., Sra., Srta., etc."
 
 msgid "gender"
 msgstr "Género"
