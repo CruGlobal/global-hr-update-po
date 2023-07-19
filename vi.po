@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 22:45+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-07-19 22:56+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Vietnamese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/vi/>\n"
 "Language: vi\n"
@@ -221,7 +221,7 @@ msgid "buttonHelpDescription"
 msgstr "Cần trợ giúp điền vào trường này? Bấm để được hướng dẫn."
 
 msgid "verifyBeforeSubmit"
-msgstr "Vui lòng xác minh tất cả các phần trước khi gửi"
+msgstr "Vui lòng xác minh tất cả các phần trước khi gửi."
 
 msgid "submit"
 msgstr "Nộp"
@@ -236,7 +236,7 @@ msgid "thankYou"
 msgstr "Cảm ơn"
 
 msgid "thankYouDescription"
-msgstr "Thông tin của bạn đã được gửi"
+msgstr "Thông tin của bạn đã được gửi."
 
 msgid "ok"
 msgstr "ĐƯỢC RỒI"
@@ -282,7 +282,7 @@ msgstr "Tiêu đề"
 
 # Not used
 msgid "titlePlaceholder"
-msgstr "ví dụ: Ông, Bà, Cô, v.v."
+msgstr "ví dụ: Mr. Mrs. Miss.v.v."
 
 msgid "gender"
 msgstr "Giới tính"
@@ -367,7 +367,7 @@ msgstr "Nhập tên của người giám sát của bạn trong cửa sổ Tìm 
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
-msgstr "Chúng tôi vẫn đang nhận được Netsuite Id của bạn, vui lòng đợi"
+msgstr "Chúng tôi vẫn đang nhận được Id Netsuite của bạn, vui lòng đợi."
 
 msgid "supervisorPopupRenderMin5chars"
 msgstr "5 chữ cái là đủ để bắt đầu tìm kiếm."
@@ -459,7 +459,7 @@ msgstr "Ngày hết hạn ID của bạn"
 
 # Not used
 msgid "expirationDateText"
-msgstr "ID của bạn đã hết hạn"
+msgstr "ID của bạn đã hết hạn."
 
 # Not used
 msgid "emergencyContact"
