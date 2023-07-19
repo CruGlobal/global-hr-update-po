@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-03 17:09+0000\n"
+"PO-Revision-Date: 2023-07-19 22:56+0000\n"
 "Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: English <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/en/>\n"
 "Language: en\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 4.17\n"
 "language: en\n"
 "plural-forms: nplurals = 2; plural = (n !== 1)\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 # Main page title
 msgid "hrUpdate"
@@ -47,7 +47,7 @@ msgid "buttonHelpDescription"
 msgstr "Need help filling this field out? Click for instructions."
 
 msgid "verifyBeforeSubmit"
-msgstr "Please verify all sections before submitting"
+msgstr "Please verify all sections before submitting."
 
 msgid "submit"
 msgstr "Submit"
@@ -62,7 +62,7 @@ msgid "thankYou"
 msgstr "Thank you"
 
 msgid "thankYouDescription"
-msgstr "Your information has been submitted"
+msgstr "Your information has been submitted."
 
 msgid "ok"
 msgstr "OK"
@@ -108,7 +108,7 @@ msgstr "Title"
 
 # Not used
 msgid "titlePlaceholder"
-msgstr "ex: Mr. Mrs. Ms. etc."
+msgstr "ex: Mr. Mrs. Miss. etc."
 
 msgid "gender"
 msgstr "Gender"
@@ -191,7 +191,7 @@ msgstr "Type the name of your supervisor in the Search window."
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
-msgstr "We're still getting your Netsuite Id, please wait"
+msgstr "We're still getting your Netsuite Id, please wait."
 
 msgid "supervisorPopupRenderMin5chars"
 msgstr "5 letters are enough to begin the search."
@@ -283,7 +283,7 @@ msgstr "Your ID expiration date"
 
 # Not used
 msgid "expirationDateText"
-msgstr "Your ID has expired"
+msgstr "Your ID has expired."
 
 # Not used
 msgid "emergencyContact"
