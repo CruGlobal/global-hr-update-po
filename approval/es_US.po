@@ -1,2 +1,483 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-19 22:43+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Spanish (American) <https://alltongues.org/projects/"
+"netsuite-hr-update-app/approval-app/es_US/>\n"
+"Language: es_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17\n"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "Descripción de su puesto"
+
+msgid "Select Entity"
+msgstr "Seleccionar entidad"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Hay varios registros que coinciden con su dirección de correo electrónico. "
+"Por favor, elija el que desea actualizar."
+
+# Main page title
+msgid "hrUpdate"
+msgstr "Actualización de RRHH"
+
+# Not used
+msgid "officePhone"
+msgstr "Teléfono de la oficina"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Número de teléfono de su oficina"
+
+# Not used
+msgid "contactInformation"
+msgstr "Información de contacto"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Dirección permanente"
+
+# Not used
+msgid "label"
+msgstr "Etiqueta"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ex: Domicilio"
+
+# Not used
+msgid "attention"
+msgstr "Atención"
+
+# Not used
+msgid "address"
+msgstr "Dirección"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Su dirección (pueden ser varias líneas)"
+
+# Not used
+msgid "city"
+msgstr "Ciudad"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Tu ciudad"
+
+# Not used
+msgid "stateProvince"
+msgstr "Estado/Provincia"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Su estado/provincia"
+
+# Not used
+msgid "zip"
+msgstr "Código postal"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Su código postal"
+
+# Not used
+msgid "country"
+msgstr "País"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Su país"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Dirección de envío"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "igual que permanente"
+
+# Not used
+msgid "jobTitle"
+msgstr "Puesto"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "Su cargo"
+
+# Not used
+msgid "jobDescription"
+msgstr "Descripción del puesto"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Dirección completa del contacto"
+
+# Not used
+msgid "phone"
+msgstr "Teléfono"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Número de teléfono del contacto"
+
+# Not used
+msgid "educationInformation"
+msgstr "Información sobre educación"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Nivel de estudios"
+
+# Not used
+msgid "degree"
+msgstr "Titulación"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Nombre de su titulación"
+
+# Not used
+msgid "dateConferred"
+msgstr "Fecha de concesión"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Su fecha de concesión"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Te graduaste cuando tenías"
+
+# Not used
+msgid "email"
+msgstr "Correo electrónico"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "Su dirección de correo electrónico"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Teléfono móvil"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Su número de teléfono móvil"
+
+# Not used
+msgid "homePhone"
+msgstr "Teléfono de casa"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Su número de teléfono particular"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ex: Atención John Doe"
+
+msgid "entityNotice"
+msgstr ""
+"Los datos a continuación reflejan el estado actual de los datos en Netsuite. "
+"Los envíos anteriores que aún no hayan sido aprobados por los Generalistas "
+"Nacionales de RRHH no se reflejarán a continuación."
+
+msgid "help"
+msgstr "Ayuda"
+
+msgid "logout"
+msgstr "Cierre de sesión"
+
+msgid "chooseAnOption"
+msgstr "Elija una opción"
+
+msgid "currentValue"
+msgstr "Valor actual"
+
+msgid "requestValue"
+msgstr "Valor solicitado"
+
+msgid "sorry"
+msgstr "Lo siento"
+
+msgid "error"
+msgstr "Error"
+
+msgid "verify"
+msgstr "Verifico que todos los campos anteriores son correctos."
+
+msgid "buttonHelpDescription"
+msgstr ""
+"¿Necesita ayuda para rellenar este campo? Haga clic para obtener "
+"instrucciones."
+
+msgid "verifyBeforeSubmit"
+msgstr "Compruebe todas las secciones antes de enviar el formulario"
+
+msgid "submit"
+msgstr "Enviar"
+
+msgid "sending"
+msgstr "Envío de"
+
+msgid "sent"
+msgstr "Enviado"
+
+msgid "thankYou"
+msgstr "Gracias"
+
+msgid "thankYouDescription"
+msgstr "Su información ha sido enviada"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "personalDetails"
+msgstr "Datos personales"
+
+msgid "firstName"
+msgstr "Nombre"
+
+msgid "firstNamePlaceholder"
+msgstr "Su nombre"
+
+msgid "preferredName"
+msgstr "Nombre preferido"
+
+msgid "preferredNamePlaceholder"
+msgstr "Su nombre preferido (opcional)"
+
+msgid "middleName"
+msgstr "Segundo nombre"
+
+msgid "middleNamePlaceholder"
+msgstr "Su segundo nombre (opcional)"
+
+msgid "lastName"
+msgstr "Apellido"
+
+msgid "lastNamePlaceholder"
+msgstr "Su apellido"
+
+# Not used
+msgid "secondLastName"
+msgstr "Segundo apellido"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Su segundo apellido"
+
+# Not used
+msgid "title"
+msgstr "Título"
+
+msgid "gender"
+msgstr "Género"
+
+msgid "birthDate"
+msgstr "Fecha de nacimiento"
+
+msgid "birthDatePlaceholder"
+msgstr "Su fecha de nacimiento"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Actualmente <strong>un</strong> año de edad"
+msgstr[1] "Actualmente tienes <strong>%d</strong> años"
+
+msgid "familyInformation"
+msgstr "Información sobre la familia"
+
+msgid "staffUnit"
+msgstr "Unidad de Personal"
+
+msgid "staffUnitPlaceholder"
+msgstr "Apellidos, Nombre o Apellidos, Nombre y Apellido."
+
+msgid "maritalStatus"
+msgstr "Estado civil"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Seleccione su estado civil"
+
+msgid "staffSpouse"
+msgstr "Personal Cónyuge"
+
+msgid "staffSpousePlaceholder"
+msgstr "Nombre de su cónyuge"
+
+msgid "workforceInformation"
+msgstr "Información sobre la mano de obra"
+
+msgid "geographicAreaOfService"
+msgstr "Área geográfica de servicio"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Región en la que presta servicio"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ex: Sr. Sra. Srta. etc."
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Pagado por el ministerio/entidad local"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Estrategia / Capacidad (Departamento de RRHH en Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "Estado de la organización"
+
+msgid "positionRole"
+msgstr "Cargo"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Alcance"
+
+msgid "fundingSource"
+msgstr "Fuente de financiación"
+
+msgid "jobInformation"
+msgstr "Información sobre el puesto"
+
+msgid "supervisor"
+msgstr "Supervisor"
+
+msgid "supervisorDescription"
+msgstr ""
+"¿Quién en %s aprueba sus Informes de Gastos?  Si no está seguro o es "
+"extranjero, elija al Jefe Nacional de Operaciones o consulte con el Equipo "
+"Nacional de Finanzas."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Escriba el nombre de su supervisor en la ventana de búsqueda."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Todavía estamos recibiendo su Id de Netsuite, por favor espere"
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 letras son suficientes para iniciar la búsqueda."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Busca…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Cancelar"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "buscando en"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"La sesión web ha expirado. Vuelva a cargar la página para volver a "
+"autenticarse."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Nota del supervisor"
+
+msgid "hireDate"
+msgstr "Fecha de contratación"
+
+msgid "approveChange"
+msgstr "Aprobar el cambio"
+
+msgid "approve"
+msgstr "Aprobar"
+
+msgid "delete"
+msgstr "Borrar"
+
+msgid "deleting"
+msgstr "Borrado de"
+
+msgid "deleted"
+msgstr "Suprimido"
+
+msgid "type"
+msgstr "Tipo"
+
+msgid "number"
+msgstr "Número"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Equivalente a tiempo completo (ETC)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Motivo del cese"
+
+msgid "inactive"
+msgstr "Inactivo"
+
+# Not used
+msgid "terminationDate"
+msgstr "Fecha de finalización"
+
+# Not used
+msgid "governmentID"
+msgstr "Identificación del Gobierno"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Su número de identificación oficial"
+
+# Not used
+msgid "issueDate"
+msgstr "Fecha de publicación"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Fecha de expedición de su DNI"
+
+# Not used
+msgid "expirationDate"
+msgstr "Fecha de expiración"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Fecha de caducidad de su DNI"
+
+# Not used
+msgid "expirationDateText"
+msgstr "Su DNI ha caducado"
+
+# Not used
+msgid "emergencyContact"
+msgstr "Contacto en caso de emergencia"
+
+# Not used
+msgid "name"
+msgstr "Nombre"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Nombre completo del contacto"
+
+# Not used
+msgid "relationship"
+msgstr "Relación"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "La relación de esta persona con usted"
