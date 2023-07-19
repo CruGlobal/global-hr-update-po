@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 22:45+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-07-19 22:56+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Korean <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ko/>\n"
 "Language: ko\n"
@@ -120,8 +120,8 @@ msgstr "이메일 주소와 일치하는 레코드가 여러 개 있습니다. �
 
 msgid "entityNotice"
 msgstr ""
-"아래 데이터는 Netsuite의 현재 데이터 상태를 반영합니다. National HR "
-"Generalists가 아직 승인하지 않은 이전 제출물은 아래에 반영되지 않습니다."
+"아래 데이터는 Netsuite의 현재 데이터 상태를 반영합니다. 아직 국가 인사 "
+"총책임자의 승인을 받지 않은 이전 제출물은 아래에 반영되지 않습니다."
 
 msgid "help"
 msgstr "도움말"
@@ -212,7 +212,7 @@ msgstr "제목"
 
 # Not used
 msgid "titlePlaceholder"
-msgstr "ex: 미스터 부인 등"
+msgstr "ex: 미스터 미스터 미스 등"
 
 msgid "gender"
 msgstr "성별"
@@ -319,7 +319,7 @@ msgstr "검색 창에 상사의 이름을 입력합니다."
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
-msgstr "아직 Netsuite ID를 받는 중입니다. 잠시만 기다려주세요."
+msgstr "아직 Netsuite ID를 받는 중이니 잠시만 기다려 주세요."
 
 msgid "supervisorPopupRenderMin5chars"
 msgstr "검색을 시작하려면 5글자로 충분합니다."
