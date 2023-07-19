@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 22:43+0000\n"
+"PO-Revision-Date: 2023-07-19 22:45+0000\n"
 "Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Spanish (American) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/approval-app/es_US/>\n"
