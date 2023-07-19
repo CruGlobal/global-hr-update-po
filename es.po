@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 22:45+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-07-19 22:56+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/es/>\n"
 "Language: es\n"
@@ -155,7 +155,7 @@ msgstr ""
 "instrucciones."
 
 msgid "verifyBeforeSubmit"
-msgstr "Compruebe todas las secciones antes de enviar el formulario"
+msgstr "Compruebe todas las secciones antes de enviar el formulario."
 
 msgid "submit"
 msgstr "Enviar"
@@ -167,7 +167,7 @@ msgid "sent"
 msgstr "Enviado"
 
 msgid "thankYouDescription"
-msgstr "Su información ha sido enviada"
+msgstr "Su información ha sido enviada."
 
 msgid "ok"
 msgstr "OK"
@@ -213,7 +213,7 @@ msgstr "Título"
 
 # Not used
 msgid "titlePlaceholder"
-msgstr "Ej: Sr., Sra., Srta., etc."
+msgstr "ex: Sr. Sra. Srta. etc."
 
 msgid "gender"
 msgstr "Género"
@@ -299,7 +299,7 @@ msgstr "Escriba el nombre de su supervisor en la ventana de búsqueda."
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
-msgstr "Todavía estamos recibiendo su Id de Netsuite, por favor espere"
+msgstr "Todavía estamos recibiendo su Id de Netsuite, por favor espere."
 
 msgid "supervisorPopupRenderMin5chars"
 msgstr "5 letras son suficientes para iniciar la búsqueda."
@@ -393,7 +393,7 @@ msgstr "Fecha de caducidad de su DNI"
 
 # Not used
 msgid "expirationDateText"
-msgstr "Su DNI ha caducado"
+msgstr "Su DNI ha caducado."
 
 # Not used
 msgid "emergencyContact"
