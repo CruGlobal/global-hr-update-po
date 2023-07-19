@@ -1,2 +1,474 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-19 22:43+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Korean <https://alltongues.org/projects/"
+"netsuite-hr-update-app/approval-app/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
+
+msgid "Select Entity"
+msgstr "엔티티 선택"
+
+msgid "selectEntityInstructions"
+msgstr "이메일 주소와 일치하는 레코드가 여러 개 있습니다. 업데이트할 기록을 선택해 "
+"주세요."
+
+# Main page title
+msgid "hrUpdate"
+msgstr "인사 업데이트"
+
+# Not used
+msgid "terminationReason"
+msgstr "해지 사유"
+
+msgid "inactive"
+msgstr "비활성"
+
+# Not used
+msgid "terminationDate"
+msgstr "종료 날짜"
+
+# Not used
+msgid "governmentID"
+msgstr "정부 ID"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "정부 ID 번호"
+
+# Not used
+msgid "issueDate"
+msgstr "발행 날짜"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "ID 발급 날짜"
+
+# Not used
+msgid "expirationDate"
+msgstr "만료 날짜"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "ID 만료일"
+
+# Not used
+msgid "expirationDateText"
+msgstr "아이디가 만료되었습니다."
+
+# Not used
+msgid "emergencyContact"
+msgstr "비상 연락처"
+
+# Not used
+msgid "name"
+msgstr "이름"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "연락처의 전체 이름"
+
+# Not used
+msgid "relationship"
+msgstr "관계"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "이 사람과 나와의 관계"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "연락처의 전체 주소"
+
+# Not used
+msgid "phone"
+msgstr "전화"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "연락처의 전화번호"
+
+# Not used
+msgid "educationInformation"
+msgstr "교육 정보"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "교육 수준"
+
+# Not used
+msgid "degree"
+msgstr "학위"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "학위 이름"
+
+# Not used
+msgid "dateConferred"
+msgstr "부여 날짜"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "부여된 날짜"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "다음과 같은 나이에 졸업했습니다."
+
+# Not used
+msgid "email"
+msgstr "이메일"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "이메일 주소"
+
+# Not used
+msgid "mobilePhone"
+msgstr "휴대폰"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "휴대폰 번호"
+
+# Not used
+msgid "homePhone"
+msgstr "집 전화"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "집 전화번호"
+
+# Not used
+msgid "officePhone"
+msgstr "사무실 전화"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "사무실 전화번호"
+
+# Not used
+msgid "contactInformation"
+msgstr "연락처 정보"
+
+# Not used
+msgid "permanentAddress"
+msgstr "영구 주소"
+
+# Not used
+msgid "label"
+msgstr "라벨"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "예: 집 주소"
+
+# Not used
+msgid "attention"
+msgstr "주의"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ex: Attn 신원 미상인"
+
+# Not used
+msgid "address"
+msgstr "주소"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "주소(여러 줄로 입력 가능)"
+
+# Not used
+msgid "city"
+msgstr "도시"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "귀하의 도시"
+
+# Not used
+msgid "stateProvince"
+msgstr "주/시/도"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "해당 주/도"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "우편 번호"
+
+# Not used
+msgid "country"
+msgstr "국가"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "귀하의 국가"
+
+# Not used
+msgid "shippingAddress"
+msgstr "배송 주소"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "영구와 동일"
+
+# Not used
+msgid "jobTitle"
+msgstr "직책"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "직책"
+
+# Not used
+msgid "jobDescription"
+msgstr "직무 설명"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "직무 설명"
+
+msgid "help"
+msgstr "도움말"
+
+msgid "logout"
+msgstr "로그아웃"
+
+msgid "chooseAnOption"
+msgstr "옵션 선택"
+
+msgid "currentValue"
+msgstr "현재 값"
+
+msgid "requestValue"
+msgstr "요청된 값"
+
+msgid "sorry"
+msgstr "죄송합니다"
+
+msgid "error"
+msgstr "오류"
+
+msgid "verify"
+msgstr "위의 모든 필드가 정확한지 확인합니다."
+
+msgid "buttonHelpDescription"
+msgstr "이 입력란을 작성하는 데 도움이 필요하신가요? 클릭하여 지침을 확인하세요."
+
+msgid "verifyBeforeSubmit"
+msgstr "제출하기 전에 모든 섹션을 확인하시기 바랍니다."
+
+msgid "submit"
+msgstr "제출"
+
+msgid "sending"
+msgstr "보내기"
+
+msgid "sent"
+msgstr "보낸"
+
+msgid "thankYou"
+msgstr "감사합니다"
+
+msgid "thankYouDescription"
+msgstr "귀하의 정보가 제출되었습니다."
+
+msgid "ok"
+msgstr "확인"
+
+msgid "personalDetails"
+msgstr "개인 정보"
+
+msgid "firstName"
+msgstr "이름"
+
+msgid "firstNamePlaceholder"
+msgstr "이름"
+
+msgid "preferredName"
+msgstr "기본 이름"
+
+msgid "preferredNamePlaceholder"
+msgstr "선호하는 이름(선택 사항)"
+
+msgid "middleName"
+msgstr "중간 이름"
+
+msgid "middleNamePlaceholder"
+msgstr "중간 이름(선택 사항)"
+
+msgid "lastName"
+msgstr "성"
+
+msgid "lastNamePlaceholder"
+msgstr "성"
+
+# Not used
+msgid "secondLastName"
+msgstr "두 번째 성"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "두 번째 성"
+
+# Not used
+msgid "title"
+msgstr "제목"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ex: 미스터 부인 등"
+
+msgid "gender"
+msgstr "성별"
+
+msgid "birthDate"
+msgstr "생년월일"
+
+msgid "birthDatePlaceholder"
+msgstr "생년월일"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "현재 <strong>%d</strong> 세입니다."
+
+msgid "familyInformation"
+msgstr "가족 정보"
+
+msgid "staffUnit"
+msgstr "직원 단위"
+
+msgid "staffUnitPlaceholder"
+msgstr "성, 성 또는 성, 그의성, 그녀의성."
+
+msgid "maritalStatus"
+msgstr "결혼 여부"
+
+msgid "maritalStatusPlaceholder"
+msgstr "무술 상태 선택"
+
+msgid "staffSpouse"
+msgstr "직원 배우자"
+
+msgid "staffSpousePlaceholder"
+msgstr "배우자 이름"
+
+msgid "workforceInformation"
+msgstr "인력 정보"
+
+msgid "geographicAreaOfService"
+msgstr "서비스 지역"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "서비스를 제공하는 지역"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "현지 부처/기관에서 지불"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "전략/역량(넷스위트 내 HR 부서)"
+
+msgid "organizationalStatus"
+msgstr "조직 상태"
+
+msgid "positionRole"
+msgstr "직위/역할"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "범위"
+
+msgid "fundingSource"
+msgstr "자금 출처"
+
+msgid "jobInformation"
+msgstr "채용 정보"
+
+msgid "supervisor"
+msgstr "감독자"
+
+msgid "supervisorDescription"
+msgstr "누가 경비 보고서를 승인하나요?  잘 모르거나 외국인인 경우, 국가 운영 리더를 "
+"선택하거나 국가 재무팀에 문의하세요."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "검색 창에 상사의 이름을 입력합니다."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "아직 Netsuite ID를 받는 중입니다. 잠시만 기다려주세요."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "검색을 시작하려면 5글자로 충분합니다."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "검색…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "취소"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "닫기"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "검색"
+
+msgid "supervisorPopupAlertSorry"
+msgstr "웹 세션 시간이 초과되었습니다. 다시 인증하려면 페이지를 새로고침하세요."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "감독자 참고 사항"
+
+msgid "hireDate"
+msgstr "입사한 날짜"
+
+msgid "approveChange"
+msgstr "변경 승인"
+
+msgid "approve"
+msgstr "승인"
+
+msgid "delete"
+msgstr "삭제"
+
+msgid "deleting"
+msgstr "삭제"
+
+msgid "deleted"
+msgstr "삭제됨"
+
+msgid "type"
+msgstr "유형"
+
+msgid "number"
+msgstr "번호"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "풀타임 등가물(FTE)"
+
+msgid "entityNotice"
+msgstr ""
+"아래 데이터는 Netsuite의 현재 데이터 상태를 반영합니다. National HR "
+"Generalists가 아직 승인하지 않은 이전 제출물은 아래에 반영되지 않습니다."
