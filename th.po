@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-12 08:47+0000\n"
+"PO-Revision-Date: 2023-07-19 22:56+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
@@ -32,7 +32,7 @@ msgstr "พิมพ์ชื่อหัวหน้างานของคุ
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
-msgstr "เรากำลังรับ Netsuite Id ของคุณ โปรดรอสักครู่"
+msgstr "เรายังได้รับรหัส Netsuite ของคุณ โปรดรอสักครู่"
 
 msgid "supervisorPopupRenderMin5chars"
 msgstr "5 ตัวอักษรก็เพียงพอที่จะเริ่มการค้นหา"
@@ -116,7 +116,7 @@ msgstr ""
 "ต้องการความช่วยเหลือในการกรอกข้อมูลในฟิลด์นี้หรือไม่? คลิกเพื่อดูคำแนะนำ"
 
 msgid "verifyBeforeSubmit"
-msgstr "โปรดยืนยันข้อมูลทั้งหมดก่อนทำการส่ง"
+msgstr "โปรดตรวจสอบทุกส่วนก่อนส่ง"
 
 msgid "sending"
 msgstr "กำลังส่ง"
@@ -128,7 +128,7 @@ msgid "thankYou"
 msgstr "ขอบคุณ"
 
 msgid "thankYouDescription"
-msgstr "ข้อมูลของคุณถูกส่งแล้ว"
+msgstr "ส่งข้อมูลของคุณแล้ว"
 
 msgid "ok"
 msgstr "ตกลง"
