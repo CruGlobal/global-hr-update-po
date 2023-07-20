@@ -1,2 +1,483 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-20 23:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Russian <https://alltongues.org/projects/"
+"netsuite-hr-update-app/approval-app/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.17\n"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "Обновление кадрового состава"
+
+msgid "error"
+msgstr "Ошибка"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "jobInformation"
+msgstr "Информация о работе"
+
+# Not used
+msgid "country"
+msgstr "Страна"
+
+msgid "entityNotice"
+msgstr ""
+"Приведенные ниже данные отражают текущее состояние данных в Netsuite. "
+"Данные, представленные ранее и еще не утвержденные национальными HR-"
+"специалистами, не будут отражены ниже."
+
+msgid "help"
+msgstr "Справка"
+
+msgid "logout"
+msgstr "Выход из системы"
+
+msgid "chooseAnOption"
+msgstr "Выберите вариант"
+
+msgid "currentValue"
+msgstr "Текущая стоимость"
+
+msgid "requestValue"
+msgstr "Запрашиваемое значение"
+
+msgid "sorry"
+msgstr "Извините"
+
+msgid "verify"
+msgstr "Я подтверждаю, что все указанные поля заполнены верно."
+
+msgid "buttonHelpDescription"
+msgstr "Нужна помощь в заполнении этого поля? Нажмите для получения инструкций."
+
+msgid "verifyBeforeSubmit"
+msgstr "Пожалуйста, проверьте все разделы перед отправкой"
+
+msgid "submit"
+msgstr "Отправить"
+
+msgid "sending"
+msgstr "Отправка"
+
+msgid "sent"
+msgstr "Отправлено"
+
+msgid "thankYou"
+msgstr "Спасибо"
+
+msgid "thankYouDescription"
+msgstr "Ваша информация отправлена"
+
+msgid "personalDetails"
+msgstr "Персональные данные"
+
+msgid "firstName"
+msgstr "Имя"
+
+msgid "firstNamePlaceholder"
+msgstr "Ваше имя"
+
+msgid "preferredName"
+msgstr "Предпочитаемое имя"
+
+msgid "preferredNamePlaceholder"
+msgstr "Ваше предпочтительное имя (необязательно)"
+
+msgid "middleName"
+msgstr "Среднее имя"
+
+msgid "middleNamePlaceholder"
+msgstr "Ваше второе имя (необязательно)"
+
+msgid "lastName"
+msgstr "Фамилия"
+
+msgid "lastNamePlaceholder"
+msgstr "Ваша фамилия"
+
+# Not used
+msgid "secondLastName"
+msgstr "Вторая фамилия"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Ваша вторая фамилия"
+
+# Not used
+msgid "title"
+msgstr "Название"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "пример: Mr. Mrs. Miss. и т.д."
+
+msgid "gender"
+msgstr "Гендер"
+
+msgid "birthDate"
+msgstr "Дата рождения"
+
+msgid "birthDatePlaceholder"
+msgstr "Дата рождения"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] "В настоящее время Вам <strong>%d</strong> лет."
+
+msgid "familyInformation"
+msgstr "Информация о семье"
+
+msgid "staffUnit"
+msgstr "Штатное подразделение"
+
+msgid "staffUnitPlaceholder"
+msgstr "Surname, GivenName или Surname, HisGivenName и HerGivenName."
+
+msgid "maritalStatus"
+msgstr "Семейное положение"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Выберите свое военное положение"
+
+msgid "staffSpouse"
+msgstr "Супруг сотрудника"
+
+msgid "staffSpousePlaceholder"
+msgstr "Имя вашего супруга"
+
+msgid "workforceInformation"
+msgstr "Информация о трудовых ресурсах"
+
+msgid "geographicAreaOfService"
+msgstr "Географическая зона обслуживания"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Регион, в котором Вы служите"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Оплачивается местным министерством/организацией"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Стратегия / потенциал (HR-департамент в Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "Организационный статус"
+
+msgid "positionRole"
+msgstr "Должность/Роль"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Область применения"
+
+msgid "fundingSource"
+msgstr "Источник финансирования"
+
+msgid "supervisor"
+msgstr "Руководитель"
+
+msgid "supervisorDescription"
+msgstr ""
+"Кто в %s утверждает ваши отчеты о расходах?  Если вы не знаете точно или "
+"являетесь иностранцем, выберите национального руководителя по операциям или "
+"проконсультируйтесь с национальным финансовым отделом."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Введите имя руководителя в окно поиска."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Мы все еще получаем ваш идентификатор Netsuite, пожалуйста, подождите"
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "Для начала поиска достаточно 5 букв."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Поиск…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Отмена"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "поиск"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"Веб-сессия завершилась по времени. Пожалуйста, перезагрузите страницу для "
+"повторной аутентификации."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Замечание руководителя"
+
+msgid "hireDate"
+msgstr "Дата приема на работу"
+
+msgid "approveChange"
+msgstr "Утвердить изменения"
+
+msgid "approve"
+msgstr "Утвердить"
+
+msgid "delete"
+msgstr "Удалить"
+
+msgid "deleting"
+msgstr "Удаление"
+
+msgid "deleted"
+msgstr "Удалено"
+
+msgid "type"
+msgstr "Тип"
+
+msgid "number"
+msgstr "Номер"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Эквивалент полного рабочего времени (ЭПВ)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Причина увольнения"
+
+msgid "inactive"
+msgstr "Неактивный"
+
+# Not used
+msgid "terminationDate"
+msgstr "Дата прекращения"
+
+# Not used
+msgid "governmentID"
+msgstr "ID государства"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Ваш государственный идентификационный номер"
+
+# Not used
+msgid "issueDate"
+msgstr "Дата выпуска"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Дата выдачи удостоверения личности"
+
+# Not used
+msgid "expirationDate"
+msgstr "Дата истечения срока действия"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Срок действия Вашего удостоверения личности"
+
+# Not used
+msgid "expirationDateText"
+msgstr "Срок действия вашего удостоверения личности истек"
+
+# Not used
+msgid "emergencyContact"
+msgstr "Контактное лицо в чрезвычайных ситуациях"
+
+# Not used
+msgid "name"
+msgstr "Имя"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Полное имя контакта"
+
+# Not used
+msgid "relationship"
+msgstr "Отношения"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "Отношения этого человека с вами"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Полный адрес контактного лица"
+
+# Not used
+msgid "phone"
+msgstr "Телефон"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Номер телефона контактного лица"
+
+# Not used
+msgid "educationInformation"
+msgstr "Информация об образовании"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Уровень образования"
+
+# Not used
+msgid "degree"
+msgstr "Степень"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Название Вашей степени"
+
+# Not used
+msgid "dateConferred"
+msgstr "Дата присвоения"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Дата присвоения звания"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Вы закончили университет, когда вам было"
+
+# Not used
+msgid "email"
+msgstr "E-mail"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "Ваш адрес электронной почты"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Мобильный телефон"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Номер Вашего мобильного телефона"
+
+# Not used
+msgid "homePhone"
+msgstr "Домашний телефон"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Ваш домашний телефонный номер"
+
+# Not used
+msgid "officePhone"
+msgstr "Офисный телефон"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Ваш рабочий телефонный номер"
+
+# Not used
+msgid "contactInformation"
+msgstr "Контактная информация"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Постоянный адрес"
+
+# Not used
+msgid "label"
+msgstr "Название"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ex: Домашний адрес"
+
+# Not used
+msgid "attention"
+msgstr "Внимание"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ex: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "Адрес"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Ваш адрес (может быть несколько строк)"
+
+# Not used
+msgid "city"
+msgstr "Город"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Ваш город"
+
+# Not used
+msgid "stateProvince"
+msgstr "Штат/провинция"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Ваш штат/провинция"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Ваш почтовый индекс"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Ваша страна"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Адрес доставки"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "то же, что и постоянный"
+
+# Not used
+msgid "jobTitle"
+msgstr "Название должности"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "Ваша должность"
+
+# Not used
+msgid "jobDescription"
+msgstr "Описание работы"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "Ваша должностная инструкция"
+
+msgid "Select Entity"
+msgstr "Выберите организацию"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Существует несколько записей, соответствующих вашему адресу электронной "
+"почты. Пожалуйста, выберите ту, которую вы хотите обновить."
