@@ -1,2 +1,482 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Mongolian <https://alltongues.org/projects/"
+"netsuite-hr-update-app/approval-app/mn/>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+# Not used
+msgid "zip"
+msgstr "Зип"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Таны зип код"
+
+# Not used
+msgid "country"
+msgstr "Улс"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Танай улс"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Хүргэлтийн хаяг"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "Хүний нөөцийн шинэчлэл"
+
+msgid "entityNotice"
+msgstr ""
+"Доорх өгөгдөл нь Netsuite дахь өгөгдлийн одоогийн төлөвийг тусгасан болно. "
+"Үндэсний хүний нөөцийн ерөнхий мэргэжилтнүүд хараахан батлагдаагүй өмнөх "
+"мэдүүлгийг доор тусгахгүй."
+
+msgid "help"
+msgstr "Туслаач"
+
+msgid "logout"
+msgstr "Гарах"
+
+msgid "chooseAnOption"
+msgstr "Сонголтыг сонгоно уу"
+
+msgid "currentValue"
+msgstr "Одоогийн үнэ цэнэ"
+
+msgid "requestValue"
+msgstr "Хүссэн үнэ цэнэ"
+
+msgid "sorry"
+msgstr "Уучлаарай"
+
+msgid "error"
+msgstr "Алдаа"
+
+msgid "verify"
+msgstr "Дээрх бүх талбарууд үнэн зөв эсэхийг би баталж байна."
+
+msgid "buttonHelpDescription"
+msgstr ""
+"Энэ талбарыг бөглөхөд тусламж хэрэгтэй байна уу? Зааврыг авах бол товшино уу."
+
+msgid "verifyBeforeSubmit"
+msgstr "Илгээхээсээ өмнө бүх хэсгийг шалгана уу."
+
+msgid "submit"
+msgstr "Илгээх"
+
+msgid "sending"
+msgstr "Илгээж байна"
+
+msgid "sent"
+msgstr "Илгээсэн"
+
+msgid "thankYou"
+msgstr "Баярлалаа"
+
+msgid "thankYouDescription"
+msgstr "Таны мэдээллийг илгээсэн."
+
+msgid "ok"
+msgstr "БОЛЖ БАЙНА УУ"
+
+msgid "personalDetails"
+msgstr "Хувийн мэдээлэл"
+
+msgid "firstName"
+msgstr "Нэр"
+
+msgid "firstNamePlaceholder"
+msgstr "Таны нэр"
+
+msgid "preferredName"
+msgstr "Сонгосон нэр"
+
+msgid "preferredNamePlaceholder"
+msgstr "Таны сонгосон нэр (заавал биш)"
+
+msgid "middleName"
+msgstr "Дунд нэр"
+
+msgid "middleNamePlaceholder"
+msgstr "Таны дунд нэр (заавал биш)"
+
+msgid "lastName"
+msgstr "Овог"
+
+msgid "lastNamePlaceholder"
+msgstr "Таны овог нэр"
+
+# Not used
+msgid "secondLastName"
+msgstr "Хоёр дахь овог нэр"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Таны хоёр дахь овог"
+
+# Not used
+msgid "title"
+msgstr "Гарчиг"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "жишээ нь: Ноён хатагтай Мисс гэх мэт."
+
+msgid "gender"
+msgstr "Хүйс"
+
+msgid "birthDate"
+msgstr "Төрсөн огноо"
+
+msgid "birthDatePlaceholder"
+msgstr "Таны төрсөн огноо"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Та одоогоор <strong>нэг</strong> настай"
+msgstr[1] "Та одоогоор <strong>%d</strong> настай"
+
+msgid "familyInformation"
+msgstr "Гэр бүлийн мэдээлэл"
+
+msgid "staffUnit"
+msgstr "Ажилтны нэгж"
+
+msgid "staffUnitPlaceholder"
+msgstr "Овог, Өгөгдсөн нэр эсвэл Овог, Түүний Өгөгдсөн Нэр, Өгөгдсөн Нэр."
+
+msgid "maritalStatus"
+msgstr "Гэр бүлийн байдал"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Тулааны статусаа сонгоно уу"
+
+msgid "staffSpouse"
+msgstr "Ажилтны эхнэр"
+
+msgid "staffSpousePlaceholder"
+msgstr "Таны эхнэрийн нэр"
+
+msgid "workforceInformation"
+msgstr "Ажиллах хүчний мэдээлэл"
+
+msgid "geographicAreaOfService"
+msgstr "Үйлчилгээний газарзүйн бүс"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Таны үйлчилж буй бүс нутаг"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Орон нутгийн яам/байгууллага төлнө"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Стратеги/чадавхи (Netsuite дахь хүний нөөцийн хэлтэс)"
+
+msgid "organizationalStatus"
+msgstr "Байгууллагын байдал"
+
+msgid "positionRole"
+msgstr "Албан тушаал/Үүрэг"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Хамрах хүрээ"
+
+msgid "fundingSource"
+msgstr "Санхүүжилтийн эх үүсвэр"
+
+msgid "jobInformation"
+msgstr "Ажлын мэдээлэл"
+
+msgid "supervisor"
+msgstr "Удирдагч"
+
+msgid "supervisorDescription"
+msgstr ""
+"Таны зардлын тайланг %s дотор хэн батлах вэ? Хэрэв та итгэлгүй эсвэл "
+"гадаадын иргэн бол Үндэсний үйл ажиллагааны ахлагчийг сонгох эсвэл Үндэсний "
+"санхүүгийн багтай зөвлөлд."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Хайлтын цонхонд удирдагчийнхаа нэрийг бичнэ үү."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Бид таны Netsuite ID-г авсаар байна, түр хүлээнэ үү."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "Хайлтыг эхлүүлэхэд 5 үсэг хангалттай."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Хайх…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Цуцлах"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Хаах"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "хайж байна"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"Вэб сессийн хугацаа дууссан. Дахин баталгаажуулахын тулд хуудсыг дахин "
+"ачаална уу."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Удирдагчийн тэмдэглэл"
+
+msgid "hireDate"
+msgstr "Таны ажилд орсон огноо"
+
+msgid "approveChange"
+msgstr "Өөрчлөлтийг зөвшөөрөх"
+
+msgid "approve"
+msgstr "Зөвшөөрөх"
+
+msgid "delete"
+msgstr "Устгах"
+
+msgid "deleting"
+msgstr "Устгаж байна"
+
+msgid "deleted"
+msgstr "Устгасан"
+
+msgid "type"
+msgstr "Төрөл"
+
+msgid "number"
+msgstr "Тоо"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Бүтэн цагийн эквивалент (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Цуцлах шалтгаан"
+
+msgid "inactive"
+msgstr "Идэвхгүй"
+
+# Not used
+msgid "terminationDate"
+msgstr "Дуусах огноо"
+
+# Not used
+msgid "governmentID"
+msgstr "Засгийн газрын үнэмлэх"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Таны төрийн үнэмлэхний дугаар"
+
+# Not used
+msgid "issueDate"
+msgstr "Гаргасан огноо"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Таны үнэмлэх олгосон огноо"
+
+# Not used
+msgid "expirationDate"
+msgstr "Дуусах огноо"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Таны үнэмлэхний хүчинтэй хугацаа"
+
+# Not used
+msgid "expirationDateText"
+msgstr "Таны үнэмлэхний хугацаа дууссан."
+
+# Not used
+msgid "emergencyContact"
+msgstr "Яаралтай холбоо барих"
+
+# Not used
+msgid "name"
+msgstr "Нэр"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Харилцагчийн бүтэн нэр"
+
+# Not used
+msgid "relationship"
+msgstr "Харилцаа"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "Энэ хүний тантай харилцах харилцаа"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Харилцагчийн бүрэн хаяг"
+
+# Not used
+msgid "phone"
+msgstr "Утас"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Холбоо барих утасны дугаар"
+
+# Not used
+msgid "educationInformation"
+msgstr "Боловсролын мэдээлэл"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Боловсролын түвшин"
+
+# Not used
+msgid "degree"
+msgstr "Зэрэг"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Таны эрдмийн зэрэг нэр"
+
+# Not used
+msgid "dateConferred"
+msgstr "Шийдвэрлэсэн огноо"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Таны зөвшөөрсөн огноо"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Та байхдаа сургуулиа төгссөн"
+
+# Not used
+msgid "email"
+msgstr "И-мэйл"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "Таны и-мэйл хаяг"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Гар утас"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Таны гар утасны дугаар"
+
+# Not used
+msgid "homePhone"
+msgstr "Гэрийн утас"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Таны гэрийн утасны дугаар"
+
+# Not used
+msgid "officePhone"
+msgstr "Оффисын утас"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Таны оффисын утасны дугаар"
+
+# Not used
+msgid "contactInformation"
+msgstr "Холбогдох мэдээлэл"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Байнгын хаяг"
+
+# Not used
+msgid "label"
+msgstr "Шошго"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "Жишээ нь: Гэрийн хаяг"
+
+# Not used
+msgid "attention"
+msgstr "Анхаар"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "Жишээ нь: Аттн Жон Доу"
+
+# Not used
+msgid "address"
+msgstr "Хаяг"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Таны хаяг (олон мөр байж болно)"
+
+# Not used
+msgid "city"
+msgstr "Хот"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Чиний хот"
+
+# Not used
+msgid "stateProvince"
+msgstr "Муж/Аймаг"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Танай муж/аймаг"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "байнгын адил"
+
+# Not used
+msgid "jobTitle"
+msgstr "Албан тушаал"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "Таны ажлын нэр"
+
+# Not used
+msgid "jobDescription"
+msgstr "Ажлын байрны тодорхойлолт"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "Таны ажлын байрны тодорхойлолт"
+
+msgid "Select Entity"
+msgstr "Аж ахуйн нэгжийг сонгоно уу"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Таны имэйл хаягтай таарах олон бичлэг байна. Шинэчлэхийг хүсч буй зүйлээ "
+"сонгоно уу."
