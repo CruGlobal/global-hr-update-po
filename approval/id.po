@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 22:45+0000\n"
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
 "Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Indonesian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/approval-app/id/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 4.18.2\n"
 
 # Not used
 msgid "homePhone"
@@ -35,7 +35,7 @@ msgid "requestValue"
 msgstr "Nilai yang Diminta"
 
 msgid "sorry"
-msgstr "Maaf."
+msgstr "Maaf"
 
 msgid "error"
 msgstr "Kesalahan"
@@ -56,7 +56,7 @@ msgid "sent"
 msgstr "Terkirim"
 
 msgid "thankYou"
-msgstr "Terima kasih."
+msgstr "Terima kasih"
 
 # Not used
 msgid "zipPlaceholder"
@@ -102,10 +102,10 @@ msgid "hrUpdate"
 msgstr "Pembaruan SDM"
 
 msgid "verifyBeforeSubmit"
-msgstr "Harap verifikasi semua bagian sebelum mengirimkan"
+msgstr "Harap verifikasi semua bagian sebelum mengirimkan."
 
 msgid "thankYouDescription"
-msgstr "Informasi Anda telah dikirimkan"
+msgstr "Informasi Anda telah dikirimkan."
 
 msgid "ok"
 msgstr "BAIKLAH."
@@ -403,7 +403,7 @@ msgstr "Tanggal kedaluwarsa ID Anda"
 
 # Not used
 msgid "expirationDateText"
-msgstr "ID Anda telah kedaluwarsa"
+msgstr "ID Anda telah kedaluwarsa."
 
 # Not used
 msgid "emergencyContact"
