@@ -1,2 +1,481 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Sinhala <https://alltongues.org/projects/"
+"netsuite-hr-update-app/approval-app/si/>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+# Not used
+msgid "country"
+msgstr "රට"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "ඔබගේ රට"
+
+# Not used
+msgid "shippingAddress"
+msgstr "බෙදාහැරීමේ ලිපිනය"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "ස්ථිර ලෙසම"
+
+# Not used
+msgid "jobTitle"
+msgstr "රැකියා තනතුර"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "ඔබේ රැකියා මාතෘකාව"
+
+# Not used
+msgid "jobDescription"
+msgstr "රැකියා විස්තරය"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "ඔබේ රැකියා විස්තරය"
+
+msgid "Select Entity"
+msgstr "ආයතනය තෝරන්න"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"ඔබගේ ඊමේල් ලිපිනයට ගැළපෙන වාර්තා කිහිපයක් තිබේ. කරුණාකර ඔබ යාවත්කාලීන කිරීමට "
+"කැමති එකක් තෝරන්න."
+
+msgid "ok"
+msgstr "හරි"
+
+msgid "personalDetails"
+msgstr "පුද්ගලික තොරතුරු"
+
+msgid "firstName"
+msgstr "මුල් නම"
+
+msgid "firstNamePlaceholder"
+msgstr "ඔයාගේ මුල් නම"
+
+msgid "preferredName"
+msgstr "කැමති නම"
+
+msgid "preferredNamePlaceholder"
+msgstr "ඔබ කැමති නම (විකල්ප)"
+
+msgid "middleName"
+msgstr "මැද නම"
+
+msgid "middleNamePlaceholder"
+msgstr "ඔබේ මැද නම (විකල්ප)"
+
+msgid "lastName"
+msgstr "අවසන් නම"
+
+msgid "lastNamePlaceholder"
+msgstr "ඔබගේ අවසාන නම"
+
+# Not used
+msgid "secondLastName"
+msgstr "දෙවන අවසාන නම"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "ඔබේ දෙවන අවසාන නම"
+
+# Not used
+msgid "title"
+msgstr "ශීර්ෂය"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "උදා: මිසිස් මිස් යනාදිය."
+
+msgid "gender"
+msgstr "ස්ත්රී පුරුෂ භාවය"
+
+msgid "birthDate"
+msgstr "උපන් දිනය"
+
+msgid "birthDatePlaceholder"
+msgstr "ඔබේ උපන් දිනය"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] ""
+msgstr[1] "ඔබට දැනට වයස අවුරුදු <strong>%d</strong> වේ"
+
+msgid "familyInformation"
+msgstr "පවුලේ තොරතුරු"
+
+msgid "staffUnit"
+msgstr "කාර්ය මණ්ඩල ඒකකය"
+
+msgid "staffUnitPlaceholder"
+msgstr "වාසගම, ලබා දී ඇති නම හෝ වාසගම, HisGivenname සහ HerGivenname."
+
+msgid "maritalStatus"
+msgstr "විවාහක අවිවාහක බව"
+
+msgid "maritalStatusPlaceholder"
+msgstr "ඔබේ සටන් තත්ත්වය තෝරන්න"
+
+msgid "staffSpouse"
+msgstr "කාර්ය මණ්ඩල කලත්රයා"
+
+msgid "staffSpousePlaceholder"
+msgstr "ඔබේ සහකරු හෝ සහකාරියගේ නම"
+
+msgid "workforceInformation"
+msgstr "ශ්රම බලකායේ තොරතුරු"
+
+msgid "geographicAreaOfService"
+msgstr "සේවා භූගෝලීය ප්රදේශය"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "ඔබ සේවය කරන කලාපය"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "ප්‍රාදේශීය අමාත්‍යාංශය/ ආයතනය විසින් ගෙවනු ලැබේ"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "උපායමාර්ගය / ධාරිතාව (Netsuite හි මානව සම්පත් දෙපාර්තමේන්තුව)"
+
+msgid "organizationalStatus"
+msgstr "ආයතනික තත්ත්වය"
+
+msgid "positionRole"
+msgstr "තනතුර / භූමිකාව"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "විෂය පථය"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "සම්බන්ධතා සම්පූර්ණ ලිපිනය"
+
+# Not used
+msgid "phone"
+msgstr "දුරකථන"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "මානව සම්පත් යාවත්කාලීන කිරීම"
+
+msgid "fundingSource"
+msgstr "අරමුදල් මූලාශ්රය"
+
+msgid "jobInformation"
+msgstr "රැකියා තොරතුරු"
+
+msgid "supervisor"
+msgstr "සුපරීක්ෂක"
+
+# Not used
+msgid "homePhone"
+msgstr "නිවසේ දුරකථනය"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "ඔබගේ නිවසේ දුරකථන අංකය"
+
+# Not used
+msgid "officePhone"
+msgstr "කාර්යාල දුරකථනය"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "ඔබගේ කාර්යාල දුරකථන අංකය"
+
+# Not used
+msgid "contactInformation"
+msgstr "සබඳතා තොරතුරු"
+
+# Not used
+msgid "permanentAddress"
+msgstr "ස්ථීර ලිපිනය"
+
+# Not used
+msgid "label"
+msgstr "ලේබලය"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "උදා: නිවසේ ලිපිනය"
+
+# Not used
+msgid "attention"
+msgstr "අවධානය"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "උදා: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "ලිපිනය"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "ඔබගේ ලිපිනය (පේළි කිහිපයක් විය හැක)"
+
+# Not used
+msgid "city"
+msgstr "නගරය"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "ඔබේ නගරය"
+
+# Not used
+msgid "stateProvince"
+msgstr "ප්රාන්තය/පළාත"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "ඔබේ ප්‍රාන්තය/පළාත"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "ඔබගේ zip කේතය"
+
+msgid "entityNotice"
+msgstr ""
+"පහත දත්ත Netsuite හි වත්මන් දත්ත තත්ත්වය පිළිබිඹු කරයි. ජාතික මානව සම්පත් "
+"සාමාන්‍යවේදීන් විසින් තවමත් අනුමත කර නොමැති පෙර ඉදිරිපත් කිරීම් පහතින් "
+"පිළිබිඹු නොවේ."
+
+msgid "help"
+msgstr "උදව්"
+
+msgid "logout"
+msgstr "පිටවීම"
+
+msgid "chooseAnOption"
+msgstr "විකල්පයක් තෝරන්න"
+
+msgid "currentValue"
+msgstr "වත්මන් වටිනාකම"
+
+msgid "requestValue"
+msgstr "ඉල්ලූ වටිනාකම"
+
+msgid "sorry"
+msgstr "සමාවන්න"
+
+msgid "error"
+msgstr "දෝෂයකි"
+
+msgid "verify"
+msgstr "ඉහත සියලුම ක්ෂේත්‍ර නිවැරදි බව මම තහවුරු කරමි."
+
+msgid "buttonHelpDescription"
+msgstr "මෙම ක්ෂේත්‍රය පිරවීමට උදවු අවශ්‍යද? උපදෙස් සඳහා ක්ලික් කරන්න."
+
+msgid "verifyBeforeSubmit"
+msgstr "කරුණාකර ඉදිරිපත් කිරීමට පෙර සියලුම කොටස් සත්‍යාපනය කරන්න."
+
+msgid "submit"
+msgstr "ඉදිරිපත් කරන්න"
+
+msgid "sending"
+msgstr "යවනවා"
+
+msgid "sent"
+msgstr "යවා ඇත"
+
+msgid "thankYou"
+msgstr "ඔයාට ස්තූතියි"
+
+msgid "thankYouDescription"
+msgstr "ඔබගේ තොරතුරු ඉදිරිපත් කර ඇත."
+
+msgid "supervisorDescription"
+msgstr ""
+"%s හි ඔබගේ වියදම් වාර්තා අනුමත කරන්නේ කවුද? ඔබට විශ්වාස නැතිනම් හෝ "
+"විදේශිකයෙක් නම්, ජාතික මෙහෙයුම් නායකයා තෝරාගන්න හෝ ජාතික මූල්‍ය කණ්ඩායම සමඟ "
+"සාකච්ඡා කරන්න."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "සෙවුම් කවුළුවේ ඔබේ අධීක්ෂකගේ නම ටයිප් කරන්න."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "අපි තවමත් ඔබේ Netsuite Id ලබා ගනිමින් සිටිමු, කරුණාකර රැඳී සිටින්න."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "සෙවීම ආරම්භ කිරීමට අකුරු 5 ක් ප්රමාණවත්ය."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "සෙවීම…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "අවලංගු කරන්න"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "වසන්න"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "සොයමින්"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"වෙබ් සැසිය කල් ඉකුත් වී ඇත. කරුණාකර නැවත සත්‍යාපනය කිරීමට පිටුව නැවත පූරණය "
+"කරන්න."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "අධීක්ෂක සටහන"
+
+msgid "hireDate"
+msgstr "ඔබ කුලියට ගත් දිනය"
+
+msgid "approveChange"
+msgstr "වෙනස් කිරීම අනුමත කරන්න"
+
+msgid "approve"
+msgstr "අනුමත කරන්න"
+
+msgid "delete"
+msgstr "මකන්න"
+
+msgid "deleting"
+msgstr "මකා දැමීම"
+
+msgid "deleted"
+msgstr "මකා දමන ලදී"
+
+msgid "type"
+msgstr "ටයිප් කරන්න"
+
+msgid "number"
+msgstr "අංකය"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "පූර්ණ කාලීන සමාන (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "අවසන් කිරීමේ හේතුව"
+
+msgid "inactive"
+msgstr "අක්රියයි"
+
+# Not used
+msgid "terminationDate"
+msgstr "අවසන් කිරීමේ දිනය"
+
+# Not used
+msgid "governmentID"
+msgstr "රජයේ හැඳුනුම්පත"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "ඔබගේ රජයේ හැඳුනුම්පත අංකය"
+
+# Not used
+msgid "issueDate"
+msgstr "නිකුත් කරන දිනය"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "ඔබගේ හැඳුනුම්පත නිකුත් කරන දිනය"
+
+# Not used
+msgid "expirationDate"
+msgstr "කල්පිරෙන දිනය"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "ඔබගේ හැඳුනුම්පත කල් ඉකුත්වන දිනය"
+
+# Not used
+msgid "expirationDateText"
+msgstr "ඔබගේ හැඳුනුම්පත කල් ඉකුත් වී ඇත."
+
+# Not used
+msgid "emergencyContact"
+msgstr "හදිසි ඇමතුම්"
+
+# Not used
+msgid "name"
+msgstr "නම"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "සම්බන්ධතාවයේ සම්පූර්ණ නම"
+
+# Not used
+msgid "relationship"
+msgstr "සම්බන්ධතාවය"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "මෙම පුද්ගලයා ඔබ සමඟ ඇති සම්බන්ධය"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "සම්බන්ධතා දුරකථන අංකය"
+
+# Not used
+msgid "educationInformation"
+msgstr "අධ්යාපනික තොරතුරු"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "අධ්යාපන මට්ටම"
+
+# Not used
+msgid "degree"
+msgstr "උපාධිය"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "ඔබේ උපාධියේ නම"
+
+# Not used
+msgid "dateConferred"
+msgstr "ලබා දුන් දිනය"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "ඔබ ලබා දුන් දිනය"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "ඔබ උපාධිය ලබාගත්තේ ඔබ සිටියදීය"
+
+# Not used
+msgid "email"
+msgstr "විද්යුත් තැපෑල"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "ඔයාගේ ඊතැපැල් ලිපිනය"
+
+# Not used
+msgid "mobilePhone"
+msgstr "ජංගම දුරකථන"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "ඔබගේ ජංගම දුරකථන අංකය"
