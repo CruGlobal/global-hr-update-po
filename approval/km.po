@@ -1,2 +1,478 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Khmer (Central) <https://alltongues.org/projects/"
+"netsuite-hr-update-app/approval-app/km/>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "maritalStatus"
+msgstr "ស្ថានភាពអាពាហ៍ពិពាហ៍"
+
+# Not used
+msgid "country"
+msgstr "ប្រទេស"
+
+# Not used
+msgid "jobTitle"
+msgstr "ចំណងជើងការងារ"
+
+msgid "chooseAnOption"
+msgstr "ជ្រើសរើសជម្រើសមួយ។"
+
+msgid "currentValue"
+msgstr "តម្លៃ​នា​ពេល​បច្ចុប្បន្ន​នេះ"
+
+msgid "requestValue"
+msgstr "តម្លៃដែលបានស្នើសុំ"
+
+msgid "sorry"
+msgstr "សុំទោស"
+
+msgid "error"
+msgstr "កំហុស"
+
+msgid "verify"
+msgstr "ខ្ញុំ​ផ្ទៀងផ្ទាត់​ថា​វាល​ខាង​លើ​ទាំងអស់​គឺ​ត្រឹមត្រូវ។"
+
+# Not used
+msgid "governmentID"
+msgstr "លេខសម្គាល់រដ្ឋាភិបាល"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "លេខសម្គាល់រដ្ឋាភិបាលរបស់អ្នក។"
+
+# Not used
+msgid "issueDate"
+msgstr "កាលបរិច្ឆេទចេញផ្សាយ"
+
+msgid "buttonHelpDescription"
+msgstr "ត្រូវការជំនួយក្នុងការបំពេញវាលនេះទេ? ចុចសម្រាប់ការណែនាំ។"
+
+msgid "verifyBeforeSubmit"
+msgstr "សូមផ្ទៀងផ្ទាត់ផ្នែកទាំងអស់មុនពេលបញ្ជូន។"
+
+msgid "submit"
+msgstr "ដាក់ស្នើ"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "ការធ្វើបច្ចុប្បន្នភាពធនធានមនុស្ស"
+
+msgid "sending"
+msgstr "កំពុងផ្ញើ"
+
+msgid "sent"
+msgstr "បានផ្ញើ"
+
+msgid "thankYou"
+msgstr "សូមអរគុណ"
+
+msgid "thankYouDescription"
+msgstr "ព័ត៌មានរបស់អ្នកត្រូវបានដាក់បញ្ជូន។"
+
+msgid "ok"
+msgstr "យល់ព្រម"
+
+msgid "personalDetails"
+msgstr "ព័ត៌មានលម្អិតផ្ទាល់ខ្លួន"
+
+msgid "firstName"
+msgstr "ឈ្មោះដំបូង"
+
+msgid "firstNamePlaceholder"
+msgstr "ឈ្មោះដំបូងរបស់អ្នក។"
+
+msgid "preferredName"
+msgstr "ឈ្មោះដែលពេញចិត្ត"
+
+msgid "preferredNamePlaceholder"
+msgstr "ឈ្មោះដែលអ្នកពេញចិត្ត (ជាជម្រើស)"
+
+msgid "middleName"
+msgstr "ជា​ឈ្មោះ​ក​ណ្តា​ល"
+
+msgid "middleNamePlaceholder"
+msgstr "ឈ្មោះកណ្តាលរបស់អ្នក (ជាជម្រើស)"
+
+msgid "lastName"
+msgstr "នាមត្រកូល"
+
+msgid "lastNamePlaceholder"
+msgstr "នាមត្រកូល​របស់​អ្នក"
+
+# Not used
+msgid "secondLastName"
+msgstr "នាមត្រកូលទីពីរ"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "នាមត្រកូលទីពីររបស់អ្នក។"
+
+# Not used
+msgid "title"
+msgstr "ចំណងជើង"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ឧទាហរណ៍៖ លោក លោកស្រី កញ្ញា ជាដើម។"
+
+msgid "gender"
+msgstr "ភេទ"
+
+msgid "birthDate"
+msgstr "ថ្ងៃខែ​ឆ្នាំ​កំណើត"
+
+msgid "birthDatePlaceholder"
+msgstr "ថ្ងៃខែឆ្នាំកំណើតរបស់អ្នក។"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "បច្ចុប្បន្ន អ្នកមានអាយុ <strong>%d</strong> ឆ្នាំ។"
+
+msgid "familyInformation"
+msgstr "ព័ត៌មានគ្រួសារ"
+
+msgid "staffUnit"
+msgstr "អង្គភាពបុគ្គលិក"
+
+msgid "staffUnitPlaceholder"
+msgstr "នាមត្រកូល នាមត្រកូល ឬនាមត្រកូល HisGivenName និង HerGivenName ។"
+
+msgid "maritalStatusPlaceholder"
+msgstr "ជ្រើសរើសស្ថានភាពក្បាច់គុនរបស់អ្នក។"
+
+msgid "staffSpouse"
+msgstr "ប្តីប្រពន្ធបុគ្គលិក"
+
+msgid "staffSpousePlaceholder"
+msgstr "ឈ្មោះប្តីឬប្រពន្ធរបស់អ្នក។"
+
+msgid "workforceInformation"
+msgstr "ព័ត៌មានកម្លាំងពលកម្ម"
+
+msgid "geographicAreaOfService"
+msgstr "តំបន់សេវាកម្មភូមិសាស្ត្រ"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "តំបន់ដែលអ្នកបម្រើ"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "កាលបរិច្ឆេទចេញលេខសម្គាល់របស់អ្នក។"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "បង់ដោយក្រសួង/ស្ថាប័នក្នុងតំបន់"
+
+# Not used
+msgid "dateConferred"
+msgstr "កាលបរិច្ឆេទដែលបានផ្តល់"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "កាលបរិច្ឆេទ​ដែល​បាន​ផ្តល់​ជូន​របស់​អ្នក។"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "អ្នកបានបញ្ចប់ការសិក្សានៅពេលអ្នកនៅ"
+
+# Not used
+msgid "email"
+msgstr "អ៊ីមែល"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "អាសយដ្ឋានអ៊ីមែលរបស់អ្នក។"
+
+# Not used
+msgid "mobilePhone"
+msgstr "ទូរស័ព្ទចល័ត"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "លេខទូរស័ព្ទចល័តរបស់អ្នក។"
+
+# Not used
+msgid "homePhone"
+msgstr "ទូរស័ព្ទផ្ទះ"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "លេខទូរស័ព្ទផ្ទះរបស់អ្នក។"
+
+# Not used
+msgid "officePhone"
+msgstr "ទូរស័ព្ទការិយាល័យ"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "លេខទូរស័ព្ទការិយាល័យរបស់អ្នក។"
+
+# Not used
+msgid "contactInformation"
+msgstr "ព័ត៌មានទំនាក់ទំនង"
+
+# Not used
+msgid "permanentAddress"
+msgstr "អាសយដ្ឋាន​បច្ចុប្បន្ន"
+
+# Not used
+msgid "label"
+msgstr "ស្លាក​សញ្ញា"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ឧទាហរណ៍៖ អាស័យដ្ឋានផ្ទះ"
+
+# Not used
+msgid "attention"
+msgstr "ការយកចិត្តទុកដាក់"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ឧទាហរណ៍៖ Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "អាស័យដ្ឋាន"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "អាសយដ្ឋានរបស់អ្នក (អាចមានច្រើនបន្ទាត់)"
+
+# Not used
+msgid "city"
+msgstr "ទីក្រុង"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "ទីក្រុង​របស់​អ្នក"
+
+# Not used
+msgid "stateProvince"
+msgstr "រដ្ឋ/ខេត្ត"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "រដ្ឋ/ខេត្តរបស់អ្នក។"
+
+# Not used
+msgid "zip"
+msgstr "ហ្ស៊ីប"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "លេខកូដតំបន់របស់អ្នក។"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "ប្រទេស​របស់​អ្នក"
+
+# Not used
+msgid "shippingAddress"
+msgstr "អាសយដ្ឋានដឹកជញ្ជូន"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "ដូចគ្នានឹងអចិន្រ្តៃយ៍"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "ចំណងជើងការងាររបស់អ្នក។"
+
+# Not used
+msgid "jobDescription"
+msgstr "ការពិពណ៌នាការងារ"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "ការពិពណ៌នាការងាររបស់អ្នក។"
+
+msgid "Select Entity"
+msgstr "ជ្រើសរើសអង្គភាព"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"មានកំណត់ត្រាជាច្រើនដែលត្រូវគ្នានឹងអាសយដ្ឋានអ៊ីមែលរបស់អ្នក។ "
+"សូមជ្រើសរើសមួយដែលអ្នកចង់ធ្វើបច្ចុប្បន្នភាព។"
+
+# Not used
+msgid "expirationDate"
+msgstr "កាលបរិច្ឆេទ​ផុតកំណត់"
+
+msgid "entityNotice"
+msgstr ""
+"ទិន្នន័យខាងក្រោមឆ្លុះបញ្ចាំងពីស្ថានភាពបច្ចុប្បន្ននៃទិន្នន័យនៅក្នុង Netsuite ។"
+" ការដាក់ស្នើពីមុនដែលមិនទាន់ត្រូវបានអនុម័តដោយ National HR Generalists "
+"នឹងមិនត្រូវបានឆ្លុះបញ្ចាំងខាងក្រោមទេ។"
+
+msgid "help"
+msgstr "ជំនួយ"
+
+msgid "logout"
+msgstr "ចាកចេញ"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "យុទ្ធសាស្ត្រ / សមត្ថភាព (នាយកដ្ឋានធនធានមនុស្សនៅ Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "ស្ថានភាពអង្គការ"
+
+msgid "positionRole"
+msgstr "មុខតំណែង/តួនាទី"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "វិសាលភាព"
+
+msgid "fundingSource"
+msgstr "ប្រភពមូលនិធិ"
+
+msgid "jobInformation"
+msgstr "ព័ត៌មានការងារ"
+
+msgid "supervisor"
+msgstr "អ្នកគ្រប់គ្រង"
+
+msgid "supervisorDescription"
+msgstr ""
+"តើអ្នកណានៅក្នុង %s អនុម័តរបាយការណ៍ចំណាយរបស់អ្នក? ប្រសិនបើអ្នកមិនប្រាកដ "
+"ឬជាជនបរទេស សូមជ្រើសរើសប្រធានប្រតិបត្តិការជាតិ "
+"ឬពិគ្រោះជាមួយក្រុមហិរញ្ញវត្ថុជាតិ។"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "វាយបញ្ចូលឈ្មោះអ្នកគ្រប់គ្រងរបស់អ្នកនៅក្នុងបង្អួចស្វែងរក។"
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "យើងនៅតែទទួលបានលេខសម្គាល់ Netsuite របស់អ្នក សូមរង់ចាំ។"
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 អក្សរគឺគ្រប់គ្រាន់ដើម្បីចាប់ផ្តើមការស្វែងរក។"
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "ស្វែងរក…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "បោះបង់"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "បិទ"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "កំពុងស្វែងរក"
+
+msgid "supervisorPopupAlertSorry"
+msgstr "វគ្គបណ្តាញបានអស់ពេលហើយ។ សូមផ្ទុកទំព័រឡើងវិញ ដើម្បីផ្ទៀងផ្ទាត់ឡើងវិញ។"
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "ចំណាំអ្នកគ្រប់គ្រង"
+
+msgid "hireDate"
+msgstr "កាលបរិច្ឆេទដែលអ្នកត្រូវបានជួល"
+
+msgid "approveChange"
+msgstr "យល់ព្រមលើការផ្លាស់ប្តូរ"
+
+msgid "approve"
+msgstr "យល់ព្រម"
+
+msgid "delete"
+msgstr "លុប"
+
+msgid "deleting"
+msgstr "ការលុប"
+
+msgid "deleted"
+msgstr "បានលុប"
+
+msgid "type"
+msgstr "ប្រភេទ"
+
+msgid "number"
+msgstr "ចំនួន"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "សមមូលពេញម៉ោង (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "មូលហេតុនៃការបញ្ចប់"
+
+msgid "inactive"
+msgstr "អសកម្ម"
+
+# Not used
+msgid "terminationDate"
+msgstr "កាលបរិច្ឆេទបញ្ចប់"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "កាលបរិច្ឆេទផុតកំណត់លេខសម្គាល់របស់អ្នក។"
+
+# Not used
+msgid "expirationDateText"
+msgstr "អត្តសញ្ញាណប័ណ្ណរបស់អ្នកបានផុតកំណត់ហើយ។"
+
+# Not used
+msgid "emergencyContact"
+msgstr "លេខ​ទំនាក់ទំនង​បន្ទាន់"
+
+# Not used
+msgid "name"
+msgstr "ឈ្មោះ"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "ឈ្មោះពេញរបស់ទំនាក់ទំនង"
+
+# Not used
+msgid "relationship"
+msgstr "ទំនាក់ទំនង"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "ទំនាក់ទំនងរបស់មនុស្សនេះជាមួយអ្នក"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "អាសយដ្ឋានពេញរបស់ទំនាក់ទំនង"
+
+# Not used
+msgid "phone"
+msgstr "ទូរស័ព្ទ"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "លេខទូរស័ព្ទទំនាក់ទំនង"
+
+# Not used
+msgid "educationInformation"
+msgstr "ព័ត៌មានអប់រំ"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "កម្រិតនៃការអប់រំ"
+
+# Not used
+msgid "degree"
+msgstr "សញ្ញាបត្រ"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "ឈ្មោះសញ្ញាបត្ររបស់អ្នក។"
