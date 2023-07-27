@@ -1,2 +1,482 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Burmese <https://alltongues.org/projects/"
+"netsuite-hr-update-app/approval-app/my/>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "မင်းရဲ့ ဒုတိယနာမည်"
+
+# Not used
+msgid "title"
+msgstr "ခေါင်းစဥ်"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ဥပမာ- မစ္စတာ မစ္စစ် အလှမယ် စသဖြင့်။"
+
+msgid "gender"
+msgstr "ကျား၊"
+
+msgid "birthDate"
+msgstr "မွေးနေ့"
+
+msgid "birthDatePlaceholder"
+msgstr "မင်းရဲ့မွေးနေ့"
+
+msgid "familyInformation"
+msgstr "မိသားစုအချက်အလက်"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "သင့်မိုဘိုင်းဖုန်းနံပါတ်"
+
+# Not used
+msgid "homePhone"
+msgstr "အိမ်ဖုန်း"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "သင့်အိမ်ဖုန်းနံပါတ်"
+
+# Not used
+msgid "officePhone"
+msgstr "ရုံးဖုန်း"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "သင့်ရုံးဖုန်းနံပါတ်"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "အမြဲတမ်း အတူတူပါပဲ။"
+
+# Not used
+msgid "jobTitle"
+msgstr "အလုပ်အကိုင်အမည်"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "သင့်အလုပ်ခေါင်းစဉ်"
+
+# Not used
+msgid "jobDescription"
+msgstr "လုပ်ငန်းတာဝန်သတ်မှတ်ချက်"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "သင့်အလုပ်ဖော်ပြချက်"
+
+msgid "Select Entity"
+msgstr "Entity ကို ရွေးပါ။"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"သင့်အီးမေးလ်လိပ်စာနှင့် ကိုက်ညီသော မှတ်တမ်းများစွာ ရှိပါသည်။ ကျေးဇူးပြု၍ "
+"သင်အပ်ဒိတ်လုပ်လိုသောတစ်ခုကို ရွေးပါ။"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "HR Update"
+
+msgid "entityNotice"
+msgstr ""
+"အောက်ပါဒေတာသည် Netsuite ရှိ ဒေတာ၏ လက်ရှိအခြေအနေကို ရောင်ပြန်ဟပ်သည်။ National "
+"HR Generalists မှ အတည်မပြုရသေးသော ယခင်တင်ပြချက်များသည် အောက်ပါအတိုင်း "
+"ထင်ဟပ်မည်မဟုတ်ပါ။"
+
+msgid "help"
+msgstr "ကူညီကြပါ"
+
+msgid "logout"
+msgstr "ထွက်လိုက်ပါ။"
+
+msgid "chooseAnOption"
+msgstr "ရွေးချယ်မှုတစ်ခုကို ရွေးချယ်ပါ။"
+
+msgid "currentValue"
+msgstr "လက်ရှိတန်ဖိုး"
+
+msgid "requestValue"
+msgstr "တောင်းဆိုထားသောတန်ဖိုး"
+
+msgid "sorry"
+msgstr "ဆောရီး"
+
+msgid "error"
+msgstr "အမှား"
+
+msgid "verify"
+msgstr "အထက်ဖော်ပြပါ အကွက်များအားလုံး မှန်ကန်ကြောင်း အတည်ပြုပါသည်။"
+
+msgid "buttonHelpDescription"
+msgstr "ဤအကွက်ကိုဖြည့်ရန် အကူအညီလိုအပ်ပါသလား။ ညွှန်ကြားချက်များအတွက် နှိပ်ပါ။"
+
+msgid "verifyBeforeSubmit"
+msgstr "မတင်ပြမီ ကဏ္ဍအားလုံးကို စစ်ဆေးပါ။"
+
+msgid "submit"
+msgstr "တင်ပြပါ။"
+
+msgid "sending"
+msgstr "ပေးပို့ခြင်း။"
+
+msgid "sent"
+msgstr "ပို့လိုက်ပါတယ်။"
+
+msgid "thankYou"
+msgstr "ကျေးဇူးတင်ပါသည်"
+
+msgid "delete"
+msgstr "ဖျက်ပါ။"
+
+msgid "deleting"
+msgstr "ဖျက်ခြင်း။"
+
+msgid "deleted"
+msgstr "ဖျက်လိုက်"
+
+msgid "type"
+msgstr "ရိုက်ပါ။"
+
+msgid "number"
+msgstr "နံပါတ်"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "အချိန်ပြည့် ညီမျှခြင်း (FTE)"
+
+msgid "thankYouDescription"
+msgstr "သင့်အချက်အလက်ကို တင်ပြပြီးပါပြီ။"
+
+msgid "ok"
+msgstr "အိုကေ"
+
+msgid "personalDetails"
+msgstr "ကိုယ်ရေးကိုယ်တာအသေးစိတ်"
+
+msgid "firstName"
+msgstr "နာမည်"
+
+msgid "firstNamePlaceholder"
+msgstr "မင်းရဲ့နာမည်"
+
+msgid "preferredName"
+msgstr "နှစ်သက်ရာအမည်"
+
+msgid "preferredNamePlaceholder"
+msgstr "သင်နှစ်သက်သောအမည် (ချန်လှပ်ထားနိုင်သည်)"
+
+msgid "middleName"
+msgstr "အလယ်နာမည်"
+
+msgid "middleNamePlaceholder"
+msgstr "သင်၏အလယ်အမည် (ချန်လှပ်ထားနိုင်သည်)"
+
+msgid "lastName"
+msgstr "မျိုးနွယ်အမည်"
+
+msgid "lastNamePlaceholder"
+msgstr "မင်းရဲ့နောက်ဆုံးနာမည်"
+
+# Not used
+msgid "secondLastName"
+msgstr "ဒုတိယအမည်"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "သင်သည် လက်ရှိတွင် <strong>%d</strong> နှစ်ရှိပြီဖြစ်သည်။"
+
+msgid "staffUnit"
+msgstr "ဝန်ထမ်းယူနစ်"
+
+msgid "staffUnitPlaceholder"
+msgstr ""
+"မျိုးရိုးအမည်၊ ပေးထားသောအမည် သို့မဟုတ် မျိုးရိုးအမည်၊ HisGivenName နှင့် "
+"HerGivenName။"
+
+msgid "maritalStatus"
+msgstr "အိမ်ထောင်ရေးအခြေအနေ"
+
+msgid "maritalStatusPlaceholder"
+msgstr "သင်၏ သိုင်းအဆင့်အတန်းကို ရွေးချယ်ပါ။"
+
+msgid "staffSpouse"
+msgstr "ဝန်ထမ်းအိမ်ထောင်ဖက်"
+
+msgid "staffSpousePlaceholder"
+msgstr "သင့်အိမ်ထောင်ဖက်အမည်"
+
+msgid "workforceInformation"
+msgstr "လုပ်သားသတင်းအချက်အလက်"
+
+msgid "geographicAreaOfService"
+msgstr "ဝန်ဆောင်မှုနယ်မြေ"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "ဆောင်ရွက်ပေးမည့်နေရာ"
+
+# Not used
+msgid "degree"
+msgstr "ဘွဲ့"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "မင်းရဲ့ဘွဲ့အမည်"
+
+# Not used
+msgid "dateConferred"
+msgstr "ရက်ချိန်းပေးထားသည်။"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "သင်၏အပ်နှင်းထားသောရက်စွဲ"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "ငယ်ငယ်တုန်းက ဘွဲ့ရတယ်။"
+
+# Not used
+msgid "email"
+msgstr "အီးမေး"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "သင့်အီးမေးလ်လိပ်စာ"
+
+# Not used
+msgid "mobilePhone"
+msgstr "မိုဘိုင်းဖုန်း"
+
+# Not used
+msgid "contactInformation"
+msgstr "ဆက်သွယ်ရန်အချက်အလက်များ"
+
+# Not used
+msgid "permanentAddress"
+msgstr "အမြဲတမ်းလိပ်စာ"
+
+# Not used
+msgid "label"
+msgstr "တံဆိပ်"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ဥပမာ- အိမ်လိပ်စာ"
+
+# Not used
+msgid "attention"
+msgstr "အာရုံ"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ဥပမာ- Attn မောင်လှ"
+
+# Not used
+msgid "address"
+msgstr "လိပ်စာ"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "သင့်လိပ်စာ (စာကြောင်းပေါင်းများစွာ ဖြစ်နိုင်သည်)"
+
+# Not used
+msgid "city"
+msgstr "မြို"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "မင်းရဲ့မြို့"
+
+# Not used
+msgid "stateProvince"
+msgstr "ပြည်နယ်/တိုင်းဒေသကြီး"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "သင့်ပြည်နယ်/တိုင်းဒေသကြီး"
+
+# Not used
+msgid "zip"
+msgstr "ဇစ်"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "သင်၏စာပို့ကုဒ်"
+
+# Not used
+msgid "country"
+msgstr "တိုင်းပြည်"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "မင်းရဲ့တိုင်းပြည်"
+
+# Not used
+msgid "shippingAddress"
+msgstr "ကုန်ပစ္စည်းပို့ဆောင်ရမည့်လိပ်စာ"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "ဒေသဆိုင်ရာ ဝန်ကြီးဌာန/အဖွဲ့အစည်းက ပေးဆောင်သည်။"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "မဟာဗျူဟာ/စွမ်းဆောင်ရည် (Netsuit in HR Department)"
+
+msgid "organizationalStatus"
+msgstr "အဖွဲ့အစည်းအဆင့်အတန်း"
+
+msgid "positionRole"
+msgstr "ရာထူး/ရာထူး"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "အတိုင်းအတာ"
+
+msgid "fundingSource"
+msgstr "ရန်ပုံငွေအရင်းအမြစ်"
+
+msgid "jobInformation"
+msgstr "အလုပ်အချက်အလက်"
+
+msgid "supervisor"
+msgstr "အဲ့ဒီတော့"
+
+msgid "supervisorDescription"
+msgstr ""
+"သင့်ကုန်ကျစရိတ်အစီရင်ခံစာများကို %s တွင် မည်သူက အတည်ပြုသနည်း။ အကယ်၍ သင်သည် "
+"မသေချာပါက သို့မဟုတ် နိုင်ငံခြားသားဖြစ်ပါက၊ National Operations Leader ကို "
+"ရွေးပါ သို့မဟုတ် National Finance Team နှင့် တိုင်ပင်ပါ။"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Search window တွင် သင့်ကြီးကြပ်ရေးမှူး၏ အမည်ကို ရိုက်ထည့်ပါ။"
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "သင်၏ Netsuite Id ကို ကျွန်ုပ်တို့ ရရှိနေသေးသည်၊ ကျေးဇူးပြု၍ စောင့်ပါ။"
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "ရှာဖွေမှုစတင်ရန် စာလုံး 5 လုံးလုံလောက်ပါသည်။"
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "ရှာရန်…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "လုပ်တော့"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "ပိတ်လိုက်"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "ရှာဖွေနေ"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"ဝဘ်စက်ရှင်သည် အချိန်ကုန်သွားပါပြီ။ ပြန်လည်စစ်မှန်ကြောင်းအထောက်အထားပြရန် "
+"စာမျက်နှာကို ပြန်လည်စတင်ပါ။"
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "ကြီးကြပ်ရေးမှူး မှတ်ချက်"
+
+msgid "hireDate"
+msgstr "မင်းကို ငှားတဲ့ရက်"
+
+msgid "approveChange"
+msgstr "အပြောင်းအလဲကို အတည်ပြုပါ။"
+
+msgid "approve"
+msgstr "လက်မခံပါ။"
+
+# Not used
+msgid "terminationReason"
+msgstr "ရပ်စဲရခြင်း အကြောင်းအရင်း"
+
+msgid "inactive"
+msgstr "မလှုပ်မရှား"
+
+# Not used
+msgid "terminationDate"
+msgstr "ရပ်စဲရက်စွဲ"
+
+# Not used
+msgid "governmentID"
+msgstr "အစိုးရ ID"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "မင်းရဲ့ အစိုးရ ID နံပါတ်"
+
+# Not used
+msgid "issueDate"
+msgstr "ထုတ်ပြန်ရက်စွဲ"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "သင်၏ ID ထုတ်ပေးသည့်ရက်စွဲ"
+
+# Not used
+msgid "expirationDate"
+msgstr "သက်တမ်းကုန်ဆုံးရက်"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "သင်၏ ID သက်တမ်းကုန်ဆုံးရက်"
+
+# Not used
+msgid "expirationDateText"
+msgstr "သင့် ID သက်တမ်းကုန်သွားပါပြီ။"
+
+# Not used
+msgid "emergencyContact"
+msgstr "အရေးပေါ်ဆက်သွယ်ရန်"
+
+# Not used
+msgid "name"
+msgstr "နာမည်"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "ဆက်သွယ်ရန်အမည်အပြည့်အစုံ"
+
+# Not used
+msgid "relationship"
+msgstr "ဆက်ဆံရေး"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "မင်းနဲ့ ဒီလူရဲ့ ဆက်ဆံရေး"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "ဆက်သွယ်ရန်လိပ်စာအပြည့်အစုံ"
+
+# Not used
+msgid "phone"
+msgstr "ဖုန်း"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "ဆက်သွယ်ရန်ဖုန်းနံပါတ်"
+
+# Not used
+msgid "educationInformation"
+msgstr "ပညာရေးအချက်အလက်"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "ပညာရေးအဆင့်"
