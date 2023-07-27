@@ -1,2 +1,476 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Lao <https://alltongues.org/projects/netsuite-hr-update-app/"
+"approval-app/lo/>\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "gender"
+msgstr "ເພດ"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "ເບີໂທລະສັບມືຖືຂອງເຈົ້າ"
+
+# Not used
+msgid "homePhone"
+msgstr "ໂທລະສັບບ້ານ"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "ເບີໂທລະສັບບ້ານຂອງເຈົ້າ"
+
+# Not used
+msgid "officePhone"
+msgstr "ໂທລະສັບຫ້ອງການ"
+
+# Not used
+msgid "jobTitle"
+msgstr "ຕໍາແຫນ່ງ"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "ອັບເດດ HR"
+
+msgid "maritalStatusPlaceholder"
+msgstr "ເລືອກສະຖານະ martial ຂອງທ່ານ"
+
+msgid "staffSpouse"
+msgstr "ຄູ່ສົມລົດພະນັກງານ"
+
+msgid "staffSpousePlaceholder"
+msgstr "ຊື່ຄູ່ສົມລົດຂອງເຈົ້າ"
+
+msgid "workforceInformation"
+msgstr "ຂໍ້ມູນແຮງງານ"
+
+msgid "geographicAreaOfService"
+msgstr "ພື້ນທີ່ບໍລິການ"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "ພາກພື້ນບ່ອນທີ່ທ່ານໃຫ້ບໍລິການ"
+
+# Not used
+msgid "degree"
+msgstr "ປະລິນຍາ"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "ຊື່ຂອງປະລິນຍາຂອງທ່ານ"
+
+# Not used
+msgid "dateConferred"
+msgstr "ວັນທີຕົກລົງ"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "ລະດັບການສຶກສາ"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"ມີຫຼາຍບັນທຶກທີ່ກົງກັບທີ່ຢູ່ອີເມວຂອງເຈົ້າ. ກະລຸນາເລືອກອັນທີ່ທ່ານຕ້ອງການອັບເດດ."
+
+msgid "entityNotice"
+msgstr ""
+"ຂໍ້ມູນຂ້າງລຸ່ມນີ້ສະທ້ອນເຖິງສະຖານະປັດຈຸບັນຂອງຂໍ້ມູນໃນ Netsuite. "
+"ການຍື່ນສະເຫນີທີ່ຜ່ານມາທີ່ຍັງບໍ່ທັນໄດ້ຮັບການອະນຸມັດໂດຍ National HR "
+"Generalists ຈະບໍ່ຖືກສະທ້ອນໃຫ້ເຫັນຂ້າງລຸ່ມນີ້."
+
+msgid "help"
+msgstr "ຊ່ວຍເຫຼືອ"
+
+msgid "logout"
+msgstr "ອອກຈາກລະບົບ"
+
+msgid "chooseAnOption"
+msgstr "ເລືອກທາງເລືອກ"
+
+msgid "currentValue"
+msgstr "ມູນຄ່າປັດຈຸບັນ"
+
+msgid "requestValue"
+msgstr "ຄ່າທີ່ຮ້ອງຂໍ"
+
+msgid "sorry"
+msgstr "ຂໍໂທດ"
+
+msgid "error"
+msgstr "ຜິດພາດ"
+
+msgid "verify"
+msgstr "ຂ້ອຍຢັ້ງຢືນວ່າຊ່ອງຂໍ້ມູນຂ້າງເທິງທັງໝົດແມ່ນຖືກຕ້ອງ."
+
+msgid "buttonHelpDescription"
+msgstr "ຕ້ອງການຄວາມຊ່ວຍເຫຼືອຕື່ມຂໍ້ມູນໃສ່ໃນຊ່ອງນີ້ບໍ? ກົດສໍາລັບຄໍາແນະນໍາ."
+
+msgid "verifyBeforeSubmit"
+msgstr "ກະລຸນາກວດສອບທຸກພາກສ່ວນກ່ອນສົ່ງ."
+
+msgid "submit"
+msgstr "ສົ່ງ"
+
+msgid "sending"
+msgstr "ກຳລັງສົ່ງ"
+
+msgid "sent"
+msgstr "ສົ່ງແລ້ວ"
+
+msgid "thankYou"
+msgstr "ຂອບໃຈ"
+
+msgid "thankYouDescription"
+msgstr "ຂໍ້ມູນຂອງທ່ານໄດ້ຖືກສົ່ງ."
+
+msgid "ok"
+msgstr "ຕົກລົງ"
+
+msgid "personalDetails"
+msgstr "ຂໍ້ມູນສ່ວນຕົວ"
+
+msgid "firstName"
+msgstr "ຊື່ແທ້"
+
+msgid "firstNamePlaceholder"
+msgstr "ຊື່ຂອງທ່ານ"
+
+msgid "preferredName"
+msgstr "ຊື່ທີ່ຕ້ອງການ"
+
+msgid "preferredNamePlaceholder"
+msgstr "ຊື່ທີ່ທ່ານຕ້ອງການ (ທາງເລືອກ)"
+
+msgid "middleName"
+msgstr "ຊື່ກາງ"
+
+msgid "middleNamePlaceholder"
+msgstr "ຊື່ກາງຂອງເຈົ້າ (ເລືອກໄດ້)"
+
+msgid "lastName"
+msgstr "ນາມສະກຸນ"
+
+msgid "lastNamePlaceholder"
+msgstr "ນາມສະກຸນຂອງເຈົ້າ"
+
+# Not used
+msgid "secondLastName"
+msgstr "ນາມສະກຸນທີສອງ"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "ນາມສະກຸນທີສອງຂອງເຈົ້າ"
+
+# Not used
+msgid "title"
+msgstr "ຫົວຂໍ້"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ຕົວຢ່າງ: ທ່ານ ນາງ ນາງ ແລະອື່ນໆ."
+
+msgid "birthDate"
+msgstr "ວັນເດືອນປີເກີດ"
+
+msgid "birthDatePlaceholder"
+msgstr "ວັນເດືອນປີເກີດຂອງທ່ານ"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "ໃນປັດຈຸບັນທ່ານມີອາຍຸ <strong>%d</strong> ປີ"
+
+msgid "familyInformation"
+msgstr "ຂໍ້ມູນຄອບຄົວ"
+
+msgid "staffUnit"
+msgstr "ຫນ່ວຍງານພະນັກງານ"
+
+msgid "staffUnitPlaceholder"
+msgstr "Name"
+
+msgid "maritalStatus"
+msgstr "ສະຖານະພາບການແຕ່ງງານ"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "ວັນທີທີ່ໄດ້ຮັບການອະນຸຍາດຂອງທ່ານ"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "ເຈົ້າຮຽນຈົບຕອນເຈົ້າຢູ່"
+
+# Not used
+msgid "email"
+msgstr "ອີເມລ"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "ທີ່ຢູ່ອີເມວຂອງເຈົ້າ"
+
+# Not used
+msgid "mobilePhone"
+msgstr "ໂທລະສັບມືຖື"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "ເບີໂທລະສັບຫ້ອງການຂອງທ່ານ"
+
+# Not used
+msgid "contactInformation"
+msgstr "ຂໍ້ມູນຕິດຕໍ່"
+
+# Not used
+msgid "permanentAddress"
+msgstr "ທີ່ຢູ່ຖາວອນ"
+
+# Not used
+msgid "label"
+msgstr "ປ້າຍກຳກັບ"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ຕົວຢ່າງ: ທີ່ຢູ່ເຮືອນ"
+
+# Not used
+msgid "attention"
+msgstr "ເອົາໃຈໃສ່"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ຕົວຢ່າງ: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "ທີ່ຢູ່"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "ທີ່ຢູ່ຂອງທ່ານ (ສາມາດເປັນຫຼາຍແຖວ)"
+
+# Not used
+msgid "city"
+msgstr "ເມືອງ"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "ເມືອງຂອງເຈົ້າ"
+
+# Not used
+msgid "stateProvince"
+msgstr "ລັດ/ແຂວງ"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "ລັດ/ແຂວງຂອງເຈົ້າ"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "ລະຫັດໄປສະນີຂອງທ່ານ"
+
+# Not used
+msgid "country"
+msgstr "ປະເທດ"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "ປະເທດຂອງເຈົ້າ"
+
+# Not used
+msgid "shippingAddress"
+msgstr "ທີ່ຢູ່ຈັດສົ່ງ"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "ເຊັ່ນດຽວກັນກັບຖາວອນ"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "ຊື່ວຽກຂອງເຈົ້າ"
+
+# Not used
+msgid "jobDescription"
+msgstr "ລາຍລະອຽດວຽກ"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "ລາຍລະອຽດວຽກເຮັດງານທໍາຂອງທ່ານ"
+
+msgid "Select Entity"
+msgstr "ເລືອກ Entity"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "ຈ່າຍໂດຍກະຊວງທ້ອງຖິ່ນ / ຫນ່ວຍງານ"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "ຍຸດທະສາດ / ຄວາມສາມາດ (ພະແນກ HR ໃນ Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "ສະຖານະການຈັດຕັ້ງ"
+
+msgid "positionRole"
+msgstr "ຕໍາແໜ່ງ/ບົດບາດ"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "ຂອບເຂດ"
+
+msgid "fundingSource"
+msgstr "ແຫຼ່ງທຶນ"
+
+msgid "jobInformation"
+msgstr "ຂໍ້ມູນວຽກ"
+
+msgid "supervisor"
+msgstr "ຜູ້ຄຸມງານ"
+
+msgid "supervisorDescription"
+msgstr ""
+"ໃຜໃນ %s ອະນຸມັດລາຍງານຄ່າໃຊ້ຈ່າຍຂອງເຈົ້າ? ຖ້າເຈົ້າບໍ່ແນ່ໃຈ ຫຼືຄົນຕ່າງປະເທດ, "
+"ເລືອກຫົວໜ້າບໍລິຫານແຫ່ງຊາດ ຫຼື ປຶກສາກັບທີມງານການເງິນແຫ່ງຊາດ."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "ພິມຊື່ຜູ້ຄຸມງານຂອງເຈົ້າຢູ່ໃນປ່ອງຢ້ຽມຄົ້ນຫາ."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "ພວກເຮົາຍັງໄດ້ຮັບ Netsuite Id ຂອງທ່ານຢູ່, ກະລຸນາລໍຖ້າ."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 ຕົວອັກສອນແມ່ນພຽງພໍທີ່ຈະເລີ່ມຕົ້ນການຄົ້ນຫາ."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "ຊອກຫາ…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "ຍົກເລີກ"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "ປິດ"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "ກຳລັງຊອກຫາ"
+
+msgid "supervisorPopupAlertSorry"
+msgstr "ເຊດຊັນເວັບໝົດເວລາແລ້ວ. ກະລຸນາໂຫຼດໜ້ານີ້ຄືນໃໝ່ເພື່ອຢັ້ງຢືນຄືນໃໝ່."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "ບັນທຶກຜູ້ຄຸມງານ"
+
+msgid "hireDate"
+msgstr "ວັນທີທີ່ເຈົ້າຖືກຈ້າງ"
+
+msgid "approveChange"
+msgstr "ອະນຸມັດການປ່ຽນແປງ"
+
+msgid "approve"
+msgstr "ອະນຸມັດ"
+
+msgid "delete"
+msgstr "ລຶບ"
+
+msgid "deleting"
+msgstr "ກຳລັງລຶບ"
+
+msgid "deleted"
+msgstr "ລຶບແລ້ວ"
+
+msgid "type"
+msgstr "ປະເພດ"
+
+msgid "number"
+msgstr "ເລກ"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "ເຕັມເວລາທຽບເທົ່າ (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "ເຫດຜົນການຢຸດເຊົາ"
+
+msgid "inactive"
+msgstr "ບໍ່ເຄື່ອນໄຫວ"
+
+# Not used
+msgid "terminationDate"
+msgstr "ວັນທີສິ້ນສຸດ"
+
+# Not used
+msgid "governmentID"
+msgstr "ບັດປະຈຳຕົວລັດຖະບານ"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "ໝາຍເລກປະຈຳຕົວລັດຖະບານຂອງເຈົ້າ"
+
+# Not used
+msgid "issueDate"
+msgstr "ວັນທີອອກ"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "ວັນທີອອກບັດປະຈຳຕົວຂອງທ່ານ"
+
+# Not used
+msgid "expirationDate"
+msgstr "ວັນຫມົດອາຍຸ"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "ວັນໝົດອາຍຸບັດປະຈຳຕົວຂອງທ່ານ"
+
+# Not used
+msgid "expirationDateText"
+msgstr "ບັດປະຈຳຕົວຂອງທ່ານໝົດອາຍຸແລ້ວ."
+
+# Not used
+msgid "emergencyContact"
+msgstr "ຕິດຕໍ່ສຸກເສີນ"
+
+# Not used
+msgid "name"
+msgstr "ຊື່"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "ຊື່ເຕັມຂອງຜູ້ຕິດຕໍ່"
+
+# Not used
+msgid "relationship"
+msgstr "ຄວາມສໍາພັນ"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "ຄວາມສໍາພັນຂອງບຸກຄົນນີ້ກັບທ່ານ"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "ທີ່ຢູ່ເຕັມຂອງຜູ້ຕິດຕໍ່"
+
+# Not used
+msgid "phone"
+msgstr "ໂທລະສັບ"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "ເບີໂທລະສັບຂອງຜູ້ຕິດຕໍ່"
+
+# Not used
+msgid "educationInformation"
+msgstr "ຂໍ້ມູນການສຶກສາ"
