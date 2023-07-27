@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 22:45+0000\n"
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
 "Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Korean <https://alltongues.org/projects/"
 "netsuite-hr-update-app/approval-app/ko/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 4.18.2\n"
 
 msgid "Select Entity"
 msgstr "엔티티 선택"
@@ -330,7 +330,7 @@ msgstr "제목"
 
 # Not used
 msgid "titlePlaceholder"
-msgstr "ex: 미스터 부인 등"
+msgstr "ex: 씨, 부인, 미스 등"
 
 msgid "gender"
 msgstr "성별"
@@ -470,5 +470,5 @@ msgstr "풀타임 등가물(FTE)"
 
 msgid "entityNotice"
 msgstr ""
-"아래 데이터는 Netsuite의 현재 데이터 상태를 반영합니다. National HR "
-"Generalists가 아직 승인하지 않은 이전 제출물은 아래에 반영되지 않습니다."
+"아래 데이터는 Netsuite의 현재 데이터 상태를 반영합니다. 아직 국가 인사 "
+"총책임자의 승인을 받지 않은 이전 제출물은 아래에 반영되지 않습니다."
