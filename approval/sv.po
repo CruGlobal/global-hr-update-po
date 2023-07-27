@@ -1,2 +1,482 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Swedish <https://alltongues.org/projects/"
+"netsuite-hr-update-app/approval-app/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "logout"
+msgstr "Logga ut"
+
+msgid "chooseAnOption"
+msgstr "Välj ett alternativ"
+
+msgid "currentValue"
+msgstr "Aktuellt värde"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Du är för närvarande <strong>ett</strong> år gammal"
+msgstr[1] "Du är för närvarande <strong>%d</strong> år gammal"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "Uppdatering av HR"
+
+msgid "help"
+msgstr "Hjälp"
+
+msgid "requestValue"
+msgstr "Begärt värde"
+
+msgid "sorry"
+msgstr "Tyvärr"
+
+msgid "error"
+msgstr "Fel"
+
+msgid "verify"
+msgstr "Jag verifierar att alla ovanstående fält är korrekta."
+
+msgid "buttonHelpDescription"
+msgstr ""
+"Behöver du hjälp med att fylla i detta fält? Klicka här för instruktioner."
+
+msgid "submit"
+msgstr "Skicka in"
+
+msgid "sending"
+msgstr "Sändning"
+
+msgid "sent"
+msgstr "Sänt"
+
+msgid "thankYou"
+msgstr "Vi tackar"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "personalDetails"
+msgstr "Personliga uppgifter"
+
+msgid "firstName"
+msgstr "Förnamn"
+
+msgid "firstNamePlaceholder"
+msgstr "Ditt förnamn"
+
+msgid "preferredName"
+msgstr "Rekommenderat namn"
+
+msgid "preferredNamePlaceholder"
+msgstr "Ditt önskade namn (valfritt)"
+
+msgid "verifyBeforeSubmit"
+msgstr "Vänligen kontrollera alla avsnitt innan du skickar in."
+
+msgid "thankYouDescription"
+msgstr "Din information har skickats in."
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ex: Herr. Fru. Fröken. etc."
+
+msgid "gender"
+msgstr "Kön"
+
+msgid "birthDate"
+msgstr "Födelsedatum"
+
+msgid "birthDatePlaceholder"
+msgstr "Ditt födelsedatum"
+
+msgid "familyInformation"
+msgstr "Information om familjen"
+
+msgid "staffUnit"
+msgstr "Personalenhet"
+
+msgid "staffUnitPlaceholder"
+msgstr "Efternamn, Förnamn eller Efternamn, HansFörnamn och HennesFörnamn."
+
+msgid "maritalStatus"
+msgstr "Civilstånd"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Välj ditt civilstånd"
+
+msgid "staffSpouse"
+msgstr "Personalens make/maka"
+
+msgid "staffSpousePlaceholder"
+msgstr "Din makes/makas namn"
+
+msgid "workforceInformation"
+msgstr "Information om arbetskraft"
+
+msgid "geographicAreaOfService"
+msgstr "Geografiskt område för tjänsten"
+
+msgid "positionRole"
+msgstr "Position/Roll"
+
+# Not used
+msgid "dateConferred"
+msgstr "Datum för utfärdande"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Ditt tilldelade datum"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Du tog examen när du var"
+
+# Not used
+msgid "email"
+msgstr "E-post"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "Din e-postadress"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Mobiltelefon"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Ditt mobiltelefonnummer"
+
+# Not used
+msgid "homePhone"
+msgstr "Hemtelefon"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Ditt hemtelefonnummer"
+
+# Not used
+msgid "officePhone"
+msgstr "Kontorets telefon"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Ditt telefonnummer till kontoret"
+
+# Not used
+msgid "contactInformation"
+msgstr "Kontaktinformation"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Permanent adress"
+
+msgid "entityNotice"
+msgstr ""
+"Data nedan återspeglar den aktuella statusen för data i Netsuite. Tidigare "
+"inlämningar som ännu inte har godkänts av nationella HR-generalister visas "
+"inte nedan."
+
+msgid "middleName"
+msgstr "Mellannamn"
+
+msgid "middleNamePlaceholder"
+msgstr "Ditt mellannamn (valfritt)"
+
+msgid "lastName"
+msgstr "Efternamn"
+
+msgid "lastNamePlaceholder"
+msgstr "Ditt efternamn"
+
+# Not used
+msgid "secondLastName"
+msgstr "Andra Efternamn"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Ditt andra efternamn"
+
+# Not used
+msgid "title"
+msgstr "Titel"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Region där du tjänstgör"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Betalas av lokalt ministerium/enhet"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Strategi/kapacitet (HR-avdelningen i Netsuite)"
+
+# Not used
+msgid "country"
+msgstr "Land"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Ditt land"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Leveransadress"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "samma som permanent"
+
+# Not used
+msgid "jobTitle"
+msgstr "Arbetstitel"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "Din yrkestitel"
+
+msgid "supervisorDescription"
+msgstr ""
+"Vem i %s godkänner dina utläggsrapporter?  Om du inte är säker eller är "
+"utlänning, välj den nationella verksamhetsledaren eller rådgör med det "
+"nationella ekonomiteamet."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Skriv namnet på din handledare i sökfönstret."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 bokstäver räcker för att påbörja sökningen."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Sök…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Avbryt"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Nära"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "sökande"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"Webbsessionen har tagit slut. Vänligen ladda om sidan för att autentisera "
+"dig igen."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Övervakningsrapport"
+
+msgid "hireDate"
+msgstr "Datum då du anställdes"
+
+msgid "approveChange"
+msgstr "Godkänna ändring"
+
+msgid "approve"
+msgstr "Godkänna"
+
+msgid "delete"
+msgstr "Radera"
+
+msgid "deleting"
+msgstr "Radering"
+
+msgid "deleted"
+msgstr "Borttagen"
+
+msgid "type"
+msgstr "Typ"
+
+msgid "number"
+msgstr "Antal"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Heltidsekvivalenter (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Orsak till uppsägning"
+
+msgid "inactive"
+msgstr "Inaktiv"
+
+# Not used
+msgid "terminationDate"
+msgstr "Datum för uppsägning"
+
+# Not used
+msgid "governmentID"
+msgstr "Regeringens ID"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Ditt statliga ID-nummer"
+
+# Not used
+msgid "issueDate"
+msgstr "Utgivningsdatum"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Datum för utfärdande av ditt ID"
+
+# Not used
+msgid "expirationDate"
+msgstr "Utgångsdatum"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Utgångsdatum för ditt ID-kort"
+
+# Not used
+msgid "emergencyContact"
+msgstr "Kontakt vid nödsituation"
+
+# Not used
+msgid "name"
+msgstr "Namn"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Kontaktpersonens fullständiga namn"
+
+# Not used
+msgid "relationship"
+msgstr "Förhållande"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "Den här personens relation till dig"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Kontaktpersonens fullständiga adress"
+
+# Not used
+msgid "phone"
+msgstr "Telefon"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Kontaktpersonens telefonnummer"
+
+# Not used
+msgid "educationInformation"
+msgstr "Information om utbildning"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Utbildningsnivå"
+
+# Not used
+msgid "degree"
+msgstr "Examen"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Namn på din examen"
+
+# Not used
+msgid "label"
+msgstr "Etikett"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ex: Hemadress"
+
+# Not used
+msgid "attention"
+msgstr "Uppmärksamhet"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ex: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "Adress"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Din adress (kan vara flera rader)"
+
+# Not used
+msgid "city"
+msgstr "Stad"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Din stad"
+
+# Not used
+msgid "stateProvince"
+msgstr "Stat/Provins"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Din stat/provins"
+
+# Not used
+msgid "expirationDateText"
+msgstr "Ditt ID-kort har gått ut."
+
+msgid "organizationalStatus"
+msgstr "Organisatorisk status"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Omfattning"
+
+msgid "fundingSource"
+msgstr "Finansieringskälla"
+
+msgid "jobInformation"
+msgstr "Information om jobbet"
+
+msgid "supervisor"
+msgstr "Arbetsledare"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Ditt postnummer"
+
+# Not used
+msgid "jobDescription"
+msgstr "Arbetsbeskrivning"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "Din arbetsbeskrivning"
+
+msgid "Select Entity"
+msgstr "Välj enhet"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Det finns flera poster som matchar din e-postadress. Välj den du vill "
+"uppdatera."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Vi hämtar fortfarande ditt Netsuite-id, vänligen vänta."
