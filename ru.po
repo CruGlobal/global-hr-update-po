@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-20 23:35+0000\n"
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
 "Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Russian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ru/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 4.18.2\n"
 
 msgid "thankYou"
 msgstr "Спасибо"
@@ -123,16 +123,16 @@ msgid "firstNamePlaceholder"
 msgstr "Ваше имя"
 
 msgid "preferredName"
-msgstr "Предпочитаемое имя"
+msgstr "Предпочитаемое имя / прозвище"
 
 msgid "preferredNamePlaceholder"
-msgstr "Ваше предпочтительное имя (необязательно)"
+msgstr "Ваше предпочтительное имя / прозвище (необязательно)"
 
 msgid "middleName"
-msgstr "Среднее имя"
+msgstr "Отчество"
 
 msgid "middleNamePlaceholder"
-msgstr "Ваше второе имя (необязательно)"
+msgstr "Ваше отчество (необязательно)"
 
 msgid "lastName"
 msgstr "Фамилия"
@@ -169,8 +169,8 @@ msgstr "Дата рождения"
 #. home.f7.jsx:668
 msgid "ageCalculator"
 msgid_plural "ageCalculator"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "В настоящее время вам <strong>1</strong> год."
+msgstr[1] "В настоящее время Вам <strong>%d</strong> лет."
 msgstr[2] "В настоящее время Вам <strong>%d</strong> лет."
 
 msgid "familyInformation"
