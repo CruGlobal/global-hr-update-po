@@ -1,2 +1,483 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: French <https://alltongues.org/projects/"
+"netsuite-hr-update-app/approval-app/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "personalDetails"
+msgstr "Détails personnels"
+
+msgid "firstName"
+msgstr "Prénom"
+
+msgid "firstNamePlaceholder"
+msgstr "Votre prénom"
+
+msgid "preferredName"
+msgstr "Nom préféré"
+
+msgid "preferredNamePlaceholder"
+msgstr "Votre nom préféré (facultatif)"
+
+msgid "middleName"
+msgstr "Deuxième prénom"
+
+msgid "lastName"
+msgstr "Nom de famille"
+
+msgid "lastNamePlaceholder"
+msgstr "Votre nom de famille"
+
+# Not used
+msgid "secondLastName"
+msgstr "Deuxième nom"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Votre deuxième nom de famille"
+
+# Not used
+msgid "title"
+msgstr "Titre"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ex : M. Mme Mlle, etc."
+
+msgid "gender"
+msgstr "Genre"
+
+msgid "birthDate"
+msgstr "Date de naissance"
+
+msgid "familyInformation"
+msgstr "Informations sur la famille"
+
+msgid "staffUnit"
+msgstr "Unité du personnel"
+
+msgid "staffUnitPlaceholder"
+msgstr ""
+"Nom de famille, prénom ou nom de famille, prénom de l'intéressé et prénom de "
+"l'intéressée."
+
+msgid "maritalStatus"
+msgstr "État civil"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Sélectionnez votre statut martial"
+
+msgid "staffSpouse"
+msgstr "Conjoint du personnel"
+
+msgid "staffSpousePlaceholder"
+msgstr "Nom de votre conjoint"
+
+msgid "workforceInformation"
+msgstr "Informations sur le personnel"
+
+msgid "geographicAreaOfService"
+msgstr "Zone géographique du service"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Payé par le ministère ou l'entité locale"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Stratégie / Capacité (Département RH dans Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "Statut organisationnel"
+
+msgid "positionRole"
+msgstr "Position/rôle"
+
+msgid "fundingSource"
+msgstr "Source de financement"
+
+msgid "jobInformation"
+msgstr "Informations sur l'emploi"
+
+msgid "supervisor"
+msgstr "Superviseur"
+
+# Not used
+msgid "contactInformation"
+msgstr "Informations sur le contact"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Adresse permanente"
+
+# Not used
+msgid "label"
+msgstr "Étiquette"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ex : Adresse du domicile"
+
+# Not used
+msgid "attention"
+msgstr "Attention"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ex : A l'attention de John Doe"
+
+# Not used
+msgid "address"
+msgstr "Adresse"
+
+# Not used
+msgid "city"
+msgstr "Ville"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Votre ville"
+
+# Not used
+msgid "stateProvince"
+msgstr "État/Province"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Votre état/province"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Votre code postal"
+
+# Not used
+msgid "country"
+msgstr "Pays"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Votre pays"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Adresse de livraison"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "Identique au permanent"
+
+# Not used
+msgid "jobTitle"
+msgstr "Titre du poste"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "Votre fonction"
+
+# Not used
+msgid "jobDescription"
+msgstr "Description de l'emploi"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "Votre description de poste"
+
+msgid "Select Entity"
+msgstr "Sélectionner une entité"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Plusieurs enregistrements correspondent à votre adresse électronique. "
+"Veuillez choisir celui que vous souhaitez mettre à jour."
+
+# Main page title
+msgid "hrUpdate"
+msgstr "Mise à jour des RH"
+
+msgid "help"
+msgstr "Aide"
+
+msgid "logout"
+msgstr "Déconnexion"
+
+msgid "chooseAnOption"
+msgstr "Choisir une option"
+
+msgid "currentValue"
+msgstr "Valeur actuelle"
+
+msgid "requestValue"
+msgstr "Valeur demandée"
+
+msgid "sorry"
+msgstr "Désolé"
+
+msgid "error"
+msgstr "Erreur"
+
+msgid "verify"
+msgstr "Je vérifie que tous les champs ci-dessus sont exacts."
+
+msgid "submit"
+msgstr "Soumettre"
+
+msgid "sending"
+msgstr "Envoi"
+
+msgid "sent"
+msgstr "Envoyé"
+
+msgid "thankYouDescription"
+msgstr "Vos informations ont été soumises."
+
+msgid "middleNamePlaceholder"
+msgstr "Votre deuxième prénom (facultatif)"
+
+msgid "birthDatePlaceholder"
+msgstr "Votre date de naissance"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Région où vous servez"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Champ de responsabilité"
+
+# Not used
+msgid "terminationDate"
+msgstr "Date d'expiration"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Date d'expiration de votre carte d'identité"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Adresse complète du contact"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Votre date d'obtention"
+
+# Not used
+msgid "homePhone"
+msgstr "Téléphone fixe"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Votre numéro de téléphone à domicile"
+
+# Not used
+msgid "officePhone"
+msgstr "Téléphone du bureau"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Votre numéro de téléphone professionnel"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Votre adresse (plusieurs lignes possibles)"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Tapez le nom de votre superviseur dans la fenêtre de recherche."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 lettres suffisent pour commencer la recherche."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Recherche…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Annuler"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Fermer"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "recherche"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"La session web a expiré. Veuillez recharger la page pour vous réauthentifier."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Note du superviseur"
+
+msgid "hireDate"
+msgstr "Date d'embauche"
+
+msgid "approveChange"
+msgstr "Approuver la modification"
+
+msgid "approve"
+msgstr "Approuver"
+
+msgid "delete"
+msgstr "Supprimer"
+
+msgid "deleting"
+msgstr "Suppression"
+
+msgid "deleted"
+msgstr "Supprimé"
+
+msgid "type"
+msgstr "Type"
+
+msgid "number"
+msgstr "Nombre"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Équivalent temps plein (ETP)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Raison de la résiliation"
+
+msgid "inactive"
+msgstr "Inactif"
+
+# Not used
+msgid "governmentID"
+msgstr "ID du gouvernement"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Votre numéro d'identification gouvernemental"
+
+# Not used
+msgid "issueDate"
+msgstr "Date d'émission"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Date d'émission de votre carte d'identité"
+
+# Not used
+msgid "expirationDate"
+msgstr "Date d'expiration"
+
+# Not used
+msgid "expirationDateText"
+msgstr "Votre carte d'identité a expiré."
+
+# Not used
+msgid "emergencyContact"
+msgstr "Contact en cas d'urgence"
+
+# Not used
+msgid "name"
+msgstr "Nom"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Nom complet du contact"
+
+# Not used
+msgid "relationship"
+msgstr "Relation"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "La relation de cette personne avec vous"
+
+# Not used
+msgid "phone"
+msgstr "Téléphone"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Numéro de téléphone du contact"
+
+# Not used
+msgid "educationInformation"
+msgstr "Informations sur l'éducation"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Niveau d'éducation"
+
+# Not used
+msgid "degree"
+msgstr "Diplôme"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Nom du diplôme"
+
+# Not used
+msgid "dateConferred"
+msgstr "Date d'attribution"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Vous avez obtenu votre diplôme à l'âge de"
+
+# Not used
+msgid "email"
+msgstr "Courrier électronique"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "Votre adresse électronique"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Téléphone portable"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Votre numéro de téléphone portable"
+
+msgid "entityNotice"
+msgstr ""
+"Les données ci-dessous reflètent l'état actuel des données dans Netsuite. "
+"Les soumissions antérieures qui n'ont pas encore été approuvées par les "
+"généralistes nationaux des ressources humaines ne seront pas reflétées ci-"
+"dessous."
+
+msgid "buttonHelpDescription"
+msgstr ""
+"Besoin d'aide pour remplir ce champ ? Cliquez pour obtenir des instructions."
+
+msgid "verifyBeforeSubmit"
+msgstr "Veuillez vérifier toutes les sections avant de les soumettre."
+
+msgid "supervisorDescription"
+msgstr ""
+"Qui, en %s, approuve vos notes de frais ?  Si vous n'êtes pas sûr ou si vous "
+"êtes étranger, adressez-vous au responsable national des opérations ou "
+"consultez l'équipe nationale des finances."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr ""
+"Nous sommes en train de recevoir votre identifiant Netsuite, veuillez "
+"patienter."
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] ""
+msgstr[1] "Vous avez actuellement <strong>%d</strong> ans"
