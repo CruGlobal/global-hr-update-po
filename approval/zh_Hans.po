@@ -1,2 +1,469 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-07-28 21:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Chinese (Simplified) <https://alltongues.org/projects/"
+"netsuite-hr-update-app/approval-app/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "ok"
+msgstr "好的"
+
+msgid "staffSpouse"
+msgstr "工作人员配偶"
+
+# Not used
+msgid "name"
+msgstr "名称"
+
+# Not used
+msgid "degree"
+msgstr "学位"
+
+# Not used
+msgid "jobTitle"
+msgstr "职位名称"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "您的职位"
+
+# Not used
+msgid "jobDescription"
+msgstr "职位描述"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "您的工作描述"
+
+msgid "Select Entity"
+msgstr "选择实体"
+
+msgid "selectEntityInstructions"
+msgstr "有多条记录与您的电子邮件地址匹配。请选择要更新的记录。"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "人力资源最新情况"
+
+msgid "entityNotice"
+msgstr "以下数据反映的是 Netsuite 中数据的当前状态。尚未获得国家人力资源综合专家批准"
+"的以前提交的数据将不在下面反映。"
+
+msgid "help"
+msgstr "帮助"
+
+msgid "logout"
+msgstr "注销"
+
+msgid "chooseAnOption"
+msgstr "选择一个选项"
+
+msgid "currentValue"
+msgstr "当前价值"
+
+msgid "requestValue"
+msgstr "要求值"
+
+msgid "sorry"
+msgstr "对不起"
+
+msgid "error"
+msgstr "错误"
+
+msgid "verify"
+msgstr "我确认上述所有栏目均准确无误。"
+
+msgid "buttonHelpDescription"
+msgstr "填写此栏时需要帮助？点击获取说明。"
+
+msgid "verifyBeforeSubmit"
+msgstr "提交前请核实所有部分。"
+
+msgid "submit"
+msgstr "提交"
+
+msgid "sending"
+msgstr "发送"
+
+msgid "sent"
+msgstr "发送"
+
+msgid "thankYouDescription"
+msgstr "您的信息已提交。"
+
+msgid "personalDetails"
+msgstr "个人详细信息"
+
+msgid "firstName"
+msgstr "姓名"
+
+msgid "firstNamePlaceholder"
+msgstr "您的名字"
+
+msgid "preferredName"
+msgstr "首选名称"
+
+msgid "preferredNamePlaceholder"
+msgstr "您喜欢的名字（可选）"
+
+msgid "middleName"
+msgstr "中间名"
+
+msgid "middleNamePlaceholder"
+msgstr "您的中间名（可选）"
+
+msgid "lastName"
+msgstr "姓氏"
+
+msgid "lastNamePlaceholder"
+msgstr "您的姓氏"
+
+# Not used
+msgid "secondLastName"
+msgstr "第二个姓氏"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "您的第二个姓氏"
+
+# Not used
+msgid "title"
+msgstr "标题"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ex：Mr."
+
+msgid "gender"
+msgstr "性别"
+
+msgid "birthDate"
+msgstr "出生日期"
+
+msgid "birthDatePlaceholder"
+msgstr "您的出生日期"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "您现在的年龄是<strong>%d</strong> 岁"
+
+msgid "familyInformation"
+msgstr "家庭信息"
+
+msgid "staffUnit"
+msgstr "工作人员股"
+
+msgid "staffUnitPlaceholder"
+msgstr "姓氏、名字或姓氏、他的名字和她的名字。"
+
+msgid "maritalStatus"
+msgstr "婚姻状况"
+
+msgid "maritalStatusPlaceholder"
+msgstr "选择您的婚姻状况"
+
+msgid "staffSpousePlaceholder"
+msgstr "您配偶的姓名"
+
+msgid "workforceInformation"
+msgstr "员工信息"
+
+msgid "geographicAreaOfService"
+msgstr "服务地理区域"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "服务地区"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "由当地部委/实体支付"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "战略/能力（Netsuite 的人力资源部门）"
+
+msgid "organizationalStatus"
+msgstr "组织状况"
+
+msgid "positionRole"
+msgstr "职位/角色"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "范围"
+
+msgid "fundingSource"
+msgstr "资金来源"
+
+msgid "jobInformation"
+msgstr "工作信息"
+
+msgid "supervisor"
+msgstr "监督员"
+
+msgid "supervisorDescription"
+msgstr "谁在 %s 批准您的费用报告？  "
+"如果您不确定或您是外国人，请选择国家业务负责人或咨询国家财务团队。"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "在搜索窗口中键入主管的姓名。"
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "我们仍在获取您的 Netsuite ID，请稍候。"
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 个字母就足以开始搜索。"
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "搜索…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "取消"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "关闭"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "搜索"
+
+msgid "supervisorPopupAlertSorry"
+msgstr "网络会话超时。请重新加载页面以重新验证。"
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "监督员说明"
+
+msgid "hireDate"
+msgstr "受雇日期"
+
+msgid "approveChange"
+msgstr "批准变更"
+
+msgid "approve"
+msgstr "批准"
+
+msgid "delete"
+msgstr "删除"
+
+msgid "deleting"
+msgstr "删除"
+
+msgid "deleted"
+msgstr "已删除"
+
+msgid "type"
+msgstr "类型"
+
+msgid "number"
+msgstr "数量"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "全职当量（FTE）"
+
+# Not used
+msgid "terminationReason"
+msgstr "终止原因"
+
+msgid "inactive"
+msgstr "不活动"
+
+# Not used
+msgid "terminationDate"
+msgstr "终止日期"
+
+# Not used
+msgid "governmentID"
+msgstr "政府编号"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "您的政府身份证号码"
+
+# Not used
+msgid "issueDate"
+msgstr "发行日期"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "您的身份证签发日期"
+
+# Not used
+msgid "expirationDate"
+msgstr "有效期"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "您的身份证有效期"
+
+# Not used
+msgid "expirationDateText"
+msgstr "您的身份证已过期。"
+
+# Not used
+msgid "emergencyContact"
+msgstr "紧急联系人"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "联系人全名"
+
+# Not used
+msgid "relationship"
+msgstr "关系"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "此人与您的关系"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "联系人详细地址"
+
+# Not used
+msgid "phone"
+msgstr "电话"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "联系人电话号码"
+
+# Not used
+msgid "educationInformation"
+msgstr "教育信息"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "教育程度"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "学位名称"
+
+# Not used
+msgid "dateConferred"
+msgstr "授予日期"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "授予日期"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "你毕业时"
+
+# Not used
+msgid "email"
+msgstr "电子邮件"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "您的电子邮件地址"
+
+# Not used
+msgid "mobilePhone"
+msgstr "移动电话"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "您的手机号码"
+
+# Not used
+msgid "homePhone"
+msgstr "家庭电话"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "您的家庭电话号码"
+
+# Not used
+msgid "officePhone"
+msgstr "办公室电话"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "您的办公室电话号码"
+
+# Not used
+msgid "contactInformation"
+msgstr "联系信息"
+
+# Not used
+msgid "permanentAddress"
+msgstr "永久地址"
+
+# Not used
+msgid "label"
+msgstr "标签"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ex: 家庭住址"
+
+# Not used
+msgid "attention"
+msgstr "请注意"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ex：收件人：John Doe"
+
+# Not used
+msgid "address"
+msgstr "地址"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "您的地址（可以是多行）"
+
+# Not used
+msgid "city"
+msgstr "城市"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "您所在的城市"
+
+# Not used
+msgid "stateProvince"
+msgstr "州/省"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "您所在的州/省"
+
+# Not used
+msgid "zip"
+msgstr "压缩"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "您的邮政编码"
+
+# Not used
+msgid "country"
+msgstr "国家"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "您的国家"
+
+# Not used
+msgid "shippingAddress"
+msgstr "送货地址"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "与永久性相同"
