@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:30+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-02 16:33+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Portuguese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/pt/>\n"
 "Language: pt\n"
@@ -130,7 +130,7 @@ msgstr "A sua data de nascimento"
 #. home.f7.jsx:668
 msgid "ageCalculator"
 msgid_plural "ageCalculator"
-msgstr[0] ""
+msgstr[0] "Tem atualmente <strong>um</strong> ano de idade"
 msgstr[1] "Tem atualmente <strong>%d</strong> anos de idade"
 
 msgid "familyInformation"
