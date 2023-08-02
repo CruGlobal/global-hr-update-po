@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:38+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-02 16:45+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Mongolian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/mn/>\n"
 "Language: mn\n"
@@ -100,7 +100,7 @@ msgid "personalDetails"
 msgstr "Хувийн мэдээлэл"
 
 msgid "firstName"
-msgstr "Нэр"
+msgstr "Өөрийн нэр"
 
 msgid "firstNamePlaceholder"
 msgstr "Таны нэр"
