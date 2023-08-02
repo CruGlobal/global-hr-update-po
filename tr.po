@@ -1,2 +1,482 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-08-02 16:45+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Turkish <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+# Not used
+msgid "city"
+msgstr "Şehir"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Sizin şehriniz"
+
+# Not used
+msgid "stateProvince"
+msgstr "Eyalet/İl"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Eyaletiniz/iliniz"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Posta kodunuz"
+
+# Not used
+msgid "country"
+msgstr "Ülke"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "İK Güncellemesi"
+
+msgid "entityNotice"
+msgstr ""
+"Aşağıdaki veriler, Netsuite'deki verilerin mevcut durumunu yansıtmaktadır. "
+"Henüz Ulusal İK Genel Müdürleri tarafından onaylanmamış önceki gönderimler "
+"aşağıda yansıtılmayacaktır."
+
+msgid "help"
+msgstr "Yardım"
+
+msgid "logout"
+msgstr "Oturumu Kapat"
+
+msgid "chooseAnOption"
+msgstr "Bir seçenek seçin"
+
+msgid "currentValue"
+msgstr "Güncel Değer"
+
+msgid "requestValue"
+msgstr "Talep Edilen Değer"
+
+msgid "sorry"
+msgstr "Üzgünüm."
+
+msgid "error"
+msgstr "Hata"
+
+msgid "verify"
+msgstr "Yukarıdaki tüm alanların doğru olduğunu onaylıyorum."
+
+msgid "buttonHelpDescription"
+msgstr ""
+"Bu alanı doldurmak için yardıma mı ihtiyacınız var? Talimatlar için tıklayın."
+
+msgid "verifyBeforeSubmit"
+msgstr "Lütfen göndermeden önce tüm bölümleri doğrulayın."
+
+msgid "submit"
+msgstr "Gönder"
+
+msgid "sending"
+msgstr "Gönderme"
+
+msgid "sent"
+msgstr "Gönderildi"
+
+msgid "thankYou"
+msgstr "Teşekkür ederiz"
+
+msgid "thankYouDescription"
+msgstr "Bilgileriniz gönderilmiştir."
+
+msgid "ok"
+msgstr "TAMAM."
+
+msgid "personalDetails"
+msgstr "Kişisel Bilgiler"
+
+msgid "firstName"
+msgstr "İlk İsim"
+
+msgid "firstNamePlaceholder"
+msgstr "İlk adınız"
+
+msgid "preferredName"
+msgstr "Tercih Edilen İsim"
+
+msgid "preferredNamePlaceholder"
+msgstr "Tercih ettiğiniz isim (isteğe bağlı)"
+
+msgid "middleName"
+msgstr "Göbek Adı"
+
+msgid "middleNamePlaceholder"
+msgstr "Göbek adınız (isteğe bağlı)"
+
+msgid "lastName"
+msgstr "Soyadı"
+
+msgid "lastNamePlaceholder"
+msgstr "Soyadınız"
+
+# Not used
+msgid "secondLastName"
+msgstr "İkinci Soyadı"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "İkinci soyadınız"
+
+# Not used
+msgid "title"
+msgstr "Başlık"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "Örn: Bay. Bayan. Bayan. vb."
+
+msgid "gender"
+msgstr "Cinsiyet"
+
+msgid "birthDate"
+msgstr "Doğum Tarihi"
+
+msgid "birthDatePlaceholder"
+msgstr "Doğum tarihiniz"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Şu anda <strong>bir</strong> yaşındasınız"
+msgstr[1] "Şu anda <strong>%d</strong> yaşındasınız"
+
+msgid "familyInformation"
+msgstr "Aile Bilgileri"
+
+msgid "staffUnit"
+msgstr "Personel Birimi"
+
+msgid "staffUnitPlaceholder"
+msgstr "Soyadı, VerilenAdı veya Soyadı, VerilenAdı ve VerilenAdı."
+
+msgid "maritalStatus"
+msgstr "Medeni Durum"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Savaş durumunuzu seçin"
+
+msgid "staffSpouse"
+msgstr "Personel Eşi"
+
+msgid "staffSpousePlaceholder"
+msgstr "Eşinizin adı"
+
+msgid "workforceInformation"
+msgstr "İşgücü Bilgileri"
+
+msgid "geographicAreaOfService"
+msgstr "Coğrafi Hizmet Alanı"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Hizmet Verdiğiniz Bölge"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Yerel Bakanlık/Kurum tarafından ödenir"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Strateji / Kapasite (Netsuite'de İK Departmanı)"
+
+msgid "organizationalStatus"
+msgstr "Organizasyonel Durum"
+
+msgid "positionRole"
+msgstr "Pozisyon/Rol"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Kapsam"
+
+msgid "fundingSource"
+msgstr "Finansman Kaynağı"
+
+msgid "jobInformation"
+msgstr "İş Bilgileri"
+
+msgid "supervisor"
+msgstr "Süpervizör"
+
+msgid "supervisorDescription"
+msgstr ""
+"Gider Raporlarınızı %s'de kim onaylıyor?  Emin değilseniz veya "
+"yabancıysanız, Ulusal Operasyon Liderini seçin veya Ulusal Finans Ekibine "
+"danışın."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Arama penceresine amirinizin adını yazın."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Hala Netsuite Kimliğinizi alıyoruz, lütfen bekleyin."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "Aramaya başlamak için 5 harf yeterlidir."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Arama…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "İptal"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Kapat"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "arama"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"Web oturumu zaman aşımına uğradı. Yeniden kimlik doğrulaması yapmak için "
+"lütfen sayfayı yeniden yükleyin."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Gözetmen notu"
+
+msgid "hireDate"
+msgstr "İşe alındığınız tarih"
+
+msgid "approveChange"
+msgstr "Değişikliği Onaylayın"
+
+msgid "approve"
+msgstr "Onaylamak"
+
+msgid "delete"
+msgstr "Silme"
+
+msgid "deleting"
+msgstr "Silme"
+
+msgid "deleted"
+msgstr "Silinmiş"
+
+msgid "type"
+msgstr "Tip"
+
+msgid "number"
+msgstr "Sayı"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Tam Zaman Eşdeğeri (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Fesih Nedeni"
+
+msgid "inactive"
+msgstr "Aktif değil"
+
+# Not used
+msgid "terminationDate"
+msgstr "Fesih Tarihi"
+
+# Not used
+msgid "governmentID"
+msgstr "Devlet Kimliği"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Resmi kimlik numaranız"
+
+# Not used
+msgid "issueDate"
+msgstr "Yayın Tarihi"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Kimlik düzenleme tarihiniz"
+
+# Not used
+msgid "expirationDate"
+msgstr "Son Kullanma Tarihi"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Kimliğinizin son kullanma tarihi"
+
+# Not used
+msgid "expirationDateText"
+msgstr "Kimliğinizin süresi doldu."
+
+# Not used
+msgid "emergencyContact"
+msgstr "Acil Durum İletişim"
+
+# Not used
+msgid "name"
+msgstr "İsim"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Kişinin tam adı"
+
+# Not used
+msgid "relationship"
+msgstr "İlişki"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "Bu kişinin sizinle olan ilişkisi"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Kişinin açık adresi"
+
+# Not used
+msgid "phone"
+msgstr "Telefon"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Kişinin telefon numarası"
+
+# Not used
+msgid "educationInformation"
+msgstr "Eğitim Bilgileri"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Eğitim Seviyesi"
+
+# Not used
+msgid "degree"
+msgstr "Derece"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Derecenizin adı"
+
+# Not used
+msgid "dateConferred"
+msgstr "Verildiği Tarih"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Verilen tarihiniz"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Sen mezun olduğunda"
+
+# Not used
+msgid "email"
+msgstr "E-posta"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "E-posta adresiniz"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Cep Telefonu"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Cep telefonu numaranız"
+
+# Not used
+msgid "homePhone"
+msgstr "Ev Telefonu"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Ev telefon numaranız"
+
+# Not used
+msgid "officePhone"
+msgstr "Ofis Telefonu"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Ofis telefon numaranız"
+
+# Not used
+msgid "contactInformation"
+msgstr "İletişim Bilgileri"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Daimi Adres"
+
+# Not used
+msgid "label"
+msgstr "Etiket"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "Örn: Ev Adresi"
+
+# Not used
+msgid "attention"
+msgstr "Dikkat"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ex: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "Adres"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Adresiniz (birden fazla satır olabilir)"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Sizin ülkeniz"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Gönderi Adresi"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "kalıcı ile aynı"
+
+# Not used
+msgid "jobTitle"
+msgstr "İş Ünvanı"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "İş unvanınız"
+
+# Not used
+msgid "jobDescription"
+msgstr "İş Tanımı"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "İş tanımınız"
+
+msgid "Select Entity"
+msgstr "Varlık Seçin"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"E-posta adresinizle eşleşen birden fazla kayıt var. Lütfen güncellemek "
+"istediğinizi seçin."
