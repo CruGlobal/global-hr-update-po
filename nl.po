@@ -1,2 +1,478 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-08-02 16:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
+"user-interface/nl/>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Telefoonnummer op kantoor"
+
+# Not used
+msgid "contactInformation"
+msgstr "Contactgegevens"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Vast adres"
+
+# Not used
+msgid "label"
+msgstr "Label"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ex: Thuisadres"
+
+# Not used
+msgid "attention"
+msgstr "Attentie"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ex: T.a.v. John Doe"
+
+# Not used
+msgid "address"
+msgstr "Adres"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Je adres (kunnen meerdere regels zijn)"
+
+# Not used
+msgid "city"
+msgstr "Stad"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Jouw stad"
+
+# Not used
+msgid "stateProvince"
+msgstr "Staat/provincie"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Uw staat/provincie"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Uw postcode"
+
+# Not used
+msgid "country"
+msgstr "Land"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Jouw land"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Verzendadres"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "hetzelfde als permanent"
+
+# Not used
+msgid "jobTitle"
+msgstr "Functie"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "Je functietitel"
+
+# Not used
+msgid "jobDescription"
+msgstr "Functieomschrijving"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "Je functieomschrijving"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "HR Update"
+
+msgid "entityNotice"
+msgstr ""
+"Onderstaande gegevens geven de huidige staat van gegevens in Netsuite weer. "
+"Eerdere aanmeldingen die nog niet zijn goedgekeurd door National HR "
+"Generalists worden hieronder niet weergegeven."
+
+msgid "help"
+msgstr "Help"
+
+msgid "logout"
+msgstr "Afmelden"
+
+msgid "chooseAnOption"
+msgstr "Kies een optie"
+
+msgid "currentValue"
+msgstr "Huidige waarde"
+
+msgid "requestValue"
+msgstr "Gevraagde waarde"
+
+msgid "sorry"
+msgstr "Sorry"
+
+msgid "error"
+msgstr "Fout"
+
+msgid "verify"
+msgstr "Ik bevestig dat alle bovenstaande velden juist zijn."
+
+msgid "buttonHelpDescription"
+msgstr "Hulp nodig bij het invullen van dit veld? Klik voor instructies."
+
+msgid "verifyBeforeSubmit"
+msgstr "Controleer alle onderdelen voordat u ze indient."
+
+msgid "submit"
+msgstr "Stuur  in"
+
+msgid "sending"
+msgstr "Verzenden"
+
+msgid "sent"
+msgstr "Verzonden"
+
+msgid "thankYouDescription"
+msgstr "Uw informatie is ingediend."
+
+msgid "ok"
+msgstr "OK"
+
+msgid "personalDetails"
+msgstr "Persoonlijke gegevens"
+
+msgid "firstName"
+msgstr "Voornaam"
+
+msgid "firstNamePlaceholder"
+msgstr "Je voornaam"
+
+msgid "preferredName"
+msgstr "Voorkeur Naam"
+
+msgid "preferredNamePlaceholder"
+msgstr "Je voorkeursnaam (optioneel)"
+
+msgid "middleName"
+msgstr "Middelste naam"
+
+msgid "middleNamePlaceholder"
+msgstr "Je middelste naam (optioneel)"
+
+msgid "lastName"
+msgstr "Achternaam"
+
+msgid "lastNamePlaceholder"
+msgstr "Je achternaam"
+
+# Not used
+msgid "secondLastName"
+msgstr "Tweede achternaam"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Je tweede achternaam"
+
+# Not used
+msgid "title"
+msgstr "Titel"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ex: Mr. Mrs. Miss. etc."
+
+msgid "gender"
+msgstr "Geslacht"
+
+msgid "birthDate"
+msgstr "Geboortedatum"
+
+msgid "birthDatePlaceholder"
+msgstr "Je geboortedatum"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Je bent momenteel <strong>een</strong> jaar oud"
+msgstr[1] "Je bent momenteel <strong>%d</strong> jaar oud"
+
+msgid "familyInformation"
+msgstr "Familie informatie"
+
+msgid "staffUnit"
+msgstr "Personeel Eenheid"
+
+msgid "staffUnitPlaceholder"
+msgstr ""
+"Achternaam, Voornaam of Achternaam, ZijnGeboortenaam en HaarGeboortenaam."
+
+msgid "maritalStatus"
+msgstr "Burgerlijke staat"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Selecteer je martiale status"
+
+msgid "staffSpouse"
+msgstr "Personeel Echtgeno(o)t(e)"
+
+msgid "staffSpousePlaceholder"
+msgstr "Naam van uw echtgenoot/echtgenote"
+
+msgid "workforceInformation"
+msgstr "Personeelsinformatie"
+
+msgid "geographicAreaOfService"
+msgstr "Geografisch gebied"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Regio waar je dient"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Betaald door plaatselijk ministerie/instantie"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Strategie / Capaciteit (HR-afdeling in Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "Organisatorische status"
+
+msgid "positionRole"
+msgstr "Functie/rol"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Toepassingsgebied"
+
+msgid "fundingSource"
+msgstr "Financieringsbron"
+
+msgid "jobInformation"
+msgstr "Functie-informatie"
+
+msgid "supervisor"
+msgstr "Supervisor"
+
+msgid "supervisorDescription"
+msgstr ""
+"Wie in %s keurt je onkostendeclaraties goed?  Als je het niet zeker weet of "
+"een buitenlander bent, neem dan contact op met de National Operations Leader "
+"of overleg met het National Finance Team."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Typ de naam van je supervisor in het zoekvenster."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "We ontvangen nog steeds uw Netsuite-id, even geduld alstublieft."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 letters zijn genoeg om te beginnen met zoeken."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Zoeken…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Annuleren"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Sluit"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "zoeken"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"De websessie is verlopen. Laad de pagina opnieuw om opnieuw te authenticeren."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Opmerking toezichthouder"
+
+msgid "hireDate"
+msgstr "Datum waarop je bent aangenomen"
+
+msgid "approveChange"
+msgstr "Wijziging goedkeuren"
+
+msgid "approve"
+msgstr "Goedkeuren"
+
+msgid "delete"
+msgstr "Verwijder"
+
+msgid "deleting"
+msgstr "verwijderen"
+
+msgid "deleted"
+msgstr "Verwijderd"
+
+msgid "type"
+msgstr "Type"
+
+msgid "number"
+msgstr "Aantal"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Voltijds equivalent (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Reden van beëindiging"
+
+msgid "inactive"
+msgstr "Inactief"
+
+# Not used
+msgid "terminationDate"
+msgstr "Einddatum"
+
+# Not used
+msgid "governmentID"
+msgstr "Overheid ID"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Je ID-nummer van de overheid"
+
+# Not used
+msgid "issueDate"
+msgstr "Uitgiftedatum"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "De uitgiftedatum van je ID"
+
+# Not used
+msgid "expirationDate"
+msgstr "Vervaldatum"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "De vervaldatum van je ID"
+
+# Not used
+msgid "expirationDateText"
+msgstr "Je ID is verlopen."
+
+# Not used
+msgid "emergencyContact"
+msgstr "Contactpersoon voor noodgevallen"
+
+# Not used
+msgid "name"
+msgstr "Naam"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Volledige naam contactpersoon"
+
+# Not used
+msgid "relationship"
+msgstr "Relatie"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "De relatie van deze persoon tot jou"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Volledig adres van de contactpersoon"
+
+# Not used
+msgid "phone"
+msgstr "Telefoon"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Telefoonnummer contactpersoon"
+
+# Not used
+msgid "educationInformation"
+msgstr "Informatie over onderwijs"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Opleidingsniveau"
+
+# Not used
+msgid "degree"
+msgstr "Graad"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Naam van je diploma"
+
+# Not used
+msgid "dateConferred"
+msgstr "Datum Toegekend"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Je toegekende datum"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Je bent afgestudeerd toen je"
+
+# Not used
+msgid "email"
+msgstr "E-mail"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "Uw e-mailadres"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Mobiele telefoon"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Je mobiele telefoonnummer"
+
+# Not used
+msgid "homePhone"
+msgstr "Telefoon thuis"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Je telefoonnummer thuis"
+
+# Not used
+msgid "officePhone"
+msgstr "Telefoon kantoor"
+
+msgid "Select Entity"
+msgstr "Selecteer entiteit"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Er zijn meerdere records die overeenkomen met je e-mailadres. Kies degene "
+"die je wilt bijwerken."
