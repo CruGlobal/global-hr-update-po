@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-02 16:17+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Bengali <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/bn/>\n"
 "Language: bn\n"
@@ -111,7 +111,7 @@ msgstr "শিরোনাম"
 
 # Not used
 msgid "titlePlaceholder"
-msgstr "উদাঃ মিঃ মিসেস মিস ইত্যাদি"
+msgstr "যেমন: মি, মিসেস, মিস, ইত্যাদি।"
 
 msgid "gender"
 msgstr "লিঙ্গ"
@@ -126,7 +126,7 @@ msgstr "আপনার জন্ম তারিখ"
 #. home.f7.jsx:668
 msgid "ageCalculator"
 msgid_plural "ageCalculator"
-msgstr[0] ""
+msgstr[0] "আপনার বয়স বর্তমানে <strong>এক</strong> বছর"
 msgstr[1] "আপনার বয়স বর্তমানে <strong>%d</strong> বছর"
 
 msgid "familyInformation"
