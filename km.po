@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:18+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-02 16:24+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Khmer (Central) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/km/>\n"
 "Language: km\n"
@@ -150,7 +150,7 @@ msgid "staffUnit"
 msgstr "អង្គភាពបុគ្គលិក"
 
 msgid "staffUnitPlaceholder"
-msgstr "នាមត្រកូល នាមត្រកូល ឬនាមត្រកូល HisGivenName និង HerGivenName ។"
+msgstr "នាមត្រកូល នាមត្រកូល ឬនាមត្រកូល ឈ្មោះដែលបានផ្តល់ឱ្យ និងឈ្មោះរបស់នាង។"
 
 msgid "maritalStatus"
 msgstr "ស្ថានភាពអាពាហ៍ពិពាហ៍"
