@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-28 21:35+0000\n"
+"PO-Revision-Date: 2023-08-02 16:09+0000\n"
 "Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Russian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ru/>\n"
@@ -227,7 +227,7 @@ msgstr "Постоянный адрес"
 
 # Not used
 msgid "label"
-msgstr "Название"
+msgstr "Адресный ярлык"
 
 # Not used
 msgid "labelPlaceholder"
@@ -239,7 +239,7 @@ msgstr "Внимание"
 
 # Not used
 msgid "attentionPlaceholder"
-msgstr "ex: Attn John Doe"
+msgstr "пример: Внимание John Doe"
 
 # Not used
 msgid "address"
@@ -408,7 +408,7 @@ msgstr "Контактное лицо в чрезвычайных ситуаци
 
 # Not used
 msgid "name"
-msgstr "Имя"
+msgstr "Полное имя"
 
 # Not used
 msgid "contactNamePlaceholder"
