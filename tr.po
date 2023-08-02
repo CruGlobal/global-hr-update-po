@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:45+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-02 16:53+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Turkish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/tr/>\n"
 "Language: tr\n"
@@ -65,7 +65,7 @@ msgid "requestValue"
 msgstr "Talep Edilen Değer"
 
 msgid "sorry"
-msgstr "Üzgünüm."
+msgstr "Üzgünüm"
 
 msgid "error"
 msgstr "Hata"
@@ -139,7 +139,7 @@ msgstr "Başlık"
 
 # Not used
 msgid "titlePlaceholder"
-msgstr "Örn: Bay. Bayan. Bayan. vb."
+msgstr "Örn: Bay. Bayan. vb."
 
 msgid "gender"
 msgstr "Cinsiyet"
@@ -435,7 +435,7 @@ msgstr "Dikkat"
 
 # Not used
 msgid "attentionPlaceholder"
-msgstr "ex: Attn John Doe"
+msgstr "Örnek: John Doe'nun dikkatine"
 
 # Not used
 msgid "address"
