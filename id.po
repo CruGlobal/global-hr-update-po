@@ -1,2 +1,482 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-08-02 16:09+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Indonesian <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/id/>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "staffUnit"
+msgstr "Unit Staf"
+
+msgid "maritalStatus"
+msgstr "Status Perkawinan"
+
+msgid "number"
+msgstr "Nomor"
+
+# Not used
+msgid "issueDate"
+msgstr "Tanggal Penerbitan"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Tanggal penerbitan ID Anda"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Tingkat Pendidikan"
+
+msgid "Select Entity"
+msgstr "Pilih Entitas"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Ada beberapa catatan yang cocok dengan alamat email Anda. Pilih salah satu "
+"yang ingin Anda perbarui."
+
+# Main page title
+msgid "hrUpdate"
+msgstr "Pembaruan SDM"
+
+msgid "entityNotice"
+msgstr ""
+"Data di bawah ini mencerminkan keadaan data saat ini di Netsuite. Pengajuan "
+"sebelumnya yang belum disetujui oleh Generalis SDM Nasional tidak akan "
+"ditampilkan di bawah ini."
+
+msgid "help"
+msgstr "Bantuan"
+
+msgid "logout"
+msgstr "Keluar"
+
+msgid "chooseAnOption"
+msgstr "Pilih opsi"
+
+msgid "currentValue"
+msgstr "Nilai Saat Ini"
+
+msgid "requestValue"
+msgstr "Nilai yang Diminta"
+
+msgid "sorry"
+msgstr "Maaf."
+
+msgid "error"
+msgstr "Kesalahan"
+
+msgid "verify"
+msgstr "Saya memverifikasi bahwa semua kolom di atas akurat."
+
+msgid "buttonHelpDescription"
+msgstr "Perlu bantuan untuk mengisi kolom ini? Klik untuk mendapatkan petunjuk."
+
+msgid "verifyBeforeSubmit"
+msgstr "Harap verifikasi semua bagian sebelum mengirimkan."
+
+msgid "submit"
+msgstr "Kirim"
+
+msgid "sending"
+msgstr "Mengirim"
+
+msgid "sent"
+msgstr "Terkirim"
+
+msgid "thankYou"
+msgstr "Terima kasih."
+
+msgid "thankYouDescription"
+msgstr "Informasi Anda telah dikirimkan."
+
+msgid "ok"
+msgstr "BAIKLAH."
+
+msgid "personalDetails"
+msgstr "Detail Pribadi"
+
+msgid "firstName"
+msgstr "Nama depan"
+
+msgid "firstNamePlaceholder"
+msgstr "Nama depan Anda"
+
+msgid "preferredName"
+msgstr "Nama Pilihan"
+
+msgid "preferredNamePlaceholder"
+msgstr "Nama pilihan Anda (opsional)"
+
+msgid "middleName"
+msgstr "Nama Tengah"
+
+msgid "middleNamePlaceholder"
+msgstr "Nama tengah Anda (opsional)"
+
+msgid "lastName"
+msgstr "Nama belakang"
+
+msgid "lastNamePlaceholder"
+msgstr "Nama belakang Anda"
+
+# Not used
+msgid "secondLastName"
+msgstr "Nama Belakang Kedua"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Nama belakang kedua Anda"
+
+# Not used
+msgid "title"
+msgstr "Judul"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ex: Bapak, Ibu, Nona, dll."
+
+msgid "gender"
+msgstr "Jenis Kelamin"
+
+msgid "birthDate"
+msgstr "Tanggal Lahir"
+
+msgid "birthDatePlaceholder"
+msgstr "Tanggal lahir Anda"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Anda saat ini <strong>%d</strong> tahun"
+
+msgid "familyInformation"
+msgstr "Informasi Keluarga"
+
+msgid "staffUnitPlaceholder"
+msgstr ""
+"Nama Keluarga, Nama Pemberian atau Nama Keluarga, Nama yang Diberikan dan "
+"Nama yang Diberikan."
+
+msgid "maritalStatusPlaceholder"
+msgstr "Pilih status bela diri Anda"
+
+msgid "staffSpouse"
+msgstr "Pasangan Staf"
+
+msgid "staffSpousePlaceholder"
+msgstr "Nama pasangan Anda"
+
+msgid "workforceInformation"
+msgstr "Informasi Tenaga Kerja"
+
+msgid "geographicAreaOfService"
+msgstr "Wilayah Layanan Geografis"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Wilayah tempat Anda Melayani"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Dibayar oleh Kementerian/Lembaga setempat"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Strategi / Kapasitas (Departemen SDM di Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "Status Organisasi"
+
+msgid "positionRole"
+msgstr "Posisi/Peran"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Cakupan"
+
+msgid "fundingSource"
+msgstr "Sumber Pendanaan"
+
+msgid "jobInformation"
+msgstr "Informasi Pekerjaan"
+
+msgid "supervisor"
+msgstr "Supervisor"
+
+msgid "supervisorDescription"
+msgstr ""
+"Siapa yang menyetujui Laporan Pengeluaran Anda?  Jika Anda tidak yakin atau "
+"orang asing, pilihlah Pemimpin Operasi Nasional atau konsultasikan dengan "
+"Tim Keuangan Nasional."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Ketik nama supervisor Anda di jendela Pencarian."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Kami masih mendapatkan Id Netsuite Anda, mohon tunggu."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 huruf sudah cukup untuk memulai pencarian."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Cari…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Batal"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Tutup"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "mencari"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"Sesi web telah habis waktunya. Muat ulang halaman untuk mengautentikasi "
+"ulang."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Catatan supervisor"
+
+msgid "hireDate"
+msgstr "Tanggal Anda dipekerjakan"
+
+msgid "approveChange"
+msgstr "Menyetujui Perubahan"
+
+msgid "approve"
+msgstr "Menyetujui"
+
+msgid "delete"
+msgstr "Menghapus"
+
+msgid "deleting"
+msgstr "Menghapus"
+
+msgid "deleted"
+msgstr "Dihapus"
+
+msgid "type"
+msgstr "Jenis"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Setara dengan Waktu Penuh (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Alasan Pengakhiran"
+
+msgid "inactive"
+msgstr "Tidak aktif"
+
+# Not used
+msgid "terminationDate"
+msgstr "Tanggal Pengakhiran"
+
+# Not used
+msgid "governmentID"
+msgstr "ID Pemerintah"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Nomor ID pemerintah Anda"
+
+# Not used
+msgid "expirationDate"
+msgstr "Tanggal Kedaluwarsa"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Tanggal kedaluwarsa ID Anda"
+
+# Not used
+msgid "expirationDateText"
+msgstr "ID Anda telah kedaluwarsa."
+
+# Not used
+msgid "emergencyContact"
+msgstr "Kontak Darurat"
+
+# Not used
+msgid "name"
+msgstr "Nama"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Nama lengkap kontak"
+
+# Not used
+msgid "relationship"
+msgstr "Hubungan"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "Hubungan orang ini dengan Anda"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Alamat lengkap kontak"
+
+# Not used
+msgid "phone"
+msgstr "Telepon"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Nomor telepon kontak"
+
+# Not used
+msgid "educationInformation"
+msgstr "Informasi Pendidikan"
+
+# Not used
+msgid "degree"
+msgstr "Derajat"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Nama gelar Anda"
+
+# Not used
+msgid "dateConferred"
+msgstr "Tanggal Diberikan"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Tanggal yang Anda berikan"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Anda lulus ketika Anda berusia"
+
+# Not used
+msgid "email"
+msgstr "E-mail"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "Alamat email Anda"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Ponsel"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Nomor ponsel Anda"
+
+# Not used
+msgid "homePhone"
+msgstr "Telepon Rumah"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Nomor telepon rumah Anda"
+
+# Not used
+msgid "officePhone"
+msgstr "Telepon Kantor"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Nomor telepon kantor Anda"
+
+# Not used
+msgid "contactInformation"
+msgstr "Informasi Kontak"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Alamat Tetap"
+
+# Not used
+msgid "label"
+msgstr "Label"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "contoh: Alamat Rumah"
+
+# Not used
+msgid "attention"
+msgstr "Perhatian"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "mantan: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "Alamat"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Alamat Anda (bisa beberapa baris)"
+
+# Not used
+msgid "city"
+msgstr "Kota"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Kota Anda"
+
+# Not used
+msgid "stateProvince"
+msgstr "Negara Bagian/Provinsi"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Negara bagian/provinsi Anda"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Kode pos Anda"
+
+# Not used
+msgid "country"
+msgstr "Negara"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Negara Anda"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Alamat Pengiriman"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "sama seperti permanen"
+
+# Not used
+msgid "jobTitle"
+msgstr "Jabatan"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "Jabatan pekerjaan Anda"
+
+# Not used
+msgid "jobDescription"
+msgstr "Deskripsi Pekerjaan"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "Deskripsi pekerjaan Anda"
