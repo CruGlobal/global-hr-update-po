@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:33+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-02 16:38+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Ukrainian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/uk/>\n"
 "Language: uk\n"
@@ -54,7 +54,7 @@ msgstr ""
 "персоналом, не будуть відображені нижче."
 
 msgid "help"
-msgstr "Допоможіть!"
+msgstr "Файл довідки"
 
 msgid "logout"
 msgstr "Вийти з системи"
@@ -69,10 +69,10 @@ msgid "requestValue"
 msgstr "Запитуване значення"
 
 msgid "sorry"
-msgstr "Вибач."
+msgstr "Вибач"
 
 msgid "error"
-msgstr "Помилка."
+msgstr "Помилка"
 
 msgid "verify"
 msgstr "Я підтверджую, що всі вищевказані поля є точними."
@@ -95,7 +95,7 @@ msgid "sent"
 msgstr "Відправлено"
 
 msgid "thankYou"
-msgstr "Дякую."
+msgstr "Дякую"
 
 msgid "thankYouDescription"
 msgstr "Ваша інформація надіслана."
@@ -159,8 +159,8 @@ msgstr "Ваша дата народження"
 #. home.f7.jsx:668
 msgid "ageCalculator"
 msgid_plural "ageCalculator"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Наразі вам виповнився <strong>один</strong> рік"
+msgstr[1] "Наразі вам <strong>%d</strong> роки"
 msgstr[2] "Наразі вам <strong>%d</strong> років"
 
 msgid "familyInformation"
@@ -438,7 +438,7 @@ msgstr "Увага!"
 
 # Not used
 msgid "attentionPlaceholder"
-msgstr "колишній: Невідомому."
+msgstr "приклад: Увага, невідомий."
 
 # Not used
 msgid "address"
