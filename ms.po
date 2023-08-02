@@ -1,2 +1,481 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-08-02 16:26+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Malay <https://alltongues.org/projects/netsuite-hr-update-app/"
+"user-interface/ms/>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "Tajuk kerja anda"
+
+# Not used
+msgid "jobDescription"
+msgstr "Deskripsi kerja"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "Penerangan kerja anda"
+
+msgid "Select Entity"
+msgstr "Pilih Entiti"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Terdapat berbilang rekod yang sepadan dengan alamat e-mel anda. Sila pilih "
+"yang ingin anda kemas kini."
+
+# Main page title
+msgid "hrUpdate"
+msgstr "Kemas Kini HR"
+
+msgid "entityNotice"
+msgstr ""
+"Data di bawah menggambarkan keadaan semasa data dalam Netsuite. Penyerahan "
+"terdahulu yang masih belum diluluskan oleh General HR Nasional tidak akan "
+"dipaparkan di bawah."
+
+msgid "help"
+msgstr "Tolong"
+
+msgid "logout"
+msgstr "Log keluar"
+
+msgid "chooseAnOption"
+msgstr "Memilih pilihan"
+
+msgid "currentValue"
+msgstr "Nilai semasa"
+
+msgid "requestValue"
+msgstr "Nilai yang Diminta"
+
+msgid "sorry"
+msgstr "Maaf"
+
+msgid "error"
+msgstr "Ralat"
+
+msgid "verify"
+msgstr "Saya mengesahkan bahawa semua medan di atas adalah tepat."
+
+msgid "buttonHelpDescription"
+msgstr ""
+"Perlukan bantuan untuk mengisi medan ini? Klik untuk mendapatkan arahan."
+
+msgid "verifyBeforeSubmit"
+msgstr "Sila sahkan semua bahagian sebelum menyerahkan."
+
+msgid "submit"
+msgstr "Hantar"
+
+msgid "sending"
+msgstr "Menghantar"
+
+msgid "sent"
+msgstr "Dihantar"
+
+msgid "thankYou"
+msgstr "Terima kasih"
+
+msgid "thankYouDescription"
+msgstr "Maklumat anda telah diserahkan."
+
+msgid "ok"
+msgstr "okey"
+
+msgid "personalDetails"
+msgstr "Maklumat peribadi"
+
+msgid "firstName"
+msgstr "Nama pertama"
+
+msgid "firstNamePlaceholder"
+msgstr "Nama pertama anda"
+
+msgid "preferredName"
+msgstr "Nama Pilihan"
+
+msgid "preferredNamePlaceholder"
+msgstr "Nama pilihan anda (pilihan)"
+
+msgid "middleName"
+msgstr "Nama tengah"
+
+msgid "middleNamePlaceholder"
+msgstr "Nama tengah anda (pilihan)"
+
+msgid "lastName"
+msgstr "Nama terakhir"
+
+msgid "lastNamePlaceholder"
+msgstr "Nama akhir kamu"
+
+# Not used
+msgid "secondLastName"
+msgstr "Nama Akhir Kedua"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Nama keluarga kedua anda"
+
+# Not used
+msgid "title"
+msgstr "Tajuk"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "cth: Encik Puan Cik dll."
+
+msgid "gender"
+msgstr "Jantina"
+
+msgid "birthDate"
+msgstr "Tarikh lahir"
+
+msgid "birthDatePlaceholder"
+msgstr "tarikh lahir awak"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Anda kini berumur <strong>%d</strong> tahun"
+
+msgid "familyInformation"
+msgstr "Maklumat Keluarga"
+
+msgid "staffUnit"
+msgstr "Unit Kakitangan"
+
+msgid "staffUnitPlaceholder"
+msgstr ""
+"Nama keluarga, Nama Given atau Nama Keluarga, HisGivenName dan HerGivenName."
+
+msgid "maritalStatus"
+msgstr "Status perkahwinan"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Pilih status mempertahankan diri anda"
+
+msgid "staffSpouse"
+msgstr "Pasangan Kakitangan"
+
+msgid "staffSpousePlaceholder"
+msgstr "Nama pasangan anda"
+
+msgid "workforceInformation"
+msgstr "Maklumat Tenaga Kerja"
+
+msgid "geographicAreaOfService"
+msgstr "Kawasan Geografi Perkhidmatan"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Wilayah tempat anda Berkhidmat"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Dibayar oleh Kementerian/Entiti Tempatan"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Strategi / Kapasiti (Jabatan HR dalam Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "Status Organisasi"
+
+msgid "positionRole"
+msgstr "Jawatan/Peranan"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Skop"
+
+msgid "fundingSource"
+msgstr "Sumber Pembiayaan"
+
+msgid "jobInformation"
+msgstr "Maklumat Pekerjaan"
+
+msgid "supervisor"
+msgstr "Penyelia"
+
+msgid "supervisorDescription"
+msgstr ""
+"Siapa dalam %s yang meluluskan Laporan Perbelanjaan anda? Jika anda tidak "
+"pasti atau warga asing, pilih Ketua Operasi Negara atau berunding dengan "
+"Pasukan Kewangan Negara."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Taipkan nama penyelia anda dalam tetingkap Carian."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Kami masih mendapatkan Id Netsuite anda, sila tunggu."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 huruf sudah cukup untuk memulakan carian."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Cari…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Batal"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "tutup"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "mencari"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"Sesi web telah tamat masa. Sila muat semula halaman untuk mengesahkan semula."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Nota pengawas"
+
+msgid "hireDate"
+msgstr "Tarikh anda diupah"
+
+msgid "approveChange"
+msgstr "Luluskan Perubahan"
+
+msgid "approve"
+msgstr "Terima"
+
+msgid "delete"
+msgstr "Padam"
+
+msgid "deleting"
+msgstr "Memadam"
+
+msgid "deleted"
+msgstr "Dipadamkan"
+
+msgid "type"
+msgstr "taip"
+
+msgid "number"
+msgstr "Nombor"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Setara Sepenuh Masa (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Sebab Penamatan"
+
+msgid "inactive"
+msgstr "Tidak aktif"
+
+# Not used
+msgid "terminationDate"
+msgstr "Tarikh Penamatan"
+
+# Not used
+msgid "governmentID"
+msgstr "ID kerajaan"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Nombor ID kerajaan anda"
+
+# Not used
+msgid "issueDate"
+msgstr "Tarikh Keluaran"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Tarikh keluaran ID anda"
+
+# Not used
+msgid "expirationDate"
+msgstr "Tarikh luput"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Tarikh tamat tempoh ID anda"
+
+# Not used
+msgid "expirationDateText"
+msgstr "ID anda telah tamat tempoh."
+
+# Not used
+msgid "emergencyContact"
+msgstr "Talian kecemasan"
+
+# Not used
+msgid "name"
+msgstr "Nama"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Nama penuh kenalan"
+
+# Not used
+msgid "relationship"
+msgstr "Perhubungan"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "Hubungan orang ini dengan anda"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Alamat penuh kenalan"
+
+# Not used
+msgid "phone"
+msgstr "telefon"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Nombor telefon kenalan"
+
+# Not used
+msgid "educationInformation"
+msgstr "Maklumat Pendidikan"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Tahap pendidikan"
+
+# Not used
+msgid "degree"
+msgstr "Ijazah"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Nama ijazah anda"
+
+# Not used
+msgid "dateConferred"
+msgstr "Tarikh Diberikan"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Tarikh yang anda berikan"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Anda telah menamatkan pengajian semasa anda"
+
+# Not used
+msgid "email"
+msgstr "E-mel"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "alamat e-mel anda"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Telefon bimbit"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Nombor telefon bimbit anda"
+
+# Not used
+msgid "homePhone"
+msgstr "Telefon rumah"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Nombor telefon rumah anda"
+
+# Not used
+msgid "officePhone"
+msgstr "Telefon pejabat"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Nombor telefon pejabat anda"
+
+# Not used
+msgid "contactInformation"
+msgstr "Maklumat perhubungan"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Alamat tetap"
+
+# Not used
+msgid "label"
+msgstr "Label"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "cth: Alamat Rumah"
+
+# Not used
+msgid "attention"
+msgstr "Perhatian"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "cth: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "Alamat"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Alamat anda (boleh berbilang talian)"
+
+# Not used
+msgid "city"
+msgstr "Bandar"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Bandar anda"
+
+# Not used
+msgid "stateProvince"
+msgstr "Negeri/Wilayah"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "negeri/wilayah anda"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Poskod anda"
+
+# Not used
+msgid "country"
+msgstr "Negara"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Negara awak"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Alamat Penghantaran"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "sama seperti kekal"
+
+# Not used
+msgid "jobTitle"
+msgstr "Jawatan Kosong"
