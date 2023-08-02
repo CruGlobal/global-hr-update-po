@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:09+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-02 16:15+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Indonesian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/id/>\n"
 "Language: id\n"
@@ -66,7 +66,7 @@ msgid "requestValue"
 msgstr "Nilai yang Diminta"
 
 msgid "sorry"
-msgstr "Maaf."
+msgstr "Maaf"
 
 msgid "error"
 msgstr "Kesalahan"
@@ -90,7 +90,7 @@ msgid "sent"
 msgstr "Terkirim"
 
 msgid "thankYou"
-msgstr "Terima kasih."
+msgstr "Terima kasih"
 
 msgid "thankYouDescription"
 msgstr "Informasi Anda telah dikirimkan."
@@ -207,7 +207,7 @@ msgid "jobInformation"
 msgstr "Informasi Pekerjaan"
 
 msgid "supervisor"
-msgstr "Supervisor"
+msgstr "Supervisor (Penyetuju Laporan Pengeluaran)"
 
 msgid "supervisorDescription"
 msgstr ""
