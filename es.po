@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 22:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-02 16:09+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Spanish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/es/>\n"
 "Language: es\n"
@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 4.18.2\n"
 
 # Not used
 msgid "attentionPlaceholder"
-msgstr "ex: Attn John Doe"
+msgstr "ex: Atención John Doe"
 
 # Not used
 msgid "address"
