@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:26+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-02 16:28+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Sinhala <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/si/>\n"
 "Language: si\n"
@@ -186,7 +186,7 @@ msgstr "ඔබේ උපන් දිනය"
 #. home.f7.jsx:668
 msgid "ageCalculator"
 msgid_plural "ageCalculator"
-msgstr[0] ""
+msgstr[0] "ඔබ දැනට වයස අවුරුදු <strong>එක</strong> යි"
 msgstr[1] "ඔබට දැනට වයස අවුරුදු <strong>%d</strong> වේ"
 
 msgid "familyInformation"
