@@ -1,2 +1,486 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-08-15 02:51+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Romanian <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/ro/>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "thankYou"
+msgstr "Mulțumesc."
+
+msgid "thankYouDescription"
+msgstr "Informațiile dumneavoastră au fost transmise."
+
+msgid "ok"
+msgstr "OK"
+
+msgid "personalDetails"
+msgstr "Detalii personale"
+
+msgid "jobInformation"
+msgstr "Informații despre locul de muncă"
+
+msgid "supervisor"
+msgstr "Supervizor"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr ""
+"Introduceți numele supervizorului dumneavoastră în fereastra de căutare."
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Codul dumneavoastră poștal"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "Actualizare HR"
+
+msgid "entityNotice"
+msgstr ""
+"Datele de mai jos reflectă starea actuală a datelor din Netsuite. "
+"Trimiterile anterioare care nu au fost încă aprobate de către generalistele "
+"naționale de resurse umane nu vor fi reflectate mai jos."
+
+msgid "help"
+msgstr "Ajutor"
+
+msgid "logout"
+msgstr "Logout"
+
+msgid "chooseAnOption"
+msgstr "Alegeți o opțiune"
+
+msgid "currentValue"
+msgstr "Valoarea curentă"
+
+msgid "requestValue"
+msgstr "Valoarea solicitată"
+
+msgid "sorry"
+msgstr "Scuze"
+
+msgid "error"
+msgstr "Eroare"
+
+msgid "verify"
+msgstr "Verific că toate câmpurile de mai sus sunt corecte."
+
+msgid "buttonHelpDescription"
+msgstr ""
+"Aveți nevoie de ajutor pentru a completa acest câmp? Faceți clic pentru "
+"instrucțiuni."
+
+msgid "verifyBeforeSubmit"
+msgstr "Vă rugăm să verificați toate secțiunile înainte de a le trimite."
+
+msgid "submit"
+msgstr "Trimiteți"
+
+msgid "sending"
+msgstr "Trimiterea"
+
+msgid "sent"
+msgstr "Trimis"
+
+msgid "firstName"
+msgstr "Primul nume"
+
+msgid "firstNamePlaceholder"
+msgstr "Prenumele dumneavoastră"
+
+msgid "preferredName"
+msgstr "Nume preferat"
+
+msgid "preferredNamePlaceholder"
+msgstr "Numele dumneavoastră preferat (opțional)"
+
+msgid "middleName"
+msgstr "Nume de mijloc"
+
+msgid "middleNamePlaceholder"
+msgstr "Al doilea nume (opțional)"
+
+msgid "lastName"
+msgstr "Numele de familie"
+
+msgid "lastNamePlaceholder"
+msgstr "Numele dvs. de familie"
+
+# Not used
+msgid "secondLastName"
+msgstr "Al doilea nume de familie"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Al doilea nume de familie"
+
+# Not used
+msgid "title"
+msgstr "Titlu"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ex: Domnul, doamna, domnișoara etc."
+
+msgid "gender"
+msgstr "Sex"
+
+msgid "birthDate"
+msgstr "Data nașterii"
+
+msgid "birthDatePlaceholder"
+msgstr "Data nașterii dvs."
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Sunteți în prezent <strong>un</strong> de un an"
+msgstr[1] ""
+msgstr[2] "În prezent aveți <strong>%d</strong> ani"
+
+msgid "familyInformation"
+msgstr "Informații de familie"
+
+msgid "staffUnit"
+msgstr "Unitatea de personal"
+
+msgid "staffUnitPlaceholder"
+msgstr "Surname, GivenName sau Surname, HisGivenName și HerGivenName."
+
+msgid "maritalStatus"
+msgstr "Starea civilă"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Selectați statutul dvs. marțial"
+
+msgid "staffSpouse"
+msgstr "Soțul/soția personalului"
+
+msgid "staffSpousePlaceholder"
+msgstr "Numele soțului/soției dvs."
+
+msgid "workforceInformation"
+msgstr "Informații privind forța de muncă"
+
+msgid "geographicAreaOfService"
+msgstr "Zona geografică de deservire"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Regiunea în care serviți"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Plătită de ministerul/entitatea locală"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Strategie / Capacitate (Departamentul de resurse umane în Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "Statutul organizațional"
+
+msgid "positionRole"
+msgstr "Poziție/Rolul"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Domeniul de aplicare"
+
+msgid "fundingSource"
+msgstr "Sursa de finanțare"
+
+msgid "supervisorDescription"
+msgstr ""
+"Cine din %s aprobă rapoartele de cheltuieli?  Dacă nu sunteți sigur sau dacă "
+"sunteți străin, alegeți Liderul național de operațiuni sau consultați echipa "
+"națională de finanțe."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Încă primim ID-ul dvs. Netsuite, vă rugăm să așteptați."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "5 litere sunt suficiente pentru a începe căutarea."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Căutare…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Anulează"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Închideți"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "căutare"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"Sesiunea web a expirat. Vă rugăm să reîncărcați pagina pentru a vă "
+"autentifica din nou."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Nota supraveghetorului"
+
+msgid "hireDate"
+msgstr "Data la care ați fost angajat"
+
+msgid "approveChange"
+msgstr "Aprobarea modificării"
+
+msgid "approve"
+msgstr "Aprobarea"
+
+msgid "delete"
+msgstr "Ștergeți"
+
+msgid "deleting"
+msgstr "Ștergerea"
+
+msgid "deleted"
+msgstr "Șters"
+
+msgid "type"
+msgstr "Tip"
+
+msgid "number"
+msgstr "Număr"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Echivalent normă întreagă (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Motivul încetării"
+
+msgid "inactive"
+msgstr "Inactiv"
+
+# Not used
+msgid "terminationDate"
+msgstr "Data încetării"
+
+# Not used
+msgid "governmentID"
+msgstr "ID-ul Guvernului"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Numărul dvs. de identificare guvernamental"
+
+# Not used
+msgid "issueDate"
+msgstr "Data emiterii"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Data eliberării legitimației dvs."
+
+# Not used
+msgid "expirationDate"
+msgstr "Data expirării"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Data de expirare a ID-ului dvs."
+
+# Not used
+msgid "expirationDateText"
+msgstr "Legitimația dvs. a expirat."
+
+# Not used
+msgid "emergencyContact"
+msgstr "Contact de urgență"
+
+# Not used
+msgid "name"
+msgstr "Nume"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Numele și prenumele persoanei de contact"
+
+# Not used
+msgid "relationship"
+msgstr "Relația"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "Relația acestei persoane cu dumneavoastră"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Adresa completă a persoanei de contact"
+
+# Not used
+msgid "phone"
+msgstr "Telefon"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Numărul de telefon al persoanei de contact"
+
+# Not used
+msgid "educationInformation"
+msgstr "Informații despre educație"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Nivelul de educație"
+
+# Not used
+msgid "degree"
+msgstr "Gradul"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Numele diplomei dvs."
+
+# Not used
+msgid "dateConferred"
+msgstr "Data conferită"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Data conferită"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Ai absolvit când aveai"
+
+# Not used
+msgid "email"
+msgstr "E-mail"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "Adresa dumneavoastră de e-mail"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Telefon mobil"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Numărul dumneavoastră de telefon mobil"
+
+# Not used
+msgid "homePhone"
+msgstr "Telefonul de acasă"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Numărul de telefon de acasă"
+
+# Not used
+msgid "officePhone"
+msgstr "Telefon de birou"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Numărul de telefon al biroului dvs."
+
+# Not used
+msgid "contactInformation"
+msgstr "Informații de contact"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Adresa permanentă"
+
+# Not used
+msgid "label"
+msgstr "Etichetă"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ex: Adresa de domiciliu"
+
+# Not used
+msgid "attention"
+msgstr "Atenție"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ex: În atenția lui John Doe"
+
+# Not used
+msgid "address"
+msgstr "Adresa"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Adresa dvs. (poate avea mai multe rânduri)"
+
+# Not used
+msgid "city"
+msgstr "Orașul"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Orașul dumneavoastră"
+
+# Not used
+msgid "stateProvince"
+msgstr "Stat/Provincie"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Statul/provincia dumneavoastră"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "country"
+msgstr "Țara"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Țara dumneavoastră"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Adresa de expediere"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "la fel ca și permanent"
+
+# Not used
+msgid "jobTitle"
+msgstr "Titlul postului"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "Titlul postului dvs."
+
+# Not used
+msgid "jobDescription"
+msgstr "Descrierea postului"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "Descrierea postului dumneavoastră"
+
+msgid "Select Entity"
+msgstr "Selectați entitatea"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Există mai multe înregistrări care corespund adresei dvs. de e-mail. Vă "
+"rugăm să o alegeți pe cea pe care doriți să o actualizați."
