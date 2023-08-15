@@ -1,2 +1,211 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-08-16 14:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Language-Team: Albanian <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/sq/>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "help"
+msgstr "Ndihmë"
+
+msgid "logout"
+msgstr "Shkyç"
+
+msgid "chooseAnOption"
+msgstr "Zgjidhni një opsion"
+
+msgid "currentValue"
+msgstr "Vlera e tanishme"
+
+msgid "requestValue"
+msgstr "Vlera e kërkuar"
+
+msgid "sorry"
+msgstr "Na vjen keq"
+
+msgid "error"
+msgstr "Gabim"
+
+msgid "verify"
+msgstr "Unë verifikoj që të gjitha fushat e mësipërme janë të sakta."
+
+msgid "buttonHelpDescription"
+msgstr ""
+"Keni nevojë për ndihmë për të plotësuar këtë fushë? Klikoni për udhëzime."
+
+msgid "verifyBeforeSubmit"
+msgstr "Ju lutemi verifikoni të gjitha seksionet përpara se të dërgoni."
+
+msgid "submit"
+msgstr "Paraqisni"
+
+msgid "sending"
+msgstr "Dërgimi"
+
+msgid "thankYou"
+msgstr "Faleminderit"
+
+msgid "thankYouDescription"
+msgstr "Informacioni juaj është dorëzuar."
+
+msgid "ok"
+msgstr "Ne rregull"
+
+msgid "firstName"
+msgstr "Emri"
+
+msgid "firstNamePlaceholder"
+msgstr "Emri juaj i parë"
+
+msgid "preferredName"
+msgstr "Emri preferuar"
+
+msgid "preferredNamePlaceholder"
+msgstr "Emri juaj i preferuar (opsionale)"
+
+msgid "middleName"
+msgstr "Emri i mesëm"
+
+msgid "middleNamePlaceholder"
+msgstr "Emri juaj i mesëm (opsionale)"
+
+msgid "lastName"
+msgstr "Mbiemri"
+
+# Not used
+msgid "secondLastName"
+msgstr "Mbiemri i dytë"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "Mbiemri juaj i dytë"
+
+# Not used
+msgid "title"
+msgstr "Titulli"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "p.sh.: zonja zonjusha etj."
+
+msgid "gender"
+msgstr "Gjinia"
+
+msgid "birthDate"
+msgstr "Data e lindjes"
+
+msgid "familyInformation"
+msgstr "Informacione Familjare"
+
+msgid "staffUnit"
+msgstr "Njësia e Stafit"
+
+msgid "staffUnitPlaceholder"
+msgstr "Mbiemri, Emri i dhënë ose Mbiemri, Emri i tij dhe Emri i Emrit të saj."
+
+msgid "maritalStatus"
+msgstr "Gjendja martesore"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Zgjidhni statusin tuaj martesor"
+
+msgid "staffSpouse"
+msgstr "Stafi Bashkëshorti"
+
+msgid "staffSpousePlaceholder"
+msgstr "emri i bashkëshortit tuaj"
+
+msgid "workforceInformation"
+msgstr "Informacioni i fuqisë punëtore"
+
+msgid "geographicAreaOfService"
+msgstr "Zona Gjeografike e Shërbimit"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Rajoni ku ju shërbeni"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "Strategjia / Kapaciteti (Departamenti i HR në Netsuite)"
+
+msgid "organizationalStatus"
+msgstr "Statusi Organizativ"
+
+msgid "positionRole"
+msgstr "Pozicioni/Roli"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "Fushëveprimi"
+
+msgid "fundingSource"
+msgstr "Burimi i financimit"
+
+msgid "jobInformation"
+msgstr "Informacioni i Punës"
+
+msgid "supervisor"
+msgstr "Mbikëqyrësi"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Shkruani emrin e mbikëqyrësit tuaj në dritaren e kërkimit."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "Mjaftojnë 5 shkronja për të filluar kërkimin."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "Kërko…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "Anulo"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "Përditësimi i burimeve njerëzore"
+
+msgid "entityNotice"
+msgstr ""
+"Të dhënat e mëposhtme pasqyrojnë gjendjen aktuale të të dhënave në Netsuite. "
+"Parashtresat e mëparshme që nuk janë miratuar ende nga Gjeneralistët "
+"Kombëtarë të BNj nuk do të pasqyrohen më poshtë."
+
+msgid "sent"
+msgstr "Dërguar"
+
+msgid "personalDetails"
+msgstr "Detaje personale"
+
+msgid "lastNamePlaceholder"
+msgstr "Mbiemri juaj"
+
+msgid "birthDatePlaceholder"
+msgstr "Data juaj e lindjes"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Aktualisht jeni <strong>një</strong> vjeç"
+msgstr[1] "Aktualisht jeni <strong>%d</strong> vjeç"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "Paguhet nga Ministria/Entiteti Vendor"
+
+msgid "supervisorDescription"
+msgstr ""
+"Kush në %s miraton raportet tuaja të shpenzimeve? Nëse nuk jeni i sigurt ose "
+"jeni i huaj, zgjidhni Udhëheqësin e Operacioneve Kombëtare ose konsultohuni "
+"me Ekipin Kombëtar të Financave."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Ne ende po marrim ID-në tuaj të Netsuite, ju lutemi prisni."
