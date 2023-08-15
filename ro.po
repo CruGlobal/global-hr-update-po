@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-15 02:51+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2023-08-16 14:35+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Romanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ro/>\n"
 "Language: ro\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Weblate 4.18.2\n"
 
 msgid "thankYou"
-msgstr "Mulțumesc."
+msgstr "Mulțumesc"
 
 msgid "thankYouDescription"
 msgstr "Informațiile dumneavoastră au fost transmise."
@@ -136,14 +136,14 @@ msgid "birthDate"
 msgstr "Data nașterii"
 
 msgid "birthDatePlaceholder"
-msgstr "Data nașterii dvs."
+msgstr "Data nașterii dvs"
 
 # The age should be shown in bold font: <strong>%d</strong>
 #. home.f7.jsx:668
 msgid "ageCalculator"
 msgid_plural "ageCalculator"
 msgstr[0] "Sunteți în prezent <strong>un</strong> de un an"
-msgstr[1] ""
+msgstr[1] "În prezent, aveți <strong>%d</strong> ani"
 msgstr[2] "În prezent aveți <strong>%d</strong> ani"
 
 msgid "familyInformation"
@@ -165,7 +165,7 @@ msgid "staffSpouse"
 msgstr "Soțul/soția personalului"
 
 msgid "staffSpousePlaceholder"
-msgstr "Numele soțului/soției dvs."
+msgstr "Numele soțului/soției dvs"
 
 msgid "workforceInformation"
 msgstr "Informații privind forța de muncă"
@@ -287,7 +287,7 @@ msgstr "Data emiterii"
 
 # Not used
 msgid "issueDatePlaceholder"
-msgstr "Data eliberării legitimației dvs."
+msgstr "Data eliberării legitimației dvs"
 
 # Not used
 msgid "expirationDate"
@@ -295,7 +295,7 @@ msgstr "Data expirării"
 
 # Not used
 msgid "expirationDatePlaceholder"
-msgstr "Data de expirare a ID-ului dvs."
+msgstr "Data de expirare a ID-ului dvs"
 
 # Not used
 msgid "expirationDateText"
@@ -347,11 +347,11 @@ msgstr "Gradul"
 
 # Not used
 msgid "degreePlaceholder"
-msgstr "Numele diplomei dvs."
+msgstr "Numele diplomei dvs"
 
 # Not used
 msgid "dateConferred"
-msgstr "Data conferită"
+msgstr "Data conferit"
 
 # Not used
 msgid "dateConferredPlaceholder"
@@ -391,7 +391,7 @@ msgstr "Telefon de birou"
 
 # Not used
 msgid "officePhonePlaceholder"
-msgstr "Numărul de telefon al biroului dvs."
+msgstr "Numărul de telefon al biroului dvs"
 
 # Not used
 msgid "contactInformation"
@@ -467,7 +467,7 @@ msgstr "Titlul postului"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Titlul postului dvs."
+msgstr "Titlul postului dvs"
 
 # Not used
 msgid "jobDescription"
