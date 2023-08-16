@@ -139,7 +139,7 @@ msgid "maritalStatus"
 msgstr "Marital Status"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Select your martial status"
+msgstr "Select your marital status"
 
 msgid "staffSpouse"
 msgstr "Staff Spouse"
