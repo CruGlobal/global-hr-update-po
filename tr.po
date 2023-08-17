@@ -170,7 +170,7 @@ msgid "maritalStatus"
 msgstr "Medeni Durum"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Savaş durumunuzu seçin"
+msgstr "Medeni durumunuzu seçin"
 
 msgid "staffSpouse"
 msgstr "Personel Eşi"

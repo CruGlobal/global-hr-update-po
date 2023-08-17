@@ -142,7 +142,7 @@ msgid "maritalStatus"
 msgstr "বৈবাহিক অবস্থা"
 
 msgid "maritalStatusPlaceholder"
-msgstr "আপনার মার্শাল অবস্থা নির্বাচন করুন"
+msgstr "আপনার বৈবাহিক অবস্থা নির্বাচন করুন"
 
 msgid "staffSpouse"
 msgstr "স্টাফ পত্নী"

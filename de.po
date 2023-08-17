@@ -464,7 +464,7 @@ msgid "maritalStatus"
 msgstr "Familienstand"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Wählen Sie Ihren Kriegsstatus"
+msgstr "Wählen Sie Ihren Familienstand aus"
 
 msgid "staffSpouse"
 msgstr "Personal Ehepartner"

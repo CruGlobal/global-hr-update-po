@@ -210,7 +210,7 @@ msgid "maritalStatus"
 msgstr "الحالة الاجتماعية"
 
 msgid "maritalStatusPlaceholder"
-msgstr "حدد حالتك العسكرية"
+msgstr "حدد حالتك الاجتماعية"
 
 msgid "staffSpouse"
 msgstr "زوج الموظف"

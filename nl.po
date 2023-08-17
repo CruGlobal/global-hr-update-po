@@ -231,7 +231,7 @@ msgid "maritalStatus"
 msgstr "Burgerlijke staat"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Selecteer je martiale status"
+msgstr "Selecteer uw burgerlijke staat"
 
 msgid "staffSpouse"
 msgstr "Personeel Echtgeno(o)t(e)"

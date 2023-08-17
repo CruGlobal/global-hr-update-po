@@ -156,7 +156,7 @@ msgid "maritalStatus"
 msgstr "ស្ថានភាពអាពាហ៍ពិពាហ៍"
 
 msgid "maritalStatusPlaceholder"
-msgstr "ជ្រើសរើសស្ថានភាពក្បាច់គុនរបស់អ្នក។"
+msgstr "ជ្រើសរើសស្ថានភាពអាពាហ៍ពិពាហ៍របស់អ្នក។"
 
 msgid "staffSpouse"
 msgstr "ប្តីប្រពន្ធបុគ្គលិក"

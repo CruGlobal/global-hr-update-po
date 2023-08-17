@@ -312,7 +312,7 @@ msgid "maritalStatus"
 msgstr "Tình trạng hôn nhân"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Chọn trạng thái võ của bạn"
+msgstr "Chọn tình trạng hôn nhân của bạn"
 
 msgid "staffSpouse"
 msgstr "vợ chồng nhân viên"

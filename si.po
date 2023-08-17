@@ -202,7 +202,7 @@ msgid "maritalStatus"
 msgstr "විවාහක අවිවාහක බව"
 
 msgid "maritalStatusPlaceholder"
-msgstr "ඔබේ සටන් තත්ත්වය තෝරන්න"
+msgstr "ඔබේ විවාහක තත්ත්වය තෝරන්න"
 
 msgid "staffSpousePlaceholder"
 msgstr "ඔබේ සහකරු හෝ සහකාරියගේ නම"

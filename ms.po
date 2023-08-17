@@ -162,7 +162,7 @@ msgid "maritalStatus"
 msgstr "Status perkahwinan"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Pilih status mempertahankan diri anda"
+msgstr "Pilih status pernikahan Anda"
 
 msgid "staffSpouse"
 msgstr "Pasangan Kakitangan"

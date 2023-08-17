@@ -159,7 +159,7 @@ msgid "maritalStatus"
 msgstr "Starea civilă"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Selectați statutul dvs. marțial"
+msgstr "Selectați starea dvs. civilă"
 
 msgid "staffSpouse"
 msgstr "Soțul/soția personalului"

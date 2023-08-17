@@ -22,7 +22,7 @@ msgid "maritalStatus"
 msgstr "Семейное положение"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Выберите свое военное положение"
+msgstr "Выберите свое семейное положение"
 
 msgid "staffSpouse"
 msgstr "Супруг сотрудника"

@@ -165,7 +165,7 @@ msgstr ""
 "Nama yang Diberikan."
 
 msgid "maritalStatusPlaceholder"
-msgstr "Pilih status bela diri Anda"
+msgstr "Pilih status pernikahan Anda"
 
 msgid "staffSpouse"
 msgstr "Pasangan Staf"

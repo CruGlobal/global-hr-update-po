@@ -242,7 +242,7 @@ msgid "maritalStatus"
 msgstr "결혼 여부"
 
 msgid "maritalStatusPlaceholder"
-msgstr "무술 상태 선택"
+msgstr "결혼 여부를 선택하세요."
 
 msgid "staffSpouse"
 msgstr "직원 배우자"

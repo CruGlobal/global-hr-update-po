@@ -184,7 +184,7 @@ msgid "maritalStatus"
 msgstr "ສະຖານະພາບການແຕ່ງງານ"
 
 msgid "maritalStatusPlaceholder"
-msgstr "ເລືອກສະຖານະ martial ຂອງທ່ານ"
+msgstr "ເລືອກສະຖານະພາບການແຕ່ງງານຂອງເຈົ້າ"
 
 msgid "staffSpouse"
 msgstr "ຄູ່ສົມລົດພະນັກງານ"

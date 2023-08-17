@@ -165,7 +165,7 @@ msgid "maritalStatus"
 msgstr "Гэр бүлийн байдал"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Тулааны статусаа сонгоно уу"
+msgstr "Гэр бүлийн статусаа сонгоно уу"
 
 msgid "staffSpouse"
 msgstr "Ажилтны эхнэр"

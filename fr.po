@@ -164,7 +164,7 @@ msgid "maritalStatus"
 msgstr "État civil"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Sélectionnez votre statut martial"
+msgstr "Sélectionnez votre état civil"
 
 msgid "staffSpouse"
 msgstr "Conjoint du personnel"

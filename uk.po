@@ -173,7 +173,7 @@ msgid "maritalStatus"
 msgstr "Сімейний стан"
 
 msgid "maritalStatusPlaceholder"
-msgstr "Виберіть свій військовий статус"
+msgstr "Виберіть свій сімейний стан"
 
 msgid "staffSpouse"
 msgstr "Дружина/чоловік співробітника"

@@ -164,7 +164,7 @@ msgid "maritalStatus"
 msgstr "वैवाहिक स्थिति"
 
 msgid "maritalStatusPlaceholder"
-msgstr "आफ्नो मार्शल स्थिति चयन गर्नुहोस्"
+msgstr "आफ्नो वैवाहिक स्थिति चयन गर्नुहोस्"
 
 msgid "staffSpouse"
 msgstr "कर्मचारी जोडी"
