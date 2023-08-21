@@ -1,2 +1,482 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-08-21 05:59+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Tamil <https://alltongues.org/projects/netsuite-hr-update-app/"
+"user-interface/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "inactive"
+msgstr "செயலற்றது"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "உங்கள் வேலை விளக்கம்"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "நீ இருக்கும்போதே பட்டம் பெற்றாய்"
+
+# Not used
+msgid "email"
+msgstr "மின்னஞ்சல்"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "உங்கள் மின்னஞ்சல் முகவரி"
+
+# Not used
+msgid "mobilePhone"
+msgstr "கைபேசி"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "உங்கள் மொபைல் எண்"
+
+# Not used
+msgid "title"
+msgstr "தலைப்பு"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "எ.கா: திரு. திருமதி. மிஸ். போன்றவை."
+
+msgid "gender"
+msgstr "பாலினம்"
+
+# Not used
+msgid "terminationDate"
+msgstr "முடிவு தேதி"
+
+msgid "staffUnitPlaceholder"
+msgstr ""
+"குடும்பப்பெயர், கொடுக்கப்பட்ட பெயர் அல்லது குடும்பப்பெயர், அவரது பெயர் "
+"மற்றும் அவரது பெயர்."
+
+msgid "maritalStatus"
+msgstr "திருமண நிலை"
+
+msgid "staffSpouse"
+msgstr "பணியாளர் மனைவி"
+
+msgid "organizationalStatus"
+msgstr "நிறுவன நிலை"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "தேடல் சாளரத்தில் உங்கள் மேற்பார்வையாளரின் பெயரை உள்ளிடவும்."
+
+msgid "supervisorPopupRenderSearching"
+msgstr "தேடி"
+
+msgid "hireDate"
+msgstr "நீங்கள் பணியமர்த்தப்பட்ட தேதி"
+
+# Not used
+msgid "attention"
+msgstr "கவனம்"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "உதாரணம்: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "முகவரி"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "உங்கள் முகவரி (பல வரிகளாக இருக்கலாம்)"
+
+# Not used
+msgid "city"
+msgstr "நகரம்"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "உங்கள் நகரம்"
+
+# Not used
+msgid "stateProvince"
+msgstr "மாநிலம்/மாகாணம்"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "உங்கள் மாநிலம்/ மாகாணம்"
+
+# Not used
+msgid "zip"
+msgstr "ஜிப்"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "உங்கள் அஞ்சல் குறியீடு"
+
+# Not used
+msgid "country"
+msgstr "நாடு"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "உங்கள் நாடு"
+
+# Not used
+msgid "shippingAddress"
+msgstr "சேரும் முகவரி"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "நிரந்தரம் போன்றது"
+
+# Not used
+msgid "jobTitle"
+msgstr "வேலை தலைப்பு"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "உங்கள் வேலை தலைப்பு"
+
+# Not used
+msgid "jobDescription"
+msgstr "வேலை விவரம்"
+
+msgid "Select Entity"
+msgstr "நிறுவனத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"உங்கள் மின்னஞ்சல் முகவரியுடன் பல பதிவுகள் பொருந்துகின்றன. நீங்கள் புதுப்பிக்"
+"க விரும்பும் ஒன்றைத் தேர்ந்தெடுக்கவும்."
+
+# Not used
+msgid "label"
+msgstr "லேபிள்"
+
+msgid "help"
+msgstr "உதவி"
+
+msgid "logout"
+msgstr "வெளியேறு"
+
+msgid "chooseAnOption"
+msgstr "ஒரு விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgid "currentValue"
+msgstr "தற்போதைய மதிப்பு"
+
+msgid "requestValue"
+msgstr "கோரப்பட்ட மதிப்பு"
+
+msgid "sorry"
+msgstr "மன்னிக்கவும்"
+
+msgid "error"
+msgstr "பிழை"
+
+msgid "verify"
+msgstr "மேலே உள்ள அனைத்து புலங்களும் துல்லியமானவை என்பதை நான் சரிபார்க்கிறேன்."
+
+msgid "buttonHelpDescription"
+msgstr "இந்தப் புலத்தை நிரப்ப உதவி வேண்டுமா? வழிமுறைகளுக்கு கிளிக் செய்யவும்."
+
+msgid "verifyBeforeSubmit"
+msgstr "சமர்ப்பிக்கும் முன் அனைத்து பிரிவுகளையும் சரிபார்க்கவும்."
+
+msgid "submit"
+msgstr "சமர்ப்பிக்கவும்"
+
+msgid "sending"
+msgstr "அனுப்புகிறது"
+
+msgid "sent"
+msgstr "அனுப்பப்பட்டது"
+
+msgid "thankYou"
+msgstr "நன்றி"
+
+msgid "thankYouDescription"
+msgstr "உங்கள் தகவல் சமர்ப்பிக்கப்பட்டது."
+
+msgid "ok"
+msgstr "சரி"
+
+msgid "personalDetails"
+msgstr "சொந்த விவரங்கள்"
+
+msgid "firstName"
+msgstr "முதல் பெயர்"
+
+msgid "firstNamePlaceholder"
+msgstr "உன் முதல் பெயர்"
+
+msgid "preferredName"
+msgstr "விருப்பமான பெயர்"
+
+msgid "preferredNamePlaceholder"
+msgstr "உங்களுக்கு விருப்பமான பெயர் (விரும்பினால்)"
+
+msgid "middleName"
+msgstr "நடுத்தர பெயர்"
+
+msgid "middleNamePlaceholder"
+msgstr "உங்கள் நடுப் பெயர் (விரும்பினால்)"
+
+msgid "lastName"
+msgstr "கடைசி பெயர்"
+
+msgid "lastNamePlaceholder"
+msgstr "உங்களுடைய கடைசி பெயர்"
+
+# Not used
+msgid "secondLastName"
+msgstr "இரண்டாவது கடைசி பெயர்"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "உங்கள் இரண்டாவது கடைசி பெயர்"
+
+msgid "birthDate"
+msgstr "பிறந்த தேதி"
+
+msgid "birthDatePlaceholder"
+msgstr "உங்கள் பிறந்த தேதி"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "உங்களுக்கு தற்போது <strong>ஒரு</strong> வயது"
+msgstr[1] "உங்களுக்கு தற்போது <strong>%d</strong> வயது"
+
+msgid "familyInformation"
+msgstr "குடும்ப தகவல்"
+
+msgid "staffUnit"
+msgstr "பணியாளர் பிரிவு"
+
+msgid "maritalStatusPlaceholder"
+msgstr "உங்கள் திருமண நிலையைத் தேர்ந்தெடுக்கவும்"
+
+msgid "staffSpousePlaceholder"
+msgstr "உங்கள் மனைவியின் பெயர்"
+
+msgid "workforceInformation"
+msgstr "பணியாளர் தகவல்"
+
+msgid "geographicAreaOfService"
+msgstr "சேவையின் புவியியல் பகுதி"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "நீங்கள் சேவை செய்யும் பகுதி"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "உள்ளூர் அமைச்சகம்/நிறுவனத்தால் செலுத்தப்பட்டது"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "உத்தி / திறன் (நெட்சூட்டில் மனிதவள துறை)"
+
+msgid "positionRole"
+msgstr "பதவி/பங்கு"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "வாய்ப்பு"
+
+msgid "fundingSource"
+msgstr "நிதி ஆதாரம்"
+
+msgid "jobInformation"
+msgstr "வேலை தகவல்"
+
+msgid "supervisor"
+msgstr "மேற்பார்வையாளர்"
+
+msgid "supervisorDescription"
+msgstr ""
+"உங்கள் செலவு அறிக்கைகளை %s இல் யார் அங்கீகரிப்பது? உங்களுக்குத் "
+"தெரியாவிட்டால் அல்லது வெளிநாட்டவராக இருந்தால், தேசிய செயல்பாட்டுத் தலைவரைத் "
+"தேர்ந்தெடுக்கவும் அல்லது தேசிய நிதிக் குழுவுடன் ஆலோசனை செய்யவும்."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "உங்கள் Netsuite ஐடியை நாங்கள் இன்னும் பெறுகிறோம், காத்திருக்கவும்."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "தேடலைத் தொடங்க 5 எழுத்துக்கள் போதும்."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "தேடு…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "ரத்து செய்"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "நெருக்கமான"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"இணைய அமர்வு நேரம் முடிந்தது. மீண்டும் அங்கீகரிக்க பக்கத்தை மீண்டும் ஏற்றவும்."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "மேற்பார்வையாளர் குறிப்பு"
+
+msgid "approveChange"
+msgstr "மாற்றத்தை அங்கீகரிக்கவும்"
+
+msgid "approve"
+msgstr "ஒப்புதல்"
+
+msgid "delete"
+msgstr "அழி"
+
+msgid "deleting"
+msgstr "நீக்குகிறது"
+
+msgid "deleted"
+msgstr "நீக்கப்பட்டது"
+
+msgid "type"
+msgstr "வகை"
+
+msgid "number"
+msgstr "எண்"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "முழு நேர சமமான (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "பணிநீக்கம் காரணம்"
+
+# Not used
+msgid "governmentID"
+msgstr "அரசு ஐடி"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "உங்கள் அரசாங்க அடையாள எண்"
+
+# Not used
+msgid "issueDate"
+msgstr "வெளியீட்டு தேதி"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "உங்கள் ஐடி வழங்கிய தேதி"
+
+# Not used
+msgid "expirationDate"
+msgstr "காலாவதி தேதி"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "உங்கள் ஐடி காலாவதி தேதி"
+
+# Not used
+msgid "expirationDateText"
+msgstr "உங்கள் ஐடி காலாவதியாகிவிட்டது."
+
+# Not used
+msgid "emergencyContact"
+msgstr "அவசர தொடர்பு"
+
+# Not used
+msgid "name"
+msgstr "பெயர்"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "தொடர்பின் முழுப் பெயர்"
+
+# Not used
+msgid "relationship"
+msgstr "உறவு"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "உங்களுடன் இந்த நபரின் உறவு"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "தொடர்பின் முழு முகவரி"
+
+# Not used
+msgid "phone"
+msgstr "தொலைபேசி"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "தொடர்பு தொலைபேசி எண்"
+
+# Not used
+msgid "educationInformation"
+msgstr "கல்வி தகவல்"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "கல்வி நிலை"
+
+# Not used
+msgid "degree"
+msgstr "பட்டம்"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "உங்கள் பட்டத்தின் பெயர்"
+
+# Not used
+msgid "dateConferred"
+msgstr "வழங்கப்பட்ட தேதி"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "நீங்கள் வழங்கிய தேதி"
+
+# Not used
+msgid "homePhone"
+msgstr "வீட்டு தொலைபேசி"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "உங்கள் வீட்டு தொலைபேசி எண்"
+
+# Not used
+msgid "officePhone"
+msgstr "அலுவலக தொலைபேசி"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "உங்கள் அலுவலக தொலைபேசி எண்"
+
+# Not used
+msgid "contactInformation"
+msgstr "தொடர்பு தகவல்"
+
+# Not used
+msgid "permanentAddress"
+msgstr "நிரந்தர முகவரி"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "எ.கா: வீட்டு முகவரி"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "மனிதவள மேம்படுத்தல்"
+
+msgid "entityNotice"
+msgstr ""
+"கீழே உள்ள தரவு Netsuite இல் உள்ள தரவின் தற்போதைய நிலையை பிரதிபலிக்கிறது. தேசி"
+"ய மனிதவள பொதுவாதிகளால் இதுவரை அங்கீகரிக்கப்படாத முந்தைய சமர்ப்பிப்புகள் கீழே "
+"பிரதிபலிக்கப்படாது."
