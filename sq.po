@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-16 14:35+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-08-21 05:59+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Albanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/sq/>\n"
 "Language: sq\n"
@@ -209,3 +209,274 @@ msgstr ""
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
 msgstr "Ne ende po marrim ID-në tuaj të Netsuite, ju lutemi prisni."
+
+# Close the pop-up window
+msgid "Close"
+msgstr "Mbylle"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "duke kërkuar"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"Koha e seancës së internetit ka mbaruar. Ju lutemi ringarkoni faqen për ta "
+"riafirmuar."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Shënim i mbikëqyrësit"
+
+msgid "hireDate"
+msgstr "Data kur jeni punësuar"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "Data e skadimit të ID-së tuaj"
+
+# Not used
+msgid "expirationDateText"
+msgstr "ID-ja juaj ka skaduar."
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "Adresa juaj e emailit"
+
+# Not used
+msgid "mobilePhone"
+msgstr "Celular"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "Ju u diplomuat kur ishit"
+
+# Not used
+msgid "email"
+msgstr "E-mail"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "Numri juaj i telefonit celular"
+
+# Not used
+msgid "homePhone"
+msgstr "Telefoni i shtëpisë"
+
+# Not used
+msgid "label"
+msgstr "Etiketa"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "p.sh.: Adresa e shtëpisë"
+
+# Not used
+msgid "attention"
+msgstr "Kujdes"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "p.sh.: Attn John Doe"
+
+# Not used
+msgid "address"
+msgstr "Adresë"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "Adresa juaj (mund të jetë me shumë rreshta)"
+
+# Not used
+msgid "city"
+msgstr "Qyteti"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "Qyteti yt"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Ka shumë regjistrime që përputhen me adresën tuaj të emailit. Ju lutemi "
+"zgjidhni atë që dëshironi të përditësoni."
+
+# Not used
+msgid "contactInformation"
+msgstr "Informacioni i Kontaktit"
+
+# Not used
+msgid "permanentAddress"
+msgstr "Adresa e perhershme"
+
+# Not used
+msgid "stateProvince"
+msgstr "Shteti/Provinca"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "Përshkrimi i punës suaj"
+
+msgid "approveChange"
+msgstr "Mirato ndryshimin"
+
+msgid "approve"
+msgstr "Mirato"
+
+msgid "delete"
+msgstr "Fshije"
+
+msgid "deleting"
+msgstr "Fshirja"
+
+msgid "deleted"
+msgstr "Fshirë"
+
+msgid "type"
+msgstr "Lloji"
+
+msgid "number"
+msgstr "Numri"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "Ekuivalenti me kohë të plotë (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "Arsyeja e përfundimit"
+
+# Not used
+msgid "name"
+msgstr "Emri"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "Numri i telefonit të kontaktit"
+
+# Not used
+msgid "educationInformation"
+msgstr "Informacion mbi arsimin"
+
+msgid "inactive"
+msgstr "Joaktiv"
+
+# Not used
+msgid "terminationDate"
+msgstr "Data e përfundimit"
+
+# Not used
+msgid "governmentID"
+msgstr "ID e qeverisë"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "Numri juaj i ID-së së qeverisë"
+
+# Not used
+msgid "issueDate"
+msgstr "Data e lëshimit"
+
+# Not used
+msgid "emergencyContact"
+msgstr "Kontakti i urgjencës"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "Emri i plotë i kontaktit"
+
+# Not used
+msgid "relationship"
+msgstr "Marrëdhënia"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "Marrëdhënia e këtij personi me ju"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "Adresa e plotë e kontaktit"
+
+# Not used
+msgid "phone"
+msgstr "Telefoni"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "Data juaj e caktuar"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "Numri i telefonit të shtëpisë tuaj"
+
+# Not used
+msgid "officePhone"
+msgstr "Telefoni i zyres"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "Numri i telefonit të zyrës suaj"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "Vendi juaj"
+
+# Not used
+msgid "shippingAddress"
+msgstr "Adresa e Transportit"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "njëjtë si i përhershëm"
+
+# Not used
+msgid "jobTitle"
+msgstr "Titulli i Punës"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "Data juaj e lëshimit të ID-së"
+
+# Not used
+msgid "expirationDate"
+msgstr "Data e skadencës"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "Niveli i Arsimit"
+
+# Not used
+msgid "degree"
+msgstr "Diplomë"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "Emri i gradës suaj"
+
+# Not used
+msgid "dateConferred"
+msgstr "Data e dhënë"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "Shteti/provinca juaj"
+
+# Not used
+msgid "zip"
+msgstr "Zip"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "Kodi juaj postar"
+
+# Not used
+msgid "country"
+msgstr "Vendi"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "Titulli juaj i punës"
+
+# Not used
+msgid "jobDescription"
+msgstr "Përshkrimi i punës"
+
+msgid "Select Entity"
+msgstr "Zgjidhni Entitet"
