@@ -1,2 +1,481 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2023-08-21 05:59+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Telugu <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/te/>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+msgid "supervisor"
+msgstr "సూపర్‌వైజర్"
+
+# Not used
+msgid "officePhone"
+msgstr "ఆఫీస్ ఫోన్"
+
+# Main page title
+msgid "hrUpdate"
+msgstr "HR నవీకరణ"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "ఉదా: ఇంటి చిరునామా"
+
+# Not used
+msgid "jobDescription"
+msgstr "ఉద్యోగ వివరణ"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "మీ ఉద్యోగ వివరణ"
+
+msgid "Select Entity"
+msgstr "ఎంటిటీని ఎంచుకోండి"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "మీ ఉద్యోగ శీర్షిక"
+
+msgid "entityNotice"
+msgstr ""
+"దిగువ డేటా Netsuiteలో ప్రస్తుత డేటా స్థితిని ప్రతిబింబిస్తుంది. నేషనల్ "
+"హెచ్‌ఆర్ జనరలిస్ట్‌లచే ఇంకా ఆమోదించబడని మునుపటి సమర్పణలు క్రింద "
+"ప్రతిబింబించబడవు."
+
+msgid "buttonHelpDescription"
+msgstr "ఈ ఫీల్డ్‌ని పూరించడానికి సహాయం కావాలా? సూచనల కోసం క్లిక్ చేయండి."
+
+msgid "verifyBeforeSubmit"
+msgstr "దయచేసి సమర్పించే ముందు అన్ని విభాగాలను ధృవీకరించండి."
+
+msgid "submit"
+msgstr "సమర్పించండి"
+
+msgid "sending"
+msgstr "పంపుతోంది"
+
+msgid "birthDatePlaceholder"
+msgstr "మీ పుట్టిన తేదీ"
+
+msgid "familyInformation"
+msgstr "కుటుంబ సమాచారం"
+
+msgid "jobInformation"
+msgstr "ఉద్యోగ సమాచారం"
+
+msgid "supervisorDescription"
+msgstr ""
+"మీ వ్యయ నివేదికలను %sలో ఎవరు ఆమోదిస్తారు? మీకు ఖచ్చితంగా తెలియకపోతే లేదా "
+"విదేశీయుడు అయితే, నేషనల్ ఆపరేషన్స్ లీడర్‌ని ఎంచుకోండి లేదా నేషనల్ ఫైనాన్స్ "
+"టీమ్‌ని సంప్రదించండి."
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"వెబ్ సెషన్ సమయం ముగిసింది. దయచేసి మళ్లీ ప్రామాణీకరించడానికి పేజీని మళ్లీ లోడ్"
+" చేయండి."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "సూపర్‌వైజర్ నోట్"
+
+msgid "hireDate"
+msgstr "మీరు నియమించబడిన తేదీ"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "పూర్తి సమయం సమానం (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "రద్దు కారణం"
+
+# Not used
+msgid "educationInformation"
+msgstr "విద్యా సమాచారం"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "విద్య యొక్క స్థాయి"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "మీ ఇంటి ఫోన్ నంబర్"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "మీ ఆఫీసు ఫోన్ నంబర్"
+
+# Not used
+msgid "contactInformation"
+msgstr "సంప్రదింపు సమాచారం"
+
+# Not used
+msgid "permanentAddress"
+msgstr "శాశ్వత చిరునామా"
+
+# Not used
+msgid "label"
+msgstr "లేబుల్"
+
+# Not used
+msgid "attention"
+msgstr "శ్రద్ధ"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "ఉదా: Attn జాన్ డో"
+
+# Not used
+msgid "address"
+msgstr "చిరునామా"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "మీ చిరునామా (బహుళ పంక్తులు కావచ్చు)"
+
+# Not used
+msgid "country"
+msgstr "దేశం"
+
+msgid "help"
+msgstr "సహాయం"
+
+msgid "logout"
+msgstr "లాగ్అవుట్"
+
+msgid "chooseAnOption"
+msgstr "ఒక ఎంపికను ఎంచుకోండి"
+
+msgid "currentValue"
+msgstr "ప్రస్తుత విలువ"
+
+msgid "requestValue"
+msgstr "అభ్యర్థించిన విలువ"
+
+msgid "sorry"
+msgstr "క్షమించండి"
+
+msgid "error"
+msgstr "లోపం"
+
+msgid "verify"
+msgstr "పై ఫీల్డ్‌లన్నీ ఖచ్చితమైనవని నేను ధృవీకరిస్తున్నాను."
+
+msgid "sent"
+msgstr "పంపబడింది"
+
+msgid "thankYou"
+msgstr "ధన్యవాదాలు"
+
+msgid "thankYouDescription"
+msgstr "మీ సమాచారం సమర్పించబడింది."
+
+msgid "ok"
+msgstr "అలాగే"
+
+msgid "personalDetails"
+msgstr "వ్యక్తిగత వివరాలు"
+
+msgid "firstName"
+msgstr "మొదటి పేరు"
+
+msgid "firstNamePlaceholder"
+msgstr "మీ మొదటి పేరు"
+
+msgid "preferredName"
+msgstr "ఇష్టపడే పేరు"
+
+msgid "preferredNamePlaceholder"
+msgstr "మీరు ఇష్టపడే పేరు (ఐచ్ఛికం)"
+
+msgid "middleName"
+msgstr "మధ్య పేరు"
+
+msgid "middleNamePlaceholder"
+msgstr "మీ మధ్య పేరు (ఐచ్ఛికం)"
+
+msgid "lastName"
+msgstr "చివరి పేరు"
+
+msgid "lastNamePlaceholder"
+msgstr "నీ చివరి పేరు"
+
+# Not used
+msgid "secondLastName"
+msgstr "రెండవ చివరి పేరు"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "మీ రెండవ చివరి పేరు"
+
+# Not used
+msgid "title"
+msgstr "శీర్షిక"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "ఉదా: మిస్టర్ శ్రీమతి మిస్. మొదలైనవి."
+
+msgid "gender"
+msgstr "లింగం"
+
+msgid "birthDate"
+msgstr "పుట్టిన తేదీ"
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "మీ వయస్సు ప్రస్తుతం <strong>ఒక</strong> సంవత్సరాలు"
+msgstr[1] "మీ వయస్సు ప్రస్తుతం <strong>%d</strong> సంవత్సరాలు"
+
+msgid "staffUnit"
+msgstr "స్టాఫ్ యూనిట్"
+
+msgid "staffUnitPlaceholder"
+msgstr "ఇంటిపేరు, ఇచ్చిన పేరు లేదా ఇంటిపేరు, అతని పేరు మరియు ఆమె పేరు."
+
+msgid "maritalStatus"
+msgstr "వైవాహిక స్థితి"
+
+msgid "staffSpouse"
+msgstr "సిబ్బంది జీవిత భాగస్వామి"
+
+msgid "staffSpousePlaceholder"
+msgstr "మీ జీవిత భాగస్వామి పేరు"
+
+msgid "workforceInformation"
+msgstr "శ్రామిక శక్తి సమాచారం"
+
+msgid "geographicAreaOfService"
+msgstr "సేవ యొక్క భౌగోళిక ప్రాంతం"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "మీరు సేవ చేసే ప్రాంతం"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "స్థానిక మంత్రిత్వ శాఖ/సంస్థ ద్వారా చెల్లించబడుతుంది"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "వ్యూహం / సామర్థ్యం (నెట్‌సూట్‌లో హెచ్‌ఆర్ విభాగం)"
+
+msgid "organizationalStatus"
+msgstr "సంస్థాగత స్థితి"
+
+msgid "positionRole"
+msgstr "స్థానం/పాత్ర"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "పరిధి"
+
+msgid "fundingSource"
+msgstr "నిధుల మూలం"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "శోధన విండోలో మీ సూపర్‌వైజర్ పేరును టైప్ చేయండి."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "మేము ఇప్పటికీ మీ Netsuite Idని పొందుతున్నాము, దయచేసి వేచి ఉండండి."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "శోధనను ప్రారంభించడానికి 5 అక్షరాలు సరిపోతాయి."
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "వెతకండి…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "రద్దు చేయండి"
+
+# Close the pop-up window
+msgid "Close"
+msgstr "దగ్గరగా"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "శోధించడం"
+
+msgid "approveChange"
+msgstr "మార్పును ఆమోదించండి"
+
+msgid "approve"
+msgstr "ఆమోదించడానికి"
+
+msgid "delete"
+msgstr "తొలగించు"
+
+msgid "deleting"
+msgstr "తొలగిస్తోంది"
+
+msgid "deleted"
+msgstr "తొలగించబడింది"
+
+msgid "type"
+msgstr "టైప్ చేయండి"
+
+msgid "number"
+msgstr "సంఖ్య"
+
+msgid "inactive"
+msgstr "నిష్క్రియ"
+
+# Not used
+msgid "terminationDate"
+msgstr "తొలగించబడు తేదీ"
+
+# Not used
+msgid "governmentID"
+msgstr "ప్రభుత్వ ID"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "మీ ప్రభుత్వ ID నంబర్"
+
+# Not used
+msgid "issueDate"
+msgstr "జారి చేయు తేది"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "మీ ID జారీ తేదీ"
+
+# Not used
+msgid "expirationDate"
+msgstr "గడువు తేదీ"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "మీ ID గడువు తేదీ"
+
+# Not used
+msgid "expirationDateText"
+msgstr "మీ ID గడువు ముగిసింది."
+
+# Not used
+msgid "emergencyContact"
+msgstr "అత్యవసర సంప్రదింపు"
+
+# Not used
+msgid "name"
+msgstr "పేరు"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "సంప్రదింపు పూర్తి పేరు"
+
+# Not used
+msgid "relationship"
+msgstr "సంబంధం"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "ఈ వ్యక్తికి మీతో ఉన్న సంబంధం"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "సంప్రదింపు పూర్తి చిరునామా"
+
+# Not used
+msgid "phone"
+msgstr "ఫోన్"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "సంప్రదింపు ఫోన్ నంబర్"
+
+# Not used
+msgid "degree"
+msgstr "డిగ్రీ"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "మీ డిగ్రీ పేరు"
+
+# Not used
+msgid "dateConferred"
+msgstr "ఇచ్చిన తేదీ"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "మీరు అందించిన తేదీ"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "మీరు ఉన్నప్పుడు మీరు పట్టభద్రులయ్యారు"
+
+# Not used
+msgid "email"
+msgstr "ఇ-మెయిల్"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "మీ ఇమెయిల్ చిరునామా"
+
+# Not used
+msgid "mobilePhone"
+msgstr "చరవాణి"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "మీ మొబైల్ ఫోన్ నంబర్"
+
+# Not used
+msgid "homePhone"
+msgstr "ఇంటి ఫోన్"
+
+# Not used
+msgid "city"
+msgstr "నగరం"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "మీ నగరం"
+
+# Not used
+msgid "stateProvince"
+msgstr "రాష్ట్రం/ప్రావిన్స్"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "మీ రాష్ట్రం/ప్రావిన్స్"
+
+# Not used
+msgid "zip"
+msgstr "జిప్"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "మీ జిప్ కోడ్"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "మీ దేశం"
+
+# Not used
+msgid "shippingAddress"
+msgstr "షిప్పింగ్ చిరునామా"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "అదే శాశ్వతమైనది"
+
+# Not used
+msgid "jobTitle"
+msgstr "ఉద్యోగ శీర్షిక"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"మీ ఇమెయిల్ చిరునామాకు సరిపోలే అనేక రికార్డులు ఉన్నాయి. దయచేసి మీరు అప్‌డేట్ "
+"చేయాలనుకుంటున్న దాన్ని ఎంచుకోండి."
+
+msgid "maritalStatusPlaceholder"
+msgstr "మీ వైవాహిక స్థితిని ఎంచుకోండి"
