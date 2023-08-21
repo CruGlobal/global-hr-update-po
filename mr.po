@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-03 20:35+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-08-21 05:59+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Marathi <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/mr/>\n"
 "Language: mr\n"
@@ -20,3 +20,462 @@ msgstr ""
 "खालील डेटा Netsuite मधील डेटाची वर्तमान स्थिती प्रतिबिंबित करतो. नॅशनल एचआर "
 "जनरलिस्ट्सनी अद्याप मंजूर न केलेले मागील सबमिशन खाली प्रतिबिंबित केले जाणार "
 "नाहीत."
+
+# Not used
+msgid "email"
+msgstr "ई-मेल"
+
+msgid "help"
+msgstr "मदत करा"
+
+msgid "currentValue"
+msgstr "वर्तमान मूल्य"
+
+msgid "sent"
+msgstr "पाठवले"
+
+msgid "supervisor"
+msgstr "पर्यवेक्षक"
+
+msgid "supervisorDescription"
+msgstr ""
+"%s मधील तुमचा खर्च अहवाल कोण मंजूर करतो? तुम्हाला खात्री नसल्यास किंवा परदेशी"
+" नसल्यास, राष्ट्रीय ऑपरेशन लीडर निवडा किंवा राष्ट्रीय वित्त कार्यसंघाशी सल्ला"
+"मसलत करा."
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "शोध विंडोमध्ये तुमच्या पर्यवेक्षकाचे नाव टाइप करा."
+
+# Shown if the user tries to type in their supervisor before the page has finished loading.
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "आम्हाला अजूनही तुमचा Netsuite Id मिळत आहे, कृपया प्रतीक्षा करा."
+
+msgid "supervisorPopupRenderMin5chars"
+msgstr "शोध सुरू करण्यासाठी 5 अक्षरे पुरेसे आहेत."
+
+# Close the pop-up window
+msgid "Close"
+msgstr "बंद"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "शोधत आहे"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"वेब सत्र कालबाह्य झाले आहे. कृपया पुन्हा प्रमाणीकृत करण्यासाठी पृष्ठ रीलोड "
+"करा."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "पर्यवेक्षक नोट"
+
+msgid "hireDate"
+msgstr "तुम्हाला कामावर घेतल्याची तारीख"
+
+# Not used
+msgid "numberPlaceholder"
+msgstr "तुमचा सरकारी आयडी क्रमांक"
+
+msgid "approveChange"
+msgstr "बदल मंजूर करा"
+
+msgid "approve"
+msgstr "मंजूर"
+
+msgid "delete"
+msgstr "हटवा"
+
+msgid "deleting"
+msgstr "हटवत आहे"
+
+msgid "deleted"
+msgstr "हटवले"
+
+msgid "type"
+msgstr "प्रकार"
+
+msgid "number"
+msgstr "क्रमांक"
+
+# Not used
+msgid "fullTimeEquivalent"
+msgstr "पूर्णवेळ समतुल्य (FTE)"
+
+# Not used
+msgid "terminationReason"
+msgstr "समाप्तीचे कारण"
+
+msgid "inactive"
+msgstr "निष्क्रिय"
+
+# Not used
+msgid "terminationDate"
+msgstr "समाप्ती तारीख"
+
+# Not used
+msgid "governmentID"
+msgstr "सरकारी आयडी"
+
+# Not used
+msgid "contactNamePlaceholder"
+msgstr "संपर्काचे पूर्ण नाव"
+
+# Not used
+msgid "relationship"
+msgstr "नाते"
+
+# Not used
+msgid "issueDate"
+msgstr "जारी करण्याची तारीख"
+
+# Not used
+msgid "issueDatePlaceholder"
+msgstr "तुमचा आयडी जारी करण्याची तारीख"
+
+# Not used
+msgid "expirationDate"
+msgstr "कालबाह्यता तारीख"
+
+# Not used
+msgid "expirationDatePlaceholder"
+msgstr "तुमचा आयडी कालबाह्यता तारीख"
+
+# Not used
+msgid "expirationDateText"
+msgstr "तुमचा आयडी कालबाह्य झाला आहे."
+
+# Not used
+msgid "emergencyContact"
+msgstr "आपत्कालीन संपर्क"
+
+# Not used
+msgid "name"
+msgstr "नाव"
+
+# Not used
+msgid "relationshipPlaceholder"
+msgstr "या व्यक्तीचे तुमच्याशी नाते आहे"
+
+# Not used
+msgid "contactAddressPlaceholder"
+msgstr "संपर्काचा पूर्ण पत्ता"
+
+# Not used
+msgid "phone"
+msgstr "फोन"
+
+# Not used
+msgid "contactPhonePlaceholder"
+msgstr "संपर्काचा फोन नंबर"
+
+# Not used
+msgid "educationInformation"
+msgstr "शैक्षणिक माहिती"
+
+# Not used
+msgid "levelOfEducation"
+msgstr "शिक्षणाचा स्तर"
+
+# Not used
+msgid "officePhonePlaceholder"
+msgstr "तुमचा ऑफिस फोन नंबर"
+
+# Not used
+msgid "contactInformation"
+msgstr "संपर्क माहिती"
+
+# Not used
+msgid "homePhone"
+msgstr "घराचा दुरध्वनी"
+
+# Not used
+msgid "homePhonePlaceholder"
+msgstr "तुमचा घरचा फोन नंबर"
+
+# Not used
+msgid "officePhone"
+msgstr "कार्यालय दूरध्वनी"
+
+# Not used
+msgid "permanentAddress"
+msgstr "कायमचा पत्ता"
+
+# Not used
+msgid "label"
+msgstr "लेबल"
+
+# Not used
+msgid "labelPlaceholder"
+msgstr "उदा: घराचा पत्ता"
+
+# Not used
+msgid "attention"
+msgstr "लक्ष द्या"
+
+# Not used
+msgid "attentionPlaceholder"
+msgstr "उदा: Attn जॉन डो"
+
+# Not used
+msgid "address"
+msgstr "पत्ता"
+
+# Not used
+msgid "addressPlaceholder"
+msgstr "तुमचा पत्ता (एकाहून अधिक ओळी असू शकतात)"
+
+# Not used
+msgid "city"
+msgstr "शहर"
+
+# Not used
+msgid "cityPlaceholder"
+msgstr "तुमचे शहर"
+
+# Not used
+msgid "jobTitle"
+msgstr "नोकरी शीर्षक"
+
+# Not used
+msgid "stateProvincePlaceholder"
+msgstr "तुमचे राज्य/प्रांत"
+
+# Not used
+msgid "zip"
+msgstr "जि.प"
+
+# Not used
+msgid "zipPlaceholder"
+msgstr "तुमचा पिन कोड"
+
+# Not used
+msgid "country"
+msgstr "देश"
+
+# Not used
+msgid "countryPlaceholder"
+msgstr "आपला देश"
+
+msgid "requestValue"
+msgstr "विनंती केलेले मूल्य"
+
+msgid "error"
+msgstr "त्रुटी"
+
+msgid "verify"
+msgstr "मी सत्यापित करतो की वरील सर्व फील्ड अचूक आहेत."
+
+msgid "buttonHelpDescription"
+msgstr "हे फील्ड भरण्यासाठी मदत हवी आहे? सूचनांसाठी क्लिक करा."
+
+msgid "verifyBeforeSubmit"
+msgstr "कृपया सबमिट करण्यापूर्वी सर्व विभागांची पडताळणी करा."
+
+msgid "submit"
+msgstr "प्रस्तुत करणे"
+
+msgid "sending"
+msgstr "पाठवून"
+
+msgid "thankYou"
+msgstr "धन्यवाद"
+
+msgid "thankYouDescription"
+msgstr "तुमची माहिती सादर केली आहे."
+
+msgid "ok"
+msgstr "ठीक आहे"
+
+msgid "personalDetails"
+msgstr "वैयक्तिक माहिती"
+
+msgid "firstName"
+msgstr "पहिले नाव"
+
+msgid "firstNamePlaceholder"
+msgstr "तुमचं पहिलं नाव"
+
+msgid "preferredName"
+msgstr "पसंतीचे नाव"
+
+msgid "preferredNamePlaceholder"
+msgstr "तुमचे पसंतीचे नाव (पर्यायी)"
+
+msgid "middleName"
+msgstr "मधले नाव"
+
+msgid "middleNamePlaceholder"
+msgstr "तुमचे मधले नाव (पर्यायी)"
+
+msgid "lastName"
+msgstr "आडनाव"
+
+msgid "lastNamePlaceholder"
+msgstr "तुमचे आडनाव"
+
+# Not used
+msgid "secondLastName"
+msgstr "दुसरे आडनाव"
+
+# Not used
+msgid "secondLastNamePlaceholder"
+msgstr "तुमचे दुसरे आडनाव"
+
+# Not used
+msgid "title"
+msgstr "शीर्षक"
+
+# Not used
+msgid "titlePlaceholder"
+msgstr "उदा: मिस्टर मिसेस मिसेस इ."
+
+msgid "gender"
+msgstr "लिंग"
+
+msgid "birthDate"
+msgstr "जन्मदिनांक"
+
+msgid "birthDatePlaceholder"
+msgstr "तुमची जन्मतारीख"
+
+msgid "familyInformation"
+msgstr "कौटुंबिक माहिती"
+
+msgid "staffUnit"
+msgstr "कर्मचारी युनिट"
+
+msgid "staffUnitPlaceholder"
+msgstr "आडनाव, गिव्हननेम किंवा आडनाव, हिसगिव्हननेम आणि हरगिव्हननेम."
+
+msgid "maritalStatus"
+msgstr "वैवाहिक स्थिती"
+
+msgid "maritalStatusPlaceholder"
+msgstr "तुमची वैवाहिक स्थिती निवडा"
+
+msgid "staffSpouse"
+msgstr "कर्मचारी जोडीदार"
+
+msgid "staffSpousePlaceholder"
+msgstr "तुमच्या जोडीदाराचे नाव"
+
+msgid "workforceInformation"
+msgstr "कामगारांची माहिती"
+
+msgid "geographicAreaOfService"
+msgstr "सेवेचे भौगोलिक क्षेत्र"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "तुम्ही जिथे सेवा देता ते प्रदेश"
+
+# https://netsuite.helpscoutdocs.com/article/1091-paid-by-local-entity
+msgid "paidByLocalMinistryEntity"
+msgstr "स्थानिक मंत्रालय/संस्था यांनी पैसे दिले"
+
+# https://netsuite.helpscoutdocs.com/article/1088-hr-department-mcc
+msgid "hrDepartment"
+msgstr "धोरण / क्षमता (Netsuite मध्ये HR विभाग)"
+
+msgid "organizationalStatus"
+msgstr "संस्थात्मक स्थिती"
+
+msgid "positionRole"
+msgstr "पद/भूमिका"
+
+# https://netsuite.helpscoutdocs.com/article/1075-scope
+msgid "scope"
+msgstr "व्याप्ती"
+
+msgid "fundingSource"
+msgstr "निधी स्रोत"
+
+msgid "jobInformation"
+msgstr "नोकरी माहिती"
+
+# Placeholder text in the search box
+msgid "Search..."
+msgstr "शोधा…"
+
+# Cancel the search
+msgid "Cancel"
+msgstr "रद्द करा"
+
+# Not used
+msgid "degree"
+msgstr "पदवी"
+
+# Not used
+msgid "degreePlaceholder"
+msgstr "तुमच्या पदवीचे नाव"
+
+# Not used
+msgid "dateConferred"
+msgstr "तारीख प्रदान केली"
+
+# Not used
+msgid "dateConferredPlaceholder"
+msgstr "तुमची प्रदान केलेली तारीख"
+
+# Not used
+msgid "graduatedAgeCalculator"
+msgstr "तू असताना पदवीधर झालास"
+
+# Not used
+msgid "emailPlaceholder"
+msgstr "तुमचा ई-मेल पत्ता"
+
+# Not used
+msgid "mobilePhone"
+msgstr "भ्रमणध्वनी"
+
+# Not used
+msgid "mobilePhonePlaceholder"
+msgstr "तुमचा मोबाईल फोन नंबर"
+
+# Not used
+msgid "stateProvince"
+msgstr "राज्य/प्रांत"
+
+# Not used
+msgid "shippingAddress"
+msgstr "शिपिंग पत्ता"
+
+# Not used
+msgid "sameAsPermanent"
+msgstr "कायमस्वरूपी"
+
+# Not used
+msgid "jobTitlePlaceholder"
+msgstr "तुमची नोकरी शीर्षक"
+
+# Not used
+msgid "jobDescription"
+msgstr "कामाचे स्वरूप"
+
+# Not used
+msgid "jobDescriptionPlaceholder"
+msgstr "तुमच्या नोकरीचे वर्णन"
+
+msgid "Select Entity"
+msgstr "घटक निवडा"
+
+msgid "logout"
+msgstr "बाहेर पडणे"
+
+msgid "chooseAnOption"
+msgstr "एक पर्याय निवडा"
+
+msgid "sorry"
+msgstr "क्षमस्व"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"तुमच्या ईमेल पत्त्याशी जुळणारे अनेक रेकॉर्ड आहेत. कृपया तुम्ही अपडेट करू "
+"इच्छित असलेला निवडा."
+
+# The age should be shown in bold font: <strong>%d</strong>
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "तुम्ही सध्या <strong>एक</strong> वर्षाचे आहात"
+msgstr[1] "तुम्ही सध्या <strong>%d</strong> वर्षांचे आहात"
