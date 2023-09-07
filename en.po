@@ -449,21 +449,17 @@ msgstr "Shipping Address"
 msgid "sameAsPermanent"
 msgstr "same as permanent"
 
-# Not used
 msgid "jobTitle"
 msgstr "Job Title"
 
-# Not used
 msgid "jobTitlePlaceholder"
-msgstr "Your job title"
+msgstr "Your job title (optional)"
 
-# Not used
 msgid "jobDescription"
 msgstr "Job Description"
 
-# Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Your job description"
+msgstr "Your job description (optional)"
 
 msgid "Select Entity"
 msgstr "Select Entity"
