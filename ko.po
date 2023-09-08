@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-28 21:35+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ko/>\n"
 "Language: ko\n"
@@ -101,7 +101,7 @@ msgstr "직책"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "직책"
+msgstr "직책(선택 사항)"
 
 # Not used
 msgid "jobDescription"
@@ -109,7 +109,7 @@ msgstr "직무 설명"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "직무 설명"
+msgstr "직무 설명(선택 사항)"
 
 msgid "Select Entity"
 msgstr "엔티티 선택"
