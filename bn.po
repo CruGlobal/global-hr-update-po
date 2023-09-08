@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:17+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Bengali <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/bn/>\n"
 "Language: bn\n"
@@ -463,7 +463,7 @@ msgstr "কাজের শিরোনাম"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "আপনার কাজের শিরোনাম"
+msgstr "আপনার কাজের শিরোনাম (ঐচ্ছিক)"
 
 # Not used
 msgid "jobDescription"
@@ -471,7 +471,7 @@ msgstr "কাজের বিবরণী"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "আপনার কাজের বিবরণ"
+msgstr "আপনার কাজের বিবরণ (ঐচ্ছিক)"
 
 msgid "Select Entity"
 msgstr "সত্তা নির্বাচন করুন"
