@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-03 20:35+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/nl/>\n"
 "Language: nl\n"
@@ -93,7 +93,7 @@ msgstr "Functie"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Je functietitel"
+msgstr "Je functietitel (optioneel)"
 
 # Not used
 msgid "jobDescription"
@@ -101,7 +101,7 @@ msgstr "Functieomschrijving"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Je functieomschrijving"
+msgstr "Je functieomschrijving (optioneel)"
 
 # Main page title
 msgid "hrUpdate"
