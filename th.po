@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 22:56+0000\n"
+"PO-Revision-Date: 2023-09-09 09:46+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 4.18.2\n"
 
 # Main page title
 msgid "hrUpdate"
@@ -407,7 +407,7 @@ msgstr "ชื่อตำแหน่งงาน"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "ตำแหน่งงานของคุณ"
+msgstr "ตำแหน่งงานของคุณ (ไม่บังคับ)"
 
 # Not used
 msgid "jobDescription"
@@ -415,7 +415,7 @@ msgstr "รายละเอียดตำแหน่งงาน"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "รายละเอียดตำแหน่งงานของคุณ"
+msgstr "รายละเอียดงานของคุณ (ไม่บังคับ)"
 
 msgid "firstName"
 msgstr "ชื่อจริง"
