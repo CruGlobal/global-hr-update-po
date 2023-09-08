@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-03 20:35+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/fr/>\n"
 "Language: fr\n"
@@ -20,7 +20,7 @@ msgstr "Approuver"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Votre fonction"
+msgstr "Votre fonction (facultatif)"
 
 # Not used
 msgid "jobDescription"
@@ -28,7 +28,7 @@ msgstr "Description de l'emploi"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Votre description de poste"
+msgstr "Votre description de poste (facultatif)"
 
 msgid "Select Entity"
 msgstr "Sélectionner une entité"
