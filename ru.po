@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:09+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ru/>\n"
 "Language: ru\n"
@@ -295,7 +295,7 @@ msgstr "Название должности"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Ваша должность"
+msgstr "Ваша должность (необязательно)"
 
 # Not used
 msgid "jobDescription"
@@ -303,7 +303,7 @@ msgstr "Описание работы"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Ваша должностная инструкция"
+msgstr "Описание Вашей должности (необязательно)"
 
 msgid "selectEntityInstructions"
 msgstr ""
