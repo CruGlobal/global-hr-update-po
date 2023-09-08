@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:15+0000\n"
+"PO-Revision-Date: 2023-09-09 09:46+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Traditional) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/zh_Hant/>\n"
@@ -455,7 +455,7 @@ msgstr "职位名称"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "您的职位"
+msgstr "您的职务（可选）"
 
 # Not used
 msgid "jobDescription"
@@ -463,7 +463,7 @@ msgstr "职位描述"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "您的工作描述"
+msgstr "您的职位描述（可选）"
 
 msgid "Select Entity"
 msgstr "选择实体"
