@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 22:56+0000\n"
+"PO-Revision-Date: 2023-09-09 09:46+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Vietnamese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/vi/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 4.18.2\n"
 
 msgid "Select Entity"
 msgstr "Chọn thực thể"
@@ -109,7 +109,7 @@ msgstr "Chức vụ"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "chức danh công việc của bạn"
+msgstr "Chức danh công việc của bạn (tùy chọn)"
 
 # Not used
 msgid "jobDescription"
@@ -117,7 +117,7 @@ msgstr "Mô tả công việc"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "mô tả công việc của bạn"
+msgstr "Mô tả công việc của bạn (tùy chọn)"
 
 # Not used
 msgid "relationshipPlaceholder"
