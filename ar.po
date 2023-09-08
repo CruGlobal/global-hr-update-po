@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-02 16:09+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Arabic <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ar/>\n"
 "Language: ar\n"
@@ -462,7 +462,7 @@ msgstr "مسمى وظيفي"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "المسمى الوظيفي"
+msgstr "المسمى الوظيفي الخاص بك (اختياري)"
 
 # Not used
 msgid "jobDescription"
@@ -470,7 +470,7 @@ msgstr "المسمى الوظيفي"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "وصف وظيفتك"
+msgstr "الوصف الوظيفي الخاص بك (اختياري)"
 
 msgid "entityNotice"
 msgstr ""
