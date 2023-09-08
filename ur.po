@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-21 05:59+0000\n"
+"PO-Revision-Date: 2023-09-09 09:47+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Urdu <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ur/>\n"
@@ -110,7 +110,7 @@ msgstr "ملازمت کا عنوان"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "آپ کی ملازمت کا عنوان"
+msgstr "آپ کی ملازمت کا عنوان (اختیاری)"
 
 # Not used
 msgid "jobDescription"
@@ -118,7 +118,7 @@ msgstr "کام کی تفصیل"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "آپ کی ملازمت کی تفصیل"
+msgstr "آپ کی ملازمت کی تفصیل (اختیاری)"
 
 msgid "Select Entity"
 msgstr "ہستی کو منتخب کریں۔"
