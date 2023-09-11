@@ -40,6 +40,9 @@ msgstr "Sorry"
 msgid "error"
 msgstr "Error"
 
+msgid "Optional"
+msgstr "Optional"
+
 msgid "verify"
 msgstr "I verify that all above fields are accurate."
 
@@ -80,13 +83,13 @@ msgid "preferredName"
 msgstr "Preferred Name"
 
 msgid "preferredNamePlaceholder"
-msgstr "Your preferred name (optional)"
+msgstr "Your preferred name"
 
 msgid "middleName"
 msgstr "Middle Name"
 
 msgid "middleNamePlaceholder"
-msgstr "Your middle name (optional)"
+msgstr "Your middle name"
 
 msgid "lastName"
 msgstr "Last Name"
@@ -453,13 +456,13 @@ msgid "jobTitle"
 msgstr "Job Title"
 
 msgid "jobTitlePlaceholder"
-msgstr "Your job title (optional)"
+msgstr "Your job title"
 
 msgid "jobDescription"
 msgstr "Job Description"
 
 msgid "jobDescriptionPlaceholder"
-msgstr "Your job description (optional)"
+msgstr "Your job description"
 
 msgid "Select Entity"
 msgstr "Select Entity"
