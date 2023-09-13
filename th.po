@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
@@ -407,7 +407,7 @@ msgstr "ชื่อตำแหน่งงาน"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "ตำแหน่งงานของคุณ (ไม่บังคับ)"
+msgstr "ตำแหน่งงานของคุณ"
 
 # Not used
 msgid "jobDescription"
@@ -415,7 +415,7 @@ msgstr "รายละเอียดตำแหน่งงาน"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "รายละเอียดงานของคุณ (ไม่บังคับ)"
+msgstr "รายละเอียดงานของคุณ"
 
 msgid "firstName"
 msgstr "ชื่อจริง"
@@ -429,7 +429,7 @@ msgstr "ชื่อเล่น"
 
 # Not used
 msgid "preferredNamePlaceholder"
-msgstr "ชื่อที่คุณต้องการ (ไม่บังคับ)"
+msgstr "ชื่อที่คุณต้องการ"
 
 # Not used
 msgid "middleName"
@@ -437,7 +437,7 @@ msgstr "ชื่อกลาง"
 
 # Not used
 msgid "middleNamePlaceholder"
-msgstr "ชื่อกลางของคุณ (ไม่บังคับ)"
+msgstr "ชื่อกลางของคุณ"
 
 msgid "lastName"
 msgstr "นามสกุล"
@@ -473,3 +473,6 @@ msgstr "เลือกเอนทิตี"
 
 msgid "selectEntityInstructions"
 msgstr "มีหลายระเบียนที่ตรงกับที่อยู่อีเมลของคุณ โปรดเลือกรายการที่คุณต้องการอัปเดต"
+
+msgid "indicates required field"
+msgstr "ระบุช่องที่ต้องกรอก"
