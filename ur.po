@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Urdu <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ur/>\n"
@@ -110,7 +110,7 @@ msgstr "ملازمت کا عنوان"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "آپ کی ملازمت کا عنوان (اختیاری)"
+msgstr "آپ کی ملازمت کا عنوان"
 
 # Not used
 msgid "jobDescription"
@@ -118,7 +118,7 @@ msgstr "کام کی تفصیل"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "آپ کی ملازمت کی تفصیل (اختیاری)"
+msgstr "آپ کی ملازمت کی تفصیل"
 
 msgid "Select Entity"
 msgstr "ہستی کو منتخب کریں۔"
@@ -229,13 +229,13 @@ msgid "personalDetails"
 msgstr "ذاتی معلومات"
 
 msgid "preferredNamePlaceholder"
-msgstr "آپ کا پسندیدہ نام (اختیاری)"
+msgstr "آپ کا پسندیدہ نام"
 
 msgid "middleName"
 msgstr "درمیانی نام"
 
 msgid "middleNamePlaceholder"
-msgstr "آپ کا درمیانی نام (اختیاری)"
+msgstr "آپ کا درمیانی نام"
 
 msgid "lastName"
 msgstr "آخری نام"
@@ -479,3 +479,6 @@ msgid "ageCalculator"
 msgid_plural "ageCalculator"
 msgstr[0] "آپ اس وقت <strong>ایک</strong> سال کے ہیں۔"
 msgstr[1] "آپ اس وقت <strong>%d</strong> سال کے ہیں۔"
+
+msgid "indicates required field"
+msgstr "مطلوبہ فیلڈ کی طرف اشارہ کرتا"
