@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ru/>\n"
@@ -126,13 +126,13 @@ msgid "preferredName"
 msgstr "Предпочитаемое имя / прозвище"
 
 msgid "preferredNamePlaceholder"
-msgstr "Ваше предпочтительное имя / прозвище (необязательно)"
+msgstr "Ваше предпочтительное имя"
 
 msgid "middleName"
 msgstr "Отчество"
 
 msgid "middleNamePlaceholder"
-msgstr "Ваше отчество (необязательно)"
+msgstr "Ваше второе имя"
 
 msgid "lastName"
 msgstr "Фамилия"
@@ -295,7 +295,7 @@ msgstr "Название должности"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Ваша должность (необязательно)"
+msgstr "Ваша должность"
 
 # Not used
 msgid "jobDescription"
@@ -303,7 +303,7 @@ msgstr "Описание работы"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Описание Вашей должности (необязательно)"
+msgstr "Ваша должностная инструкция"
 
 msgid "selectEntityInstructions"
 msgstr ""
@@ -481,3 +481,6 @@ msgstr "Номер Вашего мобильного телефона"
 # Not used
 msgid "homePhone"
 msgstr "Домашний телефон"
+
+msgid "indicates required field"
+msgstr "указывает на обязательное поле"
