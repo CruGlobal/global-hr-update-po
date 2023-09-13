@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Lao <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/lo/>\n"
@@ -126,13 +126,13 @@ msgid "preferredName"
 msgstr "ຊື່ທີ່ຕ້ອງການ"
 
 msgid "preferredNamePlaceholder"
-msgstr "ຊື່ທີ່ທ່ານຕ້ອງການ (ທາງເລືອກ)"
+msgstr "ຊື່ທີ່ທ່ານຕ້ອງການ"
 
 msgid "middleName"
 msgstr "ຊື່ກາງ"
 
 msgid "middleNamePlaceholder"
-msgstr "ຊື່ກາງຂອງເຈົ້າ (ເລືອກໄດ້)"
+msgstr "ຊື່ກາງຂອງເຈົ້າ"
 
 msgid "lastName"
 msgstr "ນາມສະກຸນ"
@@ -458,7 +458,7 @@ msgstr "ຕໍາແຫນ່ງ"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "ຊື່ວຽກຂອງເຈົ້າ (ທາງເລືອກ)"
+msgstr "ຊື່ວຽກຂອງເຈົ້າ"
 
 # Not used
 msgid "jobDescription"
@@ -466,7 +466,7 @@ msgstr "ລາຍລະອຽດວຽກ"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "ລາຍລະອຽດວຽກເຮັດງານທໍາຂອງທ່ານ (ທາງເລືອກອື່ນ)"
+msgstr "ລາຍລະອຽດວຽກເຮັດງານທໍາຂອງທ່ານ"
 
 msgid "Select Entity"
 msgstr "ເລືອກ Entity"
@@ -474,3 +474,6 @@ msgstr "ເລືອກ Entity"
 msgid "selectEntityInstructions"
 msgstr ""
 "ມີຫຼາຍບັນທຶກທີ່ກົງກັບທີ່ຢູ່ອີເມວຂອງເຈົ້າ. ກະລຸນາເລືອກອັນທີ່ທ່ານຕ້ອງການອັບເດດ."
+
+msgid "indicates required field"
+msgstr "ຊີ້ບອກພາກສະຫນາມທີ່ຕ້ອງການ"
