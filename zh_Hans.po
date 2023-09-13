@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/zh_Hans/>\n"
@@ -89,13 +89,13 @@ msgid "preferredName"
 msgstr "首选名称"
 
 msgid "preferredNamePlaceholder"
-msgstr "您喜欢的名字（可选）"
+msgstr "您喜欢的名字"
 
 msgid "middleName"
 msgstr "中间名"
 
 msgid "middleNamePlaceholder"
-msgstr "您的中间名（可选）"
+msgstr "你的中间名"
 
 msgid "lastName"
 msgstr "姓氏"
@@ -461,7 +461,7 @@ msgstr "职位名称"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "您的职务（可选）"
+msgstr "您的职位"
 
 # Not used
 msgid "jobDescription"
@@ -469,4 +469,7 @@ msgstr "职位描述"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "您的职位描述（可选）"
+msgstr "您的工作描述"
+
+msgid "indicates required field"
+msgstr "表示必填项"
