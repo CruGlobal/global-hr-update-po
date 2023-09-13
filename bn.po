@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Bengali <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/bn/>\n"
@@ -83,13 +83,13 @@ msgid "preferredName"
 msgstr "পছন্দের নাম"
 
 msgid "preferredNamePlaceholder"
-msgstr "আপনার পছন্দের নাম (ঐচ্ছিক)"
+msgstr "আপনার পছন্দের নাম"
 
 msgid "middleName"
 msgstr "মধ্য নাম"
 
 msgid "middleNamePlaceholder"
-msgstr "আপনার মধ্য নাম (ঐচ্ছিক)"
+msgstr "তোমার মাঝের নাম"
 
 msgid "lastName"
 msgstr "নামের শেষাংশ"
@@ -463,7 +463,7 @@ msgstr "কাজের শিরোনাম"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "আপনার কাজের শিরোনাম (ঐচ্ছিক)"
+msgstr "আপনার কাজের শিরোনাম"
 
 # Not used
 msgid "jobDescription"
@@ -471,7 +471,7 @@ msgstr "কাজের বিবরণী"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "আপনার কাজের বিবরণ (ঐচ্ছিক)"
+msgstr "আপনার কাজের বিবরণ"
 
 msgid "Select Entity"
 msgstr "সত্তা নির্বাচন করুন"
@@ -479,3 +479,6 @@ msgstr "সত্তা নির্বাচন করুন"
 msgid "selectEntityInstructions"
 msgstr ""
 "আপনার ইমেল ঠিকানা মিলে একাধিক রেকর্ড আছে. আপনি আপডেট করতে চান একটি চয়ন করুন।"
+
+msgid "indicates required field"
+msgstr "প্রয়োজনীয় ক্ষেত্র নির্দেশ করে"
