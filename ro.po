@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Romanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ro/>\n"
@@ -99,13 +99,13 @@ msgid "preferredName"
 msgstr "Nume preferat"
 
 msgid "preferredNamePlaceholder"
-msgstr "Numele dumneavoastră preferat (opțional)"
+msgstr "Numele dumneavoastră preferat"
 
 msgid "middleName"
 msgstr "Nume de mijloc"
 
 msgid "middleNamePlaceholder"
-msgstr "Al doilea nume (opțional)"
+msgstr "Al doilea nume"
 
 msgid "lastName"
 msgstr "Numele de familie"
@@ -467,7 +467,7 @@ msgstr "Titlul postului"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Titlul postului dumneavoastră (opțional)"
+msgstr "Titlul postului dvs."
 
 # Not used
 msgid "jobDescription"
@@ -475,7 +475,7 @@ msgstr "Descrierea postului"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Descrierea postului dumneavoastră (opțional)"
+msgstr "Descrierea postului dumneavoastră"
 
 msgid "Select Entity"
 msgstr "Selectați entitatea"
@@ -484,3 +484,6 @@ msgid "selectEntityInstructions"
 msgstr ""
 "Există mai multe înregistrări care corespund adresei dvs. de e-mail. Vă "
 "rugăm să o alegeți pe cea pe care doriți să o actualizați."
+
+msgid "indicates required field"
+msgstr "indică un câmp obligatoriu"
