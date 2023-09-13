@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Nepali <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ne/>\n"
@@ -105,13 +105,13 @@ msgid "preferredName"
 msgstr "रुचाइएको नाम"
 
 msgid "preferredNamePlaceholder"
-msgstr "तपाईंको मनपर्ने नाम (वैकल्पिक)"
+msgstr "तपाईंको मनपर्ने नाम"
 
 msgid "middleName"
 msgstr "बीचको नाम"
 
 msgid "middleNamePlaceholder"
-msgstr "तपाईंको बीचको नाम (वैकल्पिक)"
+msgstr "तपाईंको बीचको नाम"
 
 msgid "lastName"
 msgstr "थर"
@@ -466,7 +466,7 @@ msgstr "नौकरी शीर्षक"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "तपाईंको जागिर शीर्षक (वैकल्पिक)"
+msgstr "तपाईंको काम शीर्षक"
 
 # Not used
 msgid "jobDescription"
@@ -474,7 +474,10 @@ msgstr "कामको विवरण"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "तपाईंको काम विवरण (वैकल्पिक)"
+msgstr "तपाईंको काम विवरण"
 
 msgid "Select Entity"
 msgstr "निकाय चयन गर्नुहोस्"
+
+msgid "indicates required field"
+msgstr "आवश्यक क्षेत्र संकेत"
