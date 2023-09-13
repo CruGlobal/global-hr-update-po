@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Indonesian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/id/>\n"
@@ -111,13 +111,13 @@ msgid "preferredName"
 msgstr "Nama Pilihan"
 
 msgid "preferredNamePlaceholder"
-msgstr "Nama pilihan Anda (opsional)"
+msgstr "Nama pilihan Anda"
 
 msgid "middleName"
 msgstr "Nama Tengah"
 
 msgid "middleNamePlaceholder"
-msgstr "Nama tengah Anda (opsional)"
+msgstr "Nama tengah Anda"
 
 msgid "lastName"
 msgstr "Nama belakang"
@@ -471,7 +471,7 @@ msgstr "Jabatan"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Judul pekerjaan Anda (opsional)"
+msgstr "Jabatan pekerjaan Anda"
 
 # Not used
 msgid "jobDescription"
@@ -479,4 +479,7 @@ msgstr "Deskripsi Pekerjaan"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Deskripsi pekerjaan Anda (opsional)"
+msgstr "Deskripsi pekerjaan Anda"
+
+msgid "indicates required field"
+msgstr "menunjukkan bidang yang diperlukan"
