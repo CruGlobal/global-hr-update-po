@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/uk/>\n"
@@ -25,7 +25,7 @@ msgstr "Назва посади"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Ваша посада (необов'язково)"
+msgstr "Ваша посада"
 
 # Not used
 msgid "jobDescription"
@@ -33,7 +33,7 @@ msgstr "Опис вакансії"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Ваша посадова інструкція (необов'язково)"
+msgstr "Ваша посадова інструкція"
 
 msgid "Select Entity"
 msgstr "Виберіть об'єкт"
@@ -116,13 +116,13 @@ msgid "preferredName"
 msgstr "Бажане ім'я"
 
 msgid "preferredNamePlaceholder"
-msgstr "Ваше бажане ім'я (необов'язково)"
+msgstr "Ваше бажане ім'я"
 
 msgid "middleName"
 msgstr "Ім'я по батькові"
 
 msgid "middleNamePlaceholder"
-msgstr "Ваше друге ім'я (необов'язково)"
+msgstr "Твоє друге ім'я"
 
 msgid "lastName"
 msgstr "Прізвище"
@@ -483,3 +483,6 @@ msgstr "Твоя країна"
 # Not used
 msgid "shippingAddress"
 msgstr "Адреса доставки"
+
+msgid "indicates required field"
+msgstr "вказує на обов'язкове поле"
