@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Tamil <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ta/>\n"
@@ -16,7 +16,7 @@ msgstr "செயலற்றது"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "உங்கள் வேலை விவரம் (விரும்பினால்)"
+msgstr "உங்கள் வேலை விளக்கம்"
 
 # Not used
 msgid "graduatedAgeCalculator"
@@ -138,7 +138,7 @@ msgstr "வேலை தலைப்பு"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "உங்கள் வேலை தலைப்பு (விரும்பினால்)"
+msgstr "உங்கள் வேலை தலைப்பு"
 
 # Not used
 msgid "jobDescription"
@@ -217,13 +217,13 @@ msgid "preferredName"
 msgstr "விருப்பமான பெயர்"
 
 msgid "preferredNamePlaceholder"
-msgstr "உங்களுக்கு விருப்பமான பெயர் (விரும்பினால்)"
+msgstr "உங்களுக்கு விருப்பமான பெயர்"
 
 msgid "middleName"
 msgstr "நடுத்தர பெயர்"
 
 msgid "middleNamePlaceholder"
-msgstr "உங்கள் நடுப் பெயர் (விரும்பினால்)"
+msgstr "உங்கள் நடுப் பெயர்"
 
 msgid "lastName"
 msgstr "கடைசி பெயர்"
@@ -480,3 +480,6 @@ msgstr ""
 "கீழே உள்ள தரவு Netsuite இல் உள்ள தரவின் தற்போதைய நிலையை பிரதிபலிக்கிறது. தேசி"
 "ய மனிதவள பொதுவாதிகளால் இதுவரை அங்கீகரிக்கப்படாத முந்தைய சமர்ப்பிப்புகள் கீழே "
 "பிரதிபலிக்கப்படாது."
+
+msgid "indicates required field"
+msgstr "தேவையான புலத்தை குறிக்கிறது"
