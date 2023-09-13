@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/es/>\n"
@@ -101,7 +101,7 @@ msgstr "Puesto"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Su cargo (opcional)"
+msgstr "Su cargo"
 
 # Not used
 msgid "jobDescription"
@@ -109,7 +109,7 @@ msgstr "Descripción del puesto"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Descripción de su puesto (opcional)"
+msgstr "Descripción de su puesto"
 
 msgid "Select Entity"
 msgstr "Seleccionar entidad"
@@ -185,13 +185,13 @@ msgid "preferredName"
 msgstr "Nombre preferido"
 
 msgid "preferredNamePlaceholder"
-msgstr "Su nombre preferido (opcional)"
+msgstr "Su nombre preferido"
 
 msgid "middleName"
 msgstr "Segundo nombre"
 
 msgid "middleNamePlaceholder"
-msgstr "Su segundo nombre (opcional)"
+msgstr "Su segundo nombre"
 
 msgid "lastName"
 msgstr "Apellido"
@@ -481,3 +481,6 @@ msgstr "Su número de teléfono particular"
 
 msgid "thankYou"
 msgstr "Gracias"
+
+msgid "indicates required field"
+msgstr "indica un campo obligatorio"
