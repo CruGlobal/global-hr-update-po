@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/tr/>\n"
@@ -111,13 +111,13 @@ msgid "preferredName"
 msgstr "Tercih Edilen İsim"
 
 msgid "preferredNamePlaceholder"
-msgstr "Tercih ettiğiniz isim (isteğe bağlı)"
+msgstr "Tercih ettiğiniz isim"
 
 msgid "middleName"
 msgstr "Göbek Adı"
 
 msgid "middleNamePlaceholder"
-msgstr "Göbek adınız (isteğe bağlı)"
+msgstr "Göbek adınız"
 
 msgid "lastName"
 msgstr "Soyadı"
@@ -463,7 +463,7 @@ msgstr "İş Ünvanı"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "İş unvanınız (isteğe bağlı)"
+msgstr "İş unvanınız"
 
 # Not used
 msgid "jobDescription"
@@ -471,7 +471,7 @@ msgstr "İş Tanımı"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "İş tanımınız (isteğe bağlı)"
+msgstr "İş tanımınız"
 
 msgid "Select Entity"
 msgstr "Varlık Seçin"
@@ -480,3 +480,6 @@ msgid "selectEntityInstructions"
 msgstr ""
 "E-posta adresinizle eşleşen birden fazla kayıt var. Lütfen güncellemek "
 "istediğinizi seçin."
+
+msgid "indicates required field"
+msgstr "gerekli alanı gösterir"
