@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Vietnamese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/vi/>\n"
@@ -109,7 +109,7 @@ msgstr "Chức vụ"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Chức danh công việc của bạn (tùy chọn)"
+msgstr "Chức danh của bạn"
 
 # Not used
 msgid "jobDescription"
@@ -117,7 +117,7 @@ msgstr "Mô tả công việc"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Mô tả công việc của bạn (tùy chọn)"
+msgstr "Mô tả công việc của bạn"
 
 # Not used
 msgid "relationshipPlaceholder"
@@ -254,13 +254,13 @@ msgid "preferredName"
 msgstr "Tên ưa thích"
 
 msgid "preferredNamePlaceholder"
-msgstr "Tên ưa thích của bạn (tùy chọn)"
+msgstr "Tên ưa thích của bạn"
 
 msgid "middleName"
 msgstr "Tên đệm"
 
 msgid "middleNamePlaceholder"
-msgstr "Tên đệm của bạn (không bắt buộc)"
+msgstr "Tên đệm của bạn"
 
 msgid "lastName"
 msgstr "Họ"
@@ -476,3 +476,6 @@ msgstr "Tên đầy đủ của người liên hệ"
 # Not used
 msgid "relationship"
 msgstr "Mối quan hệ"
+
+msgid "indicates required field"
+msgstr "chỉ ra trường bắt buộc"
