@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Marathi <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/mr/>\n"
@@ -299,13 +299,13 @@ msgid "preferredName"
 msgstr "पसंतीचे नाव"
 
 msgid "preferredNamePlaceholder"
-msgstr "तुमचे पसंतीचे नाव (पर्यायी)"
+msgstr "तुमचे पसंतीचे नाव"
 
 msgid "middleName"
 msgstr "मधले नाव"
 
 msgid "middleNamePlaceholder"
-msgstr "तुमचे मधले नाव (पर्यायी)"
+msgstr "तुमचे मधले नाव"
 
 msgid "lastName"
 msgstr "आडनाव"
@@ -446,7 +446,7 @@ msgstr "कायमस्वरूपी"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "तुमच्या नोकरीचे शीर्षक (पर्यायी)"
+msgstr "तुमची नोकरी शीर्षक"
 
 # Not used
 msgid "jobDescription"
@@ -454,7 +454,7 @@ msgstr "कामाचे स्वरूप"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "तुमच्या नोकरीचे वर्णन (पर्यायी)"
+msgstr "तुमच्या नोकरीचे वर्णन"
 
 msgid "Select Entity"
 msgstr "घटक निवडा"
@@ -479,3 +479,6 @@ msgid "ageCalculator"
 msgid_plural "ageCalculator"
 msgstr[0] "तुम्ही सध्या <strong>एक</strong> वर्षाचे आहात"
 msgstr[1] "तुम्ही सध्या <strong>%d</strong> वर्षांचे आहात"
+
+msgid "indicates required field"
+msgstr "आवश्यक फील्ड दर्शवते"
