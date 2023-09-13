@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:46+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ko/>\n"
@@ -101,7 +101,7 @@ msgstr "직책"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "직책(선택 사항)"
+msgstr "직책"
 
 # Not used
 msgid "jobDescription"
@@ -109,7 +109,7 @@ msgstr "직무 설명"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "직무 설명(선택 사항)"
+msgstr "직무 설명"
 
 msgid "Select Entity"
 msgstr "엔티티 선택"
@@ -184,13 +184,13 @@ msgid "preferredName"
 msgstr "기본 이름"
 
 msgid "preferredNamePlaceholder"
-msgstr "선호하는 이름(선택 사항)"
+msgstr "선호하는 이름"
 
 msgid "middleName"
 msgstr "중간 이름"
 
 msgid "middleNamePlaceholder"
-msgstr "중간 이름(선택 사항)"
+msgstr "중간 이름"
 
 msgid "lastName"
 msgstr "성"
@@ -472,3 +472,6 @@ msgstr "부여된 날짜"
 # Not used
 msgid "graduatedAgeCalculator"
 msgstr "다음과 같은 나이에 졸업했습니다."
+
+msgid "indicates required field"
+msgstr "필수 필드를 나타냅니다."
