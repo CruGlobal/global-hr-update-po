@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Gujarati <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/gu/>\n"
@@ -22,7 +22,7 @@ msgid "ok"
 msgstr "બરાબર"
 
 msgid "middleNamePlaceholder"
-msgstr "તમારું મધ્યમ નામ (વૈકલ્પિક)"
+msgstr "તમારું મધ્યમ નામ"
 
 msgid "birthDatePlaceholder"
 msgstr "તમારી જન્મ તારીખ"
@@ -101,7 +101,7 @@ msgid "preferredName"
 msgstr "પસંદગીનું નામ"
 
 msgid "preferredNamePlaceholder"
-msgstr "તમારું મનપસંદ નામ (વૈકલ્પિક)"
+msgstr "તમારું મનપસંદ નામ"
 
 msgid "middleName"
 msgstr "પિતાનું નામ"
@@ -441,7 +441,7 @@ msgstr "જોબ શીર્ષક"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "તમારી નોકરીનું શીર્ષક (વૈકલ્પિક)"
+msgstr "તમારી નોકરીનું શીર્ષક"
 
 # Not used
 msgid "jobDescription"
@@ -449,7 +449,7 @@ msgstr "કામનું વર્ણન"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "તમારું જોબ વર્ણન (વૈકલ્પિક)"
+msgstr "તમારી નોકરીનું વર્ણન"
 
 msgid "Select Entity"
 msgstr "એન્ટિટી પસંદ કરો"
@@ -479,3 +479,6 @@ msgid "selectEntityInstructions"
 msgstr ""
 "તમારા ઈમેલ એડ્રેસ સાથે મેળ ખાતા બહુવિધ રેકોર્ડ્સ છે. કૃપા કરીને તમે અપડેટ "
 "કરવા માંગો છો તે પસંદ કરો."
+
+msgid "indicates required field"
+msgstr "જરૂરી વિભાગો બતાવે છે"
