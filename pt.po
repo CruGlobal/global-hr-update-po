@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/pt/>\n"
@@ -87,13 +87,13 @@ msgid "preferredName"
 msgstr "Nome preferido"
 
 msgid "preferredNamePlaceholder"
-msgstr "O seu nome preferido (opcional)"
+msgstr "O seu nome preferido"
 
 msgid "middleName"
 msgstr "Nome do meio"
 
 msgid "middleNamePlaceholder"
-msgstr "O seu nome do meio (opcional)"
+msgstr "O seu nome do meio"
 
 msgid "lastName"
 msgstr "Apelido"
@@ -461,7 +461,7 @@ msgstr "Título do emprego"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "O seu cargo (facultativo)"
+msgstr "O seu cargo"
 
 # Not used
 msgid "jobDescription"
@@ -469,7 +469,7 @@ msgstr "Descrição do trabalho"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "A sua descrição de funções (opcional)"
+msgstr "A sua descrição de funções"
 
 msgid "Select Entity"
 msgstr "Selecionar Entidade"
@@ -478,3 +478,6 @@ msgid "selectEntityInstructions"
 msgstr ""
 "Existem vários registos que correspondem ao seu endereço de e-mail. Escolha "
 "o que pretende atualizar."
+
+msgid "indicates required field"
+msgstr "indica um campo obrigatório"
