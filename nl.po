@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/nl/>\n"
@@ -93,7 +93,7 @@ msgstr "Functie"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Je functietitel (optioneel)"
+msgstr "Je functietitel"
 
 # Not used
 msgid "jobDescription"
@@ -101,7 +101,7 @@ msgstr "Functieomschrijving"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Je functieomschrijving (optioneel)"
+msgstr "Je functieomschrijving"
 
 # Main page title
 msgid "hrUpdate"
@@ -171,13 +171,13 @@ msgid "preferredName"
 msgstr "Voorkeur Naam"
 
 msgid "preferredNamePlaceholder"
-msgstr "Je voorkeursnaam (optioneel)"
+msgstr "Uw voorkeursnaam"
 
 msgid "middleName"
 msgstr "Middelste naam"
 
 msgid "middleNamePlaceholder"
-msgstr "Je middelste naam (optioneel)"
+msgstr "Je middelste naam"
 
 msgid "lastName"
 msgstr "Achternaam"
@@ -479,3 +479,6 @@ msgstr ""
 
 msgid "thankYou"
 msgstr "Hartelijk dank"
+
+msgid "indicates required field"
+msgstr "geeft verplicht veld aan"
