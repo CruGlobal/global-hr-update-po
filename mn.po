@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Mongolian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/mn/>\n"
@@ -22,7 +22,7 @@ msgstr "Устгах"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "Таны ажлын нэр (заавал биш)"
+msgstr "Таны ажлын нэр"
 
 # Not used
 msgid "jobDescription"
@@ -30,7 +30,7 @@ msgstr "Ажлын байрны тодорхойлолт"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "Таны ажлын байрны тодорхойлолт (заавал биш)"
+msgstr "Таны ажлын байрны тодорхойлолт"
 
 msgid "Select Entity"
 msgstr "Аж ахуйн нэгжийг сонгоно уу"
@@ -109,13 +109,13 @@ msgid "preferredName"
 msgstr "Сонгосон нэр"
 
 msgid "preferredNamePlaceholder"
-msgstr "Таны сонгосон нэр (заавал биш)"
+msgstr "Таны сонгосон нэр"
 
 msgid "middleName"
 msgstr "Дунд нэр"
 
 msgid "middleNamePlaceholder"
-msgstr "Таны дунд нэр (заавал биш)"
+msgstr "Таны дунд нэр"
 
 msgid "lastName"
 msgstr "Овог"
@@ -480,3 +480,6 @@ msgstr "байнгын адил"
 # Not used
 msgid "jobTitle"
 msgstr "Албан тушаал"
+
+msgid "indicates required field"
+msgstr "Шаардлагатай талбар харуулж байна"
