@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-09 09:47+0000\n"
+"PO-Revision-Date: 2023-09-14 03:53+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Telugu <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/te/>\n"
@@ -32,14 +32,14 @@ msgstr "ఉద్యోగ వివరణ"
 
 # Not used
 msgid "jobDescriptionPlaceholder"
-msgstr "మీ ఉద్యోగ వివరణ (ఐచ్ఛికం)"
+msgstr "మీ ఉద్యోగ వివరణ"
 
 msgid "Select Entity"
 msgstr "ఎంటిటీని ఎంచుకోండి"
 
 # Not used
 msgid "jobTitlePlaceholder"
-msgstr "మీ ఉద్యోగ శీర్షిక (ఐచ్ఛికం)"
+msgstr "మీ ఉద్యోగ శీర్షిక"
 
 msgid "entityNotice"
 msgstr ""
@@ -191,13 +191,13 @@ msgid "preferredName"
 msgstr "ఇష్టపడే పేరు"
 
 msgid "preferredNamePlaceholder"
-msgstr "మీరు ఇష్టపడే పేరు (ఐచ్ఛికం)"
+msgstr "మీకు ఇష్టమైన పేరు"
 
 msgid "middleName"
 msgstr "మధ్య పేరు"
 
 msgid "middleNamePlaceholder"
-msgstr "మీ మధ్య పేరు (ఐచ్ఛికం)"
+msgstr "మీ మధ్య పేరు"
 
 msgid "lastName"
 msgstr "చివరి పేరు"
@@ -479,3 +479,6 @@ msgstr ""
 
 msgid "maritalStatusPlaceholder"
 msgstr "మీ వైవాహిక స్థితిని ఎంచుకోండి"
+
+msgid "indicates required field"
+msgstr "ఖచ్చితంగా పూరించవలసిన వివరాలను సూచిస్తుంది"
