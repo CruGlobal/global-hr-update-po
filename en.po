@@ -40,8 +40,8 @@ msgstr "Sorry"
 msgid "error"
 msgstr "Error"
 
-msgid "Optional"
-msgstr "Optional"
+msgid "indicates required field"
+msgstr "indicates required field"
 
 msgid "verify"
 msgstr "I verify that all above fields are accurate."
