@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Hindi <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/hi/>\n"
@@ -430,15 +430,15 @@ msgstr "राज्य/प्रांत"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "आपका राज्य/प्रांत"
+msgstr "आपका राज्य या प्रांत"
 
 # Not used
 msgid "zip"
-msgstr "ज़िप"
+msgstr "ज़िप कोड"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "आपका ज़िप कोड"
+msgstr "आपका ज़िप या डाक कोड"
 
 # Not used
 msgid "country"
@@ -482,3 +482,36 @@ msgstr ""
 
 msgid "indicates required field"
 msgstr "आवश्यक फ़ील्ड दर्शाता है"
+
+msgid "address line 1"
+msgstr "पता पंक्ति 1"
+
+msgid "address line 1 placeholder"
+msgstr "तुम्हारा पता"
+
+msgid "address line 2"
+msgstr "पता पंक्ति नं। 2"
+
+msgid "address line 2 placeholder"
+msgstr "यदि आवश्यक हो तो अतिरिक्त लाइन"
+
+msgid "address line 3"
+msgstr "पता पंक्ति 3"
+
+msgid "province"
+msgstr "प्रांत"
+
+msgid "state"
+msgstr "राज्य"
+
+msgid "postal code"
+msgstr "डाक कोड"
+
+msgid "addressBook"
+msgstr "पता पुस्तिका"
+
+msgid "Address nickname"
+msgstr "पता उपनाम"
+
+msgid "Delete this address?"
+msgstr "यह पता हटाएं?"
