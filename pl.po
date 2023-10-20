@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Polish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/pl/>\n"
@@ -418,15 +418,15 @@ msgstr "Państwo/Prowincja"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "Twój stan/prowincja"
+msgstr "Twój stan lub prowincja"
 
 # Not used
 msgid "zip"
-msgstr "Zamek błyskawiczny"
+msgstr "Kod pocztowy"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "Kod pocztowy"
+msgstr "Kod pocztowy lub kod pocztowy"
 
 # Not used
 msgid "country"
@@ -485,3 +485,36 @@ msgstr "Dziękuję"
 
 msgid "indicates required field"
 msgstr "wskazuje wymagane pole"
+
+msgid "address line 1"
+msgstr "Linia adresowa 1"
+
+msgid "address line 1 placeholder"
+msgstr "Twój adres"
+
+msgid "address line 2"
+msgstr "Linia adresowa 2"
+
+msgid "address line 2 placeholder"
+msgstr "Dodatkowa linia w razie potrzeby"
+
+msgid "address line 3"
+msgstr "Linia adresowa 3"
+
+msgid "province"
+msgstr "Prowincja"
+
+msgid "state"
+msgstr "Stan"
+
+msgid "postal code"
+msgstr "Kod pocztowy"
+
+msgid "addressBook"
+msgstr "Książka adresowa"
+
+msgid "Address nickname"
+msgstr "Pseudonim adresu"
+
+msgid "Delete this address?"
+msgstr "Usunąć ten adres?"
