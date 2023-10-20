@@ -458,6 +458,8 @@ msgstr "Address nickname"
 msgid "Delete this address?"
 msgstr "Delete this address?"
 
+msgid "for shipping"
+msgstr "for shipping"
 
 
 # Not used
