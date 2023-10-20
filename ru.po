@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ru/>\n"
@@ -263,11 +263,11 @@ msgstr "Штат/провинция"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "Ваш штат/провинция"
+msgstr "Ваш штат или провинция"
 
 # Not used
 msgid "zip"
-msgstr "Zip"
+msgstr "Почтовый индекс"
 
 # Not used
 msgid "zipPlaceholder"
@@ -484,3 +484,36 @@ msgstr "Домашний телефон"
 
 msgid "indicates required field"
 msgstr "указывает на обязательное поле"
+
+msgid "address line 1"
+msgstr "Адрес"
+
+msgid "address line 1 placeholder"
+msgstr "Ваш адрес"
+
+msgid "address line 2"
+msgstr "Адрес (дополнительно)"
+
+msgid "address line 2 placeholder"
+msgstr "Дополнительная линия при необходимости"
+
+msgid "address line 3"
+msgstr "Адрес"
+
+msgid "province"
+msgstr "Провинция"
+
+msgid "state"
+msgstr "Область"
+
+msgid "postal code"
+msgstr "Почтовый индекс"
+
+msgid "addressBook"
+msgstr "Адресная книга"
+
+msgid "Address nickname"
+msgstr "Адресный псевдоним"
+
+msgid "Delete this address?"
+msgstr "Удалить этот адрес?"
