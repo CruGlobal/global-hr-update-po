@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/tr/>\n"
@@ -25,15 +25,15 @@ msgstr "Eyalet/İl"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "Eyaletiniz/iliniz"
+msgstr "Eyaletiniz veya iliniz"
 
 # Not used
 msgid "zip"
-msgstr "Zip"
+msgstr "Posta kodu"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "Posta kodunuz"
+msgstr "Posta kodunuz veya posta kodunuz"
 
 # Not used
 msgid "country"
@@ -483,3 +483,36 @@ msgstr ""
 
 msgid "indicates required field"
 msgstr "gerekli alanı gösterir"
+
+msgid "address line 1"
+msgstr "Adres satırı 1"
+
+msgid "address line 1 placeholder"
+msgstr "Adresiniz"
+
+msgid "address line 2"
+msgstr "Adres satırı 2"
+
+msgid "address line 2 placeholder"
+msgstr "Gerekirse ek hat"
+
+msgid "address line 3"
+msgstr "Adres satırı 3"
+
+msgid "province"
+msgstr "İl"
+
+msgid "state"
+msgstr "Eyalet"
+
+msgid "postal code"
+msgstr "Posta kodu"
+
+msgid "addressBook"
+msgstr "Adres Defteri"
+
+msgid "Address nickname"
+msgstr "Adres takma adı"
+
+msgid "Delete this address?"
+msgstr "Bu adresi silelim mi?"
