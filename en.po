@@ -97,11 +97,9 @@ msgstr "Last Name"
 msgid "lastNamePlaceholder"
 msgstr "Your last name"
 
-# Not used
 msgid "secondLastName"
 msgstr "Second Last Name"
 
-# Not used
 msgid "secondLastNamePlaceholder"
 msgstr "Your second last name"
 
@@ -396,53 +394,71 @@ msgstr "Label"
 msgid "labelPlaceholder"
 msgstr "ex: Home Address"
 
-# Not used
 msgid "attention"
 msgstr "Attention"
 
-# Not used
 msgid "attentionPlaceholder"
 msgstr "ex: Attn John Doe"
 
-# Not used
-msgid "address"
-msgstr "Address"
+msgid "address line 1"
+msgstr "Address line 1"
 
-# Not used
-msgid "addressPlaceholder"
-msgstr "Your address (can be multiple lines)"
+msgid "address line 1 placeholder"
+msgstr "Your address"
 
-# Not used
+msgid "address line 2"
+msgstr "Address line 2"
+
+msgid "address line 2 placeholder"
+msgstr "Additional line if needed"
+
+msgid "address line 3"
+msgstr "Address line 3"
+
 msgid "city"
 msgstr "City"
 
-# Not used
 msgid "cityPlaceholder"
 msgstr "Your city"
 
-# Not used
 msgid "stateProvince"
 msgstr "State/Province"
 
-# Not used
 msgid "stateProvincePlaceholder"
-msgstr "Your state/province"
+msgstr "Your state or province"
 
-# Not used
+msgid "province"
+msgstr "Province"
+
+msgid "state"
+msgstr "State"
+
+# Used by United States and Philippines
 msgid "zip"
-msgstr "Zip"
+msgstr "ZIP code"
 
-# Not used
+msgid "postal code"
+msgstr "Postal code"
+
 msgid "zipPlaceholder"
-msgstr "Your zip code"
+msgstr "Your zip or postal code"
 
-# Not used
 msgid "country"
 msgstr "Country"
 
-# Not used
 msgid "countryPlaceholder"
 msgstr "Your country"
+
+msgid "addressBook"
+msgstr "Address Book"
+
+msgid "Address nickname"
+msgstr "Address nickname"
+
+msgid "Delete this address?"
+msgstr "Delete this address?"
+
+
 
 # Not used
 msgid "shippingAddress"
