@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-20 09:52+0000\n"
+"PO-Revision-Date: 2023-10-20 10:06+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/nl/>\n"
@@ -515,3 +515,6 @@ msgstr "Bijnaam adres"
 
 msgid "Delete this address?"
 msgstr "Dit adres verwijderen?"
+
+msgid "for shipping"
+msgstr "voor verzending"
