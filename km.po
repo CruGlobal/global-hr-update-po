@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Khmer (Central) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/km/>\n"
@@ -439,15 +439,15 @@ msgstr "រដ្ឋ/ខេត្ត"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "រដ្ឋ/ខេត្តរបស់អ្នក។"
+msgstr "រដ្ឋ ឬខេត្តរបស់អ្នក។"
 
 # Not used
 msgid "zip"
-msgstr "ហ្ស៊ីប"
+msgstr "លេខ​កូដ​តំបន់"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "លេខកូដតំបន់របស់អ្នក។"
+msgstr "លេខកូដប្រៃសណីយ៍ ឬប្រៃសណីយ៍របស់អ្នក។"
 
 # Not used
 msgid "country"
@@ -479,3 +479,36 @@ msgstr "ការពិពណ៌នាការងារ"
 
 msgid "indicates required field"
 msgstr "ចង្អុលបង្ហាញវាលដែលត្រូវការ"
+
+msgid "address line 1"
+msgstr "អាសយដ្ឋាន​បន្ទាត់​ទី 1"
+
+msgid "address line 1 placeholder"
+msgstr "អាសយដ្ឋានរបស់អ្នក។"
+
+msgid "address line 2"
+msgstr "អ​ស​យ​ដ្ឋាន​ខ្សែ​រ​ទី 2"
+
+msgid "address line 2 placeholder"
+msgstr "បន្ទាត់បន្ថែមប្រសិនបើចាំបាច់"
+
+msgid "address line 3"
+msgstr "ខ្សែអាស័យដ្ឋាន 3"
+
+msgid "province"
+msgstr "ខេត្ត"
+
+msgid "state"
+msgstr "រដ្ឋ"
+
+msgid "postal code"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
+
+msgid "addressBook"
+msgstr "សៀវភៅ​អាស័យ​ដ្ឋាន"
+
+msgid "Address nickname"
+msgstr "ឈ្មោះហៅក្រៅអាសយដ្ឋាន"
+
+msgid "Delete this address?"
+msgstr "លុបអាសយដ្ឋាននេះ?"
