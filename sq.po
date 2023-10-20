@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Albanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/sq/>\n"
@@ -456,15 +456,15 @@ msgstr "Data e dhënë"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "Shteti/provinca juaj"
+msgstr "Shteti ose krahina juaj"
 
 # Not used
 msgid "zip"
-msgstr "Zip"
+msgstr "Kodi Postal"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "Kodi juaj postar"
+msgstr "Kodi juaj postar ose postar"
 
 # Not used
 msgid "country"
@@ -483,3 +483,36 @@ msgstr "Zgjidhni Entitet"
 
 msgid "indicates required field"
 msgstr "tregon fushat e kërkuara"
+
+msgid "address line 1"
+msgstr "Rreshti i adresës 1"
+
+msgid "address line 1 placeholder"
+msgstr "Adresa juaj"
+
+msgid "address line 2"
+msgstr "Rreshti 2 i adresës"
+
+msgid "address line 2 placeholder"
+msgstr "Linjë shtesë nëse është e nevojshme"
+
+msgid "address line 3"
+msgstr "Rreshti 3 i adresës"
+
+msgid "province"
+msgstr "Provinca"
+
+msgid "state"
+msgstr "Shteti"
+
+msgid "postal code"
+msgstr "Kodi Postar"
+
+msgid "addressBook"
+msgstr "Libri i adresave"
+
+msgid "Address nickname"
+msgstr "Pseudonimi i adresës"
+
+msgid "Delete this address?"
+msgstr "Të fshihet kjo adresë?"
