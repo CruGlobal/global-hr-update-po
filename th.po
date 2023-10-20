@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
@@ -375,7 +375,7 @@ msgstr "รัฐ / จังหวัด"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "รัฐ/จังหวัดของคุณ"
+msgstr "รัฐหรือจังหวัดของคุณ"
 
 # Not used
 msgid "zip"
@@ -476,3 +476,36 @@ msgstr "มีหลายระเบียนที่ตรงกับที
 
 msgid "indicates required field"
 msgstr "ระบุช่องที่ต้องกรอก"
+
+msgid "Delete this address?"
+msgstr "ลบที่อยู่นี้ใช่ไหม"
+
+msgid "address line 1"
+msgstr "ที่อยู่บรรทัดที่ 1"
+
+msgid "address line 1 placeholder"
+msgstr "ที่อยู่ของคุณ"
+
+msgid "address line 2"
+msgstr "ที่อยู่บรรทัดที่ 2"
+
+msgid "address line 2 placeholder"
+msgstr "สายเพิ่มเติมหากจำเป็น"
+
+msgid "address line 3"
+msgstr "ที่อยู่บรรทัดที่ 3"
+
+msgid "province"
+msgstr "จังหวัด"
+
+msgid "state"
+msgstr "สถานะ"
+
+msgid "postal code"
+msgstr "รหัสไปรษณีย์"
+
+msgid "addressBook"
+msgstr "สมุดที่อยู่"
+
+msgid "Address nickname"
+msgstr "ระบุชื่อเล่น"
