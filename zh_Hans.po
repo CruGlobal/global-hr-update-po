@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-20 09:52+0000\n"
+"PO-Revision-Date: 2023-10-20 10:06+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/zh_Hans/>\n"
@@ -506,3 +506,6 @@ msgstr "如有需要，可增加一行"
 
 msgid "address line 3"
 msgstr "第 3 行地址"
+
+msgid "for shipping"
+msgstr "用于装运"
