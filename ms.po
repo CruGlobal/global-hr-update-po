@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Malay <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ms/>\n"
@@ -450,15 +450,15 @@ msgstr "Negeri/Wilayah"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "negeri/wilayah anda"
+msgstr "Negeri atau wilayah anda"
 
 # Not used
 msgid "zip"
-msgstr "Zip"
+msgstr "Poskod"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "Poskod anda"
+msgstr "zip atau poskod anda"
 
 # Not used
 msgid "country"
@@ -482,3 +482,36 @@ msgstr "Jawatan Kosong"
 
 msgid "indicates required field"
 msgstr "menunjukkan medan yang diperlukan"
+
+msgid "address line 1"
+msgstr "Alamat Baris 1"
+
+msgid "address line 1 placeholder"
+msgstr "Alamat anda"
+
+msgid "province"
+msgstr "Wilayah"
+
+msgid "address line 2"
+msgstr "Alamat 2"
+
+msgid "address line 2 placeholder"
+msgstr "Talian tambahan jika perlu"
+
+msgid "address line 3"
+msgstr "Baris alamat 3"
+
+msgid "state"
+msgstr "negeri"
+
+msgid "postal code"
+msgstr "Poskod"
+
+msgid "addressBook"
+msgstr "Buku alamat"
+
+msgid "Address nickname"
+msgstr "Alamat nama samaran"
+
+msgid "Delete this address?"
+msgstr "Padamkan alamat ini?"
