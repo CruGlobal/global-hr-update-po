@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Lao <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/lo/>\n"
@@ -426,15 +426,15 @@ msgstr "ລັດ/ແຂວງ"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "ລັດ/ແຂວງຂອງເຈົ້າ"
+msgstr "ລັດ ຫຼື ແຂວງຂອງເຈົ້າ"
 
 # Not used
 msgid "zip"
-msgstr "Zip"
+msgstr "ລະຫັດໄປສະນີ"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "ລະຫັດໄປສະນີຂອງທ່ານ"
+msgstr "ລະຫັດໄປສະນີ ຫຼືລະຫັດໄປສະນີຂອງທ່ານ"
 
 # Not used
 msgid "country"
@@ -477,3 +477,36 @@ msgstr ""
 
 msgid "indicates required field"
 msgstr "ຊີ້ບອກພາກສະຫນາມທີ່ຕ້ອງການ"
+
+msgid "address line 1"
+msgstr "ແຖວທີ່ຢູ່ 1"
+
+msgid "address line 1 placeholder"
+msgstr "ທີ່ຢູ່ຂອງເຈົ້າ"
+
+msgid "address line 2"
+msgstr "ແຖວທີ່ຢູ່ 2"
+
+msgid "address line 2 placeholder"
+msgstr "ສາຍເພີ່ມເຕີມຖ້າຕ້ອງການ"
+
+msgid "address line 3"
+msgstr "ແຖວທີ່ຢູ່ 3"
+
+msgid "province"
+msgstr "ແຂວງ"
+
+msgid "state"
+msgstr "ລັດ"
+
+msgid "postal code"
+msgstr "ລະຫັດໄປສະນີ"
+
+msgid "addressBook"
+msgstr "ປື້ມທີ່ຢູ່"
+
+msgid "Address nickname"
+msgstr "ທີ່ຢູ່ ຊື່ຫຼິ້ນ"
+
+msgid "Delete this address?"
+msgstr "ລຶບທີ່ຢູ່ນີ້ບໍ?"
