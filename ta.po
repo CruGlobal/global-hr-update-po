@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Tamil <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ta/>\n"
@@ -106,15 +106,15 @@ msgstr "மாநிலம்/மாகாணம்"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "உங்கள் மாநிலம்/ மாகாணம்"
+msgstr "உங்கள் மாநிலம் அல்லது மாகாணம்"
 
 # Not used
 msgid "zip"
-msgstr "ஜிப்"
+msgstr "அஞ்சல் குறியீடு"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "உங்கள் அஞ்சல் குறியீடு"
+msgstr "உங்கள் அஞ்சல் குறியீடு அல்லது அஞ்சல் குறியீடு"
 
 # Not used
 msgid "country"
@@ -483,3 +483,36 @@ msgstr ""
 
 msgid "indicates required field"
 msgstr "தேவையான புலத்தை குறிக்கிறது"
+
+msgid "Address nickname"
+msgstr "முகவரி புனைப்பெயர்"
+
+msgid "Delete this address?"
+msgstr "இந்த முகவரியை நீக்கவா?"
+
+msgid "address line 1"
+msgstr "முகவரி வரி 1"
+
+msgid "address line 1 placeholder"
+msgstr "உங்கள் முகவரி"
+
+msgid "address line 2"
+msgstr "முகவரி வரி 2"
+
+msgid "address line 2 placeholder"
+msgstr "தேவைப்பட்டால் கூடுதல் வரி"
+
+msgid "address line 3"
+msgstr "முகவரி வரி 3"
+
+msgid "province"
+msgstr "மாகாணம்"
+
+msgid "state"
+msgstr "நிலை"
+
+msgid "postal code"
+msgstr "அஞ்சல் குறியீடு"
+
+msgid "addressBook"
+msgstr "முகவரி புத்தகம்"
