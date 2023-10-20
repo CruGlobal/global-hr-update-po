@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Telugu <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/te/>\n"
@@ -446,15 +446,15 @@ msgstr "రాష్ట్రం/ప్రావిన్స్"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "మీ రాష్ట్రం/ప్రావిన్స్"
+msgstr "మీ రాష్ట్రం లేదా ప్రావిన్స్"
 
 # Not used
 msgid "zip"
-msgstr "జిప్"
+msgstr "జిప్ కోడ్"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "మీ జిప్ కోడ్"
+msgstr "మీ జిప్ లేదా పోస్టల్ కోడ్"
 
 # Not used
 msgid "countryPlaceholder"
@@ -482,3 +482,36 @@ msgstr "మీ వైవాహిక స్థితిని ఎంచుకో
 
 msgid "indicates required field"
 msgstr "ఖచ్చితంగా పూరించవలసిన వివరాలను సూచిస్తుంది"
+
+msgid "postal code"
+msgstr "పోస్టల్ కోడ్"
+
+msgid "addressBook"
+msgstr "చిరునామా పుస్తకం"
+
+msgid "Address nickname"
+msgstr "చిరునామా మారుపేరు"
+
+msgid "Delete this address?"
+msgstr "ఈ చిరునామాను తొలగించాలా?"
+
+msgid "address line 1"
+msgstr "చిరునామా లైన్ 1"
+
+msgid "address line 1 placeholder"
+msgstr "మీ చిరునామా"
+
+msgid "address line 2"
+msgstr "చిరునామా లైన్ 2"
+
+msgid "address line 2 placeholder"
+msgstr "అవసరమైతే అదనపు లైన్"
+
+msgid "address line 3"
+msgstr "చిరునామా లైన్ 3"
+
+msgid "province"
+msgstr "ప్రావిన్స్"
+
+msgid "state"
+msgstr "రాష్ట్రం"
