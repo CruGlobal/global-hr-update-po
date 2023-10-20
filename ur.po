@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-20 09:52+0000\n"
+"PO-Revision-Date: 2023-10-20 10:06+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Urdu <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ur/>\n"
@@ -515,3 +515,6 @@ msgstr "پتہ عرفیت"
 
 msgid "Delete this address?"
 msgstr "یہ پتہ حذف کریں؟"
+
+msgid "for shipping"
+msgstr "شپنگ کے لئے"
