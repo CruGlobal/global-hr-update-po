@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Vietnamese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/vi/>\n"
@@ -77,15 +77,15 @@ msgstr "Bang/Tỉnh"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "Tiểu bang/tỉnh của bạn"
+msgstr "Tiểu bang hoặc tỉnh của bạn"
 
 # Not used
 msgid "zip"
-msgstr "khóa kéo"
+msgstr "Mã Bưu Chính"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "Mã bưu điện của bạn"
+msgstr "Mã zip hoặc mã bưu điện của bạn"
 
 # Not used
 msgid "country"
@@ -479,3 +479,36 @@ msgstr "Mối quan hệ"
 
 msgid "indicates required field"
 msgstr "chỉ ra trường bắt buộc"
+
+msgid "address line 3"
+msgstr "Dòng địa chỉ 3"
+
+msgid "province"
+msgstr "Tỉnh"
+
+msgid "state"
+msgstr "Tình trạng"
+
+msgid "postal code"
+msgstr "mã bưu điện"
+
+msgid "addressBook"
+msgstr "Sổ địa chỉ"
+
+msgid "Address nickname"
+msgstr "Biệt hiệu địa chỉ"
+
+msgid "Delete this address?"
+msgstr "Xóa địa chỉ này?"
+
+msgid "address line 1"
+msgstr "Dòng địa chỉ 1"
+
+msgid "address line 1 placeholder"
+msgstr "Địa chỉ của bạn"
+
+msgid "address line 2"
+msgstr "Địa chỉ 2"
+
+msgid "address line 2 placeholder"
+msgstr "Dòng bổ sung nếu cần thiết"
