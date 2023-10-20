@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Urdu <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ur/>\n"
@@ -98,7 +98,7 @@ msgstr "آپ کے گھر کا فون نمبر"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "آپ کی ریاست/صوبہ"
+msgstr "آپ کی ریاست یا صوبہ"
 
 # Not used
 msgid "sameAsPermanent"
@@ -163,11 +163,11 @@ msgstr "ریاست/صوبہ"
 
 # Not used
 msgid "zip"
-msgstr "زپ"
+msgstr "زپ کوڈ"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "آپ کا زپ کوڈ"
+msgstr "آپ کا زپ یا پوسٹل کوڈ"
 
 # Not used
 msgid "country"
@@ -482,3 +482,36 @@ msgstr[1] "آپ اس وقت <strong>%d</strong> سال کے ہیں۔"
 
 msgid "indicates required field"
 msgstr "مطلوبہ فیلڈ کی طرف اشارہ کرتا"
+
+msgid "address line 1"
+msgstr "پتہ لائن 1"
+
+msgid "address line 1 placeholder"
+msgstr "آپ کا پتہ"
+
+msgid "address line 2"
+msgstr "پتہ لائن 2"
+
+msgid "address line 2 placeholder"
+msgstr "اگر ضرورت ہو تو اضافی لائن"
+
+msgid "address line 3"
+msgstr "ایڈریس لائن 3"
+
+msgid "province"
+msgstr "صوبہ"
+
+msgid "state"
+msgstr "حالت"
+
+msgid "postal code"
+msgstr "ڈاک کامخصوص نمبر"
+
+msgid "addressBook"
+msgstr "ایڈریس بک"
+
+msgid "Address nickname"
+msgstr "پتہ عرفیت"
+
+msgid "Delete this address?"
+msgstr "یہ پتہ حذف کریں؟"
