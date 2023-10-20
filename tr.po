@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-20 09:52+0000\n"
+"PO-Revision-Date: 2023-10-20 10:06+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/tr/>\n"
@@ -516,3 +516,6 @@ msgstr "Adres takma adı"
 
 msgid "Delete this address?"
 msgstr "Bu adresi silelim mi?"
+
+msgid "for shipping"
+msgstr "nakliye için"
