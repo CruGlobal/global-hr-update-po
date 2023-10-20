@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Indonesian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/id/>\n"
@@ -439,15 +439,15 @@ msgstr "Negara Bagian/Provinsi"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "Negara bagian/provinsi Anda"
+msgstr "Negara bagian atau provinsi Anda"
 
 # Not used
 msgid "zip"
-msgstr "Zip"
+msgstr "Kode pos"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "Kode pos Anda"
+msgstr "Kode pos atau kode pos Anda"
 
 # Not used
 msgid "country"
@@ -483,3 +483,36 @@ msgstr "Deskripsi pekerjaan Anda"
 
 msgid "indicates required field"
 msgstr "menunjukkan bidang yang diperlukan"
+
+msgid "address line 1"
+msgstr "Baris alamat 1"
+
+msgid "address line 1 placeholder"
+msgstr "Alamat Anda"
+
+msgid "address line 2"
+msgstr "Baris alamat 2"
+
+msgid "address line 2 placeholder"
+msgstr "Baris tambahan jika diperlukan"
+
+msgid "address line 3"
+msgstr "Baris alamat 3"
+
+msgid "province"
+msgstr "Provinsi"
+
+msgid "state"
+msgstr "Negara"
+
+msgid "postal code"
+msgstr "Kode pos"
+
+msgid "addressBook"
+msgstr "Buku Alamat"
+
+msgid "Address nickname"
+msgstr "Alamat nama panggilan"
+
+msgid "Delete this address?"
+msgstr "Menghapus alamat ini?"
