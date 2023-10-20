@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/uk/>\n"
@@ -462,15 +462,15 @@ msgstr "Штат/провінція"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "Ваш штат/провінція"
+msgstr "Ваш штат або провінція"
 
 # Not used
 msgid "zip"
-msgstr "Блискавка."
+msgstr "Поштовий індекс"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "Ваш поштовий індекс"
+msgstr "Ваш індекс або поштовий індекс"
 
 # Not used
 msgid "country"
@@ -486,3 +486,36 @@ msgstr "Адреса доставки"
 
 msgid "indicates required field"
 msgstr "вказує на обов'язкове поле"
+
+msgid "address line 1"
+msgstr "Адресний рядок 1"
+
+msgid "address line 1 placeholder"
+msgstr "Ваша адреса"
+
+msgid "address line 2"
+msgstr "Адресний рядок 2"
+
+msgid "address line 2 placeholder"
+msgstr "Додатковий рядок, якщо потрібно"
+
+msgid "address line 3"
+msgstr "Адресний рядок 3"
+
+msgid "province"
+msgstr "Провінція"
+
+msgid "state"
+msgstr "Держава"
+
+msgid "postal code"
+msgstr "Поштовий індекс"
+
+msgid "addressBook"
+msgstr "Адресна книга"
+
+msgid "Address nickname"
+msgstr "Адресний нікнейм"
+
+msgid "Delete this address?"
+msgstr "Видалити цю адресу?"
