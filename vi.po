@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-20 09:52+0000\n"
+"PO-Revision-Date: 2023-10-20 10:05+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Vietnamese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/vi/>\n"
@@ -512,3 +512,6 @@ msgstr "Địa chỉ 2"
 
 msgid "address line 2 placeholder"
 msgstr "Dòng bổ sung nếu cần thiết"
+
+msgid "for shipping"
+msgstr "để vận chuyển"
