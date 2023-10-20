@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/nl/>\n"
@@ -61,15 +61,15 @@ msgstr "Staat/provincie"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "Uw staat/provincie"
+msgstr "Je staat of provincie"
 
 # Not used
 msgid "zip"
-msgstr "Zip"
+msgstr "postcode"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "Uw postcode"
+msgstr "Je postcode"
 
 # Not used
 msgid "country"
@@ -482,3 +482,36 @@ msgstr "Hartelijk dank"
 
 msgid "indicates required field"
 msgstr "geeft verplicht veld aan"
+
+msgid "address line 1"
+msgstr "Adresregel 1"
+
+msgid "address line 1 placeholder"
+msgstr "Uw adres"
+
+msgid "address line 2"
+msgstr "Adresregel 2"
+
+msgid "address line 2 placeholder"
+msgstr "Extra regel indien nodig"
+
+msgid "address line 3"
+msgstr "Adresregel 3"
+
+msgid "province"
+msgstr "Provincie"
+
+msgid "state"
+msgstr "Staat"
+
+msgid "postal code"
+msgstr "Postcode"
+
+msgid "addressBook"
+msgstr "Adresboek"
+
+msgid "Address nickname"
+msgstr "Bijnaam adres"
+
+msgid "Delete this address?"
+msgstr "Dit adres verwijderen?"
