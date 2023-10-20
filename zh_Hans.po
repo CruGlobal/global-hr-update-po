@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/zh_Hans/>\n"
@@ -429,11 +429,11 @@ msgstr "州/省"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "您所在的州/省"
+msgstr "您所在的州或省"
 
 # Not used
 msgid "zip"
-msgstr "压缩"
+msgstr "邮政编码"
 
 # Not used
 msgid "zipPlaceholder"
@@ -473,3 +473,36 @@ msgstr "您的工作描述"
 
 msgid "indicates required field"
 msgstr "表示必填项"
+
+msgid "Address nickname"
+msgstr "地址昵称"
+
+msgid "Delete this address?"
+msgstr "删除此地址？"
+
+msgid "province"
+msgstr "省"
+
+msgid "state"
+msgstr "国家"
+
+msgid "postal code"
+msgstr "邮政编码"
+
+msgid "addressBook"
+msgstr "地址簿"
+
+msgid "address line 1"
+msgstr "地址第 1 行"
+
+msgid "address line 1 placeholder"
+msgstr "您的地址"
+
+msgid "address line 2"
+msgstr "地址第 2 行"
+
+msgid "address line 2 placeholder"
+msgstr "如有需要，可增加一行"
+
+msgid "address line 3"
+msgstr "第 3 行地址"
