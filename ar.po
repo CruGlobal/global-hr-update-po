@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Arabic <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ar/>\n"
@@ -430,15 +430,15 @@ msgstr "الولاية / المقاطعة"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "ولايتك / مقاطعتك"
+msgstr "ولايتك أو مقاطعتك"
 
 # Not used
 msgid "zip"
-msgstr "أَزِيز"
+msgstr "الرمز البريدي"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "رمزك البريدي"
+msgstr "الرمز البريدي أو الرمز البريدي الخاص بك"
 
 # Not used
 msgid "country"
@@ -488,3 +488,36 @@ msgstr ""
 
 msgid "indicates required field"
 msgstr "يشير إلى الحقل المطلوب"
+
+msgid "address line 1"
+msgstr "العنوان سطر 1"
+
+msgid "address line 1 placeholder"
+msgstr "عنوانك"
+
+msgid "address line 2"
+msgstr "سطر العنوان 2"
+
+msgid "address line 2 placeholder"
+msgstr "خط إضافي إذا لزم الأمر"
+
+msgid "address line 3"
+msgstr "سطر العنوان 3"
+
+msgid "province"
+msgstr "مقاطعة"
+
+msgid "state"
+msgstr "ولاية"
+
+msgid "postal code"
+msgstr "رمز بريدي"
+
+msgid "addressBook"
+msgstr "دليل العناوين"
+
+msgid "Address nickname"
+msgstr "عنوان الإسم المستعار"
+
+msgid "Delete this address?"
+msgstr "هل تريد حذف هذا العنوان؟"
