@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Romanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ro/>\n"
@@ -36,7 +36,7 @@ msgstr ""
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "Codul dumneavoastră poștal"
+msgstr "Codul dumneavoastră poștal sau codul poștal"
 
 # Main page title
 msgid "hrUpdate"
@@ -439,11 +439,11 @@ msgstr "Stat/Provincie"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "Statul/provincia dumneavoastră"
+msgstr "Statul sau provincia dumneavoastră"
 
 # Not used
 msgid "zip"
-msgstr "Zip"
+msgstr "Cod poștal"
 
 # Not used
 msgid "country"
@@ -487,3 +487,36 @@ msgstr ""
 
 msgid "indicates required field"
 msgstr "indică un câmp obligatoriu"
+
+msgid "address line 1"
+msgstr "Linia de adresă 1"
+
+msgid "address line 1 placeholder"
+msgstr "Adresa dvs."
+
+msgid "address line 2"
+msgstr "Linia de adresă 2"
+
+msgid "address line 2 placeholder"
+msgstr "Linie suplimentară, dacă este necesar"
+
+msgid "address line 3"
+msgstr "Linia de adresă 3"
+
+msgid "province"
+msgstr "Provincie"
+
+msgid "state"
+msgstr "Stat"
+
+msgid "postal code"
+msgstr "Cod poștal"
+
+msgid "addressBook"
+msgstr "Agendă de adrese"
+
+msgid "Address nickname"
+msgstr "Adresa porecla"
+
+msgid "Delete this address?"
+msgstr "Ștergeți această adresă?"
