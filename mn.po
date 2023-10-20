@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Mongolian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/mn/>\n"
@@ -451,15 +451,15 @@ msgstr "Муж/Аймаг"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "Танай муж/аймаг"
+msgstr "Танай муж эсвэл муж"
 
 # Not used
 msgid "zip"
-msgstr "Зип"
+msgstr "бүсийн код"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "Таны зип код"
+msgstr "Таны зип эсвэл шуудангийн код"
 
 # Not used
 msgid "country"
@@ -483,3 +483,36 @@ msgstr "Албан тушаал"
 
 msgid "indicates required field"
 msgstr "Шаардлагатай талбар харуулж байна"
+
+msgid "address line 1"
+msgstr "Хаягийн мөр 1"
+
+msgid "address line 1 placeholder"
+msgstr "Таны хаяг"
+
+msgid "address line 2"
+msgstr "Хаягийн мөр 2"
+
+msgid "address line 2 placeholder"
+msgstr "Шаардлагатай бол нэмэлт шугам"
+
+msgid "address line 3"
+msgstr "Хаягийн мөр 3"
+
+msgid "province"
+msgstr "муж"
+
+msgid "state"
+msgstr "муж"
+
+msgid "postal code"
+msgstr "Шуудангийн код"
+
+msgid "addressBook"
+msgstr "Хаяг хадгалах ном"
+
+msgid "Address nickname"
+msgstr "Хаягийн хоч"
+
+msgid "Delete this address?"
+msgstr "Энэ хаягийг устгах уу?"
