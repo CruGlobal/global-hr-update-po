@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-14 03:53+0000\n"
+"PO-Revision-Date: 2023-10-20 09:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ko/>\n"
@@ -69,15 +69,15 @@ msgstr "주/시/도"
 
 # Not used
 msgid "stateProvincePlaceholder"
-msgstr "해당 주/도"
+msgstr "해당 주 또는 도"
 
 # Not used
 msgid "zip"
-msgstr "Zip"
+msgstr "우편 번호"
 
 # Not used
 msgid "zipPlaceholder"
-msgstr "우편 번호"
+msgstr "우편 번호 또는 우편 번호"
 
 # Not used
 msgid "country"
@@ -475,3 +475,36 @@ msgstr "다음과 같은 나이에 졸업했습니다."
 
 msgid "indicates required field"
 msgstr "필수 필드를 나타냅니다."
+
+msgid "address line 1"
+msgstr "주소 1줄"
+
+msgid "address line 1 placeholder"
+msgstr "주소"
+
+msgid "address line 2"
+msgstr "주소 라인 2"
+
+msgid "address line 2 placeholder"
+msgstr "필요한 경우 추가 줄"
+
+msgid "address line 3"
+msgstr "주소 라인 3"
+
+msgid "province"
+msgstr "주"
+
+msgid "state"
+msgstr "상태"
+
+msgid "postal code"
+msgstr "우편 번호"
+
+msgid "addressBook"
+msgstr "주소록"
+
+msgid "Address nickname"
+msgstr "주소 닉네임"
+
+msgid "Delete this address?"
+msgstr "이 주소를 삭제하시겠습니까?"
