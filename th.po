@@ -512,3 +512,6 @@ msgstr "ระบุชื่อเล่น"
 
 msgid "for shipping"
 msgstr "สำหรับการจัดส่ง"
+
+msgid "issuingCountry"
+msgstr "ประเทศที่ออกเอกสาร"
