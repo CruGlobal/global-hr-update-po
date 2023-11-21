@@ -487,3 +487,6 @@ msgstr "Select Entity"
 
 msgid "selectEntityInstructions"
 msgstr "There are multiple records matching your email address. Please choose the one you wish to update."
+
+msgid "issuingCountry"
+msgstr "Issuing Country"
