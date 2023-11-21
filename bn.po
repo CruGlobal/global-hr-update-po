@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-20 10:06+0000\n"
+"PO-Revision-Date: 2023-11-21 05:48+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Bengali <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/bn/>\n"
@@ -518,3 +518,6 @@ msgstr "এই ঠিকানা মুছবেন?"
 
 msgid "for shipping"
 msgstr "শিপিং জন্য"
+
+msgid "issuingCountry"
+msgstr "প্রদানকারী দেশে"
