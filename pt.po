@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-20 10:06+0000\n"
+"PO-Revision-Date: 2023-11-21 05:48+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/pt/>\n"
@@ -517,3 +517,6 @@ msgstr "Eliminar este endereço?"
 
 msgid "for shipping"
 msgstr "para envio"
+
+msgid "issuingCountry"
+msgstr "País emissor"
