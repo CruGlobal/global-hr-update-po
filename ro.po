@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-20 10:06+0000\n"
+"PO-Revision-Date: 2023-11-21 05:48+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Romanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ro/>\n"
@@ -523,3 +523,6 @@ msgstr "Ștergeți această adresă?"
 
 msgid "for shipping"
 msgstr "pentru expediere"
+
+msgid "issuingCountry"
+msgstr "Țara emitentă"
