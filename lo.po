@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-21 05:48+0000\n"
+"PO-Revision-Date: 2024-01-30 02:10+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Lao <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/lo/>\n"
@@ -516,3 +516,6 @@ msgstr "ສໍາລັບການຂົນສົ່ງ"
 
 msgid "issuingCountry"
 msgstr "ປະເທດທີ່ອອກ"
+
+msgid "Privacy policy"
+msgstr "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ"
