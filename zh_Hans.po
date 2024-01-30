@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-21 05:48+0000\n"
+"PO-Revision-Date: 2024-01-30 02:10+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/zh_Hans/>\n"
@@ -512,3 +512,6 @@ msgstr "用于装运"
 
 msgid "issuingCountry"
 msgstr "发行国"
+
+msgid "Privacy policy"
+msgstr "隐私政策"
