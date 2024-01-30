@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-21 05:48+0000\n"
+"PO-Revision-Date: 2024-01-30 02:10+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Tamil <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ta/>\n"
@@ -522,3 +522,6 @@ msgstr "கப்பல் போக்குவரத்துக்கு"
 
 msgid "issuingCountry"
 msgstr "கொடுக்கின்ற தேசம்"
+
+msgid "Privacy policy"
+msgstr "தனியுரிமைக் கொள்கை"
