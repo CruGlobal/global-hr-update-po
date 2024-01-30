@@ -25,6 +25,9 @@ msgstr "Help"
 msgid "logout"
 msgstr "Logout"
 
+msgid "Privacy policy"
+msgstr "Privacy policy"
+
 msgid "chooseAnOption"
 msgstr "Choose an option"
 
