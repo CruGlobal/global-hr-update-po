@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-21 05:48+0000\n"
+"PO-Revision-Date: 2024-01-30 02:10+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Khmer (Central) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/km/>\n"
@@ -518,3 +518,6 @@ msgstr "សម្រាប់ការដឹកជញ្ជូន"
 
 msgid "issuingCountry"
 msgstr "ប្រទេសចេញ"
+
+msgid "Privacy policy"
+msgstr "គោលការណ៍​ភាព​ឯកជន"
