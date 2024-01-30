@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-21 05:48+0000\n"
+"PO-Revision-Date: 2024-01-30 02:10+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Telugu <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/te/>\n"
@@ -521,3 +521,6 @@ msgstr "షిప్పింగ్ కోసం"
 
 msgid "issuingCountry"
 msgstr "జారీ చేసే దేశం"
+
+msgid "Privacy policy"
+msgstr "గోప్యతా విధానం"
