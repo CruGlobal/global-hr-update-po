@@ -502,3 +502,15 @@ msgstr "No Updates"
 
 msgid "noChangeDescription"
 msgstr "Nothing has changed."
+
+msgid "importantNote"
+msgstr "Important Note"
+
+msgid "confirmNotice"
+msgstr "Your personal information update has been successfully submitted. The changes listed below will be visible after HR approval."
+
+msgid "pleaseNote"
+msgstr "Please Note"
+
+msgid "pleaseNoteDescription"
+msgstr "if you continue to update your information while previous changes are still pending approval, the latest update will replace the previous changes that have not been approved by HRG."
