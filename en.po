@@ -17,7 +17,7 @@ msgid "hrUpdate"
 msgstr "HR Update"
 
 msgid "entityNotice"
-msgstr "Data below reflects the current state of data in Netsuite. Previous submissions that have not yet been approved by National HR Generalists will not be reflected below."
+msgstr "Data below reflects the current state of data in Netsuite. Previous submissions that <strong>have not yet been approved</strong> by National HR Generalists will not be reflected below."
 
 msgid "help"
 msgstr "Help"
