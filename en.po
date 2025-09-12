@@ -493,3 +493,12 @@ msgstr "There are multiple records matching your email address. Please choose th
 
 msgid "issuingCountry"
 msgstr "Issuing Country"
+
+msgid "confirm"
+msgstr "Confirm"
+
+msgid "noUpdates"
+msgstr "No Updates"
+
+msgid "noChangeDescription"
+msgstr "Nothing has changed."
