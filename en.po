@@ -514,3 +514,12 @@ msgstr "Please Note"
 
 msgid "pleaseNoteDescription"
 msgstr "if you continue to update your information while previous changes are still pending approval, the latest update will replace the previous changes that have not been approved by HRG."
+
+msgid "confirmTitle"
+msgstr "Edit Request Submitted"
+
+msgid "confirmTitleDescriotion"
+msgstr "Your changes have been submitted for approval"
+
+msgid "confirmFormTitle"
+msgstr "Changes Submitted"
