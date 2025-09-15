@@ -518,7 +518,7 @@ msgstr "if you continue to update your information while previous changes are st
 msgid "confirmTitle"
 msgstr "Edit Request Submitted"
 
-msgid "confirmTitleDescriotion"
+msgid "confirmTitleDescription"
 msgstr "Your changes have been submitted for approval"
 
 msgid "confirmFormTitle"
