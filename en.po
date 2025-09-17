@@ -231,6 +231,9 @@ msgstr "Approve Change"
 msgid "approve"
 msgstr "Approve"
 
+msgid "back"
+msgstr "Back"
+
 msgid "delete"
 msgstr "Delete"
 
