@@ -507,19 +507,22 @@ msgid "importantNote"
 msgstr "Important Note"
 
 msgid "confirmNotice"
-msgstr "Your personal information update has been successfully submitted. The changes listed below will be visible after HR approval."
+msgstr "The changes you made below will be visible once they are approved by HRG."
 
 msgid "pleaseNote"
 msgstr "Please Note"
 
 msgid "pleaseNoteDescription"
-msgstr "if you continue to update your information while previous changes are still pending approval, the latest update will replace the previous changes that have not been approved by HRG."
+msgstr "Please confirm above changes. You can click BACK to make further edits or click CONFIRM to submit your changes for approval."
 
 msgid "confirmTitle"
-msgstr "Edit Request Submitted"
+msgstr "Update Request Submitted"
 
 msgid "confirmTitleDescription"
-msgstr "Your changes have been submitted for approval"
+msgstr "The following changes will be submitted for approval"
 
 msgid "confirmFormTitle"
 msgstr "Changes Submitted"
+
+msgid "reloadOrClose"
+msgstr "You can still click Reload to edit data in another entity or Close to exit the browser"
