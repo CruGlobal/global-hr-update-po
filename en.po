@@ -234,6 +234,9 @@ msgstr "Approve"
 msgid "back"
 msgstr "Back"
 
+msgid "close"
+msgstr "Close"
+
 msgid "delete"
 msgstr "Delete"
 
@@ -242,6 +245,9 @@ msgstr "Deleting"
 
 msgid "deleted"
 msgstr "Deleted"
+
+msgid "reload"
+msgstr "Reload"
 
 msgid "type"
 msgstr "Type"
