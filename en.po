@@ -200,6 +200,42 @@ msgstr "We're still getting your Netsuite Id, please wait."
 msgid "supervisorPopupRenderMin5chars"
 msgstr "5 letters are enough to begin the search."
 
+msgid "supervisorPopupRenderSearching"
+msgstr "searching"
+
+msgid "supervisorPopupAlertSorry"
+msgstr "The web session has timed out. Please reload the page to reauthenticate."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "supervisorNote"
+msgstr "Supervisor note"
+
+msgid "pfcoach"
+msgstr "Position Focus Coach"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "Type the name of your position focus coach in the Search window."
+
+# Shown if the user tries to type in their PF coach before the page has finished loading.
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "We're still getting your Netsuite Id, please wait."
+
+msgid "pfcoachPopupRenderMin5chars"
+msgstr "5 letters are enough to begin the search."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "searching"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr "The web session has timed out. Please reload the page to reauthenticate."
+
+# The title of the supervisor search box. It is only shown if there is no supervisor selected.
+msgid "pfcoachNote"
+msgstr " "
+
 # Placeholder text in the search box
 msgid "Search..."
 msgstr "Search…"
@@ -211,16 +247,6 @@ msgstr "Cancel"
 # Close the pop-up window
 msgid "Close"
 msgstr "Close"
-
-msgid "supervisorPopupRenderSearching"
-msgstr "searching"
-
-msgid "supervisorPopupAlertSorry"
-msgstr "The web session has timed out. Please reload the page to reauthenticate."
-
-# The title of the supervisor search box. It is only shown if there is no supervisor selected.
-msgid "supervisorNote"
-msgstr "Supervisor note"
 
 msgid "hireDate"
 msgstr "Date you were hired"
