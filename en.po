@@ -561,3 +561,12 @@ msgstr "Changes Submitted"
 
 msgid "reloadOrClose"
 msgstr "You can still click Reload to edit data in another entity or close the browser tab manually."
+
+msgid "waitingForApprovalTitle"
+msgstr "Waiting for approval"
+
+msgid "havePendingApprovalDescription"
+msgstr "You already have a pending approval!"
+
+msgid "continueToEditButton"
+msgstr "Continue to edit"
