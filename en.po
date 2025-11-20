@@ -570,3 +570,9 @@ msgstr "You already have a pending approval!"
 
 msgid "continueToEditButton"
 msgstr "Continue to edit"
+
+msgid "successTitle"
+msgstr "Success!"
+
+msgid "directSubmisionDescription"
+msgstr "The fields you modified do not require HRG approval. Yor changes have been saved successfully."
