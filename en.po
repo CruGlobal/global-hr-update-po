@@ -197,8 +197,8 @@ msgstr "Type the name of your supervisor in the Search window."
 msgid "supervisorPopupRenderPreventSearch"
 msgstr "We're still getting your Netsuite Id, please wait."
 
-msgid "supervisorPopupRenderMin5chars"
-msgstr "5 letters are enough to begin the search."
+msgid "supervisorPopupRenderMinChars"
+msgstr "%d letters are enough to begin the search."
 
 msgid "supervisorPopupRenderSearching"
 msgstr "searching"
@@ -223,8 +223,8 @@ msgstr "Type the name of your position focus coach in the Search window."
 msgid "pfcoachPopupRenderPreventSearch"
 msgstr "We're still getting your Netsuite Id, please wait."
 
-msgid "pfcoachPopupRenderMin5chars"
-msgstr "5 letters are enough to begin the search."
+msgid "pfcoachPopupRenderMinChars"
+msgstr "%d letters are enough to begin the search."
 
 msgid "pfcoachPopupRenderSearching"
 msgstr "searching"
@@ -391,14 +391,6 @@ msgstr "E-mail"
 # Not used
 msgid "emailPlaceholder"
 msgstr "Your e-mail address"
-
-# Not used
-msgid "mobilePhone"
-msgstr "Mobile Phone"
-
-# Not used
-msgid "mobilePhonePlaceholder"
-msgstr "Your mobile phone number"
 
 # Not used
 msgid "homePhone"
@@ -576,3 +568,12 @@ msgstr "Success!"
 
 msgid "directSubmisionDescription"
 msgstr "The fields you modified do not require HRG approval. Yor changes have been saved successfully."
+
+msgid "mobilePhone"
+msgstr "Mobile Phone"
+
+msgid "mobilePhonePlaceholder"
+msgstr "Your mobile phone number +[Country Code], e.g., +1123456789"
+
+msgid "mobilePhoneError"
+msgstr "Enter phone starting with +[Country Code], e.g., +1123456789"
