@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/nl/>\n"
 "Language: nl\n"
@@ -107,12 +107,11 @@ msgstr "Je functieomschrijving"
 msgid "hrUpdate"
 msgstr "HR Update"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"Onderstaande gegevens geven de huidige staat van gegevens in Netsuite weer. "
-"Eerdere aanmeldingen die nog niet zijn goedgekeurd door National HR "
-"Generalists worden hieronder niet weergegeven."
+"De onderstaande gegevens geven de huidige stand van zaken in Netsuite weer. "
+"Eerdere inzendingen die <strong> nog niet zijn goedgekeurd </strong> door de "
+"National HR Generalists, worden hieronder niet weergegeven."
 
 msgid "help"
 msgstr "Help"
@@ -455,9 +454,8 @@ msgid "mobilePhone"
 msgstr "Mobiele telefoon"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Je mobiele telefoonnummer"
+msgstr "Je mobiele telefoonnummer +[landcode], bijv. +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -526,3 +524,89 @@ msgstr "Land van afgifte"
 
 msgid "Privacy policy"
 msgstr "Privacybeleid"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "%d letters zijn voldoende om de zoekopdracht te starten."
+
+msgid "pfcoach"
+msgstr "Functie: Focuscoach"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "Typ de naam van je functie als focuscoach in het zoekvenster."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "%d letters zijn voldoende om de zoekopdracht te starten."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Terug"
+
+msgid "reload"
+msgstr "Opnieuw laden"
+
+msgid "confirm"
+msgstr "Bevestigen"
+
+msgid "noUpdates"
+msgstr "Geen updates"
+
+msgid "noChangeDescription"
+msgstr "Er is niets veranderd."
+
+msgid "importantNote"
+msgstr "Belangrijke opmerking"
+
+msgid "confirmNotice"
+msgstr ""
+"De wijzigingen die je hieronder hebt aangebracht, worden zichtbaar zodra ze "
+"door HRG zijn goedgekeurd."
+
+msgid "pleaseNote"
+msgstr "Let op"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Bevestig de bovenstaande wijzigingen. Klik op TERUG om nog meer wijzigingen "
+"aan te brengen, of klik op BEVESTIGEN om uw wijzigingen ter goedkeuring in "
+"te dienen."
+
+msgid "confirmTitle"
+msgstr "Verzoek om update verzonden"
+
+msgid "confirmTitleDescription"
+msgstr "De volgende wijzigingen zullen ter goedkeuring worden voorgelegd"
+
+msgid "confirmFormTitle"
+msgstr "Wijzigingen ingediend"
+
+msgid "reloadOrClose"
+msgstr ""
+"Je kunt nog steeds op 'Opnieuw laden' klikken om gegevens in een andere "
+"entiteit te bewerken, of het browsertabblad handmatig sluiten."
+
+msgid "waitingForApprovalTitle"
+msgstr "In afwachting van goedkeuring"
+
+msgid "havePendingApprovalDescription"
+msgstr "Er staat al een goedkeuring in behandeling!"
+
+msgid "continueToEditButton"
+msgstr "Blijf bewerken"
+
+msgid "successTitle"
+msgstr "Geslaagd!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Voor de velden die u hebt gewijzigd, is geen goedkeuring van HRG nodig. Uw "
+"wijzigingen zijn succesvol opgeslagen."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Voer het telefoonnummer in, beginnend met +[landcode], bijvoorbeeld "
+"+1123456789"
