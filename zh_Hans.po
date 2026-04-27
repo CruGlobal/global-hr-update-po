@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified) <https://alltongues.org/projects/"
-"netsuite-hr-update-app/user-interface/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified Han script) <https://alltongues.org/"
+"projects/netsuite-hr-update-app/user-interface/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgid "thankYou"
 msgstr "谢谢"
@@ -27,6 +27,7 @@ msgstr "有多条记录与您的电子邮件地址匹配。请选择要更新的
 msgid "hrUpdate"
 msgstr "人力资源最新情况"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr "以下数据反映的是 Netsuite 中数据的当前状态。尚未获得国家人力资源综合专家批准"
 "的以前提交的数据将不在下面反映。"
@@ -364,6 +365,7 @@ msgid "mobilePhone"
 msgstr "移动电话"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "您的手机号码"
 
