@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/uk/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgid "staffUnit"
 msgstr "Кадровий підрозділ"
@@ -47,6 +47,7 @@ msgstr ""
 msgid "hrUpdate"
 msgstr "Оновлення у відділі кадрів"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
 "Наведені нижче дані відображають поточний стан даних у Netsuite. Попередні "
@@ -397,6 +398,7 @@ msgid "mobilePhone"
 msgstr "Мобільний телефон"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "Ваш номер мобільного телефону"
 
