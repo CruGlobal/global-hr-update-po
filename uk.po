@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Ukrainian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/uk/>\n"
 "Language: uk\n"
@@ -612,3 +612,17 @@ msgstr ""
 msgid "mobilePhoneError"
 msgstr ""
 "Введіть номер телефону, починаючи з +[код країни], наприклад, +1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "Ми все ще отримуємо ваш ідентифікатор Netsuite, будь ласка, зачекайте."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "шукаю"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"Термін дії веб-сесії закінчився. Будь ласка, перезавантажте сторінку для "
+"повторної автентифікації."
+
+msgid "close"
+msgstr "Закрити"
