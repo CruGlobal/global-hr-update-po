@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-04-29 02:19+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Korean <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ko/>\n"
 "Language: ko\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 # Not used
 msgid "officePhonePlaceholder"
@@ -118,10 +118,11 @@ msgid "selectEntityInstructions"
 msgstr "이메일 주소와 일치하는 레코드가 여러 개 있습니다. 업데이트할 기록을 선택해 "
 "주세요."
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"아래 데이터는 Netsuite의 현재 데이터 상태를 반영합니다. 아직 국가 인사 "
-"총책임자의 승인을 받지 않은 이전 제출물은 아래에 반영되지 않습니다."
+"아래 데이터는 Netsuite의 현재 데이터 상태를 반영합니다. 아직 국가 인사 총책임"
+"자의 승인을 받지 않은 이전 제출물은 아래에 반영되지 않습니다."
 
 msgid "help"
 msgstr "도움말"
