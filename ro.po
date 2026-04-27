@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Romanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ro/>\n"
 "Language: ro\n"
@@ -42,12 +42,12 @@ msgstr "Codul dumneavoastră poștal sau codul poștal"
 msgid "hrUpdate"
 msgstr "Actualizare HR"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
 "Datele de mai jos reflectă starea actuală a datelor din Netsuite. "
-"Trimiterile anterioare care nu au fost încă aprobate de către generalistele "
-"naționale de resurse umane nu vor fi reflectate mai jos."
+"Înscrierile anterioare pe care <strong> nu au fost încă aprobate </strong> "
+"de către specialiștii naționali în resurse umane nu vor apărea în tabelul de "
+"mai jos."
 
 msgid "help"
 msgstr "Ajutor"
@@ -375,9 +375,8 @@ msgid "mobilePhone"
 msgstr "Telefon mobil"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Numărul dumneavoastră de telefon mobil"
+msgstr "Numărul tău de telefon mobil +[Codul țării], de exemplu, +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -531,3 +530,91 @@ msgstr "Țara emitentă"
 
 msgid "Privacy policy"
 msgstr "Politica de confidențialitate"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "Sunt suficiente %d litere pentru a începe căutarea."
+
+msgid "pfcoach"
+msgstr "Antrenor specializat în poziționare"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr ""
+"Tastați numele antrenorului specializat în poziționare în fereastra de "
+"căutare."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "Sunt suficiente %d litere pentru a începe căutarea."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Înapoi"
+
+msgid "reload"
+msgstr "Reîncarcă"
+
+msgid "confirm"
+msgstr "Confirmă"
+
+msgid "noUpdates"
+msgstr "Nu există actualizări"
+
+msgid "noChangeDescription"
+msgstr "Nu s-a schimbat nimic."
+
+msgid "importantNote"
+msgstr "Notă importantă"
+
+msgid "confirmNotice"
+msgstr ""
+"Modificările pe care le-ați făcut mai jos vor fi vizibile după ce vor fi "
+"aprobate de HRG."
+
+msgid "pleaseNote"
+msgstr "Vă rugăm să rețineți"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Vă rugăm să confirmați modificările de mai sus. Puteți face clic pe ÎNAPOI "
+"pentru a efectua modificări suplimentare sau pe CONFIRMARE pentru a trimite "
+"modificările spre aprobare."
+
+msgid "confirmTitle"
+msgstr "Cerere de actualizare trimisă"
+
+msgid "confirmTitleDescription"
+msgstr "Următoarele modificări vor fi supuse aprobării"
+
+msgid "confirmFormTitle"
+msgstr "Modificări trimise"
+
+msgid "reloadOrClose"
+msgstr ""
+"Puteți da clic pe „Reîncărcare” pentru a edita datele dintr-o altă entitate "
+"sau puteți închide manual fila browserului."
+
+msgid "waitingForApprovalTitle"
+msgstr "În așteptarea aprobării"
+
+msgid "havePendingApprovalDescription"
+msgstr "Ai deja o cerere în așteptare de aprobare!"
+
+msgid "continueToEditButton"
+msgstr "Continuă să editezi"
+
+msgid "successTitle"
+msgstr "Succes!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Câmpurile pe care le-ați modificat nu necesită aprobarea HRG. Modificările "
+"dvs. au fost salvate cu succes."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Introduceți numărul de telefon începând cu +[codul țării], de exemplu, "
+"+1123456789"
