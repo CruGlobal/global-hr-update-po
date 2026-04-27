@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Mongolian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/mn/>\n"
 "Language: mn\n"
@@ -606,3 +606,17 @@ msgstr ""
 
 msgid "mobilePhoneError"
 msgstr "Утасны дугаарыг +[улсын код]-оор эхлүүлэн оруулна, жишээ нь +1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "Бид таны Netsuite ID-г авсаар байна, түр хүлээнэ үү."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "хайж байна"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"Вэб сессийн хугацаа дууссан. Дахин баталгаажуулахын тулд хуудсыг дахин "
+"ачаална уу."
+
+msgid "close"
+msgstr "Хаах"
