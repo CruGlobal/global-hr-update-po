@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Telugu <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/te/>\n"
 "Language: te\n"
@@ -41,11 +41,10 @@ msgstr "ఎంటిటీని ఎంచుకోండి"
 msgid "jobTitlePlaceholder"
 msgstr "మీ ఉద్యోగ శీర్షిక"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"దిగువ డేటా Netsuiteలో ప్రస్తుత డేటా స్థితిని ప్రతిబింబిస్తుంది. నేషనల్ హెచ్‌ఆర్ జనరలిస్ట్‌లచే ఇంకా ఆమోదించబడని మునుపటి "
-"సమర్పణలు క్రింద ప్రతిబింబించబడవు."
+"కింద ఉన్న డేటా నెట్‌సూట్‌లోని ప్రస్తుత డేటా స్థితిని ప్రతిబింబిస్తుంది. నేషనల్ హెచ్‌ఆర్ జనరలిస్టులచే ఇంకా ఆమోదించబడని "
+"<strong>, </strong> ద్వారా చేసిన మునుపటి సమర్పణలు కింద ప్రతిబింబించబడవు."
 
 msgid "buttonHelpDescription"
 msgstr "ఈ ఫీల్డ్‌ని పూరించడానికి సహాయం కావాలా? సూచనల కోసం క్లిక్ చేయండి."
@@ -425,9 +424,8 @@ msgid "mobilePhone"
 msgstr "చరవాణి"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "మీ మొబైల్ ఫోన్ నంబర్"
+msgstr "మీ మొబైల్ ఫోన్ నంబర్ +[దేశ కోడ్], ఉదా., +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -525,3 +523,82 @@ msgstr "జారీ చేసే దేశం"
 
 msgid "Privacy policy"
 msgstr "గోప్యతా విధానం"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "శోధనను ప్రారంభించడానికి %d అక్షరాలు సరిపోతాయి."
+
+msgid "pfcoach"
+msgstr "ఫోకస్ కోచ్ పదవి"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "శోధన విండోలో మీ పొజిషన్ ఫోకస్ కోచ్ పేరును టైప్ చేయండి."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "శోధనను ప్రారంభించడానికి %d అక్షరాలు సరిపోతాయి."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "వెనుకకు"
+
+msgid "reload"
+msgstr "పునఃలోడ్"
+
+msgid "confirm"
+msgstr "ధృవీకరించండి"
+
+msgid "noUpdates"
+msgstr "నవీకరణలు లేవు"
+
+msgid "noChangeDescription"
+msgstr "ఏమీ మారలేదు."
+
+msgid "importantNote"
+msgstr "ముఖ్య గమనిక"
+
+msgid "confirmNotice"
+msgstr "మీరు క్రింద చేసిన మార్పులు HRG ఆమోదించిన తర్వాత కనిపిస్తాయి."
+
+msgid "pleaseNote"
+msgstr "దయచేసి గమనించండి"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"దయచేసి పైన చేసిన మార్పులను నిర్ధారించండి. తదుపరి సవరణలు చేయడానికి మీరు BACK నొక్కవచ్చు లేదా మీ మార్పులను ఆమోదం కోసం "
+"సమర్పించడానికి CONFIRM నొక్కవచ్చు."
+
+msgid "confirmTitle"
+msgstr "అప్‌డేట్ అభ్యర్థన సమర్పించబడింది"
+
+msgid "confirmTitleDescription"
+msgstr "కింది మార్పులు ఆమోదం కోసం సమర్పించబడతాయి"
+
+msgid "confirmFormTitle"
+msgstr "మార్పులు సమర్పించబడ్డాయి"
+
+msgid "reloadOrClose"
+msgstr ""
+"మీరు వేరొక ఎంటిటీలో డేటాను సవరించడానికి ఇప్పటికీ రీలోడ్ క్లిక్ చేయవచ్చు లేదా బ్రౌజర్ ట్యాబ్‌ను మాన్యువల్‌గా మూసివేయవచ్చు."
+
+msgid "waitingForApprovalTitle"
+msgstr "ఆమోదం కోసం వేచి ఉంది"
+
+msgid "havePendingApprovalDescription"
+msgstr "మీకు ఇప్పటికే ఆమోదం పెండింగ్‌లో ఉంది!"
+
+msgid "continueToEditButton"
+msgstr "సవరించడం కొనసాగించండి"
+
+msgid "successTitle"
+msgstr "విజయం!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"మీరు సవరించిన ఫీల్డ్‌లకు HRG ఆమోదం అవసరం లేదు. యార్ మార్పులు విజయవంతంగా సేవ్ చేయబడ్డాయి."
+
+msgid "mobilePhoneError"
+msgstr "+[దేశ కోడ్] తో మొదలయ్యే ఫోన్ నంబర్‌ను నమోదు చేయండి, ఉదా., +1123456789"
