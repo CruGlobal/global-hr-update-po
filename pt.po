@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Portuguese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/pt/>\n"
 "Language: pt\n"
@@ -19,12 +19,11 @@ msgstr "Nome"
 msgid "hrUpdate"
 msgstr "Atualização dos RH"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"Os dados abaixo reflectem o estado atual dos dados no Netsuite. Os envios "
-"anteriores que ainda não tenham sido aprovados pelos Generalistas Nacionais "
-"de RH não serão reflectidos abaixo."
+"Os dados abaixo refletem o estado atual dos dados no Netsuite. Os envios "
+"anteriores que <strong> ainda não foram aprovados </strong> pelos "
+"Generalistas Nacionais de RH não serão refletidos abaixo."
 
 msgid "help"
 msgstr "Ajuda"
@@ -365,9 +364,8 @@ msgid "mobilePhone"
 msgstr "Telemóvel"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "O seu número de telemóvel"
+msgstr "O seu número de telemóvel +[Código do país], por exemplo, +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -525,3 +523,89 @@ msgstr "País emissor"
 
 msgid "Privacy policy"
 msgstr "Política de privacidade"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "Bastam %d letras para iniciar a pesquisa."
+
+msgid "pfcoach"
+msgstr "Treinador especializado em posições"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "Digite o nome do seu orientador de foco na janela de pesquisa."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "Bastam %d letras para iniciar a pesquisa."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Voltar"
+
+msgid "reload"
+msgstr "Atualizar"
+
+msgid "confirm"
+msgstr "Confirmar"
+
+msgid "noUpdates"
+msgstr "Sem atualizações"
+
+msgid "noChangeDescription"
+msgstr "Nada mudou."
+
+msgid "importantNote"
+msgstr "Nota importante"
+
+msgid "confirmNotice"
+msgstr ""
+"As alterações que efetuou abaixo ficarão visíveis assim que forem aprovadas "
+"pelo HRG."
+
+msgid "pleaseNote"
+msgstr "Nota"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Por favor, confirme as alterações acima. Pode clicar em VOLTAR para fazer "
+"mais edições ou clicar em CONFIRMAR para enviar as suas alterações para "
+"aprovação."
+
+msgid "confirmTitle"
+msgstr "Pedido de atualização enviado"
+
+msgid "confirmTitleDescription"
+msgstr "As seguintes alterações serão submetidas para aprovação"
+
+msgid "confirmFormTitle"
+msgstr "Alterações enviadas"
+
+msgid "reloadOrClose"
+msgstr ""
+"Ainda pode clicar em «Atualizar» para editar dados noutra entidade ou fechar "
+"a aba do navegador manualmente."
+
+msgid "waitingForApprovalTitle"
+msgstr "À espera de aprovação"
+
+msgid "havePendingApprovalDescription"
+msgstr "Já tem uma aprovação pendente!"
+
+msgid "continueToEditButton"
+msgstr "Continuar a editar"
+
+msgid "successTitle"
+msgstr "Conseguimos!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Os campos que alterou não requerem aprovação do HRG. As suas alterações "
+"foram guardadas com sucesso."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Introduza o número de telefone começando por +[Código do país], por exemplo, "
+"+1123456789"
