@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Romanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ro/>\n"
 "Language: ro\n"
@@ -618,3 +618,17 @@ msgid "mobilePhoneError"
 msgstr ""
 "Introduceți numărul de telefon începând cu +[codul țării], de exemplu, "
 "+1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "Încă primim ID-ul dvs. Netsuite, vă rugăm să așteptați."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "căutare"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"Sesiunea web a expirat. Vă rugăm să reîncărcați pagina pentru a vă "
+"autentifica din nou."
+
+msgid "close"
+msgstr "Închideți"
