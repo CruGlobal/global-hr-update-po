@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Portuguese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/pt/>\n"
 "Language: pt\n"
@@ -609,3 +609,15 @@ msgid "mobilePhoneError"
 msgstr ""
 "Introduza o número de telefone começando por +[Código do país], por exemplo, "
 "+1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "Ainda estamos a receber o seu Netsuite Id, aguarde."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "pesquisa"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr "A sessão web expirou. Recarregue a página para se autenticar novamente."
+
+msgid "close"
+msgstr "Fechar"
