@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Spanish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/es/>\n"
 "Language: es\n"
@@ -119,12 +119,12 @@ msgstr ""
 "Hay varios registros que coinciden con su dirección de correo electrónico. "
 "Por favor, elija el que desea actualizar."
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"Los datos a continuación reflejan el estado actual de los datos en Netsuite. "
-"Los envíos anteriores que aún no hayan sido aprobados por los Generalistas "
-"Nacionales de RRHH no se reflejarán a continuación."
+"Los datos que figuran a continuación reflejan el estado actual de los datos "
+"en Netsuite. Las solicitudes anteriores que <strong> aún no han sido "
+"aprobadas </strong> por los especialistas nacionales en recursos humanos no "
+"aparecerán reflejadas a continuación."
 
 msgid "help"
 msgstr "Ayuda"
@@ -469,9 +469,8 @@ msgid "mobilePhone"
 msgstr "Teléfono móvil"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Su número de teléfono móvil"
+msgstr "Tu número de teléfono móvil +[código de país], p. ej., +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -528,3 +527,89 @@ msgstr "País emisor"
 
 msgid "Privacy policy"
 msgstr "Política de privacidad"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "Basta con introducir %d letras para iniciar la búsqueda."
+
+msgid "pfcoach"
+msgstr "Entrenador especializado en una posición concreta"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr ""
+"Escribe el nombre de tu entrenador de enfoque en la ventana de búsqueda."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "Basta con introducir %d letras para iniciar la búsqueda."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Atrás"
+
+msgid "reload"
+msgstr "Actualizar"
+
+msgid "confirm"
+msgstr "Confirmar"
+
+msgid "noUpdates"
+msgstr "No hay actualizaciones"
+
+msgid "noChangeDescription"
+msgstr "No ha cambiado nada."
+
+msgid "importantNote"
+msgstr "Nota importante"
+
+msgid "confirmNotice"
+msgstr ""
+"Los cambios que has realizado a continuación serán visibles una vez que los "
+"apruebe HRG."
+
+msgid "pleaseNote"
+msgstr "Nota importante"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Confirme los cambios anteriores. Puede hacer clic en «ATRÁS» para seguir "
+"editando o en «CONFIRMAR» para enviar los cambios para su aprobación."
+
+msgid "confirmTitle"
+msgstr "Solicitud de actualización enviada"
+
+msgid "confirmTitleDescription"
+msgstr "Se someterán a aprobación los siguientes cambios"
+
+msgid "confirmFormTitle"
+msgstr "Cambios enviados"
+
+msgid "reloadOrClose"
+msgstr ""
+"Aún puedes hacer clic en «Actualizar» para editar los datos de otra entidad "
+"o cerrar la pestaña del navegador manualmente."
+
+msgid "waitingForApprovalTitle"
+msgstr "A la espera de la aprobación"
+
+msgid "havePendingApprovalDescription"
+msgstr "¡Ya tienes una solicitud pendiente de aprobación!"
+
+msgid "continueToEditButton"
+msgstr "Seguir editando"
+
+msgid "successTitle"
+msgstr "¡Éxito!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Los campos que ha modificado no requieren la aprobación de HRG. Sus cambios "
+"se han guardado correctamente."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Introduce el número de teléfono empezando por +[código de país], p. ej., "
+"+1123456789"
