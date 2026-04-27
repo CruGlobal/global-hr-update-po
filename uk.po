@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Ukrainian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/uk/>\n"
 "Language: uk\n"
@@ -47,12 +47,12 @@ msgstr ""
 msgid "hrUpdate"
 msgstr "Оновлення у відділі кадрів"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
 "Наведені нижче дані відображають поточний стан даних у Netsuite. Попередні "
-"заявки, які ще не були схвалені національними спеціалістами з управління "
-"персоналом, не будуть відображені нижче."
+"заявки, які <strong> ще не були затверджені </strong> національними "
+"фахівцями з управління персоналом, у наведеному нижче списку не "
+"відображатимуться."
 
 msgid "help"
 msgstr "Файл довідки"
@@ -398,9 +398,8 @@ msgid "mobilePhone"
 msgstr "Мобільний телефон"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Ваш номер мобільного телефону"
+msgstr "Номер вашого мобільного телефону +[код країни], наприклад, +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -530,3 +529,86 @@ msgstr "Країна, що видала ліцензію"
 
 msgid "Privacy policy"
 msgstr "Політика конфіденційності"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "Для початку пошуку достатньо %d літер."
+
+msgid "pfcoach"
+msgstr "Тренер з орієнтації на посаду"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "Введіть ім'я вашого тренера з фокусування у вікно пошуку."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "Для початку пошуку достатньо %d літер."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Назад"
+
+msgid "reload"
+msgstr "Оновити"
+
+msgid "confirm"
+msgstr "Підтвердити"
+
+msgid "noUpdates"
+msgstr "Оновлень немає"
+
+msgid "noChangeDescription"
+msgstr "Нічого не змінилося."
+
+msgid "importantNote"
+msgstr "Важливе зауваження"
+
+msgid "confirmNotice"
+msgstr "Зміни, які ви внесли нижче, стануть видимими після їх затвердження HRG."
+
+msgid "pleaseNote"
+msgstr "Зверніть увагу"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Будь ласка, підтвердьте наведені вище зміни. Ви можете натиснути «НАЗАД», "
+"щоб внести додаткові зміни, або «ПІДТВЕРДИТИ», щоб надіслати зміни на "
+"затвердження."
+
+msgid "confirmTitle"
+msgstr "Запит на оновлення надіслано"
+
+msgid "confirmTitleDescription"
+msgstr "На затвердження будуть подані такі зміни"
+
+msgid "confirmFormTitle"
+msgstr "Зміни надіслано"
+
+msgid "reloadOrClose"
+msgstr ""
+"Ви також можете натиснути кнопку «Оновити», щоб редагувати дані в іншому об’"
+"єкті, або закрити вкладку браузера вручну."
+
+msgid "waitingForApprovalTitle"
+msgstr "Очікування на затвердження"
+
+msgid "havePendingApprovalDescription"
+msgstr "Ваша заявка вже очікує на затвердження!"
+
+msgid "continueToEditButton"
+msgstr "Продовжити редагування"
+
+msgid "successTitle"
+msgstr "Успіх!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Змінені вами поля не потребують затвердження HRG. Ваші зміни успішно "
+"збережено."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Введіть номер телефону, починаючи з +[код країни], наприклад, +1123456789"
