@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:19+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Vietnamese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/vi/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgid "Select Entity"
 msgstr "Chọn thực thể"
@@ -176,6 +176,7 @@ msgid "mobilePhone"
 msgstr "Điện thoại di động"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "Số điện thoại di động của bạn"
 
@@ -187,6 +188,7 @@ msgstr "Điện thoại nhà"
 msgid "homePhonePlaceholder"
 msgstr "Số điện thoại nhà của bạn"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
 "Dữ liệu bên dưới phản ánh trạng thái hiện tại của dữ liệu trong Netsuite. "
