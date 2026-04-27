@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Telugu <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/te/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgid "supervisor"
 msgstr "సూపర్‌వైజర్"
@@ -41,11 +41,11 @@ msgstr "ఎంటిటీని ఎంచుకోండి"
 msgid "jobTitlePlaceholder"
 msgstr "మీ ఉద్యోగ శీర్షిక"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"దిగువ డేటా Netsuiteలో ప్రస్తుత డేటా స్థితిని ప్రతిబింబిస్తుంది. నేషనల్ "
-"హెచ్‌ఆర్ జనరలిస్ట్‌లచే ఇంకా ఆమోదించబడని మునుపటి సమర్పణలు క్రింద "
-"ప్రతిబింబించబడవు."
+"దిగువ డేటా Netsuiteలో ప్రస్తుత డేటా స్థితిని ప్రతిబింబిస్తుంది. నేషనల్ హెచ్‌ఆర్ జనరలిస్ట్‌లచే ఇంకా ఆమోదించబడని మునుపటి "
+"సమర్పణలు క్రింద ప్రతిబింబించబడవు."
 
 msgid "buttonHelpDescription"
 msgstr "ఈ ఫీల్డ్‌ని పూరించడానికి సహాయం కావాలా? సూచనల కోసం క్లిక్ చేయండి."
@@ -425,6 +425,7 @@ msgid "mobilePhone"
 msgstr "చరవాణి"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "మీ మొబైల్ ఫోన్ నంబర్"
 
