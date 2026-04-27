@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
 "Language: th\n"
@@ -600,3 +600,15 @@ msgstr ""
 
 msgid "mobilePhoneError"
 msgstr "กรุณากรอกหมายเลขโทรศัพท์ที่ขึ้นต้นด้วย +[รหัสประเทศ] เช่น +1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "เรายังได้รับรหัส Netsuite ของคุณ โปรดรอสักครู่"
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "กำลังค้นหา"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr "เซสชั่นเว็บหมดเวลาแล้ว โปรดโหลดหน้านี้อีกครังเพื่อตรวจสอบสิทธิ์อีกครั้ง"
+
+msgid "close"
+msgstr "ปิด"
