@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Korean <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ko/>\n"
 "Language: ko\n"
@@ -118,11 +118,11 @@ msgid "selectEntityInstructions"
 msgstr "이메일 주소와 일치하는 레코드가 여러 개 있습니다. 업데이트할 기록을 선택해 "
 "주세요."
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"아래 데이터는 Netsuite의 현재 데이터 상태를 반영합니다. 아직 국가 인사 총책임"
-"자의 승인을 받지 않은 이전 제출물은 아래에 반영되지 않습니다."
+"아래 데이터는 Netsuite의 현재 상태를 반영한 것입니다. <strong>를 통해 제출되"
+"었으나 National HR Generalists의 승인을 아직 받지 못한 </strong> 건은 아래에 "
+"반영되지 않습니다."
 
 msgid "help"
 msgstr "도움말"
@@ -300,9 +300,8 @@ msgid "mobilePhone"
 msgstr "휴대폰"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "휴대폰 번호"
+msgstr "휴대전화 번호 +[국가 코드], 예: +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -519,3 +518,82 @@ msgstr "발급 국가"
 
 msgid "Privacy policy"
 msgstr "개인정보 보호정책"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "검색을 시작하려면 %d자면 충분합니다."
+
+msgid "pfcoach"
+msgstr "포지션 코치"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "검색 창에 담당 코치의 이름을 입력하세요."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "검색을 시작하려면 %d자면 충분합니다."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "뒤로"
+
+msgid "reload"
+msgstr "다시 불러오기"
+
+msgid "confirm"
+msgstr "확인"
+
+msgid "noUpdates"
+msgstr "업데이트 없음"
+
+msgid "noChangeDescription"
+msgstr "아무것도 변한 게 없다."
+
+msgid "importantNote"
+msgstr "중요 공지"
+
+msgid "confirmNotice"
+msgstr "아래에서 변경하신 내용은 HRG의 승인을 거치면 반영됩니다."
+
+msgid "pleaseNote"
+msgstr "참고 사항"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"위의 변경 사항을 확인해 주십시오. ‘뒤로’를 클릭하여 추가로 수정하거나, ‘확인’"
+"을 클릭하여 변경 사항을 승인 요청으로 제출할 수 있습니다."
+
+msgid "confirmTitle"
+msgstr "업데이트 요청이 제출되었습니다"
+
+msgid "confirmTitleDescription"
+msgstr "다음 변경 사항들이 승인을 위해 제출될 예정입니다"
+
+msgid "confirmFormTitle"
+msgstr "변경 사항 제출됨"
+
+msgid "reloadOrClose"
+msgstr "‘다시 불러오기’를 클릭하여 다른 엔터티의 데이터를 편집하거나, 브라우저 탭을 "
+"수동으로 닫을 수도 있습니다."
+
+msgid "waitingForApprovalTitle"
+msgstr "승인 대기 중"
+
+msgid "havePendingApprovalDescription"
+msgstr "이미 승인 대기 중인 건이 있습니다!"
+
+msgid "continueToEditButton"
+msgstr "계속 편집하기"
+
+msgid "successTitle"
+msgstr "성공!"
+
+msgid "directSubmisionDescription"
+msgstr "수정하신 항목은 HRG의 승인이 필요하지 않습니다. 변경 사항이 정상적으로 저장되"
+"었습니다."
+
+msgid "mobilePhoneError"
+msgstr "전화번호를 +[국가 코드]로 시작하여 입력하세요. 예: +1123456789"
