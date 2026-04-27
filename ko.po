@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Korean <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ko/>\n"
 "Language: ko\n"
@@ -597,3 +597,15 @@ msgstr "수정하신 항목은 HRG의 승인이 필요하지 않습니다. 변�
 
 msgid "mobilePhoneError"
 msgstr "전화번호를 +[국가 코드]로 시작하여 입력하세요. 예: +1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "아직 Netsuite ID를 받는 중입니다. 잠시만 기다려주세요."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "검색"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr "웹 세션 시간이 초과되었습니다. 다시 인증하려면 페이지를 새로고침하세요."
+
+msgid "close"
+msgstr "닫기"
