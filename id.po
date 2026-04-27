@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Indonesian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/id/>\n"
 "Language: id\n"
@@ -611,3 +611,17 @@ msgid "mobilePhoneError"
 msgstr ""
 "Masukkan nomor telepon yang diawali dengan +[Kode Negara], misalnya "
 "+1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "Kami masih mendapatkan Id Netsuite Anda, mohon tunggu."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "mencari"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"Sesi web telah habis waktunya. Muat ulang halaman untuk mengautentikasi "
+"ulang."
+
+msgid "close"
+msgstr "Tutup"
