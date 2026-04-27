@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/nl/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 # Not used
 msgid "officePhonePlaceholder"
@@ -107,6 +107,7 @@ msgstr "Je functieomschrijving"
 msgid "hrUpdate"
 msgstr "HR Update"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
 "Onderstaande gegevens geven de huidige staat van gegevens in Netsuite weer. "
@@ -454,6 +455,7 @@ msgid "mobilePhone"
 msgstr "Mobiele telefoon"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "Je mobiele telefoonnummer"
 
