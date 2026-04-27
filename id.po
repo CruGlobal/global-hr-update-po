@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:19+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Indonesian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/id/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgid "staffUnit"
 msgstr "Unit Staf"
@@ -44,6 +44,7 @@ msgstr ""
 msgid "hrUpdate"
 msgstr "Pembaruan SDM"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
 "Data di bawah ini mencerminkan keadaan data saat ini di Netsuite. Pengajuan "
@@ -374,6 +375,7 @@ msgid "mobilePhone"
 msgstr "Ponsel"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "Nomor ponsel Anda"
 
