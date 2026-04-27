@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Tamil <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ta/>\n"
 "Language: ta\n"
@@ -35,9 +35,8 @@ msgid "mobilePhone"
 msgstr "கைபேசி"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "உங்கள் மொபைல் எண்"
+msgstr "உங்கள் கைபேசி எண் +[நாட்டுக் குறியீடு], எ.கா., +1123456789"
 
 # Not used
 msgid "title"
@@ -476,11 +475,10 @@ msgstr "எ.கா: வீட்டு முகவரி"
 msgid "hrUpdate"
 msgstr "மனிதவள மேம்படுத்தல்"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"கீழே உள்ள தரவு Netsuite இல் உள்ள தரவின் தற்போதைய நிலையை பிரதிபலிக்கிறது. தேசிய மனிதவள பொதுவாதிகளால் இதுவரை "
-"அங்கீகரிக்கப்படாத முந்தைய சமர்ப்பிப்புகள் கீழே பிரதிபலிக்கப்படாது."
+"கீழே உள்ள தரவுகள் நெட்ஸ்விட்டில் உள்ள தற்போதைய தரவு நிலையைப் பிரதிபலிக்கிறது. தேசிய மனிதவளப் பொதுவியலாளர்களால் இன்னும்"
+" அங்கீகரிக்கப்படாத <strong> மற்றும் </strong> முந்தைய சமர்ப்பிப்புகள் கீழே பிரதிபலிக்கப்படாது."
 
 msgid "indicates required field"
 msgstr "தேவையான புலத்தை குறிக்கிறது"
@@ -526,3 +524,84 @@ msgstr "கொடுக்கின்ற தேசம்"
 
 msgid "Privacy policy"
 msgstr "தனியுரிமைக் கொள்கை"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "தேடலைத் தொடங்க %d எழுத்துகள் போதுமானவை."
+
+msgid "pfcoach"
+msgstr "நிலை: கவனம் பயிற்சியாளர்"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr ""
+"தேடல் சாளரத்தில் உங்கள் நிலை கவனம் பயிற்சியாளரின் பெயரைத் தட்டச்சு செய்யவும்."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "தேடலைத் தொடங்க %d எழுத்துகள் போதுமானவை."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "திரும்புக"
+
+msgid "reload"
+msgstr "மீளச்சுமை"
+
+msgid "confirm"
+msgstr "உறுதிப்படுத்து"
+
+msgid "noUpdates"
+msgstr "புதிய தகவல்கள் இல்லை"
+
+msgid "noChangeDescription"
+msgstr "ஒன்றும் மாறவில்லை."
+
+msgid "importantNote"
+msgstr "முக்கியக் குறிப்பு"
+
+msgid "confirmNotice"
+msgstr "நீங்கள் கீழே செய்த மாற்றங்கள், HRG-ஆல் அங்கீகரிக்கப்பட்டவுடன் தெரியும்."
+
+msgid "pleaseNote"
+msgstr "தயவுசெய்து கவனிக்கவும்"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"மேற்கண்ட மாற்றங்களை உறுதிப்படுத்தவும். மேலும் திருத்தங்கள் செய்ய BACK என்பதைக் கிளிக் செய்யவும் அல்லது உங்கள் "
+"மாற்றங்களை ஒப்புதலுக்காகச் சமர்ப்பிக்க CONFIRM என்பதைக் கிளிக் செய்யவும்."
+
+msgid "confirmTitle"
+msgstr "புதுப்பிப்பு கோரிக்கை சமர்ப்பிக்கப்பட்டது"
+
+msgid "confirmTitleDescription"
+msgstr "பின்வரும் மாற்றங்கள் ஒப்புதலுக்காக சமர்ப்பிக்கப்படும்."
+
+msgid "confirmFormTitle"
+msgstr "மாற்றங்கள் சமர்ப்பிக்கப்பட்டன"
+
+msgid "reloadOrClose"
+msgstr ""
+"நீங்கள் இன்னமும் மற்றொரு என்டிட்டியில் தரவைத் திருத்த Reload ஐ கிளிக் செய்யலாம் அல்லது உலாவி டேப்பை கைமுறையாக மூடலாம்."
+
+msgid "waitingForApprovalTitle"
+msgstr "ஒப்புதலுக்காகக் காத்திருப்பு"
+
+msgid "havePendingApprovalDescription"
+msgstr "உங்களுக்கு ஏற்கனவே ஒப்புதல் நிலுவையில் உள்ளது!"
+
+msgid "continueToEditButton"
+msgstr "தொடர்ந்து திருத்தவும்"
+
+msgid "successTitle"
+msgstr "வெற்றி!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"நீங்கள் மாற்றிய புலங்களுக்கு HRG ஒப்புதல் தேவையில்லை. யோர் மாற்றங்கள் வெற்றிகரமாகச் சேமிக்கப்பட்டுள்ளன."
+
+msgid "mobilePhoneError"
+msgstr ""
+"+[நாட்டுக் குறியீடு]-உடன் தொடங்கி தொலைபேசியை உள்ளிடவும், எ.கா., +1123456789"
