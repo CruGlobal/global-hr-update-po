@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Mongolian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/mn/>\n"
 "Language: mn\n"
@@ -44,12 +44,11 @@ msgstr ""
 msgid "hrUpdate"
 msgstr "Хүний нөөцийн шинэчлэл"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"Доорх өгөгдөл нь Netsuite дахь өгөгдлийн одоогийн төлөвийг тусгасан болно. "
-"Үндэсний хүний нөөцийн ерөнхий мэргэжилтнүүд хараахан батлагдаагүй өмнөх "
-"мэдүүлгийг доор тусгахгүй."
+"Доорх өгөгдөл нь Netsuite дахь одоогийн өгөгдлийн байдлыг харуулж байна. "
+"<strong>-д өмнө илгээсэн, National HR Generalists-аас </strong>-ээр "
+"батлагдаагүй өргөдлүүд доорх жагсаалтад тусгагдахгүй."
 
 msgid "help"
 msgstr "Туслаач"
@@ -387,9 +386,8 @@ msgid "mobilePhone"
 msgstr "Гар утас"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Таны гар утасны дугаар"
+msgstr "Таны гар утасны дугаар +[улсын код], жишээ нь, +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -527,3 +525,84 @@ msgstr "Гаргасан улс"
 
 msgid "Privacy policy"
 msgstr "Нууцлалын бодлого"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "Хайлтыг эхлүүлэхэд %d үсэг хангалттай."
+
+msgid "pfcoach"
+msgstr "Позицийн фокус дасгалжуулагч"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "Хайлтын цонхонд байрлалын фокусын дасгалжуулагчийнхаа нэрийг бичнэ үү."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "Хайлтыг эхлүүлэхэд %d үсэг хангалттай."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Буцах"
+
+msgid "reload"
+msgstr "Дахин ачаалах"
+
+msgid "confirm"
+msgstr "Баталгаажуулах"
+
+msgid "noUpdates"
+msgstr "Шинэчлэлт байхгүй"
+
+msgid "noChangeDescription"
+msgstr "Юу ч өөрчлөгдөөгүй."
+
+msgid "importantNote"
+msgstr "Чухал тэмдэглэл"
+
+msgid "confirmNotice"
+msgstr "Та доор хийсэн өөрчлөлтүүдээ HRG баталсны дараа харагдах болно."
+
+msgid "pleaseNote"
+msgstr "Анхаарна уу"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Дээрх өөрчлөлтүүдийг баталгаажуулна уу. Цааш засахын тулд \"Буцах\" товчийг, "
+"өөрчлөлтөө батлуулахад \"Баталгаажуулах\" товчийг дарна уу."
+
+msgid "confirmTitle"
+msgstr "Шинэчлэлтийн хүсэлтийг илгээв"
+
+msgid "confirmTitleDescription"
+msgstr "Дараах өөрчлөлтүүдийг батлагдахын тулд илгээх болно"
+
+msgid "confirmFormTitle"
+msgstr "Өөрчлөлт илгээгдлээ"
+
+msgid "reloadOrClose"
+msgstr ""
+"Та одоо ч өөр нэгэн объектод өгөгдөл засах эсвэл браузерийн табыг гараар "
+"хаахын тулд «Дахин ачаалах» товчийг дарж болно."
+
+msgid "waitingForApprovalTitle"
+msgstr "Зөвшөөрөл хүлээж байна"
+
+msgid "havePendingApprovalDescription"
+msgstr "Та аль хэдийн батлагдахаар хүлээгдэж байна!"
+
+msgid "continueToEditButton"
+msgstr "Засварыг үргэлжлүүлэх"
+
+msgid "successTitle"
+msgstr "Амжилт!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Та өөрчилсөн талбарууд HRG-ийн баталгаажуулалт шаарддаггүй.  Yor өөрчлөлтүүд "
+"амжилттай хадгалагдсан."
+
+msgid "mobilePhoneError"
+msgstr "Утасны дугаарыг +[улсын код]-оор эхлүүлэн оруулна, жишээ нь +1123456789"
