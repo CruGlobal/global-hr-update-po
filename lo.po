@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:19+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Lao <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/lo/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 # Main page title
 msgid "hrUpdate"
@@ -71,11 +71,12 @@ msgstr "ທີ່ຢູ່"
 msgid "addressPlaceholder"
 msgstr "ທີ່ຢູ່ຂອງທ່ານ (ສາມາດເປັນຫຼາຍແຖວ)"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
 "ຂໍ້ມູນຂ້າງລຸ່ມນີ້ສະທ້ອນເຖິງສະຖານະປັດຈຸບັນຂອງຂໍ້ມູນໃນ Netsuite. "
-"ການຍື່ນສະເຫນີທີ່ຜ່ານມາທີ່ຍັງບໍ່ທັນໄດ້ຮັບການອະນຸມັດໂດຍ National HR "
-"Generalists ຈະບໍ່ຖືກສະທ້ອນໃຫ້ເຫັນຂ້າງລຸ່ມນີ້."
+"ການຍື່ນສະເຫນີທີ່ຜ່ານມາທີ່ຍັງບໍ່ທັນໄດ້ຮັບການອະນຸມັດໂດຍ National HR Generalists "
+"ຈະບໍ່ຖືກສະທ້ອນໃຫ້ເຫັນຂ້າງລຸ່ມນີ້."
 
 msgid "requestValue"
 msgstr "ຄ່າທີ່ຮ້ອງຂໍ"
@@ -405,6 +406,7 @@ msgid "mobilePhone"
 msgstr "ໂທລະສັບມືຖື"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "ເບີໂທລະສັບມືຖືຂອງເຈົ້າ"
 
