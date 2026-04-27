@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:19+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
@@ -9,14 +9,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 # Main page title
 msgid "hrUpdate"
 msgstr "อัพเดทฝ่ายบุคคล"
 
+#, fuzzy
 msgid "entityNotice"
-msgstr "ข้อมูลด้านล่างแสดงถึงสถานะปัจจุบันของข้อมูลใน Netsuite การส่งก่อนหน้านี้ที่ยังไม่ได้รับการอนุมัติจาก National HR Generalists จะไม่แสดงให้เห็นด้านล่าง"
+msgstr ""
+"ข้อมูลด้านล่างแสดงถึงสถานะปัจจุบันของข้อมูลใน Netsuite การส่งก่อนหน้านี้ที่ยังไม่ได้รับการอนุมัติจาก "
+"National HR Generalists จะไม่แสดงให้เห็นด้านล่าง"
 
 msgid "birthDatePlaceholder"
 msgstr "วันเกิดของคุณ"
@@ -250,6 +253,7 @@ msgid "mobilePhone"
 msgstr "โทรศัพท์มือถือ"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "หมายเลขโทรศัพท์มือถือของคุณ"
 
