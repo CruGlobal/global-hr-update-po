@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Marathi <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/mr/>\n"
 "Language: mr\n"
@@ -603,3 +603,16 @@ msgstr ""
 
 msgid "mobilePhoneError"
 msgstr "फोन क्रमांक +[देश कोड] ने सुरू करून प्रविष्ट करा, उदा. +1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "आम्हाला अजूनही तुमचा Netsuite Id मिळत आहे, कृपया प्रतीक्षा करा."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "शोधत आहे"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"वेब सत्र कालबाह्य झाले आहे. कृपया पुन्हा प्रमाणीकृत करण्यासाठी पृष्ठ रीलोड करा."
+
+msgid "close"
+msgstr "बंद"
