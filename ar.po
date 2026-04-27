@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:19+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Arabic <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ar/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 # Main page title
 msgid "hrUpdate"
@@ -52,6 +52,7 @@ msgid "mobilePhone"
 msgstr "تليفون محمول"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "رقم الهاتف المحمول"
 
@@ -472,6 +473,7 @@ msgstr "المسمى الوظيفي"
 msgid "jobDescriptionPlaceholder"
 msgstr "الوصف الوظيفي الخاص بك"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
 "تعكس البيانات الواردة أدناه الحالة الحالية للبيانات في Netsuite. لن يتم عرض "
