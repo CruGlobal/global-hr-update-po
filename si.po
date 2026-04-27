@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Sinhala <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/si/>\n"
 "Language: si\n"
@@ -525,3 +525,16 @@ msgstr "නිකුත් කරන රට"
 
 msgid "Privacy policy"
 msgstr "රහස්යතා ප්රතිපත්තිය"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "අපි තවමත් ඔබේ Netsuite Id ලබා ගනිමින් සිටිමු, කරුණාකර රැඳී සිටින්න."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "සොයමින්"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"වෙබ් සැසිය කල් ඉකුත් වී ඇත. කරුණාකර නැවත සත්‍යාපනය කිරීමට පිටුව නැවත පූරණය කරන්න."
+
+msgid "close"
+msgstr "වසන්න"
