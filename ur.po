@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Urdu <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ur/>\n"
 "Language: ur\n"
@@ -186,12 +186,11 @@ msgstr ""
 "آپ کے ای میل ایڈریس سے مماثل متعدد ریکارڈز ہیں۔ براہ کرم ایک منتخب کریں جسے "
 "آپ اپ ڈیٹ کرنا چاہتے ہیں۔"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"نیچے دیا گیا ڈیٹا Netsuite میں ڈیٹا کی موجودہ حالت کو ظاہر کرتا ہے۔ پچھلی "
-"گذارشات جو ابھی تک نیشنل ایچ آر جنرلسٹس کے ذریعہ منظور نہیں ہوئی ہیں ذیل میں "
-"عکاسی نہیں کی جائیں گی۔"
+"نیچے دیا گیا ڈیٹا Netsuite میں موجودہ ڈیٹا کی صورتحال کو ظاہر کرتا ہے۔  "
+"<strong> کی پچھلی جمع کرائی گئی درخواستیں جنہیں National HR Generalists نے "
+"ابھی تک منظور نہیں کیا (</strong>)، نیچے ظاہر نہیں ہوں گی۔"
 
 msgid "help"
 msgstr "مدد"
@@ -447,9 +446,8 @@ msgid "mobilePhone"
 msgstr "موبائل فون"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "آپ کا موبائل فون نمبر"
+msgstr "آپ کا موبائل فون نمبر +[ملکی کوڈ]، مثلاً +1123456789"
 
 # Not used
 msgid "officePhone"
@@ -526,3 +524,85 @@ msgstr "جاری کرنے والا ملک"
 
 msgid "Privacy policy"
 msgstr "رازداری کی پالیسی"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "تلاش شروع کرنے کے لیے %d حروف کافی ہیں۔"
+
+msgid "pfcoach"
+msgstr "پوزیشن: فوکس کوچ"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "سرچ ونڈو میں اپنے پوزیشن فوکس کوچ کا نام ٹائپ کریں۔"
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "تلاش شروع کرنے کے لیے %d حروف کافی ہیں۔"
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "واپس"
+
+msgid "reload"
+msgstr "دوبارہ لوڈ کریں"
+
+msgid "confirm"
+msgstr "تصدیق کریں"
+
+msgid "noUpdates"
+msgstr "کوئی تازہ کاری نہیں"
+
+msgid "noChangeDescription"
+msgstr "کچھ بھی نہیں بدلا۔"
+
+msgid "importantNote"
+msgstr "اہم نوٹ"
+
+msgid "confirmNotice"
+msgstr "آپ نے نیچے جو تبدیلیاں کی ہیں وہ HRG کی منظوری کے بعد ظاہر ہوں گی۔"
+
+msgid "pleaseNote"
+msgstr "براہِ کرم نوٹ کریں"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"براہ کرم اوپر کی گئی تبدیلیوں کی تصدیق کریں۔ مزید ترامیم کے لیے آپ بیک پر "
+"کلک کر سکتے ہیں یا اپنی تبدیلیاں منظوری کے لیے جمع کروانے کے لیے کنفرم پر "
+"کلک کریں۔"
+
+msgid "confirmTitle"
+msgstr "اپ ڈیٹ کی درخواست جمع کر دی گئی"
+
+msgid "confirmTitleDescription"
+msgstr "مندرجہ ذیل تبدیلیاں منظوری کے لیے پیش کی جائیں گی۔"
+
+msgid "confirmFormTitle"
+msgstr "تبدیلیاں جمع کر دی گئی ہیں"
+
+msgid "reloadOrClose"
+msgstr ""
+"آپ اب بھی Reload پر کلک کر کے کسی دوسری اینٹیٹی میں ڈیٹا ترمیم کر سکتے ہیں "
+"یا براؤزر ٹیب کو دستی طور پر بند کر سکتے ہیں۔"
+
+msgid "waitingForApprovalTitle"
+msgstr "منظوری کا انتظار"
+
+msgid "havePendingApprovalDescription"
+msgstr "آپ کی منظوری پہلے ہی زیر التوا ہے!"
+
+msgid "continueToEditButton"
+msgstr "ترمیم جاری رکھیں"
+
+msgid "successTitle"
+msgstr "کامیابی!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"آپ نے جو فیلڈز تبدیل کی ہیں ان کے لیے HRG کی منظوری ضروری نہیں ہے۔  Yor "
+"تبدیلیاں کامیابی کے ساتھ محفوظ ہو چکی ہیں۔"
+
+msgid "mobilePhoneError"
+msgstr "فون نمبر درج کریں، جس کا آغاز +[ملکی کوڈ] سے ہو، مثلاً +1123456789"
