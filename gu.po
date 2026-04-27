@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Gujarati <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/gu/>\n"
 "Language: gu\n"
@@ -46,11 +46,10 @@ msgstr "મદદ"
 msgid "sent"
 msgstr "મોકલેલ"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"નીચેનો ડેટા Netsuite માં ડેટાની વર્તમાન સ્થિતિ દર્શાવે છે. અગાઉના સબમિશન કે જે હજુ સુધી રાષ્ટ્રીય એચઆર "
-"જનરલિસ્ટ્સ દ્વારા મંજૂર કરવામાં આવ્યા નથી તે નીચે પ્રતિબિંબિત થશે નહીં."
+"નીચે દર્શાવેલ ડેટા Netsuite માં વર્તમાન સ્થિતિ દર્શાવે છે.  <strong> દ્વારા અગાઉ સબમિટ કરેલી અને "
+"National HR Generalists દ્વારા હજી મંજૂર ન થયેલી </strong> નીચે દર્શાવવામાં નહીં આવે."
 
 msgid "chooseAnOption"
 msgstr "એક વિકલ્પ પસંદ કરો"
@@ -356,9 +355,8 @@ msgid "mobilePhone"
 msgstr "મોબાઈલ ફોન"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "તમારો મોબાઈલ ફોન નંબર"
+msgstr "તમારો મોબાઇલ ફોન નંબર +[દેશ કોડ], ઉદાહરણ તરીકે, +1123456789"
 
 # Not used
 msgid "officePhone"
@@ -525,3 +523,83 @@ msgstr "જારી દેશ"
 
 msgid "Privacy policy"
 msgstr "ગોપનીયતા નીતિ"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "શોધ શરૂ કરવા માટે %d અક્ષરો પૂરતા છે."
+
+msgid "pfcoach"
+msgstr "પદ: ફોકસ કોચ"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "શોધ વિંડોમાં તમારા પોઝિશન ફોકસ કોચનું નામ ટાઇપ કરો."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "શોધ શરૂ કરવા માટે %d અક્ષરો પૂરતા છે."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "પાછા"
+
+msgid "reload"
+msgstr "ફરીથી લોડ કરો"
+
+msgid "confirm"
+msgstr "પુષ્ટિ કરો"
+
+msgid "noUpdates"
+msgstr "કોઈ અપડેટ નથી"
+
+msgid "noChangeDescription"
+msgstr "કંઈપણ બદલાયું નથી."
+
+msgid "importantNote"
+msgstr "મહત્વપૂર્ણ નોંધ"
+
+msgid "confirmNotice"
+msgstr "તમે નીચે કરેલા ફેરફારો HRG દ્વારા મંજૂર થયા પછી દેખાશે."
+
+msgid "pleaseNote"
+msgstr "કૃપા કરીને નોંધો"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"કૃપા કરીને ઉપરોક્ત ફેરફારોની પુષ્ટિ કરો. વધુ સંપાદન કરવા માટે BACK પર ક્લિક કરો અથવા તમારા ફેરફારો મંજૂરી માટે "
+"સબમિટ કરવા CONFIRM પર ક્લિક કરો."
+
+msgid "confirmTitle"
+msgstr "અપડેટ વિનંતી સબમિટ કરવામાં આવી"
+
+msgid "confirmTitleDescription"
+msgstr "નીચેના ફેરફારો મંજૂરી માટે રજૂ કરવામાં આવશે"
+
+msgid "confirmFormTitle"
+msgstr "ફેરફારો સબમિટ કરવામાં આવ્યા"
+
+msgid "reloadOrClose"
+msgstr ""
+"તમે હજી પણ Reload પર ક્લિક કરીને અન્ય એન્ટિટીમાં ડેટા સંપાદિત કરી શકો છો અથવા બ્રાઉઝર ટેબને મેન્યુઅલી બંધ "
+"કરી શકો છો."
+
+msgid "waitingForApprovalTitle"
+msgstr "મંજૂરીની રાહ"
+
+msgid "havePendingApprovalDescription"
+msgstr "તમારી મંજૂરી પહેલેથી જ પેન્ડિંગ છે!"
+
+msgid "continueToEditButton"
+msgstr "સંપાદન ચાલુ રાખો"
+
+msgid "successTitle"
+msgstr "સફળતા!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"તમે જે ફીલ્ડ્સમાં ફેરફાર કર્યા છે, તેમને HRG મંજૂરીની જરૂર નથી.  Yor ફેરફારો સફળતાપૂર્વક સાચવવામાં આવ્યા છે."
+
+msgid "mobilePhoneError"
+msgstr "ફોન નંબર +[દેશ કોડ]થી શરૂ કરીને દાખલ કરો, ઉદાહરણ તરીકે +1123456789"
