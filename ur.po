@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Urdu <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ur/>\n"
 "Language: ur\n"
@@ -606,3 +606,17 @@ msgstr ""
 
 msgid "mobilePhoneError"
 msgstr "فون نمبر درج کریں، جس کا آغاز +[ملکی کوڈ] سے ہو، مثلاً +1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "ہمیں ابھی بھی آپ کی Netsuite Id مل رہی ہے، براہ کرم انتظار کریں۔"
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "تلاش"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"ویب سیشن کا وقت ختم ہو گیا ہے۔ براہ کرم دوبارہ تصدیق کرنے کے لیے صفحہ کو "
+"دوبارہ لوڈ کریں۔"
+
+msgid "close"
+msgstr "بند کریں"
