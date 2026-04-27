@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Polish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/pl/>\n"
 "Language: pl\n"
@@ -37,20 +37,19 @@ msgid "mobilePhone"
 msgstr "Telefon komórkowy"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Numer telefonu komórkowego"
+msgstr "Twój numer telefonu komórkowego +[kod kraju], np. +1123456789"
 
 # Main page title
 msgid "hrUpdate"
 msgstr "Aktualizacja HR"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"Poniższe dane odzwierciedlają aktualny stan danych w Netsuite. Poprzednie "
-"zgłoszenia, które nie zostały jeszcze zatwierdzone przez National HR "
-"Generalists, nie zostaną odzwierciedlone poniżej."
+"Poniższe dane odzwierciedlają aktualny stan danych w systemie Netsuite. "
+"Wymienione poniżej nie zostaną uwzględnione, jeśli poprzednie zgłoszenia, "
+"które <strong> nie zostały jeszcze zatwierdzone </strong> przez krajowych "
+"specjalistów ds. kadr."
 
 msgid "help"
 msgstr "Pomoc"
@@ -529,3 +528,87 @@ msgstr "Kraj wydający"
 
 msgid "Privacy policy"
 msgstr "Polityka prywatności"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "Wystarczy %d liter, aby rozpocząć wyszukiwanie."
+
+msgid "pfcoach"
+msgstr "Trener ds. orientacji zawodowej"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr ""
+"Wpisz nazwisko swojego trenera ds. rozwoju zawodowego w oknie wyszukiwania."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "Wystarczy %d liter, aby rozpocząć wyszukiwanie."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Powrót"
+
+msgid "reload"
+msgstr "Odśwież"
+
+msgid "confirm"
+msgstr "Potwierdź"
+
+msgid "noUpdates"
+msgstr "Brak aktualizacji"
+
+msgid "noChangeDescription"
+msgstr "Nic się nie zmieniło."
+
+msgid "importantNote"
+msgstr "Ważna uwaga"
+
+msgid "confirmNotice"
+msgstr ""
+"Wprowadzone poniżej zmiany będą widoczne po ich zatwierdzeniu przez HRG."
+
+msgid "pleaseNote"
+msgstr "Uwaga"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Proszę zatwierdzić powyższe zmiany. Można kliknąć przycisk „WSTECZ”, aby "
+"wprowadzić dalsze zmiany, lub przycisk „POTWIERDŹ”, aby przesłać zmiany do "
+"zatwierdzenia."
+
+msgid "confirmTitle"
+msgstr "Wysłano prośbę o aktualizację"
+
+msgid "confirmTitleDescription"
+msgstr "Poniższe zmiany zostaną przedłożone do zatwierdzenia"
+
+msgid "confirmFormTitle"
+msgstr "Przesłane zmiany"
+
+msgid "reloadOrClose"
+msgstr ""
+"Możesz nadal kliknąć przycisk „Odśwież”, aby edytować dane w innym obiekcie, "
+"lub ręcznie zamknąć kartę przeglądarki."
+
+msgid "waitingForApprovalTitle"
+msgstr "Oczekiwanie na zatwierdzenie"
+
+msgid "havePendingApprovalDescription"
+msgstr "Masz już wniosek oczekujący na zatwierdzenie!"
+
+msgid "continueToEditButton"
+msgstr "Kontynuuj edycję"
+
+msgid "successTitle"
+msgstr "Udało się!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Zmiany wprowadzone w tych polach nie wymagają zatwierdzenia przez HRG. "
+"Zmiany zostały pomyślnie zapisane."
+
+msgid "mobilePhoneError"
+msgstr "Wpisz numer telefonu, zaczynając od +[kod kraju], np. +1123456789"
