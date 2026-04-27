@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:19+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Khmer (Central) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/km/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 # Close the pop-up window
 msgid "Close"
@@ -31,11 +31,11 @@ msgstr ""
 msgid "hrUpdate"
 msgstr "ការធ្វើបច្ចុប្បន្នភាពធនធានមនុស្ស"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"ទិន្នន័យខាងក្រោមឆ្លុះបញ្ចាំងពីស្ថានភាពបច្ចុប្បន្ននៃទិន្នន័យនៅក្នុង Netsuite ។"
-" ការដាក់ស្នើពីមុនដែលមិនទាន់ត្រូវបានអនុម័តដោយ National HR Generalists "
-"នឹងមិនត្រូវបានឆ្លុះបញ្ចាំងខាងក្រោមទេ។"
+"ទិន្នន័យខាងក្រោមឆ្លុះបញ្ចាំងពីស្ថានភាពបច្ចុប្បន្ននៃទិន្នន័យនៅក្នុង Netsuite ។ ការដាក់ស្នើពីមុនដែលមិនទាន់ត្រូវបានអនុម័តដោ"
+"យ National HR Generalists នឹងមិនត្រូវបានឆ្លុះបញ្ចាំងខាងក្រោមទេ។"
 
 msgid "help"
 msgstr "ជំនួយ"
@@ -374,6 +374,7 @@ msgid "mobilePhone"
 msgstr "ទូរស័ព្ទចល័ត"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "លេខទូរស័ព្ទចល័តរបស់អ្នក។"
 
