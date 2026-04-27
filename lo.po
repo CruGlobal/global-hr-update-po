@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Lao <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/lo/>\n"
 "Language: lo\n"
@@ -521,3 +521,15 @@ msgstr "ປະເທດທີ່ອອກ"
 
 msgid "Privacy policy"
 msgstr "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "ພວກເຮົາຍັງໄດ້ຮັບ Netsuite Id ຂອງທ່ານຢູ່, ກະລຸນາລໍຖ້າ."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "ກຳລັງຊອກຫາ"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr "ເຊດຊັນເວັບໝົດເວລາແລ້ວ. ກະລຸນາໂຫຼດໜ້ານີ້ຄືນໃໝ່ເພື່ອຢັ້ງຢືນຄືນໃໝ່."
+
+msgid "close"
+msgstr "ປິດ"
