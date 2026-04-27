@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Albanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/sq/>\n"
 "Language: sq\n"
@@ -612,3 +612,17 @@ msgstr ""
 msgid "mobilePhoneError"
 msgstr ""
 "Futni numrin e telefonit duke filluar me +[Kodi i vendit], p.sh., +1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "Ne ende po marrim ID-në tuaj të Netsuite, ju lutemi prisni."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "duke kërkuar"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"Koha e seancës së internetit ka mbaruar. Ju lutemi ringarkoni faqen për ta "
+"riafirmuar."
+
+msgid "close"
+msgstr "Mbylle"
