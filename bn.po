@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:19+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Bengali <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/bn/>\n"
@@ -9,17 +9,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 # Main page title
 msgid "hrUpdate"
 msgstr "এইচআর আপডেট"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"নীচের ডেটা Netsuite-এ ডেটার বর্তমান অবস্থা প্রতিফলিত করে। ন্যাশনাল এইচআর "
-"জেনারেলিস্টদের দ্বারা এখনও অনুমোদিত হয়নি এমন পূর্ববর্তী জমাগুলি নীচে "
-"প্রতিফলিত হবে না।"
+"নীচের ডেটা Netsuite-এ ডেটার বর্তমান অবস্থা প্রতিফলিত করে। ন্যাশনাল এইচআর জেনারেলিস্টদের দ্বারা এখনও "
+"অনুমোদিত হয়নি এমন পূর্ববর্তী জমাগুলি নীচে প্রতিফলিত হবে না।"
 
 msgid "help"
 msgstr "সাহায্য"
@@ -366,6 +366,7 @@ msgid "mobilePhone"
 msgstr "মোবাইল ফোন"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "আপনার মোবাইল ফোন নম্বর"
 
