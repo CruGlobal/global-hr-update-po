@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: German <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/de/>\n"
 "Language: de\n"
@@ -221,9 +221,8 @@ msgid "mobilePhone"
 msgstr "Mobiltelefon"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Ihre Handynummer"
+msgstr "Ihre Handynummer +[Ländervorwahl], z. B. +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -341,12 +340,12 @@ msgstr "Ihre Stellenbeschreibung"
 msgid "hrUpdate"
 msgstr "HR-Update"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
 "Die folgenden Daten spiegeln den aktuellen Stand der Daten in Netsuite "
-"wider. Frühere Einreichungen, die noch nicht von den National HR Generalists "
-"genehmigt wurden, werden hier nicht wiedergegeben."
+"wider. Frühere Einreichungen, die <strong> von den nationalen HR-"
+"Generalisten noch nicht genehmigt wurden </strong>, werden unten nicht "
+"angezeigt."
 
 msgid "help"
 msgstr "Hilfe"
@@ -527,3 +526,89 @@ msgstr "Ausstellendes Land"
 
 msgid "Privacy policy"
 msgstr "Datenschutzbestimmungen"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "%d Buchstaben reichen aus, um die Suche zu starten."
+
+msgid "pfcoach"
+msgstr "Position: Fokus-Coach"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "Geben Sie den Namen Ihres Positions-Fokus-Coaches in das Suchfeld ein."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "%d Buchstaben reichen aus, um die Suche zu starten."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Zurück"
+
+msgid "reload"
+msgstr "Neu laden"
+
+msgid "confirm"
+msgstr "Bestätigen"
+
+msgid "noUpdates"
+msgstr "Keine Aktualisierungen"
+
+msgid "noChangeDescription"
+msgstr "Es hat sich nichts geändert."
+
+msgid "importantNote"
+msgstr "Wichtiger Hinweis"
+
+msgid "confirmNotice"
+msgstr ""
+"Die unten vorgenommenen Änderungen werden sichtbar, sobald sie von HRG "
+"genehmigt wurden."
+
+msgid "pleaseNote"
+msgstr "Bitte beachten Sie"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Bitte bestätigen Sie die oben genannten Änderungen. Sie können auf „ZURÜCK“ "
+"klicken, um weitere Änderungen vorzunehmen, oder auf „BESTÄTIGEN“, um Ihre "
+"Änderungen zur Genehmigung einzureichen."
+
+msgid "confirmTitle"
+msgstr "Aktualisierungsanfrage gesendet"
+
+msgid "confirmTitleDescription"
+msgstr "Die folgenden Änderungen werden zur Genehmigung vorgelegt"
+
+msgid "confirmFormTitle"
+msgstr "Änderungen eingereicht"
+
+msgid "reloadOrClose"
+msgstr ""
+"Sie können weiterhin auf „Neu laden“ klicken, um Daten in einer anderen "
+"Entität zu bearbeiten, oder den Browser-Tab manuell schließen."
+
+msgid "waitingForApprovalTitle"
+msgstr "Warten auf die Genehmigung"
+
+msgid "havePendingApprovalDescription"
+msgstr "Du hast bereits eine ausstehende Genehmigung!"
+
+msgid "continueToEditButton"
+msgstr "Weiter bearbeiten"
+
+msgid "successTitle"
+msgstr "Geschafft!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Die von Ihnen geänderten Felder bedürfen keiner Genehmigung durch die "
+"Personalabteilung. Ihre Änderungen wurden erfolgreich gespeichert."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Geben Sie die Telefonnummer ein, beginnend mit +[Ländervorwahl], z. B. "
+"+1123456789"
