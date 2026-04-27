@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Arabic <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ar/>\n"
 "Language: ar\n"
@@ -52,9 +52,8 @@ msgid "mobilePhone"
 msgstr "تليفون محمول"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "رقم الهاتف المحمول"
+msgstr "رقم هاتفك المحمول +[رمز البلد]، على سبيل المثال: +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -473,12 +472,11 @@ msgstr "المسمى الوظيفي"
 msgid "jobDescriptionPlaceholder"
 msgstr "الوصف الوظيفي الخاص بك"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"تعكس البيانات الواردة أدناه الحالة الحالية للبيانات في Netsuite. لن يتم عرض "
-"الطلبات السابقة التي لم تتم الموافقة عليها بعد من قبل اختصاصي الموارد "
-"البشرية الوطنيين أدناه."
+"تعكس البيانات الواردة أدناه الحالة الحالية للبيانات في Netsuite. ولن تظهر "
+"أدناه الطلبات السابقة التي لم تتم الموافقة عليها بعد من قِبل "
+"\"المتخصصين الوطنيين في الموارد البشرية\" (<strong>) </strong>."
 
 msgid "Select Entity"
 msgstr "حدد الكيان"
@@ -532,3 +530,83 @@ msgstr "بلد الاصدار"
 
 msgid "Privacy policy"
 msgstr "سياسة الخصوصية"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "يكفي إدخال %d حرفًا لبدء البحث."
+
+msgid "pfcoach"
+msgstr "مدرب متخصص في تحديد المواقع"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "اكتب اسم مدرب التركيز الخاص بك في نافذة البحث."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "يكفي إدخال %d حرفًا لبدء البحث."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "العودة"
+
+msgid "reload"
+msgstr "إعادة التحميل"
+
+msgid "confirm"
+msgstr "تأكيد"
+
+msgid "noUpdates"
+msgstr "لا توجد تحديثات"
+
+msgid "noChangeDescription"
+msgstr "لم يتغير شيء."
+
+msgid "importantNote"
+msgstr "ملاحظة مهمة"
+
+msgid "confirmNotice"
+msgstr ""
+"ستظهر التغييرات التي أجريتها أدناه بمجرد موافقة فريق الموارد البشرية عليها."
+
+msgid "pleaseNote"
+msgstr "يرجى ملاحظة"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"يرجى تأكيد التغييرات المذكورة أعلاه. يمكنك النقر على «رجوع» لإجراء المزيد من "
+"التعديلات أو النقر على «تأكيد» لإرسال التغييرات للموافقة عليها."
+
+msgid "confirmTitle"
+msgstr "تم إرسال طلب التحديث"
+
+msgid "confirmTitleDescription"
+msgstr "سيتم تقديم التغييرات التالية للموافقة عليها"
+
+msgid "confirmFormTitle"
+msgstr "التغييرات التي تم إرسالها"
+
+msgid "reloadOrClose"
+msgstr ""
+"لا يزال بإمكانك النقر على \"تحديث\" لتعديل البيانات في كيان آخر أو إغلاق "
+"علامة تبويب المتصفح يدويًّا."
+
+msgid "waitingForApprovalTitle"
+msgstr "في انتظار الموافقة"
+
+msgid "havePendingApprovalDescription"
+msgstr "لديك بالفعل طلب قيد الموافقة!"
+
+msgid "continueToEditButton"
+msgstr "متابعة التحرير"
+
+msgid "successTitle"
+msgstr "نجاح!"
+
+msgid "directSubmisionDescription"
+msgstr "الحقول التي قمت بتعديلها لا تتطلب موافقة HRG. تم حفظ التغييرات بنجاح."
+
+msgid "mobilePhoneError"
+msgstr "أدخل رقم الهاتف بدءًا بـ +[رمز البلد]، على سبيل المثال: +1123456789"
