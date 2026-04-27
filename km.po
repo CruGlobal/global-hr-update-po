@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Khmer (Central) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/km/>\n"
 "Language: km\n"
@@ -522,3 +522,15 @@ msgstr "ប្រទេសចេញ"
 
 msgid "Privacy policy"
 msgstr "គោលការណ៍​ភាព​ឯកជន"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "យើងនៅតែទទួលបានលេខសម្គាល់ Netsuite របស់អ្នក សូមរង់ចាំ។"
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "កំពុងស្វែងរក"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr "វគ្គបណ្តាញបានអស់ពេលហើយ។ សូមផ្ទុកទំព័រឡើងវិញ ដើម្បីផ្ទៀងផ្ទាត់ឡើងវិញ។"
+
+msgid "close"
+msgstr "បិទ"
