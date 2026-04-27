@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Urdu <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ur/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgid "sending"
 msgstr "بھیج رہا ہے۔"
@@ -186,6 +186,7 @@ msgstr ""
 "آپ کے ای میل ایڈریس سے مماثل متعدد ریکارڈز ہیں۔ براہ کرم ایک منتخب کریں جسے "
 "آپ اپ ڈیٹ کرنا چاہتے ہیں۔"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
 "نیچے دیا گیا ڈیٹا Netsuite میں ڈیٹا کی موجودہ حالت کو ظاہر کرتا ہے۔ پچھلی "
@@ -446,6 +447,7 @@ msgid "mobilePhone"
 msgstr "موبائل فون"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "آپ کا موبائل فون نمبر"
 
