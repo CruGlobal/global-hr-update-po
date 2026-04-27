@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Tamil <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ta/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgid "inactive"
 msgstr "செயலற்றது"
@@ -35,6 +35,7 @@ msgid "mobilePhone"
 msgstr "கைபேசி"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "உங்கள் மொபைல் எண்"
 
@@ -475,11 +476,11 @@ msgstr "எ.கா: வீட்டு முகவரி"
 msgid "hrUpdate"
 msgstr "மனிதவள மேம்படுத்தல்"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"கீழே உள்ள தரவு Netsuite இல் உள்ள தரவின் தற்போதைய நிலையை பிரதிபலிக்கிறது. தேசி"
-"ய மனிதவள பொதுவாதிகளால் இதுவரை அங்கீகரிக்கப்படாத முந்தைய சமர்ப்பிப்புகள் கீழே "
-"பிரதிபலிக்கப்படாது."
+"கீழே உள்ள தரவு Netsuite இல் உள்ள தரவின் தற்போதைய நிலையை பிரதிபலிக்கிறது. தேசிய மனிதவள பொதுவாதிகளால் இதுவரை "
+"அங்கீகரிக்கப்படாத முந்தைய சமர்ப்பிப்புகள் கீழே பிரதிபலிக்கப்படாது."
 
 msgid "indicates required field"
 msgstr "தேவையான புலத்தை குறிக்கிறது"
