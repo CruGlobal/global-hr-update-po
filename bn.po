@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Bengali <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/bn/>\n"
 "Language: bn\n"
@@ -15,11 +15,10 @@ msgstr ""
 msgid "hrUpdate"
 msgstr "এইচআর আপডেট"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"নীচের ডেটা Netsuite-এ ডেটার বর্তমান অবস্থা প্রতিফলিত করে। ন্যাশনাল এইচআর জেনারেলিস্টদের দ্বারা এখনও "
-"অনুমোদিত হয়নি এমন পূর্ববর্তী জমাগুলি নীচে প্রতিফলিত হবে না।"
+"নীচের তথ্যটি নেটসুইটে বর্তমান ডেটার অবস্থা প্রতিফলিত করে। পূর্বে জমা দেওয়া যেসব আবেদন <strong> জাতীয় "
+"এইচআর জেনারেলিস্টদের দ্বারা এখনও অনুমোদিত হয়নি </strong>, সেগুলো নীচে প্রতিফলিত হবে না।"
 
 msgid "help"
 msgstr "সাহায্য"
@@ -366,9 +365,8 @@ msgid "mobilePhone"
 msgstr "মোবাইল ফোন"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "আপনার মোবাইল ফোন নম্বর"
+msgstr "আপনার মোবাইল ফোন নম্বর +[দেশ কোড], উদাহরণস্বরূপ, +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -525,3 +523,85 @@ msgstr "প্রদানকারী দেশে"
 
 msgid "Privacy policy"
 msgstr "গোপনীয়তা নীতি"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "অনুসন্ধান শুরু করতে %dটি অক্ষরই যথেষ্ট।"
+
+msgid "pfcoach"
+msgstr "পজিশন ফোকাস কোচ"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "অনুসন্ধান উইন্ডোতে আপনার পজিশন ফোকাস কোচের নাম টাইপ করুন।"
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "অনুসন্ধান শুরু করতে %dটি অক্ষরই যথেষ্ট।"
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "পিছনে"
+
+msgid "reload"
+msgstr "পুনরায় লোড করুন"
+
+msgid "confirm"
+msgstr "নিশ্চিত করুন"
+
+msgid "noUpdates"
+msgstr "কোনও আপডেট নেই"
+
+msgid "noChangeDescription"
+msgstr "কিছুই বদলায়নি।"
+
+msgid "importantNote"
+msgstr "গুরুত্বপূর্ণ নোট"
+
+msgid "confirmNotice"
+msgstr ""
+"আপনি নিচের যে পরিবর্তনগুলো করেছেন, সেগুলো HRG অনুমোদন করার পর দৃশ্যমান হবে।"
+
+msgid "pleaseNote"
+msgstr "অনুগ্রহ করে লক্ষ্য করুন"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"অনুগ্রহ করে উপরের পরিবর্তনগুলি নিশ্চিত করুন। আপনি আরও সম্পাদনা করতে BACK ক্লিক করতে পারেন অথবা আপনার "
+"পরিবর্তনগুলি অনুমোদনের জন্য জমা দিতে CONFIRM ক্লিক করতে পারেন।"
+
+msgid "confirmTitle"
+msgstr "আপডেট অনুরোধ জমা দেওয়া হয়েছে"
+
+msgid "confirmTitleDescription"
+msgstr "নিম্নলিখিত পরিবর্তনগুলি অনুমোদনের জন্য জমা দেওয়া হবে।"
+
+msgid "confirmFormTitle"
+msgstr "পরিবর্তন জমা দেওয়া হয়েছে"
+
+msgid "reloadOrClose"
+msgstr ""
+"আপনি এখনও অন্য এন্টিটিতে ডেটা সম্পাদনা করতে Reload-এ ক্লিক করতে পারেন অথবা ব্রাউজার ট্যাবটি ম্যানুয়ালি বন্"
+"ধ করতে পারেন।"
+
+msgid "waitingForApprovalTitle"
+msgstr "অনুমোদনের অপেক্ষায়"
+
+msgid "havePendingApprovalDescription"
+msgstr "আপনার ইতিমধ্যেই একটি অনুমোদন প্রক্রিয়াধীন আছে!"
+
+msgid "continueToEditButton"
+msgstr "সম্পাদনা চালিয়ে যান"
+
+msgid "successTitle"
+msgstr "সফলতা!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"আপনি যে ক্ষেত্রগুলো পরিবর্তন করেছেন সেগুলোর জন্য HRG অনুমোদন প্রয়োজন নেই।  Yor পরিবর্তনগুলো সফলভাবে "
+"সংরক্ষিত হয়েছে।"
+
+msgid "mobilePhoneError"
+msgstr "ফোন নম্বর +[দেশ কোড] দিয়ে শুরু করে লিখুন, উদাহরণস্বরূপ +1123456789"
