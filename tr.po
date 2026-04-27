@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Turkish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/tr/>\n"
 "Language: tr\n"
@@ -611,3 +611,17 @@ msgid "mobilePhoneError"
 msgstr ""
 "Telefon numarasını +[Ülke Kodu] ile başlayacak şekilde girin, örneğin "
 "+1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "Hala Netsuite Kimliğinizi alıyoruz, lütfen bekleyin."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "arama"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"Web oturumu zaman aşımına uğradı. Yeniden kimlik doğrulaması yapmak için "
+"lütfen sayfayı yeniden yükleyin."
+
+msgid "close"
+msgstr "Kapat"
