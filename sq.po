@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Albanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/sq/>\n"
 "Language: sq\n"
@@ -255,6 +255,7 @@ msgid "email"
 msgstr "E-mail"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "Numri juaj i telefonit celular"
 
