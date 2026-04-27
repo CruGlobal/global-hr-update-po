@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/nl/>\n"
 "Language: nl\n"
@@ -610,3 +610,16 @@ msgid "mobilePhoneError"
 msgstr ""
 "Voer het telefoonnummer in, beginnend met +[landcode], bijvoorbeeld "
 "+1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "We ontvangen nog steeds uw Netsuite-id, even geduld alstublieft."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "zoeken"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"De websessie is verlopen. Laad de pagina opnieuw om opnieuw te authenticeren."
+
+msgid "close"
+msgstr "Sluit"
