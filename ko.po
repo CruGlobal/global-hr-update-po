@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ko/>\n"
 "Language: ko\n"
@@ -300,6 +300,7 @@ msgid "mobilePhone"
 msgstr "휴대폰"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "휴대폰 번호"
 
