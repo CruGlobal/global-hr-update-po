@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Turkish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/tr/>\n"
 "Language: tr\n"
@@ -43,12 +43,11 @@ msgstr "Ülke"
 msgid "hrUpdate"
 msgstr "İK Güncellemesi"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"Aşağıdaki veriler, Netsuite'deki verilerin mevcut durumunu yansıtmaktadır. "
-"Henüz Ulusal İK Genel Müdürleri tarafından onaylanmamış önceki gönderimler "
-"aşağıda yansıtılmayacaktır."
+"Aşağıdaki veriler, Netsuite'teki verilerin mevcut durumunu yansıtmaktadır. "
+"<strong> adresinden gönderilen ve Ulusal İK Uzmanları tarafından henüz "
+"onaylanmamış olan başvurular </strong> aşağıda gösterilmeyecektir."
 
 msgid "help"
 msgstr "Yardım"
@@ -395,9 +394,8 @@ msgid "mobilePhone"
 msgstr "Cep Telefonu"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Cep telefonu numaranız"
+msgstr "Cep telefonu numaranız +[Ülke Kodu], örneğin +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -527,3 +525,89 @@ msgstr "İhraç Eden Ülke"
 
 msgid "Privacy policy"
 msgstr "Gizlilik Politikası"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "Aramaya başlamak için %d harf yeterlidir."
+
+msgid "pfcoach"
+msgstr "Pozisyon Odaklı Koç"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "Arama penceresine pozisyon odak koçunuzun adını yazın."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "Aramaya başlamak için %d harf yeterlidir."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Geri"
+
+msgid "reload"
+msgstr "Yeniden yükle"
+
+msgid "confirm"
+msgstr "Onayla"
+
+msgid "noUpdates"
+msgstr "Güncelleme yok"
+
+msgid "noChangeDescription"
+msgstr "Hiçbir şey değişmedi."
+
+msgid "importantNote"
+msgstr "Önemli Not"
+
+msgid "confirmNotice"
+msgstr ""
+"Aşağıda yaptığınız değişiklikler, HRG tarafından onaylandıktan sonra görünür "
+"hale gelecektir."
+
+msgid "pleaseNote"
+msgstr "Lütfen Dikkat Edin"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Lütfen yukarıdaki değişiklikleri onaylayın. Daha fazla düzenleme yapmak için "
+"GERİ düğmesine tıklayabilir veya değişikliklerinizi onay için göndermek "
+"üzere ONAYLA düğmesine tıklayabilirsiniz."
+
+msgid "confirmTitle"
+msgstr "Güncelleme İsteği Gönderildi"
+
+msgid "confirmTitleDescription"
+msgstr "Aşağıdaki değişiklikler onay için sunulacaktır"
+
+msgid "confirmFormTitle"
+msgstr "Değişiklikler Gönderildi"
+
+msgid "reloadOrClose"
+msgstr ""
+"Hala \"Yenile\" düğmesine tıklayarak başka bir varlıktaki verileri "
+"düzenleyebilir veya tarayıcı sekmesini manuel olarak kapatabilirsiniz."
+
+msgid "waitingForApprovalTitle"
+msgstr "Onay bekleniyor"
+
+msgid "havePendingApprovalDescription"
+msgstr "Zaten onay bekleyen bir başvurunuz var!"
+
+msgid "continueToEditButton"
+msgstr "Düzenlemeye devam et"
+
+msgid "successTitle"
+msgstr "Başarılı!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Değiştirdiğiniz alanlar için HRG onayı gerekmemektedir. Değişiklikleriniz "
+"başarıyla kaydedildi."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Telefon numarasını +[Ülke Kodu] ile başlayacak şekilde girin, örneğin "
+"+1123456789"
