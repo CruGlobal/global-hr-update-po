@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://alltongues.org/"
 "projects/netsuite-hr-update-app/user-interface/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -27,10 +27,10 @@ msgstr "有多条记录与您的电子邮件地址匹配。请选择要更新的
 msgid "hrUpdate"
 msgstr "人力资源最新情况"
 
-#, fuzzy
 msgid "entityNotice"
-msgstr "以下数据反映的是 Netsuite 中数据的当前状态。尚未获得国家人力资源综合专家批准"
-"的以前提交的数据将不在下面反映。"
+msgstr ""
+"以下数据反映了Netsuite中当前的数据状态。此前提交至<strong>但尚未获得国家人力"
+"资源通才（National HR Generalists）批准的申请（</strong>）将不会显示在下方。"
 
 msgid "help"
 msgstr "帮助"
@@ -365,9 +365,8 @@ msgid "mobilePhone"
 msgstr "移动电话"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "您的手机号码"
+msgstr "您的手机号码 +[国家代码]，例如：+1123456789"
 
 # Not used
 msgid "homePhone"
@@ -517,3 +516,79 @@ msgstr "发行国"
 
 msgid "Privacy policy"
 msgstr "隐私政策"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "输入%d个字母即可开始搜索。"
+
+msgid "pfcoach"
+msgstr "职位：专注教练"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "在搜索窗口中输入您的职位专员的姓名。"
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "输入%d个字母即可开始搜索。"
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "返回"
+
+msgid "reload"
+msgstr "重新加载"
+
+msgid "confirm"
+msgstr "确认"
+
+msgid "noUpdates"
+msgstr "暂无更新"
+
+msgid "noChangeDescription"
+msgstr "一切如旧。"
+
+msgid "importantNote"
+msgstr "重要提示"
+
+msgid "confirmNotice"
+msgstr "您在下方所做的更改将在获得 HRG 批准后生效。"
+
+msgid "pleaseNote"
+msgstr "请注意"
+
+msgid "pleaseNoteDescription"
+msgstr "请确认上述更改。您可以点击“返回”进行进一步编辑，或点击“确认”提交更改以供审批"
+"。"
+
+msgid "confirmTitle"
+msgstr "更新请求已提交"
+
+msgid "confirmTitleDescription"
+msgstr "以下变更将提交审批"
+
+msgid "confirmFormTitle"
+msgstr "已提交的更改"
+
+msgid "reloadOrClose"
+msgstr "您仍可点击“重新加载”来编辑其他实体中的数据，或手动关闭浏览器标签页。"
+
+msgid "waitingForApprovalTitle"
+msgstr "等待审批"
+
+msgid "havePendingApprovalDescription"
+msgstr "您已有待审批的申请！"
+
+msgid "continueToEditButton"
+msgstr "继续编辑"
+
+msgid "successTitle"
+msgstr "成功！"
+
+msgid "directSubmisionDescription"
+msgstr "您修改的字段无需人力资源部（HRG）审批。您的更改已成功保存。"
+
+msgid "mobilePhoneError"
+msgstr "请输入以 +[国家代码] 开头的电话号码，例如 +1123456789"
