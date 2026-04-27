@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Tamil <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ta/>\n"
 "Language: ta\n"
@@ -605,3 +605,16 @@ msgstr ""
 msgid "mobilePhoneError"
 msgstr ""
 "+[நாட்டுக் குறியீடு]-உடன் தொடங்கி தொலைபேசியை உள்ளிடவும், எ.கா., +1123456789"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "உங்கள் Netsuite ஐடியை நாங்கள் இன்னும் பெறுகிறோம், காத்திருக்கவும்."
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "தேடி"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"இணைய அமர்வு நேரம் முடிந்தது. மீண்டும் அங்கீகரிக்க பக்கத்தை மீண்டும் ஏற்றவும்."
+
+msgid "close"
+msgstr "நெருக்கமான"
