@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-30 02:10+0000\n"
+"PO-Revision-Date: 2026-04-29 02:19+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Sinhala <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/si/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgid "staffSpouse"
 msgstr "කාර්ය මණ්ඩල කලත්රයා"
@@ -76,11 +76,11 @@ msgstr "ආයතනය තෝරන්න"
 msgid "hrUpdate"
 msgstr "මානව සම්පත් යාවත්කාලීන කිරීම"
 
+#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"පහත දත්ත Netsuite හි වත්මන් දත්ත තත්ත්වය පිළිබිඹු කරයි. ජාතික මානව සම්පත් "
-"සාමාන්‍යවේදීන් විසින් තවමත් අනුමත කර නොමැති පෙර ඉදිරිපත් කිරීම් පහතින් "
-"පිළිබිඹු නොවේ."
+"පහත දත්ත Netsuite හි වත්මන් දත්ත තත්ත්වය පිළිබිඹු කරයි. ජාතික මානව සම්පත් සාමාන්‍යවේදීන් විසින් තවමත් අනු"
+"මත කර නොමැති පෙර ඉදිරිපත් කිරීම් පහතින් පිළිබිඹු නොවේ."
 
 msgid "help"
 msgstr "උදව්"
@@ -420,6 +420,7 @@ msgid "mobilePhone"
 msgstr "ජංගම දුරකථන"
 
 # Not used
+#, fuzzy
 msgid "mobilePhonePlaceholder"
 msgstr "ඔබගේ ජංගම දුරකථන අංකය"
 
