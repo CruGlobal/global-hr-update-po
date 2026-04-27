@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Vietnamese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/vi/>\n"
 "Language: vi\n"
@@ -176,9 +176,8 @@ msgid "mobilePhone"
 msgstr "Điện thoại di động"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Số điện thoại di động của bạn"
+msgstr "Số điện thoại di động của bạn +[Mã quốc gia], ví dụ: +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -188,12 +187,11 @@ msgstr "Điện thoại nhà"
 msgid "homePhonePlaceholder"
 msgstr "Số điện thoại nhà của bạn"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"Dữ liệu bên dưới phản ánh trạng thái hiện tại của dữ liệu trong Netsuite. "
-"Các bản đệ trình trước đây chưa được phê duyệt bởi National HR Generalists "
-"sẽ không được phản ánh bên dưới."
+"Dữ liệu dưới đây phản ánh tình trạng hiện tại của dữ liệu trong Netsuite. "
+"Các bản gửi trước đó mà <strong> chưa được các Chuyên viên Nhân sự Quốc gia "
+"phê duyệt </strong> sẽ không được hiển thị dưới đây."
 
 msgid "help"
 msgstr "Giúp đỡ"
@@ -523,3 +521,88 @@ msgstr "Nước phát hành"
 
 msgid "Privacy policy"
 msgstr "Chính sách bảo mật"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "Chỉ cần %d ký tự là đủ để bắt đầu tìm kiếm."
+
+msgid "pfcoach"
+msgstr "Huấn luyện viên chuyên trách vị trí"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr ""
+"Hãy nhập tên huấn luyện viên chuyên trách vị trí của bạn vào ô Tìm kiếm."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "Chỉ cần %d ký tự là đủ để bắt đầu tìm kiếm."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Quay lại"
+
+msgid "reload"
+msgstr "Tải lại"
+
+msgid "confirm"
+msgstr "Xác nhận"
+
+msgid "noUpdates"
+msgstr "Không có cập nhật"
+
+msgid "noChangeDescription"
+msgstr "Chẳng có gì thay đổi cả."
+
+msgid "importantNote"
+msgstr "Lưu ý quan trọng"
+
+msgid "confirmNotice"
+msgstr ""
+"Những thay đổi mà bạn đã thực hiện dưới đây sẽ được hiển thị sau khi được "
+"HRG phê duyệt."
+
+msgid "pleaseNote"
+msgstr "Xin lưu ý"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Vui lòng xác nhận các thay đổi ở trên. Bạn có thể nhấp vào QUAY LẠI để tiếp "
+"tục chỉnh sửa hoặc nhấp vào XÁC NHẬN để gửi các thay đổi của bạn để được phê "
+"duyệt."
+
+msgid "confirmTitle"
+msgstr "Yêu cầu cập nhật đã được gửi"
+
+msgid "confirmTitleDescription"
+msgstr "Các thay đổi sau đây sẽ được trình lên để phê duyệt"
+
+msgid "confirmFormTitle"
+msgstr "Các thay đổi đã được gửi"
+
+msgid "reloadOrClose"
+msgstr ""
+"Bạn vẫn có thể nhấp vào \"Tải lại\" để chỉnh sửa dữ liệu trong một thực thể "
+"khác hoặc đóng tab trình duyệt theo cách thủ công."
+
+msgid "waitingForApprovalTitle"
+msgstr "Đang chờ phê duyệt"
+
+msgid "havePendingApprovalDescription"
+msgstr "Bạn đã có một yêu cầu đang chờ phê duyệt!"
+
+msgid "continueToEditButton"
+msgstr "Tiếp tục chỉnh sửa"
+
+msgid "successTitle"
+msgstr "Thành công!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Các trường bạn đã sửa đổi không cần sự phê duyệt của HRG. Các thay đổi của "
+"bạn đã được lưu thành công."
+
+msgid "mobilePhoneError"
+msgstr "Nhập số điện thoại bắt đầu bằng +[Mã quốc gia], ví dụ: +1123456789"
