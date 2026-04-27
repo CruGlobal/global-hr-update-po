@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Thai <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/th/>\n"
 "Language: th\n"
@@ -15,11 +15,10 @@ msgstr ""
 msgid "hrUpdate"
 msgstr "อัพเดทฝ่ายบุคคล"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"ข้อมูลด้านล่างแสดงถึงสถานะปัจจุบันของข้อมูลใน Netsuite การส่งก่อนหน้านี้ที่ยังไม่ได้รับการอนุมัติจาก "
-"National HR Generalists จะไม่แสดงให้เห็นด้านล่าง"
+"ข้อมูลด้านล่างแสดงสถานะปัจจุบันของข้อมูลใน Netsuite การส่งข้อมูลก่อนหน้านี้ที่ <strong> "
+"ยังไม่ได้รับการอนุมัติจาก </strong> ของฝ่ายทรัพยากรบุคคลแห่งชาติจะไม่แสดงด้านล่างนี้"
 
 msgid "birthDatePlaceholder"
 msgstr "วันเกิดของคุณ"
@@ -253,9 +252,8 @@ msgid "mobilePhone"
 msgstr "โทรศัพท์มือถือ"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "หมายเลขโทรศัพท์มือถือของคุณ"
+msgstr "หมายเลขโทรศัพท์มือถือของคุณ +[รหัสประเทศ], เช่น +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -522,3 +520,83 @@ msgstr "ประเทศที่ออกเอกสาร"
 
 msgid "Privacy policy"
 msgstr "นโยบายความเป็นส่วนตัว"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "%d ตัวอักษรเพียงพอที่จะเริ่มการค้นหา"
+
+msgid "pfcoach"
+msgstr "ตำแหน่ง โค้ชเน้นจุดสำคัญ"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "พิมพ์ชื่อของโค้ชโฟกัสตำแหน่งของคุณในหน้าต่างค้นหา"
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "%d ตัวอักษรเพียงพอที่จะเริ่มการค้นหา"
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "กลับ"
+
+msgid "reload"
+msgstr "โหลดใหม่"
+
+msgid "confirm"
+msgstr "ยืนยัน"
+
+msgid "noUpdates"
+msgstr "ไม่มีอัปเดต"
+
+msgid "noChangeDescription"
+msgstr "ไม่มีอะไรเปลี่ยนแปลง"
+
+msgid "importantNote"
+msgstr "หมายเหตุสำคัญ"
+
+msgid "confirmNotice"
+msgstr ""
+"การเปลี่ยนแปลงที่คุณทำไว้ด้านล่างจะปรากฏให้เห็นเมื่อได้รับการอนุมัติจาก HRG"
+
+msgid "pleaseNote"
+msgstr "โปรดทราบ"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"กรุณายืนยันการเปลี่ยนแปลงข้างต้น "
+"คุณสามารถคลิกย้อนกลับเพื่อแก้ไขเพิ่มเติมหรือคลิกยืนยันเพื่อส่งการเปลี่ยนแปลงของคุณเพื่อขออนุมัติ"
+
+msgid "confirmTitle"
+msgstr "คำขออัปเดตถูกส่งแล้ว"
+
+msgid "confirmTitleDescription"
+msgstr "การเปลี่ยนแปลงต่อไปนี้จะถูกส่งเพื่อขออนุมัติ"
+
+msgid "confirmFormTitle"
+msgstr "การเปลี่ยนแปลงที่ส่งแล้ว"
+
+msgid "reloadOrClose"
+msgstr ""
+"คุณยังสามารถคลิก Reload เพื่อแก้ไขข้อมูลในเอนทิตีอื่นหรือปิดแท็บเบราว์เซอร์ด้วยตนเองได้"
+
+msgid "waitingForApprovalTitle"
+msgstr "รอการอนุมัติ"
+
+msgid "havePendingApprovalDescription"
+msgstr "คุณมีคำขอรอการอนุมัติอยู่แล้ว!"
+
+msgid "continueToEditButton"
+msgstr "ดำเนินการแก้ไขต่อไป"
+
+msgid "successTitle"
+msgstr "สำเร็จ!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"ฟิลด์ที่คุณได้แก้ไขไม่ต้องการการอนุมัติจาก HRG. การเปลี่ยนแปลงของคุณได้ถูกบันทึกไว้สำเร็จแล้ว."
+
+msgid "mobilePhoneError"
+msgstr "กรุณากรอกหมายเลขโทรศัพท์ที่ขึ้นต้นด้วย +[รหัสประเทศ] เช่น +1123456789"
