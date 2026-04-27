@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Albanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/sq/>\n"
 "Language: sq\n"
@@ -171,12 +171,11 @@ msgstr "Anulo"
 msgid "hrUpdate"
 msgstr "Përditësimi i burimeve njerëzore"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"Të dhënat e mëposhtme pasqyrojnë gjendjen aktuale të të dhënave në Netsuite. "
-"Parashtresat e mëparshme që nuk janë miratuar ende nga Gjeneralistët "
-"Kombëtarë të BNj nuk do të pasqyrohen më poshtë."
+"Të dhënat më poshtë pasqyrojnë gjendjen aktuale të të dhënave në Netsuite. "
+"Dorëzimet e mëparshme që nuk janë miratuar ende nga National HR Generalists "
+"në <strong></strong> nuk do të pasqyrohen më poshtë."
 
 msgid "sent"
 msgstr "Dërguar"
@@ -255,9 +254,8 @@ msgid "email"
 msgstr "E-mail"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Numri juaj i telefonit celular"
+msgstr "Numri yt i telefonit celular +[Kodi i vendit], p.sh., +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -527,3 +525,90 @@ msgstr "Vend i lëshimit"
 
 msgid "Privacy policy"
 msgstr "Politika e privatësisë"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "%d shkronja janë të mjaftueshme për të filluar kërkimin."
+
+msgid "pfcoach"
+msgstr "Pozicion: Trajner i fokusit"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr ""
+"Shkruani emrin e trajnerit tuaj të fokusit në pozicion në dritaren e "
+"kërkimit."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "%d shkronja janë të mjaftueshme për të filluar kërkimin."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Përsëri"
+
+msgid "reload"
+msgstr "Rikarkim"
+
+msgid "confirm"
+msgstr "Konfirmo"
+
+msgid "noUpdates"
+msgstr "Asnjë përditësim"
+
+msgid "noChangeDescription"
+msgstr "Asgjë nuk ka ndryshuar."
+
+msgid "importantNote"
+msgstr "Shënim i rëndësishëm"
+
+msgid "confirmNotice"
+msgstr ""
+"Ndryshimet që keni bërë më poshtë do të jenë të dukshme sapo të miratohen "
+"nga HRG."
+
+msgid "pleaseNote"
+msgstr "Ju lutemi vini re"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Ju lutem konfirmoni ndryshimet e mësipërme. Mund të klikoni PRAPË për të "
+"bërë redaktime të mëtejshme ose klikoni KONFIRMO për të dërguar ndryshimet "
+"tuaja për miratim."
+
+msgid "confirmTitle"
+msgstr "Kërkesa për përditësim është dërguar"
+
+msgid "confirmTitleDescription"
+msgstr "Ndryshimet e mëposhtme do të dorëzohen për miratim."
+
+msgid "confirmFormTitle"
+msgstr "Ndryshimet e dorëzuara"
+
+msgid "reloadOrClose"
+msgstr ""
+"Ju mund të klikoni ende Reload për të redaktuar të dhënat në një entitet "
+"tjetër ose për të mbyllur manualisht skedën e shfletuesit."
+
+msgid "waitingForApprovalTitle"
+msgstr "Në pritje të miratimit"
+
+msgid "havePendingApprovalDescription"
+msgstr "Ju tashmë keni një miratim në pritje!"
+
+msgid "continueToEditButton"
+msgstr "Vazhdo të redaktosh"
+
+msgid "successTitle"
+msgstr "Sukses!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Fushat që keni modifikuar nuk kërkojnë miratimin e HRG. Ndryshimet e Yor "
+"janë ruajtur me sukses."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Futni numrin e telefonit duke filluar me +[Kodi i vendit], p.sh., +1123456789"
