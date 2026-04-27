@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Indonesian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/id/>\n"
 "Language: id\n"
@@ -44,12 +44,11 @@ msgstr ""
 msgid "hrUpdate"
 msgstr "Pembaruan SDM"
 
-#, fuzzy
 msgid "entityNotice"
 msgstr ""
-"Data di bawah ini mencerminkan keadaan data saat ini di Netsuite. Pengajuan "
-"sebelumnya yang belum disetujui oleh Generalis SDM Nasional tidak akan "
-"ditampilkan di bawah ini."
+"Data di bawah ini mencerminkan kondisi data terkini di Netsuite. Pengajuan "
+"sebelumnya yang <strong> belum disetujui </strong> oleh National HR "
+"Generalists tidak akan ditampilkan di bawah ini."
 
 msgid "help"
 msgstr "Bantuan"
@@ -375,9 +374,8 @@ msgid "mobilePhone"
 msgstr "Ponsel"
 
 # Not used
-#, fuzzy
 msgid "mobilePhonePlaceholder"
-msgstr "Nomor ponsel Anda"
+msgstr "Nomor ponsel Anda +[Kode Negara], misalnya, +1123456789"
 
 # Not used
 msgid "homePhone"
@@ -527,3 +525,89 @@ msgstr "Negara Penerbit"
 
 msgid "Privacy policy"
 msgstr "Kebijakan privasi"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "Cukup masukkan %d huruf untuk memulai pencarian."
+
+msgid "pfcoach"
+msgstr "Pelatih yang Berfokus pada Posisi"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "Ketik nama pelatih fokus posisi Anda di jendela Pencarian."
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "Cukup masukkan %d huruf untuk memulai pencarian."
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "back"
+msgstr "Kembali"
+
+msgid "reload"
+msgstr "Muat ulang"
+
+msgid "confirm"
+msgstr "Konfirmasi"
+
+msgid "noUpdates"
+msgstr "Tidak ada pembaruan"
+
+msgid "noChangeDescription"
+msgstr "Tidak ada yang berubah."
+
+msgid "importantNote"
+msgstr "Catatan Penting"
+
+msgid "confirmNotice"
+msgstr ""
+"Perubahan yang Anda lakukan di bawah ini akan terlihat setelah disetujui "
+"oleh HRG."
+
+msgid "pleaseNote"
+msgstr "Harap diperhatikan"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Silakan konfirmasi perubahan di atas. Anda dapat mengklik KEMBALI untuk "
+"melakukan pengeditan lebih lanjut atau mengklik KONFIRMASI untuk mengirimkan "
+"perubahan Anda agar disetujui."
+
+msgid "confirmTitle"
+msgstr "Permintaan Pembaruan Telah Dikirim"
+
+msgid "confirmTitleDescription"
+msgstr "Perubahan-perubahan berikut akan diajukan untuk disetujui"
+
+msgid "confirmFormTitle"
+msgstr "Perubahan Telah Dikirim"
+
+msgid "reloadOrClose"
+msgstr ""
+"Anda masih bisa mengklik \"Reload\" untuk mengedit data di entitas lain atau "
+"menutup tab browser secara manual."
+
+msgid "waitingForApprovalTitle"
+msgstr "Menunggu persetujuan"
+
+msgid "havePendingApprovalDescription"
+msgstr "Anda sudah memiliki permohonan yang sedang menunggu persetujuan!"
+
+msgid "continueToEditButton"
+msgstr "Lanjutkan mengedit"
+
+msgid "successTitle"
+msgstr "Berhasil!"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Kolom yang Anda ubah tidak memerlukan persetujuan HRG. Perubahan Anda telah "
+"berhasil disimpan."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Masukkan nomor telepon yang diawali dengan +[Kode Negara], misalnya "
+"+1123456789"
