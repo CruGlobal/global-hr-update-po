@@ -1,2 +1,542 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2026-05-07 00:46+0000\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Language-Team: Czech <https://alltongues.org/projects/netsuite-hr-update-app/"
+"user-interface/cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.14.3\n"
+
+msgid "dateConferredPlaceholder"
+msgstr "Datum udělení titulu"
+
+msgid "contactInformation"
+msgstr "Kontaktní údaje"
+
+msgid "postal code"
+msgstr "PSČ"
+
+msgid "sent"
+msgstr "Odesláno"
+
+msgid "deleted"
+msgstr "Smazáno"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Naši databázi obsahuje více záznamů odpovídajících vaší e-mailové adrese. "
+"Vyberte prosím ten, který chcete aktualizovat."
+
+msgid "chooseAnOption"
+msgstr "Vyberte možnost"
+
+msgid "zipPlaceholder"
+msgstr "Vaše PSČ"
+
+msgid "close"
+msgstr "Zavřít"
+
+msgid "confirmTitleDescription"
+msgstr "Následující změny budou předloženy ke schválení"
+
+msgid "emergencyContact"
+msgstr "Kontakt v případě nouze"
+
+msgid "middleName"
+msgstr "Druhé jméno"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Region, ve kterém působíte"
+
+msgid "lastNamePlaceholder"
+msgstr "Vaše příjmení"
+
+msgid "attentionPlaceholder"
+msgstr "např.: Pro Johna Doe"
+
+msgid "preferredName"
+msgstr "Preferované jméno"
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr ""
+"Do vyhledávacího okna zadejte jméno svého kouče zaměřeného na danou pozici."
+
+msgid "title"
+msgstr "Název"
+
+msgid "issuingCountry"
+msgstr "Vydávající země"
+
+msgid "hrUpdate"
+msgstr "Novinky z personálního oddělení"
+
+msgid "supervisorNote"
+msgstr "Poznámka nadřízeného"
+
+msgid "officePhonePlaceholder"
+msgstr "Číslo vašeho pracovního telefonu"
+
+msgid "terminationDate"
+msgstr "Datum ukončení"
+
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Právě se nacházíte na stránce <strong>, která je stará </strong> rok"
+msgstr[1] "Je ti momentálně <strong> %d </strong> let"
+msgstr[2] "Je ti momentálně <strong> %d </strong> let"
+
+msgid "contactAddressPlaceholder"
+msgstr "Úplná adresa kontaktní osoby"
+
+msgid "havePendingApprovalDescription"
+msgstr "Máte již žádost čekající na schválení!"
+
+msgid "secondLastName"
+msgstr "Předposlední příjmení"
+
+msgid "Privacy policy"
+msgstr "Zásady ochrany osobních údajů"
+
+msgid "numberPlaceholder"
+msgstr "Číslo vašeho občanského průkazu"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Vyberte svůj rodinný stav"
+
+msgid "confirmFormTitle"
+msgstr "Zaslané změny"
+
+msgid "countryPlaceholder"
+msgstr "Vaše země"
+
+msgid "educationInformation"
+msgstr "Informace o vzdělávání"
+
+msgid "inactive"
+msgstr "Neaktivní"
+
+msgid "personalDetails"
+msgstr "Osobní údaje"
+
+msgid "firstName"
+msgstr "Křestní jméno"
+
+msgid "for shipping"
+msgstr "za dopravu"
+
+msgid "address line 1"
+msgstr "Adresní řádek 1"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "vyhledávání"
+
+msgid "hrDepartment"
+msgstr "Strategie / Kapacita (personální oddělení v Netsuite)"
+
+msgid "graduatedAgeCalculator"
+msgstr "Vystudoval jsi, když ti bylo"
+
+msgid "relationshipPlaceholder"
+msgstr "Jaký vztah má tato osoba k tobě"
+
+msgid "address line 2 placeholder"
+msgstr "Další řádek (v případě potřeby)"
+
+msgid "sameAsPermanent"
+msgstr "stejné jako trvalé"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "email"
+msgstr "E-mail"
+
+msgid "middleNamePlaceholder"
+msgstr "Tvé druhé jméno"
+
+msgid "officePhone"
+msgstr "Služební telefon"
+
+msgid "noUpdates"
+msgstr "Žádné aktualizace"
+
+msgid "staffUnitPlaceholder"
+msgstr "Příjmení, jméno nebo Příjmení, jeho jméno a její jméno."
+
+msgid "terminationReason"
+msgstr "Důvod ukončení"
+
+msgid "geographicAreaOfService"
+msgstr "Geografická oblast působnosti"
+
+msgid "type"
+msgstr "Typ"
+
+msgid "continueToEditButton"
+msgstr "Pokračovat v úpravách"
+
+msgid "submit"
+msgstr "Odeslat"
+
+msgid "relationship"
+msgstr "Vztah"
+
+msgid "waitingForApprovalTitle"
+msgstr "Čekám na schválení"
+
+msgid "addressBook"
+msgstr "Adresář"
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "vyhledávání"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "help"
+msgstr "Nápověda"
+
+msgid "zip"
+msgstr "PSČ"
+
+msgid "back"
+msgstr "Zpět"
+
+msgid "phone"
+msgstr "Telefon"
+
+msgid "sorry"
+msgstr "Promiň"
+
+msgid "delete"
+msgstr "Smazat"
+
+msgid "confirmNotice"
+msgstr ""
+"Změny, které jste provedli níže, budou viditelné, jakmile je schválí HRG."
+
+msgid "stateProvince"
+msgstr "Stát/Provincie"
+
+msgid "positionRole"
+msgstr "Pozice/funkce"
+
+msgid "familyInformation"
+msgstr "Informace o rodině"
+
+msgid "scope"
+msgstr "Rozsah"
+
+msgid "city"
+msgstr "Město"
+
+msgid "staffSpouse"
+msgstr "Manžel/manželka zaměstnance"
+
+msgid "ok"
+msgstr "Dobře"
+
+msgid "indicates required field"
+msgstr "označuje povinné pole"
+
+msgid "gender"
+msgstr "Pohlaví"
+
+msgid "number"
+msgstr "Číslo"
+
+msgid "expirationDateText"
+msgstr "Vaše přihlašovací údaje již vypršely."
+
+msgid "thankYou"
+msgstr "Děkuji"
+
+msgid "address line 1 placeholder"
+msgstr "Vaše adresa"
+
+msgid "entityNotice"
+msgstr ""
+"Níže uvedené údaje odrážejí aktuální stav dat v systému Netsuite. Předchozí "
+"žádosti, které <strong> dosud nebyly schváleny </strong> národními "
+"personalisty, se v níže uvedených údajích nezobrazí."
+
+msgid "Select Entity"
+msgstr "Vybrat entitu"
+
+msgid "requestValue"
+msgstr "Požadovaná hodnota"
+
+msgid "shippingAddress"
+msgstr "Doručovací adresa"
+
+msgid "issueDate"
+msgstr "Datum vydání"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"Došlo k vypršení časového limitu relace. Obnovte prosím stránku a proveďte "
+"nové přihlášení."
+
+msgid "birthDate"
+msgstr "Datum narození"
+
+msgid "organizationalStatus"
+msgstr "Organizační status"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "contactPhonePlaceholder"
+msgstr "Telefonní číslo kontaktní osoby"
+
+msgid "deleting"
+msgstr "Odstranění"
+
+msgid "address line 3"
+msgstr "Třetí řádek adresy"
+
+msgid "successTitle"
+msgstr "Úspěch!"
+
+msgid "address line 2"
+msgstr "Adresní řádek 2"
+
+msgid "country"
+msgstr "Země"
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "K zahájení vyhledávání stačí %d znaků."
+
+msgid "dateConferred"
+msgstr "Datum udělení"
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "hireDate"
+msgstr "Datum nástupu do zaměstnání"
+
+msgid "buttonHelpDescription"
+msgstr "Potřebujete pomoc s vyplněním tohoto pole? Klikněte zde pro pokyny."
+
+msgid "Delete this address?"
+msgstr "Chcete tuto adresu smazat?"
+
+msgid "homePhone"
+msgstr "Domácí telefon"
+
+msgid "reload"
+msgstr "Obnovit"
+
+msgid "verifyBeforeSubmit"
+msgstr "Před odesláním prosím zkontrolujte všechny části."
+
+msgid "workforceInformation"
+msgstr "Informace o zaměstnancích"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Do vyhledávacího okna zadejte jméno svého vedoucího."
+
+msgid "stateProvincePlaceholder"
+msgstr "Váš stát nebo provincie"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Změny, které jste provedli, nevyžadují schválení HRG. Vaše změny byly "
+"úspěšně uloženy."
+
+msgid "confirm"
+msgstr "Potvrdit"
+
+msgid "issueDatePlaceholder"
+msgstr "Datum vydání vašeho průkazu"
+
+msgid "cityPlaceholder"
+msgstr "Vaše město"
+
+msgid "confirmTitle"
+msgstr "Žádost o aktualizaci byla odeslána"
+
+msgid "birthDatePlaceholder"
+msgstr "Tvé datum narození"
+
+msgid "lastName"
+msgstr "Příjmení"
+
+msgid "titlePlaceholder"
+msgstr "např.: pan, paní, slečna atd."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Zadejte telefonní číslo začínající kódem země +[kód země], např. +1123456789"
+
+msgid "firstNamePlaceholder"
+msgstr "Vaše křestní jméno"
+
+msgid "error"
+msgstr "Chyba"
+
+msgid "label"
+msgstr "Štítek"
+
+msgid "state"
+msgstr "Stát"
+
+msgid "logout"
+msgstr "Odhlásit se"
+
+msgid "jobInformation"
+msgstr "Informace o pracovní pozici"
+
+msgid "reloadOrClose"
+msgstr ""
+"Stále můžete kliknout na tlačítko „Obnovit“, abyste mohli upravit data v "
+"jiné entitě, nebo kartu prohlížeče ručně zavřít."
+
+msgid "paidByLocalMinistryEntity"
+msgstr "Hradí místní ministerstvo/subjekt"
+
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Stále načítáme vaše Netsuite ID, prosím vyčkejte."
+
+msgid "thankYouDescription"
+msgstr "Vaše údaje byly odeslány."
+
+msgid "secondLastNamePlaceholder"
+msgstr "Vaše druhé příjmení"
+
+msgid "fullTimeEquivalent"
+msgstr "ekvivalent plného úvazku (FTE)"
+
+msgid "sending"
+msgstr "Odesílání"
+
+msgid "Address nickname"
+msgstr "Přezdívka adresy"
+
+msgid "expirationDatePlaceholder"
+msgstr "Datum platnosti vašeho průkazu"
+
+msgid "supervisorDescription"
+msgstr ""
+"Kdo ve společnosti %s schvaluje vaše výkazy výdajů? Pokud si nejste jisti "
+"nebo jste cizinec, obraťte se na vedoucího národního provozu nebo se poraďte "
+"s národním finančním týmem."
+
+msgid "emailPlaceholder"
+msgstr "Vaše e-mailová adresa"
+
+msgid "pleaseNote"
+msgstr "Upozornění"
+
+msgid "governmentID"
+msgstr "Úřední doklad totožnosti"
+
+msgid "supervisor"
+msgstr "vedoucí"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"Došlo k vypršení časového limitu relace. Obnovte prosím stránku a proveďte "
+"nové přihlášení."
+
+msgid "fundingSource"
+msgstr "Zdroj financování"
+
+msgid "degree"
+msgstr "Titul"
+
+msgid "jobDescriptionPlaceholder"
+msgstr "Popis vaší pracovní pozice"
+
+msgid "currentValue"
+msgstr "Aktuální hodnota"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "K zahájení vyhledávání stačí %d znaků."
+
+msgid "expirationDate"
+msgstr "Datum spotřeby"
+
+msgid "homePhonePlaceholder"
+msgstr "Vaše domácí telefonní číslo"
+
+msgid "mobilePhone"
+msgstr "Mobilní telefon"
+
+msgid "jobTitlePlaceholder"
+msgstr "Vaše pracovní pozice"
+
+msgid "permanentAddress"
+msgstr "Trvalé bydliště"
+
+msgid "Search..."
+msgstr "Hledat…"
+
+msgid "province"
+msgstr "Provincie"
+
+msgid "pfcoach"
+msgstr "Trenér zaměřený na pozice"
+
+msgid "jobTitle"
+msgstr "Název pozice"
+
+msgid "preferredNamePlaceholder"
+msgstr "Jméno, které preferujete"
+
+msgid "jobDescription"
+msgstr "Popis pracovní pozice"
+
+msgid "staffUnit"
+msgstr "Odbor"
+
+msgid "levelOfEducation"
+msgstr "Úroveň vzdělání"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Potvrďte prosím výše uvedené změny. Kliknutím na tlačítko ZPĚT můžete "
+"provést další úpravy, nebo kliknutím na tlačítko POTVRDIT odešlete změny ke "
+"schválení."
+
+msgid "mobilePhonePlaceholder"
+msgstr "Vaše mobilní číslo +[kód země], např. +1123456789"
+
+msgid "noChangeDescription"
+msgstr "Nic se nezměnilo."
+
+msgid "maritalStatus"
+msgstr "Rodinný stav"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "Stále načítáme vaše Netsuite ID, prosím vyčkejte."
+
+msgid "staffSpousePlaceholder"
+msgstr "Jméno vašeho manžela/manželky"
+
+msgid "approve"
+msgstr "Schválit"
+
+msgid "verify"
+msgstr "Potvrzuji, že všechna výše uvedená pole jsou správná."
+
+msgid "contactNamePlaceholder"
+msgstr "Celé jméno kontaktní osoby"
+
+msgid "importantNote"
+msgstr "Důležitá poznámka"
+
+msgid "attention"
+msgstr "Pozor"
+
+msgid "labelPlaceholder"
+msgstr "např.: Adresa bydliště"
+
+msgid "degreePlaceholder"
+msgstr "Název vašeho titulu"
