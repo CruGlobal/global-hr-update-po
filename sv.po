@@ -1,2 +1,537 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2026-05-07 00:46+0000\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Language-Team: Swedish <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14.3\n"
+
+msgid "dateConferredPlaceholder"
+msgstr "Datum för din examen"
+
+msgid "contactInformation"
+msgstr "Kontaktuppgifter"
+
+msgid "postal code"
+msgstr "Postnummer"
+
+msgid "sent"
+msgstr "Skickat"
+
+msgid "deleted"
+msgstr "Borttagen"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Det finns flera poster som matchar din e-postadress. Välj den som du vill "
+"uppdatera."
+
+msgid "chooseAnOption"
+msgstr "Välj ett alternativ"
+
+msgid "zipPlaceholder"
+msgstr "Ditt postnummer"
+
+msgid "close"
+msgstr "Stäng"
+
+msgid "confirmTitleDescription"
+msgstr "Följande ändringar kommer att läggas fram för godkännande"
+
+msgid "emergencyContact"
+msgstr "Kontaktperson i nödfall"
+
+msgid "middleName"
+msgstr "Mellannamn"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Region där du arbetar"
+
+msgid "lastNamePlaceholder"
+msgstr "Ditt efternamn"
+
+msgid "attentionPlaceholder"
+msgstr "ex: Till John Doe"
+
+msgid "preferredName"
+msgstr "Föredraget namn"
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "Skriv in namnet på din positionscoach i sökfältet."
+
+msgid "title"
+msgstr "Titel"
+
+msgid "issuingCountry"
+msgstr "Utfärdande land"
+
+msgid "hrUpdate"
+msgstr "HR-nyheter"
+
+msgid "supervisorNote"
+msgstr "Anmärkning från handledaren"
+
+msgid "officePhonePlaceholder"
+msgstr "Ditt kontorsnummer"
+
+msgid "terminationDate"
+msgstr "Uppsägningstidpunkt"
+
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Du är för närvarande <strong> en </strong> år gammal"
+msgstr[1] "Du är för närvarande <strong> %d </strong> år gammal"
+
+msgid "contactAddressPlaceholder"
+msgstr "Kontaktpersonens fullständiga adress"
+
+msgid "havePendingApprovalDescription"
+msgstr "Du har redan en ansökan som väntar på godkännande!"
+
+msgid "secondLastName"
+msgstr "Andra efternamnet"
+
+msgid "Privacy policy"
+msgstr "Integritetspolicy"
+
+msgid "numberPlaceholder"
+msgstr "Ditt personnummer"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Välj civilstånd"
+
+msgid "confirmFormTitle"
+msgstr "Ändringar har skickats in"
+
+msgid "countryPlaceholder"
+msgstr "Ditt land"
+
+msgid "educationInformation"
+msgstr "Information om utbildning"
+
+msgid "inactive"
+msgstr "Inaktiv"
+
+msgid "personalDetails"
+msgstr "Personuppgifter"
+
+msgid "firstName"
+msgstr "Förnamn"
+
+msgid "for shipping"
+msgstr "för frakt"
+
+msgid "address line 1"
+msgstr "Adressrad 1"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "söker"
+
+msgid "hrDepartment"
+msgstr "Strategi / Kapacitet (HR-avdelningen i Netsuite)"
+
+msgid "graduatedAgeCalculator"
+msgstr "Du tog examen när du var"
+
+msgid "relationshipPlaceholder"
+msgstr "Den här personens relation till dig"
+
+msgid "address line 2 placeholder"
+msgstr "Ytterligare rad vid behov"
+
+msgid "sameAsPermanent"
+msgstr "samma som permanent"
+
+msgid "Close"
+msgstr "Stäng"
+
+msgid "email"
+msgstr "E-post"
+
+msgid "middleNamePlaceholder"
+msgstr "Ditt mellannamn"
+
+msgid "officePhone"
+msgstr "Kontorstelefon"
+
+msgid "noUpdates"
+msgstr "Inga uppdateringar"
+
+msgid "staffUnitPlaceholder"
+msgstr "Efternamn, förnamn eller Efternamn, hans förnamn och hennes förnamn."
+
+msgid "terminationReason"
+msgstr "Uppsägningens skäl"
+
+msgid "geographicAreaOfService"
+msgstr "Geografiskt täckningsområde"
+
+msgid "type"
+msgstr "Typ"
+
+msgid "continueToEditButton"
+msgstr "Fortsätt redigera"
+
+msgid "submit"
+msgstr "Skicka"
+
+msgid "relationship"
+msgstr "Relation"
+
+msgid "waitingForApprovalTitle"
+msgstr "Väntar på godkännande"
+
+msgid "addressBook"
+msgstr "Adressbok"
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "söker"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "help"
+msgstr "Hjälp"
+
+msgid "zip"
+msgstr "Postnummer"
+
+msgid "back"
+msgstr "Tillbaka"
+
+msgid "phone"
+msgstr "Telefon"
+
+msgid "sorry"
+msgstr "Ursäkta"
+
+msgid "delete"
+msgstr "Ta bort"
+
+msgid "confirmNotice"
+msgstr ""
+"De ändringar du har gjort nedan kommer att synas så snart de har godkänts av "
+"HRG."
+
+msgid "stateProvince"
+msgstr "Delstat/Provins"
+
+msgid "positionRole"
+msgstr "Befattning/Roll"
+
+msgid "familyInformation"
+msgstr "Information om familjen"
+
+msgid "scope"
+msgstr "Omfattning"
+
+msgid "city"
+msgstr "Stad"
+
+msgid "staffSpouse"
+msgstr "Anställds make/maka"
+
+msgid "ok"
+msgstr "Okej"
+
+msgid "indicates required field"
+msgstr "markerar ett obligatoriskt fält"
+
+msgid "gender"
+msgstr "Kön"
+
+msgid "number"
+msgstr "Nummer"
+
+msgid "expirationDateText"
+msgstr "Ditt ID har gått ut."
+
+msgid "thankYou"
+msgstr "Tack"
+
+msgid "address line 1 placeholder"
+msgstr "Din adress"
+
+msgid "entityNotice"
+msgstr ""
+"Uppgifterna nedan återspeglar det aktuella läget i Netsuite. Tidigare "
+"inlämningar som <strong> ännu inte har godkänts </strong> av National HR "
+"Generalists kommer inte att visas nedan."
+
+msgid "Select Entity"
+msgstr "Välj enhet"
+
+msgid "requestValue"
+msgstr "Begärt värde"
+
+msgid "shippingAddress"
+msgstr "Leveransadress"
+
+msgid "issueDate"
+msgstr "Utgivningsdatum"
+
+msgid "supervisorPopupAlertSorry"
+msgstr "Webbsessionen har löpt ut. Ladda om sidan för att logga in på nytt."
+
+msgid "birthDate"
+msgstr "Födelsedatum"
+
+msgid "organizationalStatus"
+msgstr "Organisationsstatus"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "contactPhonePlaceholder"
+msgstr "Kontaktpersonens telefonnummer"
+
+msgid "deleting"
+msgstr "Radera"
+
+msgid "address line 3"
+msgstr "Adressrad 3"
+
+msgid "successTitle"
+msgstr "Lyckades!"
+
+msgid "address line 2"
+msgstr "Adressrad 2"
+
+msgid "country"
+msgstr "Land"
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "%d bokstäver räcker för att starta sökningen."
+
+msgid "dateConferred"
+msgstr "Utfärdandedatum"
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "hireDate"
+msgstr "Anställningsdatum"
+
+msgid "buttonHelpDescription"
+msgstr ""
+"Behöver du hjälp med att fylla i detta fält? Klicka här för instruktioner."
+
+msgid "Delete this address?"
+msgstr "Vill du ta bort den här adressen?"
+
+msgid "homePhone"
+msgstr "Fast telefon"
+
+msgid "reload"
+msgstr "Uppdatera"
+
+msgid "verifyBeforeSubmit"
+msgstr "Kontrollera alla avsnitt innan du skickar in."
+
+msgid "workforceInformation"
+msgstr "Personalinformation"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Skriv in namnet på din handledare i sökfältet."
+
+msgid "stateProvincePlaceholder"
+msgstr "Din delstat eller provins"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"De fält du har ändrat kräver inte godkännande från HRG. Dina ändringar har "
+"sparats."
+
+msgid "confirm"
+msgstr "Bekräfta"
+
+msgid "issueDatePlaceholder"
+msgstr "Utfärdandedatum för ditt ID-kort"
+
+msgid "cityPlaceholder"
+msgstr "Din stad"
+
+msgid "confirmTitle"
+msgstr "Begäran om uppdatering har skickats in"
+
+msgid "birthDatePlaceholder"
+msgstr "Ditt födelsedatum"
+
+msgid "lastName"
+msgstr "Efternamn"
+
+msgid "titlePlaceholder"
+msgstr "t.ex.: herr, fru, fröken osv."
+
+msgid "mobilePhoneError"
+msgstr "Ange telefonnummer som börjar med +[landskod], t.ex. +1123456789"
+
+msgid "firstNamePlaceholder"
+msgstr "Ditt förnamn"
+
+msgid "error"
+msgstr "Fel"
+
+msgid "label"
+msgstr "Etikett"
+
+msgid "state"
+msgstr "Stat"
+
+msgid "logout"
+msgstr "Logga ut"
+
+msgid "jobInformation"
+msgstr "Information om tjänsten"
+
+msgid "reloadOrClose"
+msgstr ""
+"Du kan fortfarande klicka på ”Uppdatera” för att redigera data i en annan "
+"enhet eller stänga webbläsarfliken manuellt."
+
+msgid "paidByLocalMinistryEntity"
+msgstr "Betalas av lokalt ministerium/organ"
+
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Vi hämtar fortfarande ditt Netsuite-ID, vänligen vänta."
+
+msgid "thankYouDescription"
+msgstr "Dina uppgifter har skickats."
+
+msgid "secondLastNamePlaceholder"
+msgstr "Ditt andra efternamn"
+
+msgid "fullTimeEquivalent"
+msgstr "Heltidsanställd (FTE)"
+
+msgid "sending"
+msgstr "Skickar"
+
+msgid "Address nickname"
+msgstr "Adressens smeknamn"
+
+msgid "expirationDatePlaceholder"
+msgstr "Sista giltighetsdatum för ditt ID"
+
+msgid "supervisorDescription"
+msgstr ""
+"Vem inom %s godkänner dina utgiftsrapporter? Om du är osäker eller inte är "
+"från landet, vänd dig till den nationella verksamhetschefen eller rådfråga "
+"det nationella ekonomiteamet."
+
+msgid "emailPlaceholder"
+msgstr "Din e-postadress"
+
+msgid "pleaseNote"
+msgstr "Observera"
+
+msgid "governmentID"
+msgstr "Officiellt ID-kort"
+
+msgid "supervisor"
+msgstr "Arbetsledare"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr "Webbsessionen har löpt ut. Ladda om sidan för att logga in på nytt."
+
+msgid "fundingSource"
+msgstr "Finansieringskälla"
+
+msgid "degree"
+msgstr "Examen"
+
+msgid "jobDescriptionPlaceholder"
+msgstr "Din arbetsbeskrivning"
+
+msgid "currentValue"
+msgstr "Nuvärde"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "%d bokstäver räcker för att starta sökningen."
+
+msgid "expirationDate"
+msgstr "Utgångsdatum"
+
+msgid "homePhonePlaceholder"
+msgstr "Ditt hemnummer"
+
+msgid "mobilePhone"
+msgstr "Mobiltelefon"
+
+msgid "jobTitlePlaceholder"
+msgstr "Din befattning"
+
+msgid "permanentAddress"
+msgstr "Fast adress"
+
+msgid "Search..."
+msgstr "Sök…"
+
+msgid "province"
+msgstr "Provins"
+
+msgid "pfcoach"
+msgstr "Coach med inriktning på position"
+
+msgid "jobTitle"
+msgstr "Befattning"
+
+msgid "preferredNamePlaceholder"
+msgstr "Det namn du föredrar"
+
+msgid "jobDescription"
+msgstr "Arbetsbeskrivning"
+
+msgid "staffUnit"
+msgstr "Stabsavdelningen"
+
+msgid "levelOfEducation"
+msgstr "Utbildningsnivå"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Bekräfta ändringarna ovan. Du kan klicka på TILLBAKA för att göra "
+"ytterligare ändringar eller klicka på BEKRÄFTA för att skicka in dina "
+"ändringar för godkännande."
+
+msgid "mobilePhonePlaceholder"
+msgstr "Ditt mobilnummer +[landskod], t.ex. +1123456789"
+
+msgid "noChangeDescription"
+msgstr "Ingenting har förändrats."
+
+msgid "maritalStatus"
+msgstr "Civilstånd"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "Vi hämtar fortfarande ditt Netsuite-ID, vänligen vänta."
+
+msgid "staffSpousePlaceholder"
+msgstr "Din makes/makas namn"
+
+msgid "approve"
+msgstr "Godkänn"
+
+msgid "verify"
+msgstr "Jag bekräftar att alla ovanstående uppgifter är korrekta."
+
+msgid "contactNamePlaceholder"
+msgstr "Kontaktpersonens fullständiga namn"
+
+msgid "importantNote"
+msgstr "Viktig information"
+
+msgid "attention"
+msgstr "Observera"
+
+msgid "labelPlaceholder"
+msgstr "ex: Hemadress"
+
+msgid "degreePlaceholder"
+msgstr "Namn på din examen"
