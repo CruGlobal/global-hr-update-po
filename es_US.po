@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-07 00:46+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Spanish (American) <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/es_US/>\n"
 "Language: es_US\n"
@@ -541,3 +541,9 @@ msgstr "p. ej.: Domicilio"
 
 msgid "degreePlaceholder"
 msgstr "Nombre de tu título universitario"
+
+msgid "approveChange"
+msgstr "Aprobar cambios"
+
+msgid "name"
+msgstr "Nombre"
