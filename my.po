@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-07 00:46+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Burmese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/my/>\n"
 "Language: my\n"
@@ -530,3 +530,9 @@ msgstr "ဥပမာ: အိမ်လိပ်စာ"
 
 msgid "degreePlaceholder"
 msgstr "သင့်ဘွဲ့အမည်"
+
+msgid "approveChange"
+msgstr "အပြောင်းအလဲများကို အတည်ပြုပါ။"
+
+msgid "name"
+msgstr "နာမည်"
