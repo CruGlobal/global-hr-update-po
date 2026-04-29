@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:19+0000\n"
+"PO-Revision-Date: 2026-05-07 00:46+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Lao <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/lo/>\n"
@@ -533,3 +533,6 @@ msgstr "ເຊດຊັນເວັບໝົດເວລາແລ້ວ. ກະ�
 
 msgid "close"
 msgstr "ປິດ"
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "ພິມຊື່ຜູ້ຄຸມງານຂອງເຈົ້າຢູ່ໃນປ່ອງຢ້ຽມຄົ້ນຫາ."
