@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-07 00:46+0000\n"
-"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Czech <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/cs/>\n"
 "Language: cs\n"
@@ -540,3 +540,9 @@ msgstr "např.: Adresa bydliště"
 
 msgid "degreePlaceholder"
 msgstr "Název vašeho titulu"
+
+msgid "approveChange"
+msgstr "Schválení změn"
+
+msgid "name"
+msgstr "Název"
