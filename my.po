@@ -1,2 +1,532 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2026-05-07 00:46+0000\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Language-Team: Burmese <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/my/>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.14.3\n"
+
+msgid "dateConferredPlaceholder"
+msgstr "သင့်အား ချီးမြှင့်သည့် ရက်စွဲ"
+
+msgid "contactInformation"
+msgstr "ဆက်သွယ်ရန် အချက်အလက်"
+
+msgid "postal code"
+msgstr "တိုက်ကုဒ်"
+
+msgid "sent"
+msgstr "ပို့ပြီးပြီ"
+
+msgid "deleted"
+msgstr "ဖျက်ထားသည်"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"သင့်အီးမေးလ်လိပ်စာနှင့် ကိုက်ညီသော မှတ်တမ်းများ အများကြီး ရှိပါသည်။ ပြင်ဆင်လိုသည့် မှတ်တမ်းကို ရွေးပါ။"
+
+msgid "chooseAnOption"
+msgstr "ရွေးချယ်စရာတစ်ခုကိုရွေးပါ"
+
+msgid "zipPlaceholder"
+msgstr "သင့်ဇစ်ကုဒ် သို့မဟုတ် စာပို့ကုဒ်"
+
+msgid "close"
+msgstr "ပိတ်ပါ"
+
+msgid "confirmTitleDescription"
+msgstr "အောက်ပါပြောင်းလဲမှုများကို အတည်ပြုရန် တင်သွင်းမည်။"
+
+msgid "emergencyContact"
+msgstr "အရေးပေါ်ဆက်သွယ်ရန်"
+
+msgid "middleName"
+msgstr "အလယ်အမည်"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "သင်ဝန်ဆောင်သည့်ဒေသ"
+
+msgid "lastNamePlaceholder"
+msgstr "သင့်နောက်ဆုံးနာမည်"
+
+msgid "attentionPlaceholder"
+msgstr "ဥပမာ: ဂရုစိုက်ပါ John Doe"
+
+msgid "preferredName"
+msgstr "နှစ်သက်ရာအမည်"
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr ""
+"ရှာဖွေရေးပြတင်းပေါက်တွင် သင့်ရာထူးအာရုံစိုက်နည်းပြ၏ အမည်ကို ရိုက်ထည့်ပါ။"
+
+msgid "title"
+msgstr "ခေါင်းစဉ်"
+
+msgid "issuingCountry"
+msgstr "ထုတ်ဝေသောနိုင်ငံ"
+
+msgid "hrUpdate"
+msgstr "လူ့စွမ်းအားအရင်းအမြစ် အပ်ဒိတ်"
+
+msgid "supervisorNote"
+msgstr "ကြီးကြပ်သူမှတ်ချက်"
+
+msgid "officePhonePlaceholder"
+msgstr "သင့်ရုံးဖုန်းနံပါတ်"
+
+msgid "terminationDate"
+msgstr "အဆုံးသတ်ရက်"
+
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "သင်သည် လက်ရှိတွင် <strong> %d </strong> နှစ်အရွယ်ရှိပါသည်။"
+
+msgid "contactAddressPlaceholder"
+msgstr "ဆက်သွယ်ရန် လိပ်စာ အပြည့်အစုံ"
+
+msgid "havePendingApprovalDescription"
+msgstr "သင့်အတည်ပြုချက် တစ်ခုက လက်ရှိတွင် စောင့်ဆိုင်းနေပါပြီ။"
+
+msgid "secondLastName"
+msgstr "နောက်ဆုံးနာမည်မတိုင်ခင် ဒုတိယနာမည်"
+
+msgid "Privacy policy"
+msgstr "ကိုယ်ရေးအချက်အလက် လုံခြုံရေး မူဝါဒ"
+
+msgid "numberPlaceholder"
+msgstr "သင့်အစိုးရမှ ထုတ်ပေးသော မှတ်ပုံတင်နံပါတ်"
+
+msgid "maritalStatusPlaceholder"
+msgstr "သင့်အိမ်ထောင်ရေးအခြေအနေကိုရွေးချယ်ပါ"
+
+msgid "confirmFormTitle"
+msgstr "ပြောင်းလဲချက်များ တင်သွင်းပြီးပါပြီ။"
+
+msgid "countryPlaceholder"
+msgstr "သင့်နိုင်ငံ"
+
+msgid "educationInformation"
+msgstr "ပညာရေးအချက်အလက်"
+
+msgid "inactive"
+msgstr "မလှုပ်ရှား"
+
+msgid "personalDetails"
+msgstr "ကိုယ်ရေးအချက်အလက်များ"
+
+msgid "firstName"
+msgstr "ပထမအမည်"
+
+msgid "for shipping"
+msgstr "ပို့ဆောင်ရန်"
+
+msgid "address line 1"
+msgstr "လိပ်စာလိုင်း ၁"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "ရှာဖွေနေသည်"
+
+msgid "hrDepartment"
+msgstr "မဟာဗျူဟာ/စွမ်းရည် (Netsuite တွင် လူ့စွမ်းအားဌာန)"
+
+msgid "graduatedAgeCalculator"
+msgstr "သင်သည် ဘွဲ့ရခဲ့သည် သင်သည်"
+
+msgid "relationshipPlaceholder"
+msgstr "ဤပုဂ္ဂိုလ်သည် သင့်နှင့် ဆက်ဆံရေး"
+
+msgid "address line 2 placeholder"
+msgstr "လိုအပ်ပါက ထပ်ဆောင်းလိုင်း"
+
+msgid "sameAsPermanent"
+msgstr "အမြဲတမ်းကဲ့သို့တူညီ"
+
+msgid "Close"
+msgstr "ပိတ်ပါ"
+
+msgid "email"
+msgstr "အီးမေးလ်"
+
+msgid "middleNamePlaceholder"
+msgstr "သင့်အလယ်နာမည်"
+
+msgid "officePhone"
+msgstr "ရုံးဖုန်း"
+
+msgid "noUpdates"
+msgstr "အပ်ဒိတ်မရှိပါ"
+
+msgid "staffUnitPlaceholder"
+msgstr "နောက်အမည်၊ ပထမအမည် သို့မဟုတ် နောက်အမည်၊ သူ၏ပထမအမည်နှင့် သူမ၏ပထမအမည်။"
+
+msgid "terminationReason"
+msgstr "အလုပ်မှထုတ်ပယ်ခြင်းအကြောင်းရင်း"
+
+msgid "geographicAreaOfService"
+msgstr "ဝန်ဆောင်မှု ပထဝီဒေသ"
+
+msgid "type"
+msgstr "အမျိုးအစား"
+
+msgid "continueToEditButton"
+msgstr "ဆက်လက်တည်းဖြတ်ရန်"
+
+msgid "submit"
+msgstr "တင်သွင်းပါ"
+
+msgid "relationship"
+msgstr "ဆက်ဆံရေး"
+
+msgid "waitingForApprovalTitle"
+msgstr "အတည်ပြုချက်ကို စောင့်ဆိုင်းနေသည်"
+
+msgid "addressBook"
+msgstr "လိပ်စာစာအုပ်"
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "ရှာဖွေနေသည်"
+
+msgid "Cancel"
+msgstr "ဖျက်ရန်"
+
+msgid "help"
+msgstr "ကူညီပါ"
+
+msgid "zip"
+msgstr "ဇစ်ကုဒ်"
+
+msgid "back"
+msgstr "ပြန်"
+
+msgid "phone"
+msgstr "ဖုန်း"
+
+msgid "sorry"
+msgstr "တောင်းပန်ပါတယ်"
+
+msgid "delete"
+msgstr "ဖျက်ပါ"
+
+msgid "confirmNotice"
+msgstr ""
+"သင်အောက်တွင် ပြုလုပ်ထားသော ပြောင်းလဲမှုများကို HRG မှ အတည်ပြုပြီးနောက် မြင်တွေ့နိုင်ပါမည်။"
+
+msgid "stateProvince"
+msgstr "ပြည်နယ်/နယ်မြေ"
+
+msgid "positionRole"
+msgstr "ရာထူး/တာဝန်"
+
+msgid "familyInformation"
+msgstr "မိသားစုအချက်အလက်များ"
+
+msgid "scope"
+msgstr "အကျယ်အဝန်း"
+
+msgid "city"
+msgstr "မြို့"
+
+msgid "staffSpouse"
+msgstr "ဝန်ထမ်း၏ဇနီး/ခင်ပွန်း"
+
+msgid "ok"
+msgstr "အိုကေ"
+
+msgid "indicates required field"
+msgstr "လိုအပ်သောကွက်ကို ဖော်ပြသည်။"
+
+msgid "gender"
+msgstr "ကျားမ"
+
+msgid "number"
+msgstr "ဂဏန်း"
+
+msgid "expirationDateText"
+msgstr "သင့် ID သက်တမ်းကုန်သွားပါပြီ။"
+
+msgid "thankYou"
+msgstr "ကျေးဇူးတင်ပါတယ်"
+
+msgid "address line 1 placeholder"
+msgstr "သင့်လိပ်စာ"
+
+msgid "entityNotice"
+msgstr ""
+"အောက်တွင် ဖော်ပြထားသည့် ဒေတာများမှာ Netsuite တွင် လက်ရှိရှိသည့် အခြေအနေကို ပြသထားပါသည်။  <strong> မှ ယခင်တင်သွင်းထားပြီး "
+"National HR Generalists မှ မအတည်ပြုသေးသော </strong> များကို အောက်တွင် မဖော်ပြပါ။"
+
+msgid "Select Entity"
+msgstr "အဖွဲ့အစည်းကိုရွေးပါ"
+
+msgid "requestValue"
+msgstr "တောင်းဆိုထားသော တန်ဖိုး"
+
+msgid "shippingAddress"
+msgstr "ပို့ဆောင်ရန်လိပ်စာ"
+
+msgid "issueDate"
+msgstr "ထုတ်ပြန်ရက်စွဲ"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"ဝက်ဘ်ဆက်ရှင် သက်တမ်းကုန်သွားပါပြီ။ ပြန်လည်အတည်ပြုရန် စာမျက်နှာကို ပြန်လည်ဖွင့်ပါ။"
+
+msgid "birthDate"
+msgstr "မွေးနေ့"
+
+msgid "organizationalStatus"
+msgstr "အဖွဲ့အစည်းအခြေအနေ"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "contactPhonePlaceholder"
+msgstr "ဆက်သွယ်ရန် ဖုန်းနံပါတ်"
+
+msgid "deleting"
+msgstr "ဖျက်ခြင်း"
+
+msgid "address line 3"
+msgstr "လိပ်စာလိုင်း ၃"
+
+msgid "successTitle"
+msgstr "အောင်မြင်ပြီ!"
+
+msgid "address line 2"
+msgstr "လိပ်စာလိုင်း ၂"
+
+msgid "country"
+msgstr "နိုင်ငံ"
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "ရှာဖွေရေးကို စတင်ရန် %d စာလုံးများ လုံလောက်ပါသည်။"
+
+msgid "dateConferred"
+msgstr "ချီးမြှင့်ခဲ့သည့်ရက်စွဲ"
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "hireDate"
+msgstr "သင်အား အလုပ်ခန့်ထားခဲ့သည့် ရက်စွဲ"
+
+msgid "buttonHelpDescription"
+msgstr "ဤကွက်ကိုဖြည့်ရန်အကူအညီလိုပါသလား။ လမ်းညွှန်ချက်များအတွက်နှိပ်ပါ။"
+
+msgid "Delete this address?"
+msgstr "ဤလိပ်စာကို ဖျက်မည်လား?"
+
+msgid "homePhone"
+msgstr "အိမ်ဖုန်း"
+
+msgid "reload"
+msgstr "ပြန်တင်ပါ"
+
+msgid "verifyBeforeSubmit"
+msgstr "တင်ပို့မတိုင်မီ အပိုင်းအားလုံးကို ကျေးဇူးပြု၍ စစ်ဆေးပါ။"
+
+msgid "workforceInformation"
+msgstr "အလုပ်သမားအချက်အလက်"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "ရှာဖွေရေးပြတင်းပေါက်တွင် သင့်အုပ်ချုပ်သူ၏အမည်ကို ရိုက်ထည့်ပါ။"
+
+msgid "stateProvincePlaceholder"
+msgstr "သင့်ပြည်နယ် သို့မဟုတ် ခရိုင်"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"သင်ပြင်ဆင်ထားသော ကွက်များအတွက် HRG အတည်ပြုချက် မလိုအပ်ပါ။  Yor ပြောင်းလဲမှုများကို အောင်မြင်စွာ သိမ်းဆည်းပြီးပါပြီ။"
+
+msgid "confirm"
+msgstr "အတည်ပြုပါ"
+
+msgid "issueDatePlaceholder"
+msgstr "သင့် ID ထုတ်ပေးသည့် ရက်စွဲ"
+
+msgid "cityPlaceholder"
+msgstr "သင့်မြို့"
+
+msgid "confirmTitle"
+msgstr "အပ်ဒိတ် တောင်းဆိုမှု တင်သွင်းပြီးပါပြီ။"
+
+msgid "birthDatePlaceholder"
+msgstr "သင့်မွေးနေ့"
+
+msgid "lastName"
+msgstr "နောက်ဆုံးအမည်"
+
+msgid "titlePlaceholder"
+msgstr "ဥပမာ: မစ္စတာ၊ မစ္စစ်၊ မစ်စ၊ စသည်ဖြင့်"
+
+msgid "mobilePhoneError"
+msgstr "ဖုန်းနံပါတ်ကို +[နိုင်ငံကုဒ်] ဖြင့် စတင်၍ ထည့်ပါ၊ ဥပမာ +1123456789"
+
+msgid "firstNamePlaceholder"
+msgstr "သင့်ရဲ့ ပထမနာမည်"
+
+msgid "error"
+msgstr "အမှား"
+
+msgid "label"
+msgstr "အမှတ်တံဆိပ်"
+
+msgid "state"
+msgstr "ပြည်နယ်"
+
+msgid "logout"
+msgstr "ထွက်ရန်"
+
+msgid "jobInformation"
+msgstr "အလုပ်အကြောင်းအရာ"
+
+msgid "reloadOrClose"
+msgstr ""
+"သင်သည် အခြား entity တစ်ခုတွင် ဒေတာကို တည်းဖြတ်ရန် Reload ကို နှိပ်နိုင်သလို၊ browser tab ကို ကိုယ်တိုင် ပိတ်နိုင်ပါသည်။"
+
+msgid "paidByLocalMinistryEntity"
+msgstr "ဒေသခံဝန်ကြီးဌာန/အဖွဲ့အစည်းမှ ငွေပေးချေသည်"
+
+msgid "supervisorPopupRenderPreventSearch"
+msgstr ""
+"ကျွန်ုပ်တို့ သင့် Netsuite ID ကို ရယူနေဆဲဖြစ်ပါသည်။ ကျေးဇူးပြု၍ စောင့်ဆိုင်းပါ။"
+
+msgid "thankYouDescription"
+msgstr "သင့်အချက်အလက်များကို တင်သွင်းပြီးပါပြီ။"
+
+msgid "secondLastNamePlaceholder"
+msgstr "သင့်နာမည်နောက်ဆုံးမဟုတ်သည့် ဒုတိယနာမည်"
+
+msgid "fullTimeEquivalent"
+msgstr "အပြည့်အချိန်တန်ဖိုးညီမျှ (FTE)"
+
+msgid "sending"
+msgstr "ပို့နေသည်"
+
+msgid "Address nickname"
+msgstr "လိပ်စာ နာမည်လေး"
+
+msgid "expirationDatePlaceholder"
+msgstr "သင့် ID သက်တမ်းကုန်ဆုံးရက်"
+
+msgid "supervisorDescription"
+msgstr ""
+"%s တွင် သင့်ကုန်ကျစရိတ်အစီရင်ခံစာများကို ဘယ်သူ အတည်ပြုပါသလဲ။ မသေချာပါက သို့မဟုတ် နိုင်ငံခြားသားဖြစ်ပါက အမျိုးသား လုပ်ငန်းဆောင်တာ ဦးဆောင်ကို "
+"ရွေးချယ်ပါ သို့မဟုတ် အမျိုးသား ငွေကြေးအဖွဲ့နှင့် ဆွေးနွေးပါ။"
+
+msgid "emailPlaceholder"
+msgstr "သင့်အီးမေးလ်လိပ်စာ"
+
+msgid "pleaseNote"
+msgstr "မှတ်ချက်ပြုရန်"
+
+msgid "governmentID"
+msgstr "အစိုးရမှတ်ပုံတင်ကတ်"
+
+msgid "supervisor"
+msgstr "ကြီးကြပ်သူ"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"ဝက်ဘ်ဆက်ရှင် သက်တမ်းကုန်သွားပါပြီ။ ပြန်လည်အတည်ပြုရန် စာမျက်နှာကို ပြန်လည်ဖွင့်ပါ။"
+
+msgid "fundingSource"
+msgstr "ငွေကြေးထောက်ပံ့မှုရင်းမြစ်"
+
+msgid "degree"
+msgstr "ဘွဲ့"
+
+msgid "jobDescriptionPlaceholder"
+msgstr "သင့်အလုပ်တာဝန်ဖော်ပြချက်"
+
+msgid "currentValue"
+msgstr "လက်ရှိတန်ဖိုး"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "ရှာဖွေရေးကို စတင်ရန် %d စာလုံးများ လုံလောက်ပါသည်။"
+
+msgid "expirationDate"
+msgstr "ကုန်ဆုံးသက်တမ်း"
+
+msgid "homePhonePlaceholder"
+msgstr "သင့်အိမ်ဖုန်းနံပါတ်"
+
+msgid "mobilePhone"
+msgstr "မိုဘိုင်းဖုန်း"
+
+msgid "jobTitlePlaceholder"
+msgstr "သင့်အလုပ်ရာထူး"
+
+msgid "permanentAddress"
+msgstr "အမြဲတမ်းလိပ်စာ"
+
+msgid "Search..."
+msgstr "ရှာဖွေ…"
+
+msgid "province"
+msgstr "ပြည်နယ်"
+
+msgid "pfcoach"
+msgstr "အာရုံစိုက်ရာ အနေအထား – နည်းပြ"
+
+msgid "jobTitle"
+msgstr "အလုပ်ခေါင်းစဉ်"
+
+msgid "preferredNamePlaceholder"
+msgstr "သင်နှစ်သက်သောအမည်"
+
+msgid "jobDescription"
+msgstr "အလုပ်အကိုင် ဖော်ပြချက်"
+
+msgid "staffUnit"
+msgstr "ဝန်ထမ်းဌာန"
+
+msgid "levelOfEducation"
+msgstr "ပညာအဆင့်"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"အထက်ပါပြောင်းလဲမှုများကို အတည်ပြုပါ။ နောက်ပြန်နှိပ်၍ ထပ်မံပြင်ဆင်နိုင်ပြီး၊ အတည်ပြုရန် CONFIRM ကို နှိပ်ပါ။"
+
+msgid "mobilePhonePlaceholder"
+msgstr "သင့်မိုဘိုင်းဖုန်းနံပါတ် +[နိုင်ငံကုဒ်]၊ ဥပမာ၊ +1123456789"
+
+msgid "noChangeDescription"
+msgstr "ဘာမှ မပြောင်းလဲသေးပါဘူး။"
+
+msgid "maritalStatus"
+msgstr "အိမ်ထောင်ရေးအခြေအနေ"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr ""
+"ကျွန်ုပ်တို့ သင့် Netsuite ID ကို ရယူနေဆဲဖြစ်ပါသည်။ ကျေးဇူးပြု၍ စောင့်ဆိုင်းပါ။"
+
+msgid "staffSpousePlaceholder"
+msgstr "သင့်ဇနီး/ခင်ပွန်း၏အမည်"
+
+msgid "approve"
+msgstr "အတည်ပြုပါ"
+
+msgid "verify"
+msgstr "အထက်ပါကွက်လပ်များအားလုံးမှန်ကန်ကြောင်း ကျွန်ုပ်အတည်ပြုပါသည်။"
+
+msgid "contactNamePlaceholder"
+msgstr "ဆက်သွယ်သူ၏ အပြည့်အစုံနာမည်"
+
+msgid "importantNote"
+msgstr "အရေးကြီးသော မှတ်ချက်"
+
+msgid "attention"
+msgstr "ဂရုစိုက်ပါ"
+
+msgid "labelPlaceholder"
+msgstr "ဥပမာ: အိမ်လိပ်စာ"
+
+msgid "degreePlaceholder"
+msgstr "သင့်ဘွဲ့အမည်"
