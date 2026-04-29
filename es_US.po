@@ -1,2 +1,543 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
+msgstr ""
+"PO-Revision-Date: 2026-05-07 00:46+0000\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Language-Team: Spanish (American) <https://alltongues.org/projects/"
+"netsuite-hr-update-app/user-interface/es_US/>\n"
+"Language: es_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14.3\n"
+
+msgid "dateConferredPlaceholder"
+msgstr "Fecha de obtención del título"
+
+msgid "contactInformation"
+msgstr "Información de contacto"
+
+msgid "postal code"
+msgstr "Código postal"
+
+msgid "sent"
+msgstr "Enviado"
+
+msgid "deleted"
+msgstr "Eliminado"
+
+msgid "selectEntityInstructions"
+msgstr ""
+"Hay varios registros que coinciden con tu dirección de correo electrónico. "
+"Elige el que desees actualizar."
+
+msgid "chooseAnOption"
+msgstr "Elige una opción"
+
+msgid "zipPlaceholder"
+msgstr "Tu código postal"
+
+msgid "close"
+msgstr "Cerrar"
+
+msgid "confirmTitleDescription"
+msgstr "Se someterán a aprobación los siguientes cambios"
+
+msgid "emergencyContact"
+msgstr "Contacto de emergencia"
+
+msgid "middleName"
+msgstr "Segundo nombre"
+
+msgid "geographicAreaOfServicePlaceholder"
+msgstr "Región en la que prestas servicio"
+
+msgid "lastNamePlaceholder"
+msgstr "Tu apellido"
+
+msgid "attentionPlaceholder"
+msgstr "p. ej.: A la atención de Juan Pérez"
+
+msgid "preferredName"
+msgstr "Nombre preferido"
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr ""
+"Escribe el nombre de tu entrenador de enfoque en la ventana de búsqueda."
+
+msgid "title"
+msgstr "Título"
+
+msgid "issuingCountry"
+msgstr "País emisor"
+
+msgid "hrUpdate"
+msgstr "Novedades en materia de recursos humanos"
+
+msgid "supervisorNote"
+msgstr "Nota del supervisor"
+
+msgid "officePhonePlaceholder"
+msgstr "El número de teléfono de tu oficina"
+
+msgid "terminationDate"
+msgstr "Fecha de rescisión"
+
+#. home.f7.jsx:668
+msgid "ageCalculator"
+msgid_plural "ageCalculator"
+msgstr[0] "Actualmente tienes <strong> un año </strong>"
+msgstr[1] "Actualmente tienes <strong> %d </strong> años"
+
+msgid "contactAddressPlaceholder"
+msgstr "Dirección completa del contacto"
+
+msgid "havePendingApprovalDescription"
+msgstr "¡Ya tienes una solicitud pendiente de aprobación!"
+
+msgid "secondLastName"
+msgstr "Segundo apellido"
+
+msgid "Privacy policy"
+msgstr "Política de privacidad"
+
+msgid "numberPlaceholder"
+msgstr "Tu número de identificación oficial"
+
+msgid "maritalStatusPlaceholder"
+msgstr "Selecciona tu estado civil"
+
+msgid "confirmFormTitle"
+msgstr "Cambios enviados"
+
+msgid "countryPlaceholder"
+msgstr "Tu país"
+
+msgid "educationInformation"
+msgstr "Información sobre educación"
+
+msgid "inactive"
+msgstr "Inactivo"
+
+msgid "personalDetails"
+msgstr "Datos personales"
+
+msgid "firstName"
+msgstr "Nombre"
+
+msgid "for shipping"
+msgstr "para el envío"
+
+msgid "address line 1"
+msgstr "Línea 1 de la dirección"
+
+msgid "supervisorPopupRenderSearching"
+msgstr "buscando"
+
+msgid "hrDepartment"
+msgstr "Estrategia / Capacidad (Departamento de Recursos Humanos en NetSuite)"
+
+msgid "graduatedAgeCalculator"
+msgstr "Te graduaste cuando tenías"
+
+msgid "relationshipPlaceholder"
+msgstr "La relación de esta persona contigo"
+
+msgid "address line 2 placeholder"
+msgstr "Línea adicional si es necesario"
+
+msgid "sameAsPermanent"
+msgstr "igual que permanente"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "email"
+msgstr "Correo electrónico"
+
+msgid "middleNamePlaceholder"
+msgstr "Tu segundo nombre"
+
+msgid "officePhone"
+msgstr "Teléfono de la oficina"
+
+msgid "noUpdates"
+msgstr "No hay actualizaciones"
+
+msgid "staffUnitPlaceholder"
+msgstr "Apellido, nombre o Apellido, su nombre y su nombre."
+
+msgid "terminationReason"
+msgstr "Motivo de la rescisión"
+
+msgid "geographicAreaOfService"
+msgstr "Área geográfica de cobertura"
+
+msgid "type"
+msgstr "Tipo"
+
+msgid "continueToEditButton"
+msgstr "Seguir editando"
+
+msgid "submit"
+msgstr "Enviar"
+
+msgid "relationship"
+msgstr "Relación"
+
+msgid "waitingForApprovalTitle"
+msgstr "A la espera de la aprobación"
+
+msgid "addressBook"
+msgstr "Libreta de direcciones"
+
+msgid "pfcoachPopupRenderSearching"
+msgstr "buscando"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "help"
+msgstr "Ayuda"
+
+msgid "zip"
+msgstr "Código postal"
+
+msgid "back"
+msgstr "Atrás"
+
+msgid "phone"
+msgstr "Teléfono"
+
+msgid "sorry"
+msgstr "Lo siento"
+
+msgid "delete"
+msgstr "Eliminar"
+
+msgid "confirmNotice"
+msgstr ""
+"Los cambios que has realizado a continuación serán visibles una vez que los "
+"apruebe HRG."
+
+msgid "stateProvince"
+msgstr "Estado/Provincia"
+
+msgid "positionRole"
+msgstr "Puesto/Función"
+
+msgid "familyInformation"
+msgstr "Información sobre la familia"
+
+msgid "scope"
+msgstr "Ámbito de aplicación"
+
+msgid "city"
+msgstr "Ciudad"
+
+msgid "staffSpouse"
+msgstr "Cónyuge del personal"
+
+msgid "ok"
+msgstr "Vale"
+
+msgid "indicates required field"
+msgstr "indica que es un campo obligatorio"
+
+msgid "gender"
+msgstr "Género"
+
+msgid "number"
+msgstr "Número"
+
+msgid "expirationDateText"
+msgstr "Tu identificación ha caducado."
+
+msgid "thankYou"
+msgstr "Gracias"
+
+msgid "address line 1 placeholder"
+msgstr "Tu dirección"
+
+msgid "entityNotice"
+msgstr ""
+"Los datos que figuran a continuación reflejan el estado actual de los datos "
+"en Netsuite. Las solicitudes anteriores que <strong> aún no han sido "
+"aprobadas </strong> por los especialistas nacionales en recursos humanos no "
+"aparecerán reflejadas a continuación."
+
+msgid "Select Entity"
+msgstr "Seleccionar entidad"
+
+msgid "requestValue"
+msgstr "Valor solicitado"
+
+msgid "shippingAddress"
+msgstr "Dirección de envío"
+
+msgid "issueDate"
+msgstr "Fecha de emisión"
+
+msgid "supervisorPopupAlertSorry"
+msgstr ""
+"La sesión web ha caducado. Actualiza la página para volver a iniciar sesión."
+
+msgid "birthDate"
+msgstr "Fecha de nacimiento"
+
+msgid "organizationalStatus"
+msgstr "Situación organizativa"
+
+msgid "pfcoachDescription"
+msgstr " "
+
+msgid "contactPhonePlaceholder"
+msgstr "Número de teléfono de contacto"
+
+msgid "deleting"
+msgstr "Eliminar"
+
+msgid "address line 3"
+msgstr "Tercera línea de la dirección"
+
+msgid "successTitle"
+msgstr "¡Éxito!"
+
+msgid "address line 2"
+msgstr "Segunda línea de la dirección"
+
+msgid "country"
+msgstr "País"
+
+msgid "pfcoachPopupRenderMinChars"
+msgstr "Basta con introducir %d letras para iniciar la búsqueda."
+
+msgid "dateConferred"
+msgstr "Fecha de concesión"
+
+msgid "pfcoachNote"
+msgstr " "
+
+msgid "hireDate"
+msgstr "Fecha de contratación"
+
+msgid "buttonHelpDescription"
+msgstr ""
+"¿Necesitas ayuda para rellenar este campo? Haz clic aquí para ver las "
+"instrucciones."
+
+msgid "Delete this address?"
+msgstr "¿Desea eliminar esta dirección?"
+
+msgid "homePhone"
+msgstr "Teléfono fijo"
+
+msgid "reload"
+msgstr "Actualizar"
+
+msgid "verifyBeforeSubmit"
+msgstr "Comprueba todas las secciones antes de enviarlo."
+
+msgid "workforceInformation"
+msgstr "Información sobre la plantilla"
+
+msgid "supervisorPopupOpenSearchNote"
+msgstr "Escribe el nombre de tu supervisor en la ventana de búsqueda."
+
+msgid "stateProvincePlaceholder"
+msgstr "Tu estado o provincia"
+
+msgid "directSubmisionDescription"
+msgstr ""
+"Los campos que ha modificado no requieren la aprobación de HRG. Sus cambios "
+"se han guardado correctamente."
+
+msgid "confirm"
+msgstr "Confirmar"
+
+msgid "issueDatePlaceholder"
+msgstr "Fecha de emisión de tu documento de identidad"
+
+msgid "cityPlaceholder"
+msgstr "Tu ciudad"
+
+msgid "confirmTitle"
+msgstr "Solicitud de actualización enviada"
+
+msgid "birthDatePlaceholder"
+msgstr "Tu fecha de nacimiento"
+
+msgid "lastName"
+msgstr "Apellido"
+
+msgid "titlePlaceholder"
+msgstr "p. ej.: Sr., Sra., Srta., etc."
+
+msgid "mobilePhoneError"
+msgstr ""
+"Introduce el número de teléfono empezando por +[código de país], p. ej., "
+"+1123456789"
+
+msgid "firstNamePlaceholder"
+msgstr "Tu nombre"
+
+msgid "error"
+msgstr "Error"
+
+msgid "label"
+msgstr "Etiqueta"
+
+msgid "state"
+msgstr "Estado"
+
+msgid "logout"
+msgstr "Cerrar sesión"
+
+msgid "jobInformation"
+msgstr "Información sobre el puesto"
+
+msgid "reloadOrClose"
+msgstr ""
+"Aún puedes hacer clic en «Actualizar» para editar los datos de otra entidad "
+"o cerrar la pestaña del navegador manualmente."
+
+msgid "paidByLocalMinistryEntity"
+msgstr "Financiado por el ministerio o la entidad local"
+
+msgid "supervisorPopupRenderPreventSearch"
+msgstr "Todavía estamos recuperando tu ID de Netsuite; por favor, espera."
+
+msgid "thankYouDescription"
+msgstr "Tu información se ha enviado."
+
+msgid "secondLastNamePlaceholder"
+msgstr "Tu segundo apellido"
+
+msgid "fullTimeEquivalent"
+msgstr "Equivalente a tiempo completo (ETC)"
+
+msgid "sending"
+msgstr "Envío"
+
+msgid "Address nickname"
+msgstr "Apodo de la dirección"
+
+msgid "expirationDatePlaceholder"
+msgstr "Fecha de caducidad de tu documento de identidad"
+
+msgid "supervisorDescription"
+msgstr ""
+"¿Quién aprueba tus informes de gastos en %s? Si no estás seguro o eres "
+"extranjero, elige al responsable nacional de operaciones o consulta con el "
+"equipo nacional de finanzas."
+
+msgid "emailPlaceholder"
+msgstr "Tu dirección de correo electrónico"
+
+msgid "pleaseNote"
+msgstr "Nota importante"
+
+msgid "governmentID"
+msgstr "Documento de identidad oficial"
+
+msgid "supervisor"
+msgstr "Supervisor"
+
+msgid "pfcoachPopupAlertSorry"
+msgstr ""
+"La sesión web ha caducado. Actualiza la página para volver a iniciar sesión."
+
+msgid "fundingSource"
+msgstr "Fuente de financiación"
+
+msgid "degree"
+msgstr "Título universitario"
+
+msgid "jobDescriptionPlaceholder"
+msgstr "Descripción de tu puesto"
+
+msgid "currentValue"
+msgstr "Valor actual"
+
+msgid "supervisorPopupRenderMinChars"
+msgstr "Basta con introducir %d letras para iniciar la búsqueda."
+
+msgid "expirationDate"
+msgstr "Fecha de caducidad"
+
+msgid "homePhonePlaceholder"
+msgstr "Tu número de teléfono fijo"
+
+msgid "mobilePhone"
+msgstr "Teléfono móvil"
+
+msgid "jobTitlePlaceholder"
+msgstr "Tu cargo"
+
+msgid "permanentAddress"
+msgstr "Domicilio permanente"
+
+msgid "Search..."
+msgstr "Buscar…"
+
+msgid "province"
+msgstr "Provincia"
+
+msgid "pfcoach"
+msgstr "Entrenador especializado en una posición concreta"
+
+msgid "jobTitle"
+msgstr "Puesto"
+
+msgid "preferredNamePlaceholder"
+msgstr "Tu nombre preferido"
+
+msgid "jobDescription"
+msgstr "Descripción del puesto"
+
+msgid "staffUnit"
+msgstr "Unidad de personal"
+
+msgid "levelOfEducation"
+msgstr "Nivel de estudios"
+
+msgid "pleaseNoteDescription"
+msgstr ""
+"Confirme los cambios anteriores. Puede hacer clic en «ATRÁS» para seguir "
+"editando o en «CONFIRMAR» para enviar los cambios para su aprobación."
+
+msgid "mobilePhonePlaceholder"
+msgstr "Tu número de teléfono móvil +[código de país], p. ej., +1123456789"
+
+msgid "noChangeDescription"
+msgstr "No ha cambiado nada."
+
+msgid "maritalStatus"
+msgstr "Estado civil"
+
+msgid "pfcoachPopupRenderPreventSearch"
+msgstr "Todavía estamos recuperando tu ID de Netsuite; por favor, espera."
+
+msgid "staffSpousePlaceholder"
+msgstr "El nombre de tu cónyuge"
+
+msgid "approve"
+msgstr "Aprobar"
+
+msgid "verify"
+msgstr "Confirmo que todos los campos anteriores son correctos."
+
+msgid "contactNamePlaceholder"
+msgstr "Nombre completo del contacto"
+
+msgid "importantNote"
+msgstr "Nota importante"
+
+msgid "attention"
+msgstr "Atención"
+
+msgid "labelPlaceholder"
+msgstr "p. ej.: Domicilio"
+
+msgid "degreePlaceholder"
+msgstr "Nombre de tu título universitario"
