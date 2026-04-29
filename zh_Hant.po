@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:19+0000\n"
+"PO-Revision-Date: 2026-05-07 00:46+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://alltongues.org/"
 "projects/netsuite-hr-update-app/user-interface/zh_Hant/>\n"
@@ -529,3 +529,6 @@ msgstr "网络会话超时。请重新加载页面以重新验证。"
 
 msgid "close"
 msgstr "关闭"
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "在搜索窗口中键入主管的姓名。"
