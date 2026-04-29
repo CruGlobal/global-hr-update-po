@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:19+0000\n"
+"PO-Revision-Date: 2026-05-07 00:46+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Sinhala <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/si/>\n"
@@ -538,3 +538,6 @@ msgstr ""
 
 msgid "close"
 msgstr "වසන්න"
+
+msgid "pfcoachPopupOpenSearchNote"
+msgstr "සෙවුම් කවුළුවේ ඔබේ අධීක්ෂකගේ නම ටයිප් කරන්න."
