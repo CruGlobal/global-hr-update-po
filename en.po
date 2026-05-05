@@ -211,7 +211,7 @@ msgid "supervisorNote"
 msgstr "Supervisor note"
 
 msgid "pfcoach"
-msgstr "Position Focus Coach"
+msgstr "Position Focus Leader"
 
 msgid "pfcoachDescription"
 msgstr " "
