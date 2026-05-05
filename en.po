@@ -188,7 +188,7 @@ msgid "supervisor"
 msgstr "Supervisor"
 
 msgid "supervisorDescription"
-msgstr "Who in %s approves your Expense Reports?  If you're not sure or a foreigner, pick the National Operations Leader or consult with National Finance Team."
+msgstr "Who in %s approves your Expense Reports? If you're not sure or are a Received Staff from a different country, pick the National Operations Leader or consult with the National Finance Team."
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "Type the name of your supervisor in the Search window."
