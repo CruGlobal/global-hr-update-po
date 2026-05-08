@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Ed Graham <ed.graham@cru.org>\n"
 "Language-Team: Albanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/sq/>\n"
 "Language: sq\n"
@@ -200,6 +200,7 @@ msgstr[1] "Aktualisht jeni <strong>%d</strong> vjeç"
 msgid "paidByLocalMinistryEntity"
 msgstr "Paguhet nga Ministria/Entiteti Vendor"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
 "Kush në %s miraton raportet tuaja të shpenzimeve? Nëse nuk jeni i sigurt ose "
