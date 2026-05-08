@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Hindi <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/hi/>\n"
 "Language: hi\n"
@@ -185,11 +185,10 @@ msgstr "नौकरी की जानकारी"
 msgid "supervisor"
 msgstr "पर्यवेक्षक"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"%s में आपकी व्यय रिपोर्ट को कौन अनुमोदित करता है? यदि आप निश्चित नहीं हैं या विदेशी हैं, तो राष्ट्रीय परिचालन नेता"
-" चुनें या राष्ट्रीय वित्त टीम से परामर्श लें।"
+"%s में आपकी व्यय रिपोर्टें कौन स्वीकृत करता है? यदि आप सुनिश्चित नहीं हैं या आप किसी अन्य देश से आए कर्मचारी हैं"
+", तो राष्ट्रीय संचालन प्रमुख को चुनें या राष्ट्रीय वित्त टीम से परामर्श करें।"
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "खोज विंडो में अपने पर्यवेक्षक का नाम टाइप करें।"
@@ -529,7 +528,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "खोज शुरू करने के लिए %d अक्षर पर्याप्त हैं।"
 
 msgid "pfcoach"
-msgstr "पोजीशन फोकस कोच"
+msgstr "पद: फोकस लीडर"
 
 msgid "pfcoachDescription"
 msgstr " "
