@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Mongolian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/mn/>\n"
 "Language: mn\n"
@@ -209,12 +209,11 @@ msgstr "Ажлын мэдээлэл"
 msgid "supervisor"
 msgstr "Удирдагч"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"Таны зардлын тайланг %s дотор хэн батлах вэ? Хэрэв та итгэлгүй эсвэл "
-"гадаадын иргэн бол Үндэсний үйл ажиллагааны ахлагчийг сонгох эсвэл Үндэсний "
-"санхүүгийн багтай зөвлөлд."
+"%s-д таны зардлын тайланг хэн баталдаг вэ? Хэрэв та итгэлгүй эсвэл өөр "
+"улсаас ирсэн ажилтанд тооцогддог бол Үндэсний үйл ажиллагааны ахлагчийг "
+"сонгох эсвэл Үндэсний санхүүгийн багтай зөвлөлдөнө үү."
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "Хайлтын цонхонд удирдагчийнхаа нэрийг бичнэ үү."
@@ -531,7 +530,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "Хайлтыг эхлүүлэхэд %d үсэг хангалттай."
 
 msgid "pfcoach"
-msgstr "Позицийн фокус дасгалжуулагч"
+msgstr "Позицийн анхаарал: Манлайлагч"
 
 msgid "pfcoachDescription"
 msgstr " "
