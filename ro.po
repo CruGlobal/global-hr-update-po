@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Romanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ro/>\n"
 "Language: ro\n"
@@ -198,6 +198,7 @@ msgstr "Domeniul de aplicare"
 msgid "fundingSource"
 msgstr "Sursa de finanțare"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
 "Cine din %s aprobă rapoartele de cheltuieli?  Dacă nu sunteți sigur sau dacă "
