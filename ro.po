@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Romanian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ro/>\n"
 "Language: ro\n"
@@ -198,12 +198,11 @@ msgstr "Domeniul de aplicare"
 msgid "fundingSource"
 msgstr "Sursa de finanțare"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"Cine din %s aprobă rapoartele de cheltuieli?  Dacă nu sunteți sigur sau dacă "
-"sunteți străin, alegeți Liderul național de operațiuni sau consultați echipa "
-"națională de finanțe."
+"Cine din cadrul %s aprobă rapoartele tale de cheltuieli? Dacă nu ești sigur "
+"sau ești un angajat detașat dintr-o altă țară, alege coordonatorul "
+"operațional național sau consultă echipa financiară națională."
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
@@ -536,7 +535,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "Sunt suficiente %d litere pentru a începe căutarea."
 
 msgid "pfcoach"
-msgstr "Antrenor specializat în poziționare"
+msgstr "Responsabil de coordonare"
 
 msgid "pfcoachDescription"
 msgstr " "
