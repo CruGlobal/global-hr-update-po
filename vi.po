@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Vietnamese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/vi/>\n"
 "Language: vi\n"
@@ -356,6 +356,7 @@ msgstr "Thông tin việc làm"
 msgid "supervisor"
 msgstr "Người giám sát"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
 "Ai trong %s phê duyệt Báo cáo Chi phí của bạn? Nếu bạn không chắc chắn hoặc "
