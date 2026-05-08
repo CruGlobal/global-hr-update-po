@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Vietnamese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/vi/>\n"
 "Language: vi\n"
@@ -356,12 +356,11 @@ msgstr "Thông tin việc làm"
 msgid "supervisor"
 msgstr "Người giám sát"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"Ai trong %s phê duyệt Báo cáo Chi phí của bạn? Nếu bạn không chắc chắn hoặc "
-"là người nước ngoài, hãy chọn Trưởng nhóm Điều hành Quốc gia hoặc tham khảo "
-"ý kiến của Nhóm Tài chính Quốc gia."
+"Ai tại %s là người phê duyệt Báo cáo chi phí của bạn? Nếu bạn không chắc "
+"chắn hoặc là nhân viên được cử sang từ một quốc gia khác, hãy chọn Trưởng bộ "
+"phận Hoạt động Quốc gia hoặc tham khảo ý kiến của Đội ngũ Tài chính Quốc gia."
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "Nhập tên của người giám sát của bạn trong cửa sổ Tìm kiếm."
@@ -527,7 +526,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "Chỉ cần %d ký tự là đủ để bắt đầu tìm kiếm."
 
 msgid "pfcoach"
-msgstr "Huấn luyện viên chuyên trách vị trí"
+msgstr "Trưởng nhóm Chuyên trách"
 
 msgid "pfcoachDescription"
 msgstr " "
