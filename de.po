@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: German <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/de/>\n"
 "Language: de\n"
@@ -41,6 +41,7 @@ msgstr "Job-Informationen"
 msgid "supervisor"
 msgstr "Datenschutzbeauftragter"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
 "Wer in %s genehmigt Ihre Spesenabrechnungen?  Wenn Sie sich nicht sicher "
