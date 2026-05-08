@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Tamil <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ta/>\n"
 "Language: ta\n"
@@ -297,11 +297,11 @@ msgstr "வேலை தகவல்"
 msgid "supervisor"
 msgstr "மேற்பார்வையாளர்"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"உங்கள் செலவு அறிக்கைகளை %s இல் யார் அங்கீகரிப்பது? உங்களுக்குத் தெரியாவிட்டால் அல்லது வெளிநாட்டவராக இருந்தால், தேசிய "
-"செயல்பாட்டுத் தலைவரைத் தேர்ந்தெடுக்கவும் அல்லது தேசிய நிதிக் குழுவுடன் ஆலோசனை செய்யவும்."
+"%s-இல் உங்கள் செலவு அறிக்கைகளை யார் அங்கீகரிக்கிறார்கள்? உங்களுக்கு உறுதியாகத் தெரியவில்லை என்றாலோ அல்லது நீங்கள் வேறு "
+"நாட்டிலிருந்து வந்த பணியாளராக இருந்தாலோ, தேசிய செயல்பாட்டுத் தலைவரைத் தேர்ந்தெடுக்கவும் அல்லது தேசிய நிதி குழுவுடன் "
+"கலந்தாலோசிக்கவும்."
 
 # Shown if the user tries to type in their supervisor before the page has finished loading.
 msgid "supervisorPopupRenderPreventSearch"
@@ -529,7 +529,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "தேடலைத் தொடங்க %d எழுத்துகள் போதுமானவை."
 
 msgid "pfcoach"
-msgstr "நிலை: கவனம் பயிற்சியாளர்"
+msgstr "நிலை: கவனம் செலுத்தும் தலைவர்"
 
 msgid "pfcoachDescription"
 msgstr " "
