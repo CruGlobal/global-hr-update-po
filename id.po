@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Indonesian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/id/>\n"
 "Language: id\n"
@@ -209,12 +209,11 @@ msgstr "Informasi Pekerjaan"
 msgid "supervisor"
 msgstr "Supervisor (Penyetuju Laporan Pengeluaran)"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"Siapa yang menyetujui Laporan Pengeluaran Anda?  Jika Anda tidak yakin atau "
-"orang asing, pilihlah Pemimpin Operasi Nasional atau konsultasikan dengan "
-"Tim Keuangan Nasional."
+"Siapa di %s yang menyetujui Laporan Pengeluaran Anda? Jika Anda tidak yakin "
+"atau merupakan staf yang ditugaskan dari negara lain, silakan pilih Pemimpin "
+"Operasional Nasional atau berkonsultasilah dengan Tim Keuangan Nasional."
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "Ketik nama supervisor Anda di jendela Pencarian."
@@ -531,7 +530,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "Cukup masukkan %d huruf untuk memulai pencarian."
 
 msgid "pfcoach"
-msgstr "Pelatih yang Berfokus pada Posisi"
+msgstr "Pemimpin Bidang"
 
 msgid "pfcoachDescription"
 msgstr " "
