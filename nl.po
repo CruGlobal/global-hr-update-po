@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/nl/>\n"
 "Language: nl\n"
@@ -275,6 +275,7 @@ msgstr "Functie-informatie"
 msgid "supervisor"
 msgstr "Supervisor"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
 "Wie in %s keurt je onkostendeclaraties goed?  Als je het niet zeker weet of "
