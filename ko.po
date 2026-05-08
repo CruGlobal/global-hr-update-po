@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ko/>\n"
 "Language: ko\n"
@@ -311,6 +311,7 @@ msgstr "집 전화"
 msgid "homePhonePlaceholder"
 msgstr "집 전화번호"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr "누가 경비 보고서를 승인하나요?  잘 모르거나 외국인인 경우, 국가 운영 리더를 "
 "선택하거나 국가 재무팀에 문의하세요."
