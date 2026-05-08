@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-07 00:46+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://alltongues.org/"
 "projects/netsuite-hr-update-app/user-interface/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -187,9 +187,10 @@ msgstr "工作信息"
 msgid "supervisor"
 msgstr "监督员"
 
+#, fuzzy
 msgid "supervisorDescription"
-msgstr "谁在 %s 批准您的费用报告？  "
-"如果您不确定或您是外国人，请选择国家业务负责人或咨询国家财务团队。"
+msgstr "谁在 %s 批准您的费用报告？  如果您不确定或您是外国人，请选择国家业务负责人或"
+"咨询国家财务团队。"
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "在搜索窗口中键入主管的姓名。"
