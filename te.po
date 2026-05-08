@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Telugu <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/te/>\n"
 "Language: te\n"
@@ -67,11 +67,10 @@ msgstr "కుటుంబ సమాచారం"
 msgid "jobInformation"
 msgstr "ఉద్యోగ సమాచారం"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"మీ వ్యయ నివేదికలను %sలో ఎవరు ఆమోదిస్తారు? మీకు ఖచ్చితంగా తెలియకపోతే లేదా విదేశీయుడు అయితే, నేషనల్ ఆపరేషన్స్ లీడర్‌ని "
-"ఎంచుకోండి లేదా నేషనల్ ఫైనాన్స్ టీమ్‌ని సంప్రదించండి."
+"%sలో మీ ఖర్చు నివేదికలను ఎవరు ఆమోదిస్తారు? మీకు ఖచ్చితంగా తెలియకపోతే లేదా మీరు వేరే దేశం నుండి వచ్చిన సిబ్బంది అయితే, జాతీ"
+"య కార్యకలాపాల నాయకుడిని ఎంచుకోండి లేదా జాతీయ ఆర్థిక బృందంతో సంప్రదించండి."
 
 msgid "supervisorPopupAlertSorry"
 msgstr ""
@@ -528,7 +527,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "శోధనను ప్రారంభించడానికి %d అక్షరాలు సరిపోతాయి."
 
 msgid "pfcoach"
-msgstr "ఫోకస్ కోచ్ పదవి"
+msgstr "స్థానం: ఫోకస్ లీడర్"
 
 msgid "pfcoachDescription"
 msgstr " "
