@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Urdu <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ur/>\n"
 "Language: ur\n"
@@ -313,12 +313,11 @@ msgstr "فنڈنگ کا ذریعہ"
 msgid "jobInformation"
 msgstr "ملازمت کی معلومات"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"%s میں کون آپ کے اخراجات کی رپورٹس کو منظور کرتا ہے؟ اگر آپ کو یقین نہیں ہے "
-"یا آپ غیر ملکی ہیں، تو نیشنل آپریشنز لیڈر کا انتخاب کریں یا نیشنل فنانس ٹیم "
-"سے مشورہ کریں۔"
+"%s میں آپ کی اخراجات کی رپورٹس کون منظور کرتا ہے؟ اگر آپ کو یقین نہیں ہے یا "
+"آپ کسی دوسرے ملک سے تعینات عملے کے رکن ہیں تو قومی آپریشنز لیڈر کو منتخب "
+"کریں یا قومی مالیاتی ٹیم سے مشورہ کریں۔"
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "سرچ ونڈو میں اپنے سپروائزر کا نام ٹائپ کریں۔"
@@ -530,7 +529,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "تلاش شروع کرنے کے لیے %d حروف کافی ہیں۔"
 
 msgid "pfcoach"
-msgstr "پوزیشن: فوکس کوچ"
+msgstr "مقام: فوکس لیڈر"
 
 msgid "pfcoachDescription"
 msgstr " "
