@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/nl/>\n"
 "Language: nl\n"
@@ -529,6 +529,7 @@ msgstr "Privacybeleid"
 msgid "supervisorPopupRenderMinChars"
 msgstr "%d letters zijn voldoende om de zoekopdracht te starten."
 
+#, fuzzy
 msgid "pfcoach"
 msgstr "Functie: Focuscoach"
 
