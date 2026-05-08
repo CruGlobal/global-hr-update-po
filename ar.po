@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Arabic <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ar/>\n"
 "Language: ar\n"
@@ -248,10 +248,11 @@ msgstr "نِطَاق"
 msgid "fundingSource"
 msgstr "مصدر التمويل"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"من في٪ s يوافق على تقارير المصاريف الخاصة بك؟ إذا لم تكن متأكدًا أو كنت "
-"أجنبيًا ، فاختر قائد العمليات الوطنية أو استشر فريق التمويل الوطني."
+"من في٪ s يوافق على تقارير المصاريف الخاصة بك؟ إذا لم تكن متأكدًا أو كنت أجنبيً"
+"ا ، فاختر قائد العمليات الوطنية أو استشر فريق التمويل الوطني."
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "اكتب اسم مشرفك في نافذة البحث."
