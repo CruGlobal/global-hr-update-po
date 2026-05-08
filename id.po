@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Indonesian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/id/>\n"
 "Language: id\n"
@@ -209,6 +209,7 @@ msgstr "Informasi Pekerjaan"
 msgid "supervisor"
 msgstr "Supervisor (Penyetuju Laporan Pengeluaran)"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
 "Siapa yang menyetujui Laporan Pengeluaran Anda?  Jika Anda tidak yakin atau "
