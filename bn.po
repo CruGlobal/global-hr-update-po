@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Bengali <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/bn/>\n"
 "Language: bn\n"
@@ -185,11 +185,10 @@ msgstr "কাজের তথ্য"
 msgid "supervisor"
 msgstr "কর্মকর্তা"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"%s-এর মধ্যে কে আপনার ব্যয়ের প্রতিবেদন অনুমোদন করে? আপনি যদি নিশ্চিত না হন বা বিদেশী না হন, তাহলে ন্যাশনা"
-"ল অপারেশন লিডার বেছে নিন বা ন্যাশনাল ফিনান্স টিমের সাথে পরামর্শ করুন।"
+"%s-এ কে আপনার ব্যয় প্রতিবেদন অনুমোদন করেন? যদি আপনি নিশ্চিত না হন বা অন্য কোনো দেশ থেকে আগত কর্মী "
+"হন, তাহলে জাতীয় অপারেশনস লিডারকে বেছে নিন অথবা জাতীয় অর্থনীতি দলের সাথে পরামর্শ করুন।"
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "অনুসন্ধান উইন্ডোতে আপনার সুপারভাইজারের নাম টাইপ করুন।"
@@ -528,7 +527,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "অনুসন্ধান শুরু করতে %dটি অক্ষরই যথেষ্ট।"
 
 msgid "pfcoach"
-msgstr "পজিশন ফোকাস কোচ"
+msgstr "পজিশন ফোকাস লিডার"
 
 msgid "pfcoachDescription"
 msgstr " "
