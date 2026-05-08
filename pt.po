@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Portuguese <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/pt/>\n"
 "Language: pt\n"
@@ -190,12 +190,11 @@ msgstr "Informações sobre o emprego"
 msgid "supervisor"
 msgstr "Supervisor"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"Quem é que em %s aprova os seus relatórios de despesas?  Se não tiver a "
-"certeza ou se for estrangeiro, escolha o chefe de operações nacional ou "
-"consulte a equipa financeira nacional."
+"Quem é que aprova os seus relatórios de despesas na %s? Se não tiver a "
+"certeza ou se for um colaborador destacado de outro país, escolha o "
+"Responsável Nacional de Operações ou consulte a Equipa Nacional de Finanças."
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "Digite o nome do seu supervisor na janela Pesquisar."
@@ -529,7 +528,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "Bastam %d letras para iniciar a pesquisa."
 
 msgid "pfcoach"
-msgstr "Treinador especializado em posições"
+msgstr "Líder de Foco na Posição"
 
 msgid "pfcoachDescription"
 msgstr " "
