@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-09 11:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Turkish <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/tr/>\n"
 "Language: tr\n"
@@ -214,12 +214,11 @@ msgstr "İş Bilgileri"
 msgid "supervisor"
 msgstr "Süpervizör"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"Gider Raporlarınızı %s'de kim onaylıyor?  Emin değilseniz veya "
-"yabancıysanız, Ulusal Operasyon Liderini seçin veya Ulusal Finans Ekibine "
-"danışın."
+"%s'de Gider Raporlarınızı kim onaylıyor? Emin değilseniz veya başka bir "
+"ülkeden gelen misafir personel iseniz, Ülke Operasyon Lideri'ni seçin veya "
+"Ülke Finans Ekibi ile görüşün."
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "Arama penceresine amirinizin adını yazın."
@@ -531,7 +530,7 @@ msgid "supervisorPopupRenderMinChars"
 msgstr "Aramaya başlamak için %d harf yeterlidir."
 
 msgid "pfcoach"
-msgstr "Pozisyon Odaklı Koç"
+msgstr "Pozisyon Odak Lideri"
 
 msgid "pfcoachDescription"
 msgstr " "
