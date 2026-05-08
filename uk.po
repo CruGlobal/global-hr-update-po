@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:20+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Ukrainian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/uk/>\n"
 "Language: uk\n"
@@ -218,6 +218,7 @@ msgstr "Інформація про роботу"
 msgid "supervisor"
 msgstr "Наглядач"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
 "Хто в %s затверджує ваші звіти про витрати?  Якщо ви не впевнені або ви "
