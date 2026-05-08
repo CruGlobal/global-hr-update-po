@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-07 00:46+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Lao <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/lo/>\n"
 "Language: lo\n"
@@ -229,10 +229,11 @@ msgstr "ຂໍ້ມູນວຽກ"
 msgid "supervisor"
 msgstr "ຜູ້ຄຸມງານ"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"ໃຜໃນ %s ອະນຸມັດລາຍງານຄ່າໃຊ້ຈ່າຍຂອງເຈົ້າ? ຖ້າເຈົ້າບໍ່ແນ່ໃຈ ຫຼືຄົນຕ່າງປະເທດ, "
-"ເລືອກຫົວໜ້າບໍລິຫານແຫ່ງຊາດ ຫຼື ປຶກສາກັບທີມງານການເງິນແຫ່ງຊາດ."
+"ໃຜໃນ %s ອະນຸມັດລາຍງານຄ່າໃຊ້ຈ່າຍຂອງເຈົ້າ? ຖ້າເຈົ້າບໍ່ແນ່ໃຈ ຫຼືຄົນຕ່າງປະເທດ, ເລືອກຫົວໜ້າບໍລິຫານແຫ່"
+"ງຊາດ ຫຼື ປຶກສາກັບທີມງານການເງິນແຫ່ງຊາດ."
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "ພິມຊື່ຜູ້ຄຸມງານຂອງເຈົ້າຢູ່ໃນປ່ອງຢ້ຽມຄົ້ນຫາ."
