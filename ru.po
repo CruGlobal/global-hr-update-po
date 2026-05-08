@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/ru/>\n"
 "Language: ru\n"
@@ -310,6 +310,7 @@ msgstr ""
 "Существует несколько записей, соответствующих вашему адресу электронной "
 "почты. Пожалуйста, выберите ту, которую вы хотите обновить."
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
 "Кто в %s утверждает ваши отчеты о расходах?  Если вы не знаете точно или "
