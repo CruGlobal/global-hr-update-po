@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-29 02:19+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://alltongues.org/projects/"
 "netsuite-hr-update-app/user-interface/fr/>\n"
 "Language: fr\n"
@@ -207,6 +207,7 @@ msgstr "Informations sur l'emploi"
 msgid "supervisor"
 msgstr "Superviseur"
 
+#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
 "Qui, en %s, approuve vos notes de frais ?  Si vous n'êtes pas sûr ou si vous "
