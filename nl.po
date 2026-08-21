@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-08-21 14:32+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Dutch <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/nl/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.8\n"
 
 # Not used
 msgid "officePhonePlaceholder"
@@ -275,12 +275,12 @@ msgstr "Functie-informatie"
 msgid "supervisor"
 msgstr "Supervisor"
 
-#, fuzzy
 msgid "supervisorDescription"
 msgstr ""
-"Wie in %s keurt je onkostendeclaraties goed?  Als je het niet zeker weet of "
-"een buitenlander bent, neem dan contact op met de National Operations Leader "
-"of overleg met het National Finance Team."
+"Wie bij %s keurt je onkostendeclaraties goed? Als je het niet zeker weet of "
+"als je een gedetacheerde medewerker uit een ander land bent, kies dan de "
+"Nationale Operatieverantwoordelijke of neem contact op met het Nationale "
+"Financiële Team."
 
 msgid "supervisorPopupOpenSearchNote"
 msgstr "Typ de naam van je supervisor in het zoekvenster."
@@ -529,9 +529,8 @@ msgstr "Privacybeleid"
 msgid "supervisorPopupRenderMinChars"
 msgstr "%d letters zijn voldoende om de zoekopdracht te starten."
 
-#, fuzzy
 msgid "pfcoach"
-msgstr "Functie: Focuscoach"
+msgstr "Functie: Focusleider"
 
 msgid "pfcoachDescription"
 msgstr " "
