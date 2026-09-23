@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-09-23 10:56+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
-"Language-Team: French <https://alltongues.org/projects/"
-"netsuite-hr-update-app/user-interface/fr/>\n"
+"Language-Team: French <https://alltongues.org/projects/netsuite-hr-update-"
+"app/user-interface/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 # Cancel the search
 msgid "Cancel"
@@ -635,3 +635,35 @@ msgstr ""
 
 msgid "close"
 msgstr "Fermer"
+
+msgid "organizationalRelationship"
+msgstr "Relations organisationnelles"
+
+msgid "verifiedNoticeTitle"
+msgstr "Déjà vérifié"
+
+msgid "verifiedNotice"
+msgstr ""
+"Vous avez confirmé vos informations le %s ; celles-ci sont donc marquées "
+"comme vérifiées jusqu'au %s. Pour apporter une modification, désactivez la "
+"vérification au bas de la section que vous souhaitez modifier."
+
+msgid "fixRequiredFields"
+msgstr "Veuillez corriger ou remplir tous les champs obligatoires."
+
+msgid "tapToExpand"
+msgstr "Appuyez sur une ligne pour l'ouvrir et modifier les informations."
+
+msgid "physicalAddress"
+msgstr "Adresse physique"
+
+msgid "deleteContactTitle"
+msgstr "Confirmer la suppression"
+
+msgid "deleteContactConfirm"
+msgstr "Supprimer ce contact ?"
+
+msgid "verifyContactBlock"
+msgstr ""
+"Je m'assure que mes coordonnées, mes adresses et les coordonnées des "
+"personnes à contacter en cas d'urgence sont exactes."
