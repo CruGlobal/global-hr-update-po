@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-09-23 10:57+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Urdu <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ur/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgid "sending"
 msgstr "بھیج رہا ہے۔"
@@ -620,3 +620,34 @@ msgstr ""
 
 msgid "close"
 msgstr "بند کریں"
+
+msgid "organizationalRelationship"
+msgstr "تنظیمی تعلق"
+
+msgid "verifiedNoticeTitle"
+msgstr "پہلے ہی تصدیق شدہ"
+
+msgid "verifiedNotice"
+msgstr ""
+"آپ نے اپنی معلومات %s پر تصدیق کی ہیں، لہٰذا یہ %s تک تصدیق شدہ کے طور پر "
+"نشان زد ہے۔ تبدیلی کرنے کے لیے، جس سیکشن کو آپ ترمیم کرنا چاہتے ہیں، اس کے "
+"نیچے موجود تصدیق کو بند کر دیں۔"
+
+msgid "fixRequiredFields"
+msgstr "براہ کرم تمام ضروری خانے درست کریں یا پُر کریں۔"
+
+msgid "tapToExpand"
+msgstr "کسی قطار پر ٹیپ کریں تاکہ اسے کھول کر تفصیلات میں ترمیم کی جا سکے۔"
+
+msgid "physicalAddress"
+msgstr "جسمانی پتہ"
+
+msgid "deleteContactTitle"
+msgstr "مٹانے کی تصدیق کریں"
+
+msgid "deleteContactConfirm"
+msgstr "اس رابطے کو حذف کریں؟"
+
+msgid "verifyContactBlock"
+msgstr ""
+"میں تصدیق کرتا ہوں کہ میری رابطے کی معلومات، پتے اور ہنگامی رابطے درست ہیں۔"
