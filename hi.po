@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-09-23 10:56+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Hindi <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/hi/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 # Main page title
 msgid "hrUpdate"
@@ -618,3 +618,34 @@ msgstr ""
 
 msgid "close"
 msgstr "बंद करना"
+
+msgid "organizationalRelationship"
+msgstr "संगठनात्मक संबंध"
+
+msgid "verifiedNoticeTitle"
+msgstr "पहले से सत्यापित"
+
+msgid "verifiedNotice"
+msgstr ""
+"आपने %s पर अपनी जानकारी की पुष्टि की है, इसलिए इसे %s तक सत्यापित के रूप में चिह्नित "
+"किया गया है। बदलाव करने के लिए, उस अनुभाग के नीचे सत्यापन बंद करें जिसे आप संपादित करना "
+"चाहते हैं।"
+
+msgid "fixRequiredFields"
+msgstr "कृपया सभी आवश्यक फ़ील्ड्स को ठीक करें या भरें।"
+
+msgid "tapToExpand"
+msgstr "किसी पंक्ति पर टैप करके उसे खोलें और विवरण संपादित करें।"
+
+msgid "physicalAddress"
+msgstr "भौतिक पता"
+
+msgid "deleteContactTitle"
+msgstr "मिटानुकरण की पुष्टि करें"
+
+msgid "deleteContactConfirm"
+msgstr "इस संपर्क को हटाएँ?"
+
+msgid "verifyContactBlock"
+msgstr ""
+"मैं पुष्टि करता हूँ कि मेरी संपर्क जानकारी, पते और आपातकालीन संपर्क सटीक हैं।"
