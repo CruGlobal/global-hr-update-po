@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-21 14:32+0000\n"
+"PO-Revision-Date: 2026-09-23 10:56+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://alltongues.org/"
 "projects/netsuite-hr-update-app/user-interface/zh_Hant/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.8\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgid "birthDatePlaceholder"
 msgstr "您的出生日期"
@@ -607,3 +607,32 @@ msgstr "請輸入以 +[國家代碼] 開頭的電話號碼，例如：+112345678
 
 msgid "pfcoach"
 msgstr "職位：專注領袖"
+
+msgid "organizationalRelationship"
+msgstr "組織關係"
+
+msgid "verifiedNoticeTitle"
+msgstr "已驗證"
+
+msgid "verifiedNotice"
+msgstr ""
+"您已於 %s 確認您的資料，因此該資料將被標記為「已驗證」，有效期至 %s。若要進行"
+"變更，請在您要編輯的區段底部關閉驗證功能。"
+
+msgid "fixRequiredFields"
+msgstr "請修正或填寫所有必填欄位。"
+
+msgid "tapToExpand"
+msgstr "點擊一行即可展開該行並編輯詳細資訊。"
+
+msgid "physicalAddress"
+msgstr "實體位址"
+
+msgid "deleteContactTitle"
+msgstr "確認刪除"
+
+msgid "deleteContactConfirm"
+msgstr "要刪除此聯絡人嗎？"
+
+msgid "verifyContactBlock"
+msgstr "本人確認我的聯絡資料、地址及緊急聯絡人資料均正確無誤。"
