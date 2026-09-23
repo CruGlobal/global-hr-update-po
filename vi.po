@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-09-23 10:56+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
-"Language-Team: Vietnamese <https://alltongues.org/projects/"
-"netsuite-hr-update-app/user-interface/vi/>\n"
+"Language-Team: Vietnamese <https://alltongues.org/projects/netsuite-hr-"
+"update-app/user-interface/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgid "Select Entity"
 msgstr "Chọn thực thể"
@@ -618,3 +618,36 @@ msgstr "Phiên web đã hết thời gian. Vui lòng tải lại trang để xá
 
 msgid "close"
 msgstr "Đóng"
+
+msgid "organizationalRelationship"
+msgstr "Mối quan hệ tổ chức"
+
+msgid "verifiedNoticeTitle"
+msgstr "Đã được xác minh"
+
+msgid "verifiedNotice"
+msgstr ""
+"Bạn đã xác nhận thông tin của mình vào ngày %s, do đó thông tin này được "
+"đánh dấu là đã được xác minh cho đến ngày %s. Để thực hiện thay đổi, hãy tắt "
+"tính năng xác minh ở cuối phần mà bạn muốn chỉnh sửa."
+
+msgid "fixRequiredFields"
+msgstr ""
+"Vui lòng sửa lại hoặc điền đầy đủ vào tất cả các trường thông tin bắt buộc."
+
+msgid "tapToExpand"
+msgstr "Nhấn vào một hàng để mở và chỉnh sửa thông tin chi tiết."
+
+msgid "physicalAddress"
+msgstr "Địa chỉ vật lý"
+
+msgid "deleteContactTitle"
+msgstr "Xác nhận xóa"
+
+msgid "deleteContactConfirm"
+msgstr "Xóa liên hệ này?"
+
+msgid "verifyContactBlock"
+msgstr ""
+"Tôi xác nhận rằng thông tin liên lạc, địa chỉ và danh sách người liên hệ "
+"khẩn cấp của tôi là chính xác."
