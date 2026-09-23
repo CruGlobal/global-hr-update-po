@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-09-23 10:57+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://alltongues.org/"
 "projects/netsuite-hr-update-app/user-interface/zh_Hans/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgid "thankYou"
 msgstr "谢谢"
@@ -604,3 +604,32 @@ msgstr "网络会话超时。请重新加载页面以重新验证。"
 
 msgid "close"
 msgstr "关闭"
+
+msgid "organizationalRelationship"
+msgstr "组织关系"
+
+msgid "verifiedNoticeTitle"
+msgstr "已验证"
+
+msgid "verifiedNotice"
+msgstr ""
+"您已于 %s 确认了您的信息，因此该信息被标记为“已验证”，有效期至 %s。如需修改，"
+"请在您要编辑的板块底部关闭验证功能。"
+
+msgid "fixRequiredFields"
+msgstr "请修正或填写所有必填字段。"
+
+msgid "tapToExpand"
+msgstr "点击一行以展开该行并编辑详细信息。"
+
+msgid "physicalAddress"
+msgstr "物理地址"
+
+msgid "deleteContactTitle"
+msgstr "确认删除"
+
+msgid "deleteContactConfirm"
+msgstr "删除此联系人？"
+
+msgid "verifyContactBlock"
+msgstr "我确认我的联系方式、地址和紧急联系人信息均准确无误。"
