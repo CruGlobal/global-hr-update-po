@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-09-23 10:57+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Czech <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/cs/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgid "dateConferredPlaceholder"
 msgstr "Datum udělení titulu"
@@ -546,3 +546,38 @@ msgstr "Schválení změn"
 
 msgid "name"
 msgstr "Název"
+
+msgid "organizationalRelationship"
+msgstr "Organizační vztahy"
+
+msgid "verifiedNoticeTitle"
+msgstr "Již ověřeno"
+
+msgid "verifiedNotice"
+msgstr ""
+"Potvrdili jste své údaje dne %s, takže jsou označeny jako ověřené do %s. "
+"Chcete-li provést změnu, vypněte ověření v dolní části sekce, kterou chcete "
+"upravit."
+
+msgid "fixRequiredFields"
+msgstr "Opravte prosím nebo vyplňte všechna povinná pole."
+
+msgid "tapToExpand"
+msgstr "Klepnutím na řádek jej otevřete a můžete upravit podrobnosti."
+
+msgid "physicalAddress"
+msgstr "Fyzická adresa"
+
+msgid "address"
+msgstr "Adresa"
+
+msgid "deleteContactTitle"
+msgstr "Potvrdit smazání"
+
+msgid "deleteContactConfirm"
+msgstr "Chcete tento kontakt smazat?"
+
+msgid "verifyContactBlock"
+msgstr ""
+"Potvrzuji, že mé kontaktní údaje, adresy a kontakty pro případ nouze jsou "
+"správné."
