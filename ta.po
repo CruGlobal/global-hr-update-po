@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-09-23 10:57+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Tamil <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ta/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgid "inactive"
 msgstr "செயலற்றது"
@@ -618,3 +618,35 @@ msgstr ""
 
 msgid "close"
 msgstr "நெருக்கமான"
+
+msgid "organizationalRelationship"
+msgstr "நிறுவன உறவு"
+
+msgid "verifiedNoticeTitle"
+msgstr "ஏற்கனவே சரிபார்க்கப்பட்டது"
+
+msgid "verifiedNotice"
+msgstr ""
+"நீங்கள் %s அன்று உங்கள் தகவலை உறுதிப்படுத்தினீர்கள், எனவே அது %s வரை சரிபார்க்கப்பட்டது எனக் "
+"குறியிடப்பட்டுள்ளது. மாற்றம் செய்ய, நீங்கள் திருத்த விரும்பும் பிரிவின் கீழே உள்ள சரிபார்ப்பை "
+"அணைக்கவும்."
+
+msgid "fixRequiredFields"
+msgstr "தயவுசெய்து அனைத்து கட்டாய புலங்களையும் சரிசெய்யவும் அல்லது நிரப்பவும்."
+
+msgid "tapToExpand"
+msgstr "ஒரு வரிசையைத் தட்டி, அதன் விவரங்களைத் திறந்து திருத்தவும்."
+
+msgid "physicalAddress"
+msgstr "நேரடிக் முகவரி"
+
+msgid "deleteContactTitle"
+msgstr "நீக்க உறுதிப்படுத்து"
+
+msgid "deleteContactConfirm"
+msgstr "இந்தத் தொடர்பை நீக்கலாமா?"
+
+msgid "verifyContactBlock"
+msgstr ""
+"எனது தொடர்புத் தகவல், முகவரிகள் மற்றும் அவசரத் தொடர்புகள் துல்லியமானவை என்பதை நான் உறுதி "
+"செய்கிறேன்."
