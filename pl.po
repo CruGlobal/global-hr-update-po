@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-09-23 10:57+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
-"Language-Team: Polish <https://alltongues.org/projects/"
-"netsuite-hr-update-app/user-interface/pl/>\n"
+"Language-Team: Polish <https://alltongues.org/projects/netsuite-hr-update-"
+"app/user-interface/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && "
-"(n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.14.3\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 # Not used
 msgid "dateConferred"
@@ -627,3 +627,35 @@ msgstr ""
 
 msgid "close"
 msgstr "Zamknij"
+
+msgid "organizationalRelationship"
+msgstr "Relacje organizacyjne"
+
+msgid "verifiedNoticeTitle"
+msgstr "Już zweryfikowane"
+
+msgid "verifiedNotice"
+msgstr ""
+"Potwierdziłeś swoje dane w dniu %s, więc są one oznaczone jako zweryfikowane "
+"do dnia %s. Aby wprowadzić zmianę, wyłącz weryfikację na dole sekcji, którą "
+"chcesz edytować."
+
+msgid "fixRequiredFields"
+msgstr "Proszę poprawić lub wypełnić wszystkie wymagane pola."
+
+msgid "tapToExpand"
+msgstr "Dotknij wiersza, aby go otworzyć i edytować szczegóły."
+
+msgid "physicalAddress"
+msgstr "Adres fizyczny"
+
+msgid "deleteContactTitle"
+msgstr "Potwierdź usunięcie"
+
+msgid "deleteContactConfirm"
+msgstr "Usunąć ten kontakt?"
+
+msgid "verifyContactBlock"
+msgstr ""
+"Potwierdzam, że moje dane kontaktowe, adresy i osoby kontaktowe w nagłych "
+"wypadkach są prawidłowe."
