@@ -577,3 +577,33 @@ msgstr "Your mobile phone number +[Country Code], e.g., +1123456789"
 
 msgid "mobilePhoneError"
 msgstr "Enter phone starting with +[Country Code], e.g., +1123456789"
+
+msgid "organizationalRelationship"
+msgstr "Organizational Relationship"
+
+msgid "verifiedNoticeTitle"
+msgstr "Already verified"
+
+msgid "verifiedNotice"
+msgstr "You confirmed your information on %s, so it's marked as verified until %s. To make a change, turn off verification at the bottom of the section you want to edit."
+
+msgid "fixRequiredFields"
+msgstr "Please fix or fill out all required fields."
+
+msgid "tapToExpand"
+msgstr "Tap a row to open it and edit the details."
+
+msgid "physicalAddress"
+msgstr "Physical Address"
+
+msgid "address"
+msgstr "Address"
+
+msgid "deleteContactTitle"
+msgstr "Confirm Delete"
+
+msgid "deleteContactConfirm"
+msgstr "Delete this contact?"
+
+msgid "verifyContactBlock"
+msgstr "I verify that my contact information, addresses and emergency contacts are accurate."
