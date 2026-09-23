@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-09-23 10:56+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Malay <https://alltongues.org/projects/netsuite-hr-update-app/"
 "user-interface/ms/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 # Not used
 msgid "jobTitlePlaceholder"
@@ -621,3 +621,35 @@ msgstr ""
 
 msgid "close"
 msgstr "tutup"
+
+msgid "organizationalRelationship"
+msgstr "Hubungan Organisasi"
+
+msgid "verifiedNoticeTitle"
+msgstr "Sudah disahkan"
+
+msgid "verifiedNotice"
+msgstr ""
+"Anda telah mengesahkan maklumat anda pada %s, jadi ia ditandakan sebagai "
+"disahkan sehingga %s. Untuk membuat perubahan, matikan pengesahan di "
+"bahagian bawah seksyen yang ingin anda sunting."
+
+msgid "fixRequiredFields"
+msgstr "Sila betulkan atau isi semua medan yang diperlukan."
+
+msgid "tapToExpand"
+msgstr "Ketuk satu baris untuk membukanya dan menyunting butirannya."
+
+msgid "physicalAddress"
+msgstr "Alamat Fizikal"
+
+msgid "deleteContactTitle"
+msgstr "Sahkan Padam"
+
+msgid "deleteContactConfirm"
+msgstr "Padam kenalan ini?"
+
+msgid "verifyContactBlock"
+msgstr ""
+"Saya mengesahkan bahawa maklumat hubungan saya, alamat dan kenalan kecemasan "
+"adalah tepat."
