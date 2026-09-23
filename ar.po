@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-09 11:00+0000\n"
+"PO-Revision-Date: 2026-09-23 10:56+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
-"Language-Team: Arabic <https://alltongues.org/projects/"
-"netsuite-hr-update-app/user-interface/ar/>\n"
+"Language-Team: Arabic <https://alltongues.org/projects/netsuite-hr-update-"
+"app/user-interface/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 # Main page title
 msgid "hrUpdate"
@@ -623,3 +623,34 @@ msgstr "انتهت مهلة جلسة الويب. يرجى إعادة تحميل 
 
 msgid "close"
 msgstr "يغلق"
+
+msgid "organizationalRelationship"
+msgstr "العلاقة التنظيمية"
+
+msgid "verifiedNoticeTitle"
+msgstr "تم التحقق منه بالفعل"
+
+msgid "verifiedNotice"
+msgstr ""
+"لقد قمت بتأكيد معلوماتك في %s، لذا تم وضع علامة \"تم التحقق\" عليها حتى %s. "
+"لإجراء أي تغيير، قم بإيقاف التحقق في أسفل القسم الذي ترغب في تعديله."
+
+msgid "fixRequiredFields"
+msgstr "يرجى تصحيح أو ملء جميع الحقول الإلزامية."
+
+msgid "tapToExpand"
+msgstr "انقر على صف لفتحه وتعديل التفاصيل."
+
+msgid "physicalAddress"
+msgstr "العنوان الفعلي"
+
+msgid "deleteContactTitle"
+msgstr "تأكيد الحذف"
+
+msgid "deleteContactConfirm"
+msgstr "هل تريد حذف جهة الاتصال هذه؟"
+
+msgid "verifyContactBlock"
+msgstr ""
+"أؤكد أن بيانات الاتصال الخاصة بي، والعناوين، وجهات الاتصال في حالات الطوارئ، "
+"صحيحة."
