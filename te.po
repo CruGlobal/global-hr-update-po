@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-23 10:57+0000\n"
+"PO-Revision-Date: 2026-10-26 05:57+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Telugu <https://alltongues.org/projects/netsuite-hr-update-"
 "app/user-interface/te/>\n"
@@ -644,3 +644,6 @@ msgstr "ఈ కాంటాక్ట్‌ను తొలగించాలా?
 msgid "verifyContactBlock"
 msgstr ""
 "నా సంప్రదింపు సమాచారం, చిరునామాలు మరియు అత్యవసర సంప్రదింపులు కచ్చితమైనవని నేను ధృవీకరిస్తున్నాను."
+
+msgid "noLongerAvailable"
+msgstr "ఇకపై అందుబాటులో లేదు"
