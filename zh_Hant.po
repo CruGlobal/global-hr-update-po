@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-23 10:56+0000\n"
+"PO-Revision-Date: 2026-10-26 05:57+0000\n"
 "Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://alltongues.org/"
 "projects/netsuite-hr-update-app/user-interface/zh_Hant/>\n"
@@ -636,3 +636,6 @@ msgstr "要刪除此聯絡人嗎？"
 
 msgid "verifyContactBlock"
 msgstr "本人確認我的聯絡資料、地址及緊急聯絡人資料均正確無誤。"
+
+msgid "noLongerAvailable"
+msgstr "已不再提供"
