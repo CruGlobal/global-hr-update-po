@@ -607,3 +607,6 @@ msgstr "Delete this contact?"
 
 msgid "verifyContactBlock"
 msgstr "I verify that my contact information, addresses and emergency contacts are accurate."
+
+msgid "noLongerAvailable"
+msgstr "no longer available"
